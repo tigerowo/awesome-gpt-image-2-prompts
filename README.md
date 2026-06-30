@@ -39,6 +39,8 @@
 
 Welcome to the **Awesome GPT Image 2 API and Prompts** repository! 🤗
 
+Backed up from the EvoLinkAI repository.
+
 A curated collection of **936+ high-quality GPT-Image-2 prompts**, API usage patterns, and reusable visual workflows for AI image generation.
 
 Whether you're looking for GPT-Image-2 prompt examples, text-to-image best practices, image editing techniques, or ready-to-use prompt templates — this is your one-stop reference.

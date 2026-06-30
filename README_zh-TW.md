@@ -41,6 +41,8 @@
 
 歡迎來到 **Awesome GPT Image 2 API and Prompts** 倉庫！🤗
 
+備份於 EvoLinkAI 倉庫
+
 精選收錄 **929+ 個高品質 GPT-Image-2 提示詞**、API 使用模式與可重用視覺工作流，面向 AI 圖像生成實作。
 
 無論你想找 GPT-Image-2 提示詞範例、文生圖最佳實作、圖像編輯技巧，還是可直接重用的 prompt 模板，這裡都可以作為你的參考入口。

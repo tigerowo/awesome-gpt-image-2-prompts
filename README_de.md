@@ -39,6 +39,8 @@
 
 Willkommen im Repository **Awesome GPT Image 2 API and Prompts**! 🤗
 
+Gesichert aus dem EvoLinkAI-Repository.
+
 Eine kuratierte Sammlung von **929+ hochwertigen GPT-Image-2 Prompts**, API-Nutzungsmustern und wiederverwendbaren visuellen Workflows für KI-Bildgenerierung.
 
 Wenn du nach GPT-Image-2 Prompt-Beispielen, Best Practices für Text-zu-Bild, Bildbearbeitungstechniken oder direkt nutzbaren Prompt-Vorlagen suchst, findest du hier eine zentrale Referenz.

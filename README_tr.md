@@ -39,6 +39,8 @@
 
 **Awesome GPT Image 2 API and Prompts** deposuna hoş geldiniz! 🤗
 
+EvoLinkAI deposundan yedeklendi.
+
 AI görsel üretimi için **929+ yüksek kaliteli GPT-Image-2 promptu**, API kullanım kalıbı ve yeniden kullanılabilir görsel workflow içeren özenle seçilmiş bir koleksiyon.
 
 GPT-Image-2 prompt örnekleri, text-to-image en iyi pratikleri, görsel düzenleme teknikleri veya kullanıma hazır prompt şablonları arıyorsanız burası tek durak referansınız olabilir.
