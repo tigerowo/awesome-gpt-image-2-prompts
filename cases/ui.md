@@ -272,22 +272,6 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 ```
 
 
-**Prompt:**
-```
-a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9).
-```
-
----
-
-
-**Prompt:**
-```
-Create a commercial ad from the storyboard @[image1]
-```
-
----
-
-
 ### Case 41: [based on the generated character help me generate a screenshot of screenshot ...](https://x.com/khaiinit/status/2047219694130827273) (by [@khaiinit](https://x.com/khaiinit))
 
 | Output |
@@ -1108,7 +1092,6 @@ CTA: SHOP FLAVORS →
 Style: premium but bold, modern campaign aesthetic, slightly experimental layout, high contrast, social-first, dynamic composition.
 Aspect ratio: vertical (9:16 preferred)
 ```
-
 
 
 ### Case 132: 全网百万关注挑战UI设计

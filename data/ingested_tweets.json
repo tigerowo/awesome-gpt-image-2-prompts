@@ -787,7 +787,7 @@
       "category": "UI & Social Media Mockup Cases",
       "readme_file": "README.md",
       "case_anchor": "#case-26-glassy-ui-design-system-by-pfanis",
-      "image_dir": null,
+      "image_dir": "images/ui_case26",
       "added_at": "2026-04-22T18:00:00+08:00"
     },
     {
@@ -1123,7 +1123,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGk9YNXawAAmweO.jpg"
-      ]
+      ],
+      "image_dir": "images/poster_case60"
     },
     {
       "tweet_url": "https://x.com/chatcutapp/status/2047228386117128475",
@@ -1138,7 +1139,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGk3Sf6aIAAqk2O.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case61"
     },
     {
       "tweet_url": "https://x.com/meng_dagg695/status/2047227172486824002",
@@ -1155,7 +1157,8 @@
         "https://pbs.twimg.com/media/HGk2PldaEAE0u_f.jpg",
         "https://pbs.twimg.com/media/HGk2PyNbQAAKbtU.jpg",
         "https://pbs.twimg.com/media/HGk2QBPasAAgyQj.jpg"
-      ]
+      ],
+      "image_dir": "images/poster_case62"
     },
     {
       "tweet_url": "https://x.com/khaiinit/status/2047219694130827273",
@@ -1170,7 +1173,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGku-B8bQAAzG74.jpg"
-      ]
+      ],
+      "image_dir": "images/ui_case63"
     },
     {
       "tweet_url": "https://x.com/D_studioproject/status/2047212826264211540",
@@ -1185,7 +1189,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkpHCwagAAKeuA.png"
-      ]
+      ],
+      "image_dir": "images/ui_case64"
     },
     {
       "tweet_url": "https://x.com/Rufus87078959/status/2047211900769878234",
@@ -1200,7 +1205,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkoXiqWcAA9L8Q.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case65"
     },
     {
       "tweet_url": "https://x.com/elliscrosby/status/2047211507596071235",
@@ -1215,7 +1221,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkna3vaIAApkKp.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case66"
     },
     {
       "tweet_url": "https://x.com/Rufus87078959/status/2047210051216011682",
@@ -1230,20 +1237,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkmrx3WYAAJkyk.jpg"
-      ]
-    },
-    {
-      "tweet_url": "https://x.com/bonega_ai/status/2047208708459966846",
-      "author_handle": "bonega_ai",
-      "title": "a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9).",
-      "suggested_title": "a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9).",
-      "prompt_text": "a Final Fantasy VIII Remake gameplay screenshot at next-gen fidelity (FF16 / GTA6 / RE9).",
-      "non_prompt_text": "4 AI video models, 1\nSide by side below 🧵\nNano Banana 2 + Grok. GPT Image 2 + Grok. Veo 3.1.\nGrok Imagine.",
-      "suggested_category": "UI & Social Media Mockup Cases",
-      "category": "UI & Social Media Mockup Cases",
-      "suggested_shape": "",
-      "media_note": "No media attached in this tweet",
-      "media_urls": []
+      ],
+      "image_dir": "images/case_case67"
     },
     {
       "tweet_url": "https://x.com/Rufus87078959/status/2047207923005227078",
@@ -1258,7 +1253,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkkv44XEAAk_cz.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case69"
     },
     {
       "tweet_url": "https://x.com/Naiknelofar788/status/2047207812800147647",
@@ -1276,7 +1272,8 @@
         "https://pbs.twimg.com/media/HGkkoy1bAAAJVJh.jpg",
         "https://pbs.twimg.com/media/HGkko0xbsAA5SNA.jpg",
         "https://pbs.twimg.com/media/HGkkpC9aQAAV8Vp.jpg"
-      ]
+      ],
+      "image_dir": "images/portrait_case70"
     },
     {
       "tweet_url": "https://x.com/andis13/status/2047204384811921764",
@@ -1292,20 +1289,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGkfFeRWIAAFpq6.jpg",
         "https://pbs.twimg.com/media/HGkfCtBXIAA3qVA.jpg"
-      ]
-    },
-    {
-      "tweet_url": "https://x.com/aimikoda/status/2047198655371759973",
-      "author_handle": "aimikoda",
-      "title": "Create a commercial ad from the storyboard @[image1]",
-      "suggested_title": "Create a commercial ad from the storyboard @[image1]",
-      "prompt_text": "Create a commercial ad from the storyboard @[image1]",
-      "non_prompt_text": "Seedance 2.0\nTry GPT Image 2 and Seedance 2.0 on Lovart: \n\nYou can easily create your own ads with @lovart_ai\n\n#Lovart #GPTImage2",
-      "suggested_category": "UI & Social Media Mockup Cases",
-      "category": "UI & Social Media Mockup Cases",
-      "suggested_shape": "",
-      "media_note": "No media attached in this tweet",
-      "media_urls": []
+      ],
+      "image_dir": "images/portrait_case71"
     },
     {
       "tweet_url": "https://x.com/andis13/status/2047197275525701937",
@@ -1320,7 +1305,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGitWjnW0AAO6OS.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case73"
     },
     {
       "tweet_url": "https://x.com/rs_elwood/status/2047194375000932456",
@@ -1336,7 +1322,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGkYKiHbUAAOuZW.jpg",
         "https://pbs.twimg.com/amplify_video_thumb/2047194122130464769/img/rzvRKzQfPCI1oPCA.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case74"
     },
     {
       "tweet_url": "https://x.com/rs_elwood/status/2047192228758692036",
@@ -1352,7 +1339,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGkWQWqaoAAHBUq.jpg",
         "https://pbs.twimg.com/amplify_video_thumb/2047191993114361856/img/cgLMhp00VMJlvTMJ.jpg"
-      ]
+      ],
+      "image_dir": "images/poster_case60"
     },
     {
       "tweet_url": "https://x.com/aitorwilzig/status/2047190320064925845",
@@ -1367,7 +1355,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkUvlhWAAAIMf1.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case76"
     },
     {
       "tweet_url": "https://x.com/pavellaslov/status/2047182214304055339",
@@ -1382,7 +1371,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkNX1OWoAAjP7X.jpg"
-      ]
+      ],
+      "image_dir": "images/portrait_case77"
     },
     {
       "tweet_url": "https://x.com/ZaraIrahh/status/2047180061657452601",
@@ -1397,7 +1387,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkLZ-yWkAAcFMS.jpg"
-      ]
+      ],
+      "image_dir": "images/portrait_case78"
     },
     {
       "tweet_url": "https://x.com/ZaraIrahh/status/2047179916161212542",
@@ -1412,7 +1403,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkLRoNXIAAsNaJ.jpg"
-      ]
+      ],
+      "image_dir": "images/portrait_case79"
     },
     {
       "tweet_url": "https://x.com/ZaraIrahh/status/2047179669011616172",
@@ -1427,7 +1419,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkLDQ2XkAACgtd.jpg"
-      ]
+      ],
+      "image_dir": "images/portrait_case80"
     },
     {
       "tweet_url": "https://x.com/harboriis/status/2047175250761433416",
@@ -1442,7 +1435,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkHCe5bgAA1EBU.jpg"
-      ]
+      ],
+      "image_dir": "images/portrait_case81"
     },
     {
       "tweet_url": "https://x.com/dotey/status/2047174895293849972",
@@ -1457,7 +1451,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkGivKXUAAhkTK.jpg"
-      ]
+      ],
+      "image_dir": "images/poster_case82"
     },
     {
       "tweet_url": "https://x.com/WillSpagnoli/status/2047172976463040851",
@@ -1472,7 +1467,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkE-OJaMAAKvPk.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case83"
     },
     {
       "tweet_url": "https://x.com/laogeai/status/2047228458351120625",
@@ -1488,7 +1484,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGk3aOpXMAAph4J.jpg",
         "https://pbs.twimg.com/media/HGk3bLJWoAABIi2.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case84"
     },
     {
       "tweet_url": "https://x.com/GeekCatX/status/2047220831491858766",
@@ -1504,7 +1501,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGkwDxSbMAAhShJ.jpg",
         "https://pbs.twimg.com/media/HGkwDxPbQAA9Idp.jpg"
-      ]
+      ],
+      "image_dir": "images/poster_case85"
     },
     {
       "tweet_url": "https://x.com/songguoxiansen/status/2047220490486612450",
@@ -1519,7 +1517,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkv9KlbkAAU46E.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case86"
     },
     {
       "tweet_url": "https://x.com/BNBOKBt5/status/2047210189741605082",
@@ -1534,7 +1533,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkmz5PaMAAioc0.jpg"
-      ]
+      ],
+      "image_dir": "images/poster_case87"
     },
     {
       "tweet_url": "https://x.com/songguoxiansen/status/2047207826913972518",
@@ -1549,7 +1549,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkkkkMaIAExc5z.jpg"
-      ]
+      ],
+      "image_dir": "images/ui_case88"
     },
     {
       "tweet_url": "https://x.com/songguoxiansen/status/2047204566559756707",
@@ -1565,7 +1566,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGkhezdbwAA1tiN.jpg",
         "https://pbs.twimg.com/media/HGkhezkaIAAAJLO.jpg"
-      ]
+      ],
+      "image_dir": "images/poster_case89"
     },
     {
       "tweet_url": "https://x.com/songguoxiansen/status/2047201597697245252",
@@ -1581,7 +1583,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGkeT03bkAA-QIz.jpg",
         "https://pbs.twimg.com/media/HGkeT02a8AEIxMc.jpg"
-      ]
+      ],
+      "image_dir": "images/poster_case90"
     },
     {
       "tweet_url": "https://x.com/songguoxiansen/status/2047198090009190441",
@@ -1596,7 +1599,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkbolNbcAAS1eR.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case91"
     },
     {
       "tweet_url": "https://x.com/songguoxiansen/status/2047196508270084104",
@@ -1611,7 +1615,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkaKHPaMAAcR-3.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case92"
     },
     {
       "tweet_url": "https://x.com/liyue_ai/status/2047180347448914195",
@@ -1626,7 +1631,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGkLex1aIAA7ay3.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case93"
     },
     {
       "tweet_url": "https://x.com/nidiedeba/status/2047147223281270878",
@@ -1641,7 +1647,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGjtjKlaYAAjkdC.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case94"
     },
     {
       "tweet_url": "https://x.com/Aurora_62340/status/2047139992355680530",
@@ -1656,7 +1663,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGjm935aEAATNl9.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case95"
     },
     {
       "tweet_url": "https://x.com/AntCaveClub/status/2047136306485133428",
@@ -1672,7 +1680,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGjjDYMaAAEsD7I.jpg",
         "https://pbs.twimg.com/media/HGjjXV1bgAAgHgr.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case96"
     },
     {
       "tweet_url": "https://x.com/songguoxiansen/status/2047129703702802811",
@@ -1687,7 +1696,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGjdS3UagAA2lJi.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case97"
     },
     {
       "tweet_url": "https://x.com/CoderDaMing/status/2047127585256358221",
@@ -1703,7 +1713,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGjbrYZaoAAZEtA.jpg",
         "https://pbs.twimg.com/media/HGjbrtiawAAzZK6.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case98"
     },
     {
       "tweet_url": "https://x.com/Zhaoge01/status/2047123570485260753",
@@ -1718,7 +1729,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGjYCGoasAABwgu.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case99"
     },
     {
       "tweet_url": "https://x.com/songguoxiansen/status/2047122441454096527",
@@ -1733,7 +1745,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGjWwZmasAA25E4.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case100"
     },
     {
       "tweet_url": "https://x.com/Zhaoge01/status/2047110776897638568",
@@ -1748,7 +1761,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGjMZZpbAAALg7A.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case101"
     },
     {
       "tweet_url": "https://x.com/Tresmort/status/2047105322863460496",
@@ -1764,7 +1778,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGjGc1-XgAAkn_s.jpg",
         "https://pbs.twimg.com/media/HGjGdxDXsAA9Vh1.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case102"
     },
     {
       "tweet_url": "https://x.com/cj858cjsoul/status/2047103956535697822",
@@ -1780,7 +1795,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGjGMxwbMAAw9FA.jpg",
         "https://pbs.twimg.com/media/HGjGMxsa8AAk82D.jpg"
-      ]
+      ],
+      "image_dir": "images/poster_case103"
     },
     {
       "tweet_url": "https://x.com/caiziboshi/status/2047091751731519744",
@@ -1798,7 +1814,8 @@
         "https://pbs.twimg.com/media/HGi7FkTW8AAuEW-.jpg",
         "https://pbs.twimg.com/media/HGi7FkRW8AAu32W.jpg",
         "https://pbs.twimg.com/media/HGi7FkRWkAAszNz.jpg"
-      ]
+      ],
+      "image_dir": "images/poster_case104"
     },
     {
       "tweet_url": "https://x.com/verysmallwoods/status/2047033599229137126",
@@ -1813,7 +1830,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGiFzEnXsAAyYye.jpg"
-      ]
+      ],
+      "image_dir": "images/poster_case105"
     },
     {
       "tweet_url": "https://x.com/chenenpei/status/2046985783715025135",
@@ -1829,7 +1847,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGhauMiaMAAtV56.jpg",
         "https://pbs.twimg.com/media/HGhauMyawAAEUxU.jpg"
-      ]
+      ],
+      "image_dir": "images/poster_case106"
     },
     {
       "tweet_url": "https://x.com/sdjn_wgc/status/2046981757325475954",
@@ -1844,7 +1863,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGhXD24WIAA3-if.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case107"
     },
     {
       "tweet_url": "https://x.com/LVWANGJI_0327/status/2046974302227206525",
@@ -1859,7 +1879,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGhQRo3a4AA49ic.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case108"
     },
     {
       "tweet_url": "https://x.com/liyue_ai/status/2046962895775580442",
@@ -1874,7 +1895,8 @@
       "media_note": "1 media item(s)",
       "media_urls": [
         "https://pbs.twimg.com/media/HGhFh33bEAARqwJ.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case109"
     },
     {
       "tweet_url": "https://x.com/zhiyangzhu22222/status/2046952985562062888",
@@ -1890,7 +1912,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGg7tyoacAA3QbX.jpg",
         "https://pbs.twimg.com/media/HGg7u7mbQAAYLh3.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case110"
     },
     {
       "tweet_url": "https://x.com/songguoxiansen/status/2046952548469530716",
@@ -1906,7 +1929,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGg8UStaoAAll1e.jpg",
         "https://pbs.twimg.com/media/HGg8USubQAEjFEa.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case111"
     },
     {
       "tweet_url": "https://x.com/GeekCatX/status/2046939656244318676",
@@ -1923,7 +1947,8 @@
         "https://pbs.twimg.com/media/HGgwoDGacAAcUP_.jpg",
         "https://pbs.twimg.com/media/HGgwoDLbsAAzkrI.jpg",
         "https://pbs.twimg.com/media/HGgwoDGbEAAYA2_.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case112"
     },
     {
       "tweet_url": "https://x.com/MajaDesignJP/status/2047235632934928765",
@@ -1939,7 +1964,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGk9Ri2aMAAky8w.jpg",
         "https://pbs.twimg.com/media/HGk9Si3bgAAgArJ.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case113"
     },
     {
       "tweet_url": "https://x.com/seiiiiiiiiiiru/status/2047227021156356500",
@@ -1956,7 +1982,8 @@
         "https://pbs.twimg.com/media/HGk1YGgaEAEXAA3.jpg",
         "https://pbs.twimg.com/media/HGk1YGdaAAAS3qb.jpg",
         "https://pbs.twimg.com/media/HGk1YGibwAA86vu.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case114"
     },
     {
       "tweet_url": "https://x.com/os_shim/status/2047130379409400148",
@@ -1972,7 +1999,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGjcepmbYAASX7u.jpg",
         "https://pbs.twimg.com/amplify_video_thumb/2047128464529178624/img/IPL5njYsewPClRsy.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case115"
     },
     {
       "tweet_url": "https://x.com/mirai_ai2050/status/2046944941583270341",
@@ -1988,7 +2016,8 @@
       "media_urls": [
         "https://pbs.twimg.com/media/HGg1Qq5bMAALpLP.jpg",
         "https://pbs.twimg.com/media/HGg1S9zaoAA4xFq.jpg"
-      ]
+      ],
+      "image_dir": "images/case_case116"
     },
     {
       "tweet_url": "https://x.com/Adam38363368936/status/2047165092253532461",
@@ -2006,7 +2035,8 @@
         "https://pbs.twimg.com/media/HGj9Iu9asAAn-dD.jpg",
         "https://pbs.twimg.com/media/HGj9WSgaQAAh6Tp.jpg",
         "https://pbs.twimg.com/media/HGj9lpnaEAAnQ7g.png"
-      ]
+      ],
+      "image_dir": "images/case_case117"
     },
     {
       "tweet_url": "https://x.com/charliejhills/status/2047969988368314526",
@@ -3988,7 +4018,8 @@
       "category": "poster",
       "case_number": 190,
       "folder_name": "poster_case190",
-      "ingested_at": "2026-05-06T10:00:00+08:00"
+      "ingested_at": "2026-05-06T10:00:00+08:00",
+      "image_dir": "images/poster_case190"
     },
     {
       "tweet_url": "https://x.com/miratechtool/status/2051691169592033488",
@@ -3998,7 +4029,8 @@
       "category": "portrait",
       "case_number": 117,
       "folder_name": "portrait_case117",
-      "ingested_at": "2026-05-06T10:00:00+08:00"
+      "ingested_at": "2026-05-06T10:00:00+08:00",
+      "image_dir": "images/portrait_case117"
     },
     {
       "tweet_url": "https://x.com/Taaruk_/status/2051690647997088110",
@@ -4008,7 +4040,8 @@
       "category": "poster",
       "case_number": 191,
       "folder_name": "poster_case191",
-      "ingested_at": "2026-05-06T10:00:00+08:00"
+      "ingested_at": "2026-05-06T10:00:00+08:00",
+      "image_dir": "images/poster_case191"
     },
     {
       "tweet_url": "https://x.com/Shinning1010/status/2051684366460354923",
@@ -4018,7 +4051,8 @@
       "category": "portrait",
       "case_number": 118,
       "folder_name": "portrait_case118",
-      "ingested_at": "2026-05-06T10:00:00+08:00"
+      "ingested_at": "2026-05-06T10:00:00+08:00",
+      "image_dir": "images/portrait_case118"
     },
     {
       "tweet_url": "https://x.com/SPEEDAI07/status/2051679223715365331",
@@ -4028,7 +4062,8 @@
       "category": "poster",
       "case_number": 192,
       "folder_name": "poster_case192",
-      "ingested_at": "2026-05-06T10:00:00+08:00"
+      "ingested_at": "2026-05-06T10:00:00+08:00",
+      "image_dir": "images/poster_case192"
     },
     {
       "tweet_url": "https://x.com/TechieBySA/status/2051676877794816074",
@@ -4038,7 +4073,8 @@
       "category": "poster",
       "case_number": 193,
       "folder_name": "poster_case193",
-      "ingested_at": "2026-05-06T10:00:00+08:00"
+      "ingested_at": "2026-05-06T10:00:00+08:00",
+      "image_dir": "images/poster_case193"
     },
     {
       "tweet_url": "https://x.com/Jawad_Rahman_/status/2051671878608228630",
@@ -4048,7 +4084,8 @@
       "category": "poster",
       "case_number": 194,
       "folder_name": "poster_case194",
-      "ingested_at": "2026-05-06T10:00:00+08:00"
+      "ingested_at": "2026-05-06T10:00:00+08:00",
+      "image_dir": "images/poster_case194"
     },
     {
       "tweet_url": "https://x.com/john_my07/status/2052054223286870247",
@@ -4056,7 +4093,8 @@
       "category": "poster",
       "case_number": 195,
       "suggested_title": "Anime Streetwear Character Poster",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/poster_case195"
     },
     {
       "tweet_url": "https://x.com/liyue_ai/status/2051918462025695625",
@@ -4064,7 +4102,8 @@
       "category": "portrait",
       "case_number": 119,
       "suggested_title": "中式婚服古典美人",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/portrait_case119"
     },
     {
       "tweet_url": "https://x.com/MrDasOnX/status/2052064402866851981",
@@ -4072,7 +4111,8 @@
       "category": "poster",
       "case_number": 196,
       "suggested_title": "Endangered Animal Infographic",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/poster_case196"
     },
     {
       "tweet_url": "https://x.com/you1873118/status/2051960110373855289",
@@ -4080,7 +4120,8 @@
       "category": "portrait",
       "case_number": 120,
       "suggested_title": "Y2K Korean Soft-Girl Editorial",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/portrait_case120"
     },
     {
       "tweet_url": "https://x.com/miratechtool/status/2052033236964950111",
@@ -4088,7 +4129,8 @@
       "category": "poster",
       "case_number": 197,
       "suggested_title": "Claymation Cozy Scene Recreation",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/poster_case197"
     },
     {
       "tweet_url": "https://x.com/ZaraIrahh/status/2052041111586402673",
@@ -4096,7 +4138,8 @@
       "category": "portrait",
       "case_number": 121,
       "suggested_title": "Japanese Graffiti Portrait Poster",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/portrait_case121"
     },
     {
       "tweet_url": "https://x.com/Naiknelofar788/status/2052041370777563190",
@@ -4104,7 +4147,8 @@
       "category": "portrait",
       "case_number": 122,
       "suggested_title": "Cinematic Top-Down Couple Portrait",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/portrait_case122"
     },
     {
       "tweet_url": "https://x.com/Taaruk_/status/2052061103426040157",
@@ -4112,7 +4156,8 @@
       "category": "poster",
       "case_number": 198,
       "suggested_title": "Anime Warrior Shonen Power-Up",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/poster_case198"
     },
     {
       "tweet_url": "https://x.com/im_shahid7/status/2052056738845855956",
@@ -4120,7 +4165,8 @@
       "category": "poster",
       "case_number": 199,
       "suggested_title": "Naruto Propaganda Poster",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/poster_case199"
     },
     {
       "tweet_url": "https://x.com/liyue_ai/status/2052054750888398898",
@@ -4128,7 +4174,8 @@
       "category": "portrait",
       "case_number": 123,
       "suggested_title": "中式深V礼服月下回眸",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/portrait_case123"
     },
     {
       "tweet_url": "https://x.com/Sheldon056/status/2052033782061191429",
@@ -4136,7 +4183,8 @@
       "category": "portrait",
       "case_number": 124,
       "suggested_title": "Multi-Exposure Ghost Echo Portrait",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/portrait_case124"
     },
     {
       "tweet_url": "https://x.com/BubbleBrain/status/2052036785434440171",
@@ -4144,7 +4192,8 @@
       "category": "portrait",
       "case_number": 125,
       "suggested_title": "Baby Headgear Station Snapshot",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/portrait_case125"
     },
     {
       "tweet_url": "https://x.com/amynys/status/2052035945491284314",
@@ -4152,7 +4201,8 @@
       "category": "poster",
       "case_number": 200,
       "suggested_title": "Luxury Bowling Editorial Collage",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/poster_case200"
     },
     {
       "tweet_url": "https://x.com/cellinlab/status/2051865803855630375",
@@ -4160,7 +4210,8 @@
       "category": "ui",
       "case_number": 132,
       "suggested_title": "全网百万关注挑战UI设计",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/ui_case132"
     },
     {
       "tweet_url": "https://x.com/you1873118/status/2052044966231425423",
@@ -4168,7 +4219,8 @@
       "category": "portrait",
       "case_number": 126,
       "suggested_title": "镜子自拍二次元混合",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/portrait_case126"
     },
     {
       "tweet_url": "https://x.com/tisch_eins/status/2052026781566132280",
@@ -4176,7 +4228,8 @@
       "category": "poster",
       "case_number": 201,
       "suggested_title": "Hamburg Travel Itinerary Visual",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/poster_case201"
     },
     {
       "tweet_url": "https://x.com/saniaspeaks_/status/2052094260254757243",
@@ -4184,7 +4237,8 @@
       "category": "poster",
       "case_number": 202,
       "suggested_title": "Chibi Penguin Hoodie Beach Sunset",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/poster_case202"
     },
     {
       "tweet_url": "https://x.com/zhongying14/status/2052092830235885925",
@@ -4192,7 +4246,8 @@
       "category": "portrait",
       "case_number": 127,
       "suggested_title": "韩风手绘涂鸦插画头像",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/portrait_case127"
     },
     {
       "tweet_url": "https://x.com/Gdgtify/status/2052113923277525145",
@@ -4200,7 +4255,8 @@
       "category": "poster",
       "case_number": 203,
       "suggested_title": "Day in the Life Diorama Grid",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/poster_case203"
     },
     {
       "tweet_url": "https://x.com/zhongying14/status/2052079921808163125",
@@ -4208,7 +4264,8 @@
       "category": "portrait",
       "case_number": 128,
       "suggested_title": "照片趣味涂鸦互动",
-      "ingested_at": "2026-05-07T10:00:00+08:00"
+      "ingested_at": "2026-05-07T10:00:00+08:00",
+      "image_dir": "images/portrait_case128"
     },
     {
       "tweet_url": "https://x.com/Naiknelofar788/status/2052405499363221863",
@@ -4216,7 +4273,8 @@
       "category": "poster",
       "case_number": 204,
       "suggested_title": "Editorial Travel Poster Illustration",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/poster_case204"
     },
     {
       "tweet_url": "https://x.com/Xaroon_x/status/2052402655805493521",
@@ -4224,7 +4282,8 @@
       "category": "portrait",
       "case_number": 129,
       "suggested_title": "Mini Self Versions Motivational Portrait",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case129"
     },
     {
       "tweet_url": "https://x.com/aimikoda/status/2052470692545982487",
@@ -4232,7 +4291,8 @@
       "category": "portrait",
       "case_number": 130,
       "suggested_title": "FACS Action Unit Expression Grid",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case130"
     },
     {
       "tweet_url": "https://x.com/Just_sharon7/status/2052426076597744035",
@@ -4240,7 +4300,8 @@
       "category": "portrait",
       "case_number": 131,
       "suggested_title": "Female Cyclist Rainstorm 9-Panel Storyboard",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case131"
     },
     {
       "tweet_url": "https://x.com/harboriis/status/2052391036325167165",
@@ -4248,7 +4309,8 @@
       "category": "portrait",
       "case_number": 132,
       "suggested_title": "Anime Streetwear Character Poster",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case132"
     },
     {
       "tweet_url": "https://x.com/Taaruk_/status/2052422212423196925",
@@ -4256,7 +4318,8 @@
       "category": "ui",
       "case_number": 133,
       "suggested_title": "Cozy Sunrise Desk Flatlay",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/ui_case133"
     },
     {
       "tweet_url": "https://x.com/ShamiWeb3/status/2052398818533220652",
@@ -4264,7 +4327,8 @@
       "category": "ui",
       "case_number": 134,
       "suggested_title": "Custom Car Blueprint Sketch Render",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/ui_case134"
     },
     {
       "tweet_url": "https://x.com/zhongying14/status/2052267221649441221",
@@ -4272,7 +4336,8 @@
       "category": "portrait",
       "case_number": 133,
       "suggested_title": "Korean Studio Couple Magazine Portrait",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case133"
     },
     {
       "tweet_url": "https://x.com/im_shahid7/status/2052420684899647933",
@@ -4280,7 +4345,8 @@
       "category": "portrait",
       "case_number": 134,
       "suggested_title": "Floating Streetwear Fashion Poster",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case134"
     },
     {
       "tweet_url": "https://x.com/Strength04_X/status/2052409312816103443",
@@ -4288,7 +4354,8 @@
       "category": "poster",
       "case_number": 205,
       "suggested_title": "Dunk King Sneaker Hype Poster",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/poster_case205"
     },
     {
       "tweet_url": "https://x.com/john_my07/status/2052430356096413896",
@@ -4296,7 +4363,8 @@
       "category": "portrait",
       "case_number": 135,
       "suggested_title": "Demon Empress Lilitha Fantasy Poster",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case135"
     },
     {
       "tweet_url": "https://x.com/liyue_ai/status/2052229134693372089",
@@ -4304,7 +4372,8 @@
       "category": "portrait",
       "case_number": 136,
       "suggested_title": "Red Gown Shattered Mirror Portrait",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case136"
     },
     {
       "tweet_url": "https://x.com/msjiaozhu/status/2052368319903318236",
@@ -4312,7 +4381,8 @@
       "category": "portrait",
       "case_number": 137,
       "suggested_title": "Cheongsam Year of Horse Graffiti",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case137"
     },
     {
       "tweet_url": "https://x.com/Ciri_ai/status/2052431172224094321",
@@ -4320,7 +4390,8 @@
       "category": "portrait",
       "case_number": 138,
       "suggested_title": "Japanese Tatami Manga Reading Portrait",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case138"
     },
     {
       "tweet_url": "https://x.com/j_smeaton99/status/2052416775879561445",
@@ -4328,7 +4399,8 @@
       "category": "portrait",
       "case_number": 139,
       "suggested_title": "Ink Side Profile Mixed Media Portrait",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case139"
     },
     {
       "tweet_url": "https://x.com/aimikoda/status/2052511767608066452",
@@ -4336,7 +4408,8 @@
       "category": "portrait",
       "case_number": 140,
       "suggested_title": "Latte Art Storyboard Sketch Sequence",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case140"
     },
     {
       "tweet_url": "https://x.com/oggii_0/status/2052419818788438257",
@@ -4344,7 +4417,8 @@
       "category": "portrait",
       "case_number": 141,
       "suggested_title": "Desert Walking Citadel Cinematic Storyboard",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case141"
     },
     {
       "tweet_url": "https://x.com/you1873118/status/2052366066991714396",
@@ -4352,7 +4426,8 @@
       "category": "portrait",
       "case_number": 142,
       "suggested_title": "GTA VI Style Fashion Poster",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case142"
     },
     {
       "tweet_url": "https://x.com/amynys/status/2052433600830636504",
@@ -4360,7 +4435,8 @@
       "category": "poster",
       "case_number": 206,
       "suggested_title": "Content Creator Hustle Meme Poster",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/poster_case206"
     },
     {
       "tweet_url": "https://x.com/ChillaiKalan__/status/2052429790247063712",
@@ -4368,7 +4444,8 @@
       "category": "poster",
       "case_number": 207,
       "suggested_title": "War Rescue 16-Shot Cinematic Storyboard",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/poster_case207"
     },
     {
       "tweet_url": "https://x.com/you1873118/status/2052247312026792030",
@@ -4376,7 +4453,8 @@
       "category": "portrait",
       "case_number": 143,
       "suggested_title": "Ming Dynasty War Deity Streetwear",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case143"
     },
     {
       "tweet_url": "https://x.com/AIwithAliya/status/2052412558678905255",
@@ -4384,7 +4462,8 @@
       "category": "ui",
       "case_number": 135,
       "suggested_title": "Flavors of Moscow Food Infographic",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/ui_case135"
     },
     {
       "tweet_url": "https://x.com/Goodmanprotocol/status/2052421717432353091",
@@ -4392,7 +4471,8 @@
       "category": "portrait",
       "case_number": 144,
       "suggested_title": "Recycled Shoes Streetwear Reel",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case144"
     },
     {
       "tweet_url": "https://x.com/Ankit_patel211/status/2052455193703530525",
@@ -4400,7 +4480,8 @@
       "category": "poster",
       "case_number": 208,
       "suggested_title": "Flavors of India Travel Infographic",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/poster_case208"
     },
     {
       "tweet_url": "https://x.com/TechieBySA/status/2052435507368394893",
@@ -4408,7 +4489,8 @@
       "category": "portrait",
       "case_number": 145,
       "suggested_title": "Barista 8-Shot Pixar Storyboard",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case145"
     },
     {
       "tweet_url": "https://x.com/MrDasOnX/status/2052426635992068556",
@@ -4416,7 +4498,8 @@
       "category": "portrait",
       "case_number": 146,
       "suggested_title": "Manga Comic Strip Character Conversion",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case146"
     },
     {
       "tweet_url": "https://x.com/don56palmer/status/2052472382347231617",
@@ -4424,7 +4507,8 @@
       "category": "portrait",
       "case_number": 147,
       "suggested_title": "Rabbit Dentist Anime Illustration",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case147"
     },
     {
       "tweet_url": "https://x.com/mehvishs25/status/2052558799647703180",
@@ -4432,7 +4516,8 @@
       "category": "ui",
       "case_number": 136,
       "suggested_title": "Football Kit Chibi Figurine",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/ui_case136"
     },
     {
       "tweet_url": "https://x.com/Fati_092/status/2052425727107268925",
@@ -4440,7 +4525,8 @@
       "category": "portrait",
       "case_number": 148,
       "suggested_title": "Businesswoman Luxury Car Arrival",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case148"
     },
     {
       "tweet_url": "https://x.com/Gdgtify/status/2052549040429043928",
@@ -4448,7 +4534,8 @@
       "category": "poster",
       "case_number": 209,
       "suggested_title": "Spherical Artifact World Cross-Section",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/poster_case209"
     },
     {
       "tweet_url": "https://x.com/Just_sharon7/status/2052426396073685273",
@@ -4456,7 +4543,8 @@
       "category": "portrait",
       "case_number": 149,
       "suggested_title": "Cyclist Apparel Detail Macro Storyboard",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case149"
     },
     {
       "tweet_url": "https://x.com/Gdgtify/status/2052498708521259162",
@@ -4464,7 +4552,8 @@
       "category": "ui",
       "case_number": 137,
       "suggested_title": "Exploded Museum Assembly Diagram",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/ui_case137"
     },
     {
       "tweet_url": "https://x.com/EE_NOO_EE/status/2052483638160183780",
@@ -4472,7 +4561,8 @@
       "category": "portrait",
       "case_number": 150,
       "suggested_title": "PSG 2026 Propaganda Poster Portrait",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case150"
     },
     {
       "tweet_url": "https://x.com/rafeluxe/status/2052407184424833216",
@@ -4480,7 +4570,8 @@
       "category": "portrait",
       "case_number": 151,
       "suggested_title": "UGC Beach Golden Hour Selfie",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case151"
     },
     {
       "tweet_url": "https://x.com/DiamondZPetSpa/status/2052397338703049122",
@@ -4488,7 +4579,8 @@
       "category": "portrait",
       "case_number": 152,
       "suggested_title": "Y2K Bedroom Pink Hair Selfie",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/portrait_case152"
     },
     {
       "tweet_url": "https://x.com/you1873118/status/2052549593100136583",
@@ -4496,7 +4588,8 @@
       "category": "ui",
       "case_number": 138,
       "suggested_title": "X Profile Card Cutout Girl",
-      "ingested_at": "2026-05-08T10:00:00+08:00"
+      "ingested_at": "2026-05-08T10:00:00+08:00",
+      "image_dir": "images/ui_case138"
     },
     {
       "tweet_url": "https://x.com/oggii_0/status/2052792243845779811",
@@ -4504,7 +4597,8 @@
       "category": "comparison",
       "case_number": 82,
       "suggested_title": "Whimsical Folk Doodle Transformation",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/comparison_case82"
     },
     {
       "tweet_url": "https://x.com/XShreyaYadav/status/2052691060573532367",
@@ -4512,7 +4606,8 @@
       "category": "portrait",
       "case_number": 153,
       "suggested_title": "Mirror Selfie Diamond Glam Portrait",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/portrait_case153"
     },
     {
       "tweet_url": "https://x.com/XShreyaYadav/status/2052581805736554657",
@@ -4520,7 +4615,8 @@
       "category": "portrait",
       "case_number": 154,
       "suggested_title": "Couture Saree Cinematic Fashion Portrait",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/portrait_case154"
     },
     {
       "tweet_url": "https://x.com/KeorUnreal/status/2052785320970572141",
@@ -4528,7 +4624,8 @@
       "category": "portrait",
       "case_number": 155,
       "suggested_title": "Graffiti Restroom Glam Portrait",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/portrait_case155"
     },
     {
       "tweet_url": "https://x.com/harboriis/status/2052775236278653032",
@@ -4536,7 +4633,8 @@
       "category": "portrait",
       "case_number": 156,
       "suggested_title": "Silhouette Sun Horizon Minimalist Portrait",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/portrait_case156"
     },
     {
       "tweet_url": "https://x.com/ozansihay/status/2052811738345615370",
@@ -4544,7 +4642,8 @@
       "category": "portrait",
       "case_number": 157,
       "suggested_title": "Selfie Look-Up Hand Pointing Portrait",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/portrait_case157"
     },
     {
       "tweet_url": "https://x.com/Sairah_0/status/2052704912312861005",
@@ -4552,7 +4651,8 @@
       "category": "portrait",
       "case_number": 158,
       "suggested_title": "Desert Motel Pink Sunglasses Portrait",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/portrait_case158"
     },
     {
       "tweet_url": "https://x.com/ChillaiKalan__/status/2052597387169091660",
@@ -4560,7 +4660,8 @@
       "category": "poster",
       "case_number": 210,
       "suggested_title": "Urban Fashion Editorial Collage Poster",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/poster_case210"
     },
     {
       "tweet_url": "https://x.com/saniaspeaks_/status/2052727888894734731",
@@ -4568,7 +4669,8 @@
       "category": "poster",
       "case_number": 211,
       "suggested_title": "Wildlife Photographer 16-Panel Storyboard",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/poster_case211"
     },
     {
       "tweet_url": "https://x.com/Goodmanprotocol/status/2052606882418930028",
@@ -4576,7 +4678,8 @@
       "category": "poster",
       "case_number": 212,
       "suggested_title": "Zodiac Yumi Cells Chibi Poster",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/poster_case212"
     },
     {
       "tweet_url": "https://x.com/Sairah_0/status/2052599554672091368",
@@ -4584,7 +4687,8 @@
       "category": "poster",
       "case_number": 213,
       "suggested_title": "French New Wave Vintage Movie Poster",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/poster_case213"
     },
     {
       "tweet_url": "https://x.com/Kashberg_0/status/2052590241522024790",
@@ -4592,7 +4696,8 @@
       "category": "poster",
       "case_number": 214,
       "suggested_title": "Apocalyptic Titan Warrior Anime Poster",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/poster_case214"
     },
     {
       "tweet_url": "https://x.com/im_shahid7/status/2052600349006184623",
@@ -4600,7 +4705,8 @@
       "category": "poster",
       "case_number": 215,
       "suggested_title": "Jujutsu Kaisen Cinematic Key Visual",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/poster_case215"
     },
     {
       "tweet_url": "https://x.com/ShamiWeb3/status/2052656479791178178",
@@ -4608,7 +4714,8 @@
       "category": "poster",
       "case_number": 216,
       "suggested_title": "Food Delivery Cinematic Infographic",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/poster_case216"
     },
     {
       "tweet_url": "https://x.com/AIwithAliya/status/2052641476153360592",
@@ -4616,7 +4723,8 @@
       "category": "poster",
       "case_number": 217,
       "suggested_title": "Dark Fantasy Double Exposure Poster",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/poster_case217"
     },
     {
       "tweet_url": "https://x.com/meng_dagg695/status/2052615523326947395",
@@ -4624,7 +4732,8 @@
       "category": "poster",
       "case_number": 218,
       "suggested_title": "Shinobi Warrior Propaganda Poster",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/poster_case218"
     },
     {
       "tweet_url": "https://x.com/im_shahid7/status/2052775670720397616",
@@ -4632,7 +4741,8 @@
       "category": "poster",
       "case_number": 219,
       "suggested_title": "Tokyo Revengers Propaganda Poster",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/poster_case219"
     },
     {
       "tweet_url": "https://x.com/amynys/status/2052725712478511256",
@@ -4640,7 +4750,8 @@
       "category": "poster",
       "case_number": 220,
       "suggested_title": "Flavors of USA Luxury Travel Poster",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/poster_case220"
     },
     {
       "tweet_url": "https://x.com/Shorelyn_/status/2052759917468283143",
@@ -4648,7 +4759,8 @@
       "category": "poster",
       "case_number": 221,
       "suggested_title": "Starbucks Coffee World Surreal Poster",
-      "ingested_at": "2026-05-09T10:00:00+08:00"
+      "ingested_at": "2026-05-09T10:00:00+08:00",
+      "image_dir": "images/poster_case221"
     },
     {
       "tweet_url": "https://x.com/SimplyAnnisa/status/2052978965841600854",
@@ -4656,7 +4768,8 @@
       "category": "portrait",
       "case_number": 159,
       "suggested_title": "Frieren Ethereal Anime Portrait",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/portrait_case159"
     },
     {
       "tweet_url": "https://x.com/zhongying14/status/2052604233749250297",
@@ -4664,7 +4777,8 @@
       "category": "portrait",
       "case_number": 160,
       "suggested_title": "Photo to Tokyo Anime Manga Poster",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/portrait_case160"
     },
     {
       "tweet_url": "https://x.com/GeekCatX/status/2052692688135463113",
@@ -4672,7 +4786,8 @@
       "category": "portrait",
       "case_number": 161,
       "suggested_title": "Beetle-Inspired Couture Fashion Sheet",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/portrait_case161"
     },
     {
       "tweet_url": "https://x.com/iamsofiaijaz/status/2052646973774401654",
@@ -4680,7 +4795,8 @@
       "category": "portrait",
       "case_number": 162,
       "suggested_title": "Paper Diorama Couple Portrait",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/portrait_case162"
     },
     {
       "tweet_url": "https://x.com/ponyodong/status/2052983036724355468",
@@ -4688,7 +4804,8 @@
       "category": "poster",
       "case_number": 222,
       "suggested_title": "BLEACH Manga Collage Anime Poster",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/poster_case222"
     },
     {
       "tweet_url": "https://x.com/oggii_0/status/2052987633501188101",
@@ -4696,7 +4813,8 @@
       "category": "poster",
       "case_number": 223,
       "suggested_title": "Tokyo Minimalist Line-Art Travel Poster",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/poster_case223"
     },
     {
       "tweet_url": "https://x.com/Taaruk_/status/2052783847784480942",
@@ -4704,7 +4822,8 @@
       "category": "poster",
       "case_number": 224,
       "suggested_title": "Kawaii Kids Scrapbook Photography Poster",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/poster_case224"
     },
     {
       "tweet_url": "https://x.com/john_my07/status/2052271225972625503",
@@ -4712,7 +4831,8 @@
       "category": "poster",
       "case_number": 225,
       "suggested_title": "Anime Character Streetwear Collector Poster",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/poster_case225"
     },
     {
       "tweet_url": "https://x.com/you1873118/status/2053124141075841049",
@@ -4720,7 +4840,8 @@
       "category": "poster",
       "case_number": 226,
       "suggested_title": "Retro Motel Noir Bunny Portrait Poster",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/poster_case226"
     },
     {
       "tweet_url": "https://x.com/Kashberg_0/status/2052916429859827932",
@@ -4728,7 +4849,8 @@
       "category": "poster",
       "case_number": 227,
       "suggested_title": "Yumi's Cells Zodiac Chibi Poster",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/poster_case227"
     },
     {
       "tweet_url": "https://x.com/AIwithSynthia/status/2052970867655893294",
@@ -4736,7 +4858,8 @@
       "category": "poster",
       "case_number": 228,
       "suggested_title": "Sports Athlete Editorial Collage Poster",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/poster_case228"
     },
     {
       "tweet_url": "https://x.com/SimplyAnnisa/status/2052771565318897945",
@@ -4744,7 +4867,8 @@
       "category": "poster",
       "case_number": 229,
       "suggested_title": "Character Silhouette Key Visual Poster",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/poster_case229"
     },
     {
       "tweet_url": "https://x.com/SimplyAnnisa/status/2052650417356456447",
@@ -4752,7 +4876,8 @@
       "category": "poster",
       "case_number": 230,
       "suggested_title": "Urban Fashion Editorial Collage Poster",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/poster_case230"
     },
     {
       "tweet_url": "https://x.com/Strength04_X/status/2052769877619065287",
@@ -4760,7 +4885,8 @@
       "category": "poster",
       "case_number": 231,
       "suggested_title": "Kids Backpack Cartoon Ad Poster",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/poster_case231"
     },
     {
       "tweet_url": "https://x.com/harboriis/status/2052574508205449439",
@@ -4768,7 +4894,8 @@
       "category": "poster",
       "case_number": 232,
       "suggested_title": "Ink Sketch Newspaper Collage Portrait",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/poster_case232"
     },
     {
       "tweet_url": "https://x.com/you1873118/status/2052624395932455061",
@@ -4776,7 +4903,8 @@
       "category": "ui",
       "case_number": 139,
       "suggested_title": "Smartphone Screen Breakthrough Ad",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/ui_case139"
     },
     {
       "tweet_url": "https://x.com/john_my07/status/2052990299073630400",
@@ -4784,7 +4912,8 @@
       "category": "ui",
       "case_number": 140,
       "suggested_title": "Whimsical Folk Doodle Illustration",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/ui_case140"
     },
     {
       "tweet_url": "https://x.com/mehvishs25/status/2052787699153838452",
@@ -4792,7 +4921,8 @@
       "category": "ui",
       "case_number": 141,
       "suggested_title": "Vehicle Reference Engineering Infographic",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/ui_case141"
     },
     {
       "tweet_url": "https://x.com/GeekCatX/status/2052949583563784620",
@@ -4800,7 +4930,8 @@
       "category": "comparison",
       "case_number": 83,
       "suggested_title": "Interior Design Mood Board Generator",
-      "ingested_at": "2026-05-10T10:00:00+08:00"
+      "ingested_at": "2026-05-10T10:00:00+08:00",
+      "image_dir": "images/comparison_case83"
     },
     {
       "tweet_url": "https://x.com/Goodmanprotocol/status/2053347075648278737",
@@ -4808,7 +4939,8 @@
       "category": "poster",
       "case_number": 233,
       "suggested_title": "Premium Scandinavian Travel Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case233"
     },
     {
       "tweet_url": "https://x.com/Taaruk_/status/2053495454764282108",
@@ -4816,7 +4948,8 @@
       "category": "poster",
       "case_number": 234,
       "suggested_title": "Watercolor City Street Travel Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case234"
     },
     {
       "tweet_url": "https://x.com/SimplyAnnisa/status/2053416803297358135",
@@ -4824,7 +4957,8 @@
       "category": "portrait",
       "case_number": 163,
       "suggested_title": "Low-Angle Sky Mood Portrait",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case163"
     },
     {
       "tweet_url": "https://x.com/ariaxawan/status/2053359007407210626",
@@ -4832,7 +4966,8 @@
       "category": "portrait",
       "case_number": 164,
       "suggested_title": "White Streetwear Python Portrait",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case164"
     },
     {
       "tweet_url": "https://x.com/harboriis/status/2053301168026050805",
@@ -4840,7 +4975,8 @@
       "category": "portrait",
       "case_number": 165,
       "suggested_title": "Vintage Classroom Golden-Light Portrait",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case165"
     },
     {
       "tweet_url": "https://x.com/Goodmanprotocol/status/2053523890744545437",
@@ -4848,7 +4984,8 @@
       "category": "poster",
       "case_number": 235,
       "suggested_title": "Mid-Century 3-Color City Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case235"
     },
     {
       "tweet_url": "https://x.com/sha_zdiii/status/2053465283214651420",
@@ -4856,7 +4993,8 @@
       "category": "poster",
       "case_number": 236,
       "suggested_title": "Y2K Kawaii Editorial Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case236"
     },
     {
       "tweet_url": "https://x.com/AIwithkhan/status/2053487042605326593",
@@ -4864,7 +5002,8 @@
       "category": "poster",
       "case_number": 237,
       "suggested_title": "Camera Evolution Timeline Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case237"
     },
     {
       "tweet_url": "https://x.com/Mind_Boticni/status/2053489348470051163",
@@ -4872,7 +5011,8 @@
       "category": "poster",
       "case_number": 238,
       "suggested_title": "Portrait Collage Fashion Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case238"
     },
     {
       "tweet_url": "https://x.com/Ciri_ai/status/2053535379618423118",
@@ -4880,7 +5020,8 @@
       "category": "portrait",
       "case_number": 166,
       "suggested_title": "Phone Reflection Mirror Portrait",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case166"
     },
     {
       "tweet_url": "https://x.com/Shorelyn_/status/2053317557747351783",
@@ -4888,7 +5029,8 @@
       "category": "poster",
       "case_number": 239,
       "suggested_title": "Tokyo Street Line-Art Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case239"
     },
     {
       "tweet_url": "https://x.com/ChillaiKalan__/status/2053310109678535000",
@@ -4896,7 +5038,8 @@
       "category": "ad-creative",
       "case_number": 171,
       "suggested_title": "Miniature City Diamond Necklace Ad",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/ad_case171"
     },
     {
       "tweet_url": "https://x.com/AIWithRay/status/2053407281719415273",
@@ -4904,7 +5047,8 @@
       "category": "portrait",
       "case_number": 167,
       "suggested_title": "Korean Convenience Store Portrait",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case167"
     },
     {
       "tweet_url": "https://x.com/ShamiWeb3/status/2053430685399232756",
@@ -4912,7 +5056,8 @@
       "category": "ad-creative",
       "case_number": 172,
       "suggested_title": "Watermelon Lime Beverage Ad Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/ad_case172"
     },
     {
       "tweet_url": "https://x.com/iamsofiaijaz/status/2053474337404117220",
@@ -4920,7 +5065,8 @@
       "category": "poster",
       "case_number": 240,
       "suggested_title": "Minimalist City Line-Art Travel Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case240"
     },
     {
       "tweet_url": "https://x.com/Sairah_0/status/2053312926141005835",
@@ -4928,7 +5074,8 @@
       "category": "ad-creative",
       "case_number": 173,
       "suggested_title": "Berry Loud Acai Bowl Food Ad",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/ad_case173"
     },
     {
       "author": "egeberkina",
@@ -4936,7 +5083,8 @@
       "category": "ui",
       "ingested_at": "2026-05-12T13:00:00+08:00",
       "suggested_title": "Live Wimbledon Broadcast Screenshot",
-      "tweet_url": "https://x.com/egeberkina/status/2053931249794691081"
+      "tweet_url": "https://x.com/egeberkina/status/2053931249794691081",
+      "image_dir": "images/ui_case142"
     },
     {
       "author": "LufzzLiz",
@@ -4944,7 +5092,8 @@
       "category": "portrait",
       "ingested_at": "2026-05-12T13:00:00+08:00",
       "suggested_title": "Blush Pink Korean Editorial Portrait",
-      "tweet_url": "https://x.com/LufzzLiz/status/2053830981438918703"
+      "tweet_url": "https://x.com/LufzzLiz/status/2053830981438918703",
+      "image_dir": "images/portrait_case168"
     },
     {
       "author": "zhongying14",
@@ -4952,7 +5101,8 @@
       "category": "portrait",
       "ingested_at": "2026-05-12T13:00:00+08:00",
       "suggested_title": "French Vintage Oil-Painting Portrait Collage",
-      "tweet_url": "https://x.com/zhongying14/status/2053794975268143389"
+      "tweet_url": "https://x.com/zhongying14/status/2053794975268143389",
+      "image_dir": "images/portrait_case169"
     },
     {
       "author": "ChillaiKalan__",
@@ -4960,7 +5110,8 @@
       "category": "poster",
       "ingested_at": "2026-05-12T13:00:00+08:00",
       "suggested_title": "Kids Fashion Editorial Poster",
-      "tweet_url": "https://x.com/ChillaiKalan__/status/2053761999583297716"
+      "tweet_url": "https://x.com/ChillaiKalan__/status/2053761999583297716",
+      "image_dir": "images/poster_case241"
     },
     {
       "author": "SimplyAnnisa",
@@ -4968,7 +5119,8 @@
       "category": "poster",
       "ingested_at": "2026-05-12T13:00:00+08:00",
       "suggested_title": "High-Fashion Editorial Poster Template",
-      "tweet_url": "https://x.com/SimplyAnnisa/status/2053814655655543119"
+      "tweet_url": "https://x.com/SimplyAnnisa/status/2053814655655543119",
+      "image_dir": "images/poster_case242"
     },
     {
       "author": "sha_zdiii",
@@ -4976,7 +5128,8 @@
       "category": "poster",
       "ingested_at": "2026-05-12T13:00:00+08:00",
       "suggested_title": "Japanese Whimsical Folk-Art Illustration",
-      "tweet_url": "https://x.com/sha_zdiii/status/2053810777786835445"
+      "tweet_url": "https://x.com/sha_zdiii/status/2053810777786835445",
+      "image_dir": "images/poster_case243"
     },
     {
       "author": "Mind_Boticni",
@@ -4984,7 +5137,8 @@
       "category": "poster",
       "ingested_at": "2026-05-12T13:00:00+08:00",
       "suggested_title": "Cinematic Character Design Sheet",
-      "tweet_url": "https://x.com/Mind_Boticni/status/2053843881553502219"
+      "tweet_url": "https://x.com/Mind_Boticni/status/2053843881553502219",
+      "image_dir": "images/poster_case244"
     },
     {
       "author": "harboriis",
@@ -4992,7 +5146,8 @@
       "category": "poster",
       "ingested_at": "2026-05-12T13:00:00+08:00",
       "suggested_title": "Minimal Fashion Product Ad Poster",
-      "tweet_url": "https://x.com/harboriis/status/2053813021592506439"
+      "tweet_url": "https://x.com/harboriis/status/2053813021592506439",
+      "image_dir": "images/poster_case245"
     },
     {
       "author": "Kashberg_0",
@@ -5000,7 +5155,8 @@
       "category": "poster",
       "ingested_at": "2026-05-12T13:00:00+08:00",
       "suggested_title": "COSMED Anime Commercial Poster",
-      "tweet_url": "https://x.com/Kashberg_0/status/2053763810423664652"
+      "tweet_url": "https://x.com/Kashberg_0/status/2053763810423664652",
+      "image_dir": "images/poster_case246"
     },
     {
       "author": "ZaraIrahh",
@@ -5008,7 +5164,8 @@
       "category": "poster",
       "ingested_at": "2026-05-12T13:00:00+08:00",
       "suggested_title": "Yumi's Cells Anime Poster",
-      "tweet_url": "https://x.com/ZaraIrahh/status/2053861275503890861"
+      "tweet_url": "https://x.com/ZaraIrahh/status/2053861275503890861",
+      "image_dir": "images/poster_case247"
     },
     {
       "author": "Shorelyn_",
@@ -5016,7 +5173,8 @@
       "category": "poster",
       "ingested_at": "2026-05-12T13:00:00+08:00",
       "suggested_title": "Japanese Graffiti Street Poster",
-      "tweet_url": "https://x.com/Shorelyn_/status/2053733398502645760"
+      "tweet_url": "https://x.com/Shorelyn_/status/2053733398502645760",
+      "image_dir": "images/poster_case248"
     },
     {
       "author": "harboriis",
@@ -5024,7 +5182,8 @@
       "category": "poster",
       "ingested_at": "2026-05-12T13:00:00+08:00",
       "suggested_title": "Brand City Takeover Poster",
-      "tweet_url": "https://x.com/harboriis/status/2053879429265572226"
+      "tweet_url": "https://x.com/harboriis/status/2053879429265572226",
+      "image_dir": "images/poster_case249"
     },
     {
       "tweet_url": "https://x.com/realsigridjin/status/2054368795121361249",
@@ -6352,7 +6511,8 @@
       "title": "高级男性魅力人像",
       "category": "portrait",
       "folder_name": "portrait_case241",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "image_dir": "images/portrait_case241"
     },
     {
       "tweet_url": "https://x.com/Adam38363368936/status/2057402803954631086",
@@ -6360,7 +6520,8 @@
       "title": "沙滩场景丰腴人物写真",
       "category": "portrait",
       "folder_name": "portrait_case242",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "image_dir": "images/portrait_case242"
     },
     {
       "tweet_url": "https://x.com/zulkarnaimx/status/2057406867585057106",
@@ -6368,7 +6529,8 @@
       "title": "Photorealistic Editorial Seated Portrait",
       "category": "portrait",
       "folder_name": "portrait_case243",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "image_dir": "images/portrait_case243"
     },
     {
       "tweet_url": "https://x.com/SimplyAnnisa/status/2057408066300080297",
@@ -6376,7 +6538,8 @@
       "title": "Soft Aesthetic Fashion Magazine Cover",
       "category": "portrait",
       "folder_name": "portrait_case244",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "image_dir": "images/portrait_case244"
     },
     {
       "tweet_url": "https://x.com/zulkarnaimx/status/2057500045713506318",
@@ -6384,7 +6547,8 @@
       "title": "Editorial Fashion Poster",
       "category": "poster",
       "folder_name": "poster_case304",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "image_dir": "images/poster_case304"
     },
     {
       "tweet_url": "https://x.com/Hope_Ai01/status/2057367851905040849",
@@ -6392,7 +6556,8 @@
       "title": "High Fashion Editorial Infographic Poster",
       "category": "poster",
       "folder_name": "poster_case305",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "image_dir": "images/poster_case305"
     },
     {
       "tweet_url": "https://x.com/AIwithAliya/status/2057538178672943460",
@@ -6400,7 +6565,8 @@
       "title": "Pakistan Miniature World Map Poster",
       "category": "portrait",
       "folder_name": "portrait_case245",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "image_dir": "images/portrait_case245"
     },
     {
       "tweet_url": "https://x.com/BubbleBrain/status/2057447124162560213",
@@ -6408,7 +6574,8 @@
       "title": "Japanese Film Aesthetic Airport Portrait",
       "category": "portrait",
       "folder_name": "portrait_case246",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "image_dir": "images/portrait_case246"
     },
     {
       "tweet_url": "https://x.com/abs_uiux/status/2057390002678464986",
@@ -6416,7 +6583,8 @@
       "title": "Basketball Poster Design",
       "category": "poster",
       "folder_name": "poster_case306",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "image_dir": "images/poster_case306"
     },
     {
       "tweet_url": "https://x.com/rionaifantasy/status/2057445381072650545",
@@ -6424,7 +6592,8 @@
       "title": "角色卡三视图生成",
       "category": "poster",
       "folder_name": "poster_case307",
-      "ingested_at": "2026-05-22T10:00:00+08:00"
+      "ingested_at": "2026-05-22T10:00:00+08:00",
+      "image_dir": "images/poster_case307"
     },
     {
       "tweet_url": "https://x.com/MissDelulu9/status/2058484459008393346",
@@ -6432,7 +6601,8 @@
       "category": "portrait",
       "case_number": 247,
       "suggested_title": "Monochrome Editorial Comp Card",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case247"
     },
     {
       "tweet_url": "https://x.com/Strength04_X/status/2058423104444239926",
@@ -6440,7 +6610,8 @@
       "category": "poster",
       "case_number": 308,
       "suggested_title": "Luxury Garden Pitch Deck Storyboard",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case308"
     },
     {
       "tweet_url": "https://x.com/Taaruk_/status/2058550413239235018",
@@ -6448,7 +6619,8 @@
       "category": "portrait",
       "case_number": 248,
       "suggested_title": "Watercolor City Slice-of-Life",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case248"
     },
     {
       "tweet_url": "https://x.com/AvelyrahnAI/status/2058545998440624282",
@@ -6456,7 +6628,8 @@
       "category": "poster",
       "case_number": 309,
       "suggested_title": "Retro Music Festival Pop Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case309"
     },
     {
       "tweet_url": "https://x.com/AIwithSynthia/status/2058584818913513717",
@@ -6464,7 +6637,8 @@
       "category": "portrait",
       "case_number": 249,
       "suggested_title": "CGI Big-Head Caricature Portrait",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case249"
     },
     {
       "tweet_url": "https://x.com/ZaraIrahh/status/2058399916251107575",
@@ -6472,7 +6646,8 @@
       "category": "comparison",
       "case_number": 89,
       "suggested_title": "Tokyo Vlogger 13-Frame Storyboard",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/comparison_case89"
     },
     {
       "tweet_url": "https://x.com/Naiknelofar788/status/2058543808011534772",
@@ -6480,7 +6655,8 @@
       "category": "poster",
       "case_number": 310,
       "suggested_title": "Universal Luxury Brand Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case310"
     },
     {
       "tweet_url": "https://x.com/Mind_Boticni/status/2058514230350053496",
@@ -6488,7 +6664,8 @@
       "category": "portrait",
       "case_number": 250,
       "suggested_title": "Hollywood Character Sheet",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case250"
     },
     {
       "tweet_url": "https://x.com/Ciri_ai/status/2058596304851513605",
@@ -6496,7 +6673,8 @@
       "category": "portrait",
       "case_number": 251,
       "suggested_title": "Papercut Diorama Style Transfer",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case251"
     },
     {
       "tweet_url": "https://x.com/ZephyraLeigh/status/2058489835040682296",
@@ -6504,7 +6682,8 @@
       "category": "portrait",
       "case_number": 252,
       "suggested_title": "Futuristic Neon Fashion Editorial",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case252"
     },
     {
       "tweet_url": "https://x.com/oggii_0/status/2058567432906903562",
@@ -6512,7 +6691,8 @@
       "category": "portrait",
       "case_number": 253,
       "suggested_title": "Night Blossom Candid Portrait",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case253"
     },
     {
       "tweet_url": "https://x.com/OrhanGhazi65942/status/2058482055336579127",
@@ -6520,7 +6700,8 @@
       "category": "poster",
       "case_number": 311,
       "suggested_title": "Football Victory Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case311"
     },
     {
       "tweet_url": "https://x.com/egeberkina/status/2058613271180009687",
@@ -6528,7 +6709,8 @@
       "category": "portrait",
       "case_number": 254,
       "suggested_title": "Collectible 3D Character Avatar",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case254"
     },
     {
       "tweet_url": "https://x.com/frametheory058/status/2058543500086722604",
@@ -6536,7 +6718,8 @@
       "category": "portrait",
       "case_number": 255,
       "suggested_title": "Toddler Crayon Drawing Style",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case255"
     },
     {
       "tweet_url": "https://x.com/miratechtool/status/2058576440661098722",
@@ -6544,7 +6727,8 @@
       "category": "ui",
       "case_number": 160,
       "suggested_title": "LEGO Profile Diorama",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/ui_case160"
     },
     {
       "tweet_url": "https://x.com/Sheldon056/status/2058564258007539770",
@@ -6552,7 +6736,8 @@
       "category": "poster",
       "case_number": 312,
       "suggested_title": "3D Travel Typography Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case312"
     },
     {
       "tweet_url": "https://x.com/kingofdairyque/status/2058523997055160797",
@@ -6560,7 +6745,8 @@
       "category": "poster",
       "case_number": 313,
       "suggested_title": "Bangkok 3D Travel Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case313"
     },
     {
       "tweet_url": "https://x.com/MrDasOnX/status/2058588737043677648",
@@ -6568,7 +6754,8 @@
       "category": "portrait",
       "case_number": 256,
       "suggested_title": "Disco Mirror Transformation",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case256"
     },
     {
       "tweet_url": "https://x.com/heyfatema/status/2058594937307115532",
@@ -6576,7 +6763,8 @@
       "category": "portrait",
       "case_number": 257,
       "suggested_title": "Sage Field Editorial Portrait",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case257"
     },
     {
       "tweet_url": "https://x.com/egeberkina/status/2059311137808675128",
@@ -6584,7 +6772,8 @@
       "category": "poster",
       "case_number": 314,
       "suggested_title": "Roland Garros Tennis Trailer",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case314"
     },
     {
       "tweet_url": "https://x.com/Taaruk_/status/2059317825026904533",
@@ -6592,7 +6781,8 @@
       "category": "poster",
       "case_number": 315,
       "suggested_title": "Papercut Chibi Diorama",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case315"
     },
     {
       "tweet_url": "https://x.com/saniaspeaks_/status/2059447270115029120",
@@ -6600,7 +6790,8 @@
       "category": "portrait",
       "case_number": 258,
       "suggested_title": "Korean Fashion Collage Poster",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/portrait_case258"
     },
     {
       "tweet_url": "https://x.com/iamaiistudio/status/2059335346861781102",
@@ -6608,7 +6799,8 @@
       "category": "comparison",
       "case_number": 89,
       "suggested_title": "Solar Desert Worldbuilding Kit",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/comparison_case89"
     },
     {
       "tweet_url": "https://x.com/guicastellanos1/status/2059304406290505820",
@@ -6616,7 +6808,8 @@
       "category": "poster",
       "case_number": 317,
       "suggested_title": "Eagle vs Lion Stadium Clash",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/poster_case317"
     },
     {
       "tweet_url": "https://x.com/KimAkiyama81/status/2059390326578511931",
@@ -6624,7 +6817,8 @@
       "category": "ui",
       "case_number": 161,
       "suggested_title": "Sitcom Intro Storyboard Sheet",
-      "ingested_at": "2026-05-11T10:00:00+08:00"
+      "ingested_at": "2026-05-11T10:00:00+08:00",
+      "image_dir": "images/ui_case161"
     },
     {
       "tweet_url": "https://x.com/HeyAbhishek/status/2060726266182148343",
@@ -7543,7 +7737,7 @@
       "category": "poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case354",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
     {
@@ -7553,7 +7747,7 @@
       "category": "poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case355",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
     {
@@ -7563,7 +7757,7 @@
       "category": "comparison",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/comparison_case100",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
     {
@@ -7573,7 +7767,7 @@
       "category": "ecommerce",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/ecommerce_case171",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
     {
@@ -7583,7 +7777,7 @@
       "category": "poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case356",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
     {
@@ -7593,7 +7787,7 @@
       "category": "poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case357",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
     {
@@ -7603,7 +7797,7 @@
       "category": "comparison",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/comparison_case101",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
     {
@@ -7613,7 +7807,7 @@
       "category": "portrait",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/portrait_case274",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
     {
@@ -7623,7 +7817,7 @@
       "category": "portrait",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/portrait_case275",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
     {
@@ -7633,7 +7827,7 @@
       "category": "poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case358",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
     {
@@ -7643,7 +7837,7 @@
       "category": "poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case359",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
     {
@@ -7653,7 +7847,7 @@
       "category": "poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case360",
       "added_at": "2026-06-10T04:56:10.154704+00:00"
     },
     {
@@ -7663,7 +7857,7 @@
       "category": "Portrait",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/portrait_case276",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7673,7 +7867,7 @@
       "category": "Portrait",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/portrait_case277",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7683,7 +7877,7 @@
       "category": "Portrait",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/portrait_case278",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7693,7 +7887,7 @@
       "category": "Portrait",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/portrait_case279",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7703,7 +7897,7 @@
       "category": "Portrait",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/portrait_case280",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7713,7 +7907,7 @@
       "category": "Portrait",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/portrait_case281",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7723,7 +7917,7 @@
       "category": "Portrait",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/portrait_case282",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7733,7 +7927,7 @@
       "category": "Portrait",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/portrait_case283",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7743,7 +7937,7 @@
       "category": "Portrait",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/portrait_case284",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7753,7 +7947,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case361",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7763,7 +7957,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case362",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7773,7 +7967,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case363",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7783,7 +7977,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case364",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7793,7 +7987,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case365",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7803,7 +7997,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case366",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7813,7 +8007,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case367",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7823,7 +8017,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case368",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7833,7 +8027,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case369",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7843,7 +8037,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case370",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7853,7 +8047,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case371",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7863,7 +8057,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case372",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7873,7 +8067,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case373",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7883,7 +8077,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case374",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7893,7 +8087,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case375",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7903,7 +8097,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case376",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7913,7 +8107,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case377",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7923,7 +8117,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case378",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7933,7 +8127,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case379",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7943,7 +8137,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case380",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7953,7 +8147,7 @@
       "category": "Poster",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/poster_case381",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
@@ -7963,7 +8157,7 @@
       "category": "Comparison",
       "readme_file": "README.md",
       "case_anchor": "",
-      "image_dir": "",
+      "image_dir": "images/comparison_case102",
       "added_at": "2026-06-10T05:48:25.379594+00:00"
     },
     {
