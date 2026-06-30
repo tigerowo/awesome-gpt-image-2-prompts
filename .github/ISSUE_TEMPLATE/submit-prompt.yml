@@ -1,0 +1,90 @@
+name: "🎨 Submit a GPT-Image-2 Prompt"
+description: "Share a high-quality GPT-Image-2 prompt with the community"
+title: "[Prompt] "
+labels: ["prompt-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing a prompt! Please fill in the details below so we can review and add it to the collection.
+
+  - type: input
+    id: title
+    attributes:
+      label: Prompt Title
+      description: "A short descriptive title (3-8 words). Describe the visual subject, not the instruction."
+      placeholder: "e.g., Luxury Watch Product Ad, Cyberpunk Neon Portrait"
+    validations:
+      required: true
+
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Full Prompt Text
+      description: "The complete, reusable prompt. Copy-paste ready."
+      placeholder: "Paste your full prompt here..."
+      render: text
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: "Which category does this prompt belong to?"
+      options:
+        - "🛒 E-commerce"
+        - "📣 Ad Creative"
+        - "🍌 Portrait & Photography"
+        - "🎨 Poster & Illustration"
+        - "🧍 Character Design"
+        - "📱 UI & Social Media Mockup"
+        - "🧪 Comparison & Community"
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source URL (optional)
+      description: "Link to the original tweet or post where this prompt was shared"
+      placeholder: "https://x.com/username/status/..."
+    validations:
+      required: false
+
+  - type: input
+    id: author
+    attributes:
+      label: Original Author
+      description: "Credit the creator (X/Twitter handle or name)"
+      placeholder: "@username"
+    validations:
+      required: true
+
+  - type: textarea
+    id: output_image
+    attributes:
+      label: Output Image
+      description: "Drag and drop or paste the generated image here. At least one output image is required."
+      placeholder: "Drag your image here..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes (optional)
+      description: "Any tips, variations, or context about this prompt"
+      placeholder: "e.g., Works best with 4:5 ratio, requires reference image upload..."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: "I confirm this prompt produces high-quality, reusable results with GPT-Image-2"
+          required: true
+        - label: "I have credited the original author (or I am the original author)"
+          required: true
