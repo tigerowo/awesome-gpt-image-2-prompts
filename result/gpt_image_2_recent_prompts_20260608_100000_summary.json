@@ -1,0 +1,503 @@
+{
+  "run_timestamp": "2026-06-08T10:00:00+08:00",
+  "curation_date": "2026-06-08",
+  "model_standard": "GPT-Image-2",
+  "age_window_hours": 24,
+  "search_window": {
+    "from": "2026-06-07T02:00:00Z",
+    "to": "2026-06-08T02:00:00Z"
+  },
+  "queries": [
+    "GPT-Image-2 prompt",
+    "\"gpt-image-2\" prompt",
+    "gpt image 2 prompt",
+    "gpt-image-2 prompts",
+    "gpt image 2 prompts",
+    "GPT Image 2 prompt",
+    "gptimage2 prompt",
+    "GPT Image 2 Prompts",
+    "GPT-Image-2",
+    "gpt image 2"
+  ],
+  "status": "approved",
+  "found_count": 195,
+  "after_dedup_count": 195,
+  "prefiltered_count": 68,
+  "reviewed_count": 68,
+  "recommended_keep_count": 24,
+  "auto_dropped_count": 44,
+  "dataset_count_before": 727,
+  "dataset_count_after": 751,
+  "estimated_additions": 24,
+  "top_candidates": [
+    {
+      "candidate_index": 1,
+      "tweet_url": "https://x.com/Ciri_ai/status/2063592048150909396",
+      "author_handle": "Ciri_ai",
+      "suggested_title": "Editorial Y2K Identity Grid",
+      "suggested_category": "Portrait & Photography Cases",
+      "suggested_shape": "Shape D",
+      "likes": 253,
+      "views": 7717
+    },
+    {
+      "candidate_index": 2,
+      "tweet_url": "https://x.com/Goodmanprotocol/status/2063677927057981650",
+      "author_handle": "Goodmanprotocol",
+      "suggested_title": "World Cup Hero Poster",
+      "suggested_category": "Poster & Illustration Cases",
+      "suggested_shape": "Shape A",
+      "likes": 183,
+      "views": 7688
+    },
+    {
+      "candidate_index": 3,
+      "tweet_url": "https://x.com/RuzainaMeer/status/2063513621754491039",
+      "author_handle": "RuzainaMeer",
+      "suggested_title": "VOLT Goal Celebration Ad",
+      "suggested_category": "Ecommerce & Product Cases",
+      "suggested_shape": "Shape D",
+      "likes": 115,
+      "views": 5545
+    },
+    {
+      "candidate_index": 4,
+      "tweet_url": "https://x.com/Naiknelofar788/status/2063582448689336690",
+      "author_handle": "Naiknelofar788",
+      "suggested_title": "Destination Diorama Filmstrip",
+      "suggested_category": "Poster & Illustration Cases",
+      "suggested_shape": "Shape A",
+      "likes": 111,
+      "views": 2962
+    },
+    {
+      "candidate_index": 5,
+      "tweet_url": "https://x.com/Mind_Boticni/status/2063587170519314754",
+      "author_handle": "Mind_Boticni",
+      "suggested_title": "Cool Grey Editorial 3x3",
+      "suggested_category": "Portrait & Photography Cases",
+      "suggested_shape": "Shape D",
+      "likes": 86,
+      "views": 3068
+    },
+    {
+      "candidate_index": 6,
+      "tweet_url": "https://x.com/john_my07/status/2063556594671964302",
+      "author_handle": "john_my07",
+      "suggested_title": "Sleep-Deprived Chibi Creator",
+      "suggested_category": "Poster & Illustration Cases",
+      "suggested_shape": "Shape A",
+      "likes": 68,
+      "views": 2971
+    },
+    {
+      "candidate_index": 7,
+      "tweet_url": "https://x.com/NoOneIsHere2603/status/2063599542843723983",
+      "author_handle": "NoOneIsHere2603",
+      "suggested_title": "Spring Garden Watercolor Couple",
+      "suggested_category": "Poster & Illustration Cases",
+      "suggested_shape": "Shape A",
+      "likes": 61,
+      "views": 1338
+    },
+    {
+      "candidate_index": 8,
+      "tweet_url": "https://x.com/j_smeaton99/status/2063661848478859690",
+      "author_handle": "j_smeaton99",
+      "suggested_title": "Black-and-White Fashion Grid",
+      "suggested_category": "Portrait & Photography Cases",
+      "suggested_shape": "Shape D",
+      "likes": 54,
+      "views": 1399
+    },
+    {
+      "candidate_index": 9,
+      "tweet_url": "https://x.com/Taaruk_/status/2063651919596568876",
+      "author_handle": "Taaruk_",
+      "suggested_title": "Cosmic Anime Villain Poster",
+      "suggested_category": "Poster & Illustration Cases",
+      "suggested_shape": "Shape A",
+      "likes": 47,
+      "views": 1502
+    },
+    {
+      "candidate_index": 10,
+      "tweet_url": "https://x.com/ZephyraLeigh/status/2063656432864842045",
+      "author_handle": "ZephyraLeigh",
+      "suggested_title": "Nightlife Restaurant Flash Collage",
+      "suggested_category": "Portrait & Photography Cases",
+      "suggested_shape": "Shape D",
+      "likes": 46,
+      "views": 1623
+    },
+    {
+      "candidate_index": 11,
+      "tweet_url": "https://x.com/iamrealsnow/status/2063649073819959502",
+      "author_handle": "iamrealsnow",
+      "suggested_title": "Lightning Storm Supercar Ad",
+      "suggested_category": "Ecommerce & Product Cases",
+      "suggested_shape": "Shape A",
+      "likes": 42,
+      "views": 1142
+    },
+    {
+      "candidate_index": 12,
+      "tweet_url": "https://x.com/Samann_ai/status/2063606958188265880",
+      "author_handle": "Samann_ai",
+      "suggested_title": "Shattered Stone Style Transfer",
+      "suggested_category": "Comparison & Community Examples",
+      "suggested_shape": "Shape A",
+      "likes": 39,
+      "views": 1141
+    },
+    {
+      "candidate_index": 13,
+      "tweet_url": "https://x.com/AiwithZohaib/status/2063754827017101475",
+      "author_handle": "AiwithZohaib",
+      "suggested_title": "Vintage Newsstand Double Exposure",
+      "suggested_category": "Portrait & Photography Cases",
+      "suggested_shape": "Shape A",
+      "likes": 24,
+      "views": 138
+    },
+    {
+      "candidate_index": 14,
+      "tweet_url": "https://x.com/aziz4ai/status/2063737218003333288",
+      "author_handle": "aziz4ai",
+      "suggested_title": "Luxury Jewelry Contrast Campaign",
+      "suggested_category": "Ecommerce & Product Cases",
+      "suggested_shape": "Shape A",
+      "likes": 15,
+      "views": 1177
+    },
+    {
+      "candidate_index": 15,
+      "tweet_url": "https://x.com/iamaiistudio/status/2063724080717783194",
+      "author_handle": "iamaiistudio",
+      "suggested_title": "Modern Recipe Infographic Board",
+      "suggested_category": "UI & Social Media Mockup Cases",
+      "suggested_shape": "Shape A",
+      "likes": 10,
+      "views": 447
+    },
+    {
+      "candidate_index": 16,
+      "tweet_url": "https://x.com/aimikoda/status/2063688774324981798",
+      "author_handle": "aimikoda",
+      "suggested_title": "Continuous-Run Glitch Storyboard",
+      "suggested_category": "Comparison & Community Examples",
+      "suggested_shape": "Shape D",
+      "likes": 9,
+      "views": 816
+    },
+    {
+      "candidate_index": 17,
+      "tweet_url": "https://x.com/bmx_ai13/status/2063726489905123489",
+      "author_handle": "bmx_ai13",
+      "suggested_title": "INNER SIGNAL Brand Poster Series",
+      "suggested_category": "UI & Social Media Mockup Cases",
+      "suggested_shape": "Shape D",
+      "likes": 7,
+      "views": 167
+    },
+    {
+      "candidate_index": 18,
+      "tweet_url": "https://x.com/ai_gezgini/status/2063677480406511690",
+      "author_handle": "ai_gezgini",
+      "suggested_title": "Match-Day Supporter Transformation Board",
+      "suggested_category": "Comparison & Community Examples",
+      "suggested_shape": "Shape D",
+      "likes": 6,
+      "views": 611
+    },
+    {
+      "candidate_index": 19,
+      "tweet_url": "https://x.com/NeuralAIInsight/status/2063638281976189102",
+      "author_handle": "NeuralAIInsight",
+      "suggested_title": "Dust Bunny Nature Documentary",
+      "suggested_category": "Comparison & Community Examples",
+      "suggested_shape": "Shape D",
+      "likes": 3,
+      "views": 382
+    },
+    {
+      "candidate_index": 20,
+      "tweet_url": "https://x.com/0kncn/status/2063734037928452120",
+      "author_handle": "0kncn",
+      "suggested_title": "Animated Character Design Sheet",
+      "suggested_category": "Poster & Illustration Cases",
+      "suggested_shape": "Shape D",
+      "likes": 3,
+      "views": 181
+    },
+    {
+      "candidate_index": 21,
+      "tweet_url": "https://x.com/iamaiistudio/status/2063735848257167383",
+      "author_handle": "iamaiistudio",
+      "suggested_title": "Industrial Packaging Design Sheet",
+      "suggested_category": "UI & Social Media Mockup Cases",
+      "suggested_shape": "Shape A",
+      "likes": 2,
+      "views": 209
+    },
+    {
+      "candidate_index": 22,
+      "tweet_url": "https://x.com/iamaiistudio/status/2063644125510217787",
+      "author_handle": "iamaiistudio",
+      "suggested_title": "Chrome Logo Editorial System",
+      "suggested_category": "UI & Social Media Mockup Cases",
+      "suggested_shape": "Shape A",
+      "likes": 1,
+      "views": 332
+    },
+    {
+      "candidate_index": 23,
+      "tweet_url": "https://x.com/WanderingC76/status/2063797516731294055",
+      "author_handle": "WanderingC76",
+      "suggested_title": "Skincare UGC Storyboard Board",
+      "suggested_category": "UI & Social Media Mockup Cases",
+      "suggested_shape": "Shape D",
+      "likes": 1,
+      "views": 14
+    },
+    {
+      "candidate_index": 24,
+      "tweet_url": "https://x.com/iamaiistudio/status/2063670695020868046",
+      "author_handle": "iamaiistudio",
+      "suggested_title": "Nordic Literary Editorial Illustration",
+      "suggested_category": "Poster & Illustration Cases",
+      "suggested_shape": "Shape A",
+      "likes": 0,
+      "views": 251
+    }
+  ],
+  "auto_dropped": [
+    {
+      "tweet_url": "https://x.com/DoctorAmna11/status/2063604989101269090",
+      "author_handle": "DoctorAmna11",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/ChillaiKalan__/status/2063571428532998393",
+      "author_handle": "ChillaiKalan__",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2063686824275698143",
+      "author_handle": "iamaiistudio",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/oggii_0/status/2063592726403465451",
+      "author_handle": "oggii_0",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/Sheldon056/status/2063643261718380666",
+      "author_handle": "Sheldon056",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/Taaruk_/status/2063557245519143143",
+      "author_handle": "Taaruk_",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/harboriis/status/2063582298721951890",
+      "author_handle": "harboriis",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/AIwithSynthia/status/2063616877415510123",
+      "author_handle": "AIwithSynthia",
+      "reason": "Primary value is mixed-model workflow rather than a clean GPT-Image-2 prompt case."
+    },
+    {
+      "tweet_url": "https://x.com/Professor_134/status/2063640380378423398",
+      "author_handle": "Professor_134",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/saniaspeaks_/status/2063571790207865238",
+      "author_handle": "saniaspeaks_",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/Mind_Boticni/status/2063632455597514768",
+      "author_handle": "Mind_Boticni",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/Aqsahere_/status/2063651287980450051",
+      "author_handle": "Aqsahere_",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/frametheory058/status/2063651855713153241",
+      "author_handle": "frametheory058",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/harboriis/status/2063642853885268027",
+      "author_handle": "harboriis",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/ZephyraLeigh/status/2063595231791239298",
+      "author_handle": "ZephyraLeigh",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/Mind_Boticni/status/2063665641815773470",
+      "author_handle": "Mind_Boticni",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/ShamiWeb3/status/2063789375251796024",
+      "author_handle": "ShamiWeb3",
+      "reason": "Primary value is mixed-model workflow rather than a clean GPT-Image-2 prompt case."
+    },
+    {
+      "tweet_url": "https://x.com/heyfionaai/status/2063561273380610235",
+      "author_handle": "heyfionaai",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/monami_ai01/status/2063560941850227098",
+      "author_handle": "monami_ai01",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2063707516924834235",
+      "author_handle": "iamaiistudio",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/_stephenbishop_/status/2063696720031080719",
+      "author_handle": "_stephenbishop_",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/CreativePulse0/status/2063546662681817314",
+      "author_handle": "CreativePulse0",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/Noahsw695/status/2063570643975815533",
+      "author_handle": "Noahsw695",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/aimikoda/status/2063568637303160876",
+      "author_handle": "aimikoda",
+      "reason": "Primary value is mixed-model workflow rather than a clean GPT-Image-2 prompt case."
+    },
+    {
+      "tweet_url": "https://x.com/CreativePulse0/status/2063591993867899266",
+      "author_handle": "CreativePulse0",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/DilshadAI1/status/2063791244908941535",
+      "author_handle": "DilshadAI1",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/icreatelife/status/2063785416700973192",
+      "author_handle": "icreatelife",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/Gdgtify/status/2063708825174384813",
+      "author_handle": "Gdgtify",
+      "reason": "Prompt text is missing, too incomplete, or only deferred to comments/links."
+    },
+    {
+      "tweet_url": "https://x.com/CodeOfFuture/status/2063557213336318401",
+      "author_handle": "CodeOfFuture",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/mirochill/status/2063741486999503052",
+      "author_handle": "mirochill",
+      "reason": "Prompt text is missing, too incomplete, or only deferred to comments/links."
+    },
+    {
+      "tweet_url": "https://x.com/XSydneyFan/status/2063600216704733242",
+      "author_handle": "XSydneyFan",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/Strength04_X/status/2063557032922214904",
+      "author_handle": "Strength04_X",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/anurag_gharat/status/2063700741983023395",
+      "author_handle": "anurag_gharat",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2063779225853939926",
+      "author_handle": "iamaiistudio",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/sinclairdta/status/2063552298815488445",
+      "author_handle": "sinclairdta",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/adagradschool/status/2063641640602877979",
+      "author_handle": "adagradschool",
+      "reason": "Prompt text is missing, too incomplete, or only deferred to comments/links."
+    },
+    {
+      "tweet_url": "https://x.com/pavellaslov/status/2063726212346769609",
+      "author_handle": "pavellaslov",
+      "reason": "Prompt text is missing, too incomplete, or only deferred to comments/links."
+    },
+    {
+      "tweet_url": "https://x.com/pillitterip/status/2063579477163024819",
+      "author_handle": "pillitterip",
+      "reason": "Repository/library promotion, not a new prompt candidate."
+    },
+    {
+      "tweet_url": "https://x.com/SharkInsanity/status/2063782372768915870",
+      "author_handle": "SharkInsanity",
+      "reason": "Prompt text is missing, too incomplete, or only deferred to comments/links."
+    },
+    {
+      "tweet_url": "https://x.com/92digitalartArt/status/2063642117629411784",
+      "author_handle": "92digitalartArt",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/fromBeiruth/status/2063705692444188779",
+      "author_handle": "fromBeiruth",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    },
+    {
+      "tweet_url": "https://x.com/danitechwala/status/2063580720266969428",
+      "author_handle": "danitechwala",
+      "reason": "Prompt text is missing, too incomplete, or only deferred to comments/links."
+    },
+    {
+      "tweet_url": "https://x.com/GroundControl/status/2063750611653267957",
+      "author_handle": "GroundControl",
+      "reason": "Prompt text is missing, too incomplete, or only deferred to comments/links."
+    },
+    {
+      "tweet_url": "https://x.com/Yeti_Images/status/2063780549118902757",
+      "author_handle": "Yeti_Images",
+      "reason": "Too generic, low-signal, repetitive, or weaker than other candidates in this batch."
+    }
+  ],
+  "curation_artifacts": {
+    "candidate_tweets": "/Users/evolink/.openclaw/workspace-github-ops/tmp/awesome-gpt-image-2-prompts-daily/candidate_tweets.json",
+    "prefiltered_candidates": "/Users/evolink/.openclaw/workspace-github-ops/tmp/awesome-gpt-image-2-prompts-daily/prefiltered_candidates.json",
+    "review_queue": "/Users/evolink/.openclaw/workspace-github-ops/tmp/awesome-gpt-image-2-prompts-daily/review_queue.json",
+    "review_summary": "/Users/evolink/.openclaw/workspace-github-ops/tmp/awesome-gpt-image-2-prompts-daily/review_summary.md",
+    "manual_recommendations": "/Users/evolink/.openclaw/workspace-github-ops/tmp/awesome-gpt-image-2-prompts-daily/manual_recommendations.json"
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "run_timestamp": "2026-06-02T12:46:00+08:00",
+  "curation_date": "2026-06-02",
+  "model_standard": "GPT-Image-2",
+  "age_window_hours": 24,
+  "search_window": {
+    "from": "2026-06-01T02:00:00Z",
+    "to": "2026-06-02T02:00:00Z"
+  },
+  "queries": [
+    "GPT-Image-2 prompt",
+    "\"gpt-image-2\" prompt",
+    "GPT-Image-2 generate",
+    "\"gpt image 2\" prompt",
+    "gpt-image-2 创意",
+    "gpt image 2 prompt",
+    "gpt-image-2 prompts",
+    "gpt image 2 prompts",
+    "GPT Image 2 prompt",
+    "gptimage2 prompt",
+    "#gptimage2 prompt",
+    "#gptimageprompt",
+    "GPT Image 2 Prompts"
+  ],
+  "status": "approved",
+  "found_count": 51,
+  "after_dedup_count": 51,
+  "prefiltered_count": 23,
+  "reviewed_count": 23,
+  "recommended_keep_count": 9,
+  "auto_dropped_count": 42,
+  "dataset_count_before": 668,
+  "dataset_count_after": 677,
+  "estimated_additions": 9,
+  "top_candidates": [
+    {
+      "candidate_index": 30,
+      "tweet_url": "https://x.com/Ozayrr_irl/status/2061439592549466615",
+      "author_handle": "Ozayrr_irl",
+      "suggested_title": "Window-Light Cinematic Portrait",
+      "suggested_category": "Portrait & Photography Cases",
+      "suggested_shape": "Shape A",
+      "likes": 94,
+      "views": 2464
+    },
+    {
+      "candidate_index": 25,
+      "tweet_url": "https://x.com/Goodmanprotocol/status/2061507567478780074",
+      "author_handle": "Goodmanprotocol",
+      "suggested_title": "Miniature City Travel Card",
+      "suggested_category": "Poster & Illustration Cases",
+      "suggested_shape": "Shape A",
+      "likes": 25,
+      "views": 723
+    },
+    {
+      "candidate_index": 19,
+      "tweet_url": "https://x.com/iamaiistudio/status/2061539512300511530",
+      "author_handle": "iamaiistudio",
+      "suggested_title": "Ink Manuscript Side Portrait",
+      "suggested_category": "Portrait & Photography Cases",
+      "suggested_shape": "Shape A",
+      "likes": 1,
+      "views": 160
+    },
+    {
+      "candidate_index": 24,
+      "tweet_url": "https://x.com/iamaiistudio/status/2061509471810302050",
+      "author_handle": "iamaiistudio",
+      "suggested_title": "Collectible Science Encyclopedia Card",
+      "suggested_category": "UI & Social Media Mockup Cases",
+      "suggested_shape": "Shape A",
+      "likes": 1,
+      "views": 131
+    },
+    {
+      "candidate_index": 13,
+      "tweet_url": "https://x.com/iamaiistudio/status/2061590939140010068",
+      "author_handle": "iamaiistudio",
+      "suggested_title": "3D Character Editorial Quartet",
+      "suggested_category": "Poster & Illustration Cases",
+      "suggested_shape": "Shape B",
+      "likes": 0,
+      "views": 116
+    },
+    {
+      "candidate_index": 11,
+      "tweet_url": "https://x.com/iamaiistudio/status/2061600215073996840",
+      "author_handle": "iamaiistudio",
+      "suggested_title": "Boho Stone-Wall Portrait",
+      "suggested_category": "Portrait & Photography Cases",
+      "suggested_shape": "Shape A",
+      "likes": 0,
+      "views": 97
+    },
+    {
+      "candidate_index": 15,
+      "tweet_url": "https://x.com/iamaiistudio/status/2061570275595186603",
+      "author_handle": "iamaiistudio",
+      "suggested_title": "Torn Soda Can Fruit Ad",
+      "suggested_category": "Poster & Illustration Cases",
+      "suggested_shape": "Shape A",
+      "likes": 1,
+      "views": 79
+    },
+    {
+      "candidate_index": 49,
+      "tweet_url": "https://x.com/Anifun_AI/status/2061380839418855755",
+      "author_handle": "Anifun_AI",
+      "suggested_title": "電子レンジ大明神キャラ設定ポスター",
+      "suggested_category": "Poster & Illustration Cases",
+      "suggested_shape": "Shape B",
+      "likes": 2,
+      "views": 71
+    },
+    {
+      "candidate_index": 5,
+      "tweet_url": "https://x.com/chi_vc_/status/2061619597821022407",
+      "author_handle": "chi_vc_",
+      "suggested_title": "Chibi Fashion Infographic",
+      "suggested_category": "Poster & Illustration Cases",
+      "suggested_shape": "Shape B",
+      "likes": 1,
+      "views": 40
+    }
+  ],
+  "auto_dropped": [
+    {
+      "tweet_url": "https://x.com/AiWithTariq/status/2061629697386287356",
+      "author_handle": "AiWithTariq",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/SRKDAN/status/2061628903286776042",
+      "author_handle": "SRKDAN",
+      "reason": "Only a teaser sentence; the actual prompt is not included inline."
+    },
+    {
+      "tweet_url": "https://x.com/Arina_hoqe/status/2061628481990205552",
+      "author_handle": "Arina_hoqe",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/ZephyraLeigh/status/2061625333892493703",
+      "author_handle": "ZephyraLeigh",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2061615306943152548",
+      "author_handle": "iamaiistudio",
+      "reason": "Partial prompt plus lingerie fitting-room/private-snapshot framing makes it a weaker fit for a public prompt repo batch."
+    },
+    {
+      "tweet_url": "https://x.com/horacedodd/status/2061613771924058401",
+      "author_handle": "horacedodd",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/HaniaAi12/status/2061607345994797235",
+      "author_handle": "HaniaAi12",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/Mank_Tibbit/status/2061605039655829699",
+      "author_handle": "Mank_Tibbit",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/hajarsabrani/status/2061603207156044203",
+      "author_handle": "hajarsabrani",
+      "reason": "Workflow commentary only; no reusable prompt text included."
+    },
+    {
+      "tweet_url": "https://x.com/SqueakAlGaib/status/2061597726073373085",
+      "author_handle": "SqueakAlGaib",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/ShrutiSaagar/status/2061588665005162872",
+      "author_handle": "ShrutiSaagar",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/Gdgtify/status/2061558157583786418",
+      "author_handle": "Gdgtify",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/aimikoda/status/2061542140073672827",
+      "author_handle": "aimikoda",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/aimikoda/status/2061541946422669535",
+      "author_handle": "aimikoda",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/iamaiistudio/status/2061525259845804462",
+      "author_handle": "iamaiistudio",
+      "reason": "Mostly a motion/assembly sequence better suited to video prompting than a clean GPT-Image-2 image prompt batch."
+    },
+    {
+      "tweet_url": "https://x.com/kuroffline/status/2061523373507956911",
+      "author_handle": "kuroffline",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/latentbabes/status/2061517427221930236",
+      "author_handle": "latentbabes",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/itsPixieVerse/status/2061511378268287340",
+      "author_handle": "itsPixieVerse",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/secondstateinc/status/2061503610417197539",
+      "author_handle": "secondstateinc",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/0xMasonH/status/2061484684316479998",
+      "author_handle": "0xMasonH",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/CartoonverseAi/status/2061482298889945134",
+      "author_handle": "CartoonverseAi",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/Alina_with_Ai/status/2061456455447069141",
+      "author_handle": "Alina_with_Ai",
+      "reason": "Reusable prompt exists, but the Coca-Cola trademark dependency and generic ad setup make it a lower-priority public-repo addition."
+    },
+    {
+      "tweet_url": "https://x.com/Boluwatifeolad7/status/2061431627943661943",
+      "author_handle": "Boluwatifeolad7",
+      "reason": "Process advice only; no reusable inline prompt."
+    },
+    {
+      "tweet_url": "https://x.com/_evon3929/status/2061420256745418889",
+      "author_handle": "_evon3929",
+      "reason": "Platform/product commentary only; no reusable prompt."
+    },
+    {
+      "tweet_url": "https://x.com/AiWithTariq/status/2061416511609414043",
+      "author_handle": "AiWithTariq",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/thechaicoder/status/2061416466583609681",
+      "author_handle": "thechaicoder",
+      "reason": "Thread fragment pointing to another tweet; not self-contained."
+    },
+    {
+      "tweet_url": "https://x.com/Arina_hoqe/status/2061410562198982666",
+      "author_handle": "Arina_hoqe",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/DilshadAI1/status/2061401602347692060",
+      "author_handle": "DilshadAI1",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/Biak0_/status/2061389531660837162",
+      "author_handle": "Biak0_",
+      "reason": "Product promo only; no prompt."
+    },
+    {
+      "tweet_url": "https://x.com/Biak0_/status/2061387913276088476",
+      "author_handle": "Biak0_",
+      "reason": "Product promo duplicate; no prompt."
+    },
+    {
+      "tweet_url": "https://x.com/Biak0_/status/2061385959091126394",
+      "author_handle": "Biak0_",
+      "reason": "Product promo duplicate; no prompt."
+    },
+    {
+      "tweet_url": "https://x.com/Biak0_/status/2061384128734564551",
+      "author_handle": "Biak0_",
+      "reason": "Product promo duplicate; no prompt."
+    },
+    {
+      "tweet_url": "https://x.com/22J27/status/2061342018971046056",
+      "author_handle": "22J27",
+      "reason": "Product commentary only; no prompt."
+    },
+    {
+      "tweet_url": "https://x.com/tom_doerr/status/2061593137840021555",
+      "author_handle": "tom_doerr",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/MarcelVelica/status/2061556952476303478",
+      "author_handle": "MarcelVelica",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/adelbucetta/status/2061493926159401252",
+      "author_handle": "adelbucetta",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/hedo_ist/status/2061449288106828160",
+      "author_handle": "hedo_ist",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/TechieBySA/status/2061415408163295431",
+      "author_handle": "TechieBySA",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/meigen7982/status/2061411780543562068",
+      "author_handle": "meigen7982",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/meigen7982/status/2061411774205984799",
+      "author_handle": "meigen7982",
+      "reason": "No reusable inline GPT-Image-2 prompt, or lower-priority than the kept set."
+    },
+    {
+      "tweet_url": "https://x.com/Anifun_AI/status/2061380593892683872",
+      "author_handle": "Anifun_AI",
+      "reason": "Detailed prompt, but franchise-style dependency (Kantai Collection-style ship girl) makes it a weaker repo-fit recommendation."
+    },
+    {
+      "tweet_url": "https://x.com/Arttellers43107/status/2061288838862143691",
+      "author_handle": "Arttellers43107",
+      "reason": "Prompt is claimed to be in alt text, but the inline tweet does not provide reusable prompt content."
+    }
+  ],
+  "curation_artifacts": {
+    "candidate_tweets": "/Users/evolink/.openclaw/workspace-github-ops/tmp/awesome-gpt-image-2-prompts-daily/candidate_tweets.json",
+    "candidate_tweets_supplemental": "/Users/evolink/.openclaw/workspace-github-ops/tmp/awesome-gpt-image-2-prompts-daily/candidate_tweets_supplemental.json",
+    "prefiltered_candidates": "/Users/evolink/.openclaw/workspace-github-ops/tmp/awesome-gpt-image-2-prompts-daily/prefiltered_candidates.json",
+    "review_queue": "/Users/evolink/.openclaw/workspace-github-ops/tmp/awesome-gpt-image-2-prompts-daily/review_queue.json",
+    "review_summary": "/Users/evolink/.openclaw/workspace-github-ops/tmp/awesome-gpt-image-2-prompts-daily/review_summary.md",
+    "curated_recommendations": "/Users/evolink/.openclaw/workspace-github-ops/tmp/awesome-gpt-image-2-prompts-daily/curated_recommendations.json"
+  },
+  "note": "Used /Users/evolink/Desktop/github-repo/awesome-gpt-image-2-API-and-Prompts because the cron payload repo path /Users/evolink/Desktop/github-repo/awesome-gpt-image-2-prompts did not exist."
+}
