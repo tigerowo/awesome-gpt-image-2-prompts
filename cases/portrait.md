@@ -11,29 +11,9 @@
 **Prompt:**
 
 ```
-
-<!-- Case 313: Late-Night Subway CCD Portrait (by @iamaiistudio) -->
-### Case 313: [Late-Night Subway CCD Portrait](https://x.com/iamaiistudio/status/2068516066679283984) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-<table>
-<tr><td width="50%"><a href="../images/portrait_case313/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case313/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Late-Night Subway CCD Portrait"></a></td><td width="50%"><a href="../images/portrait_case313/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case313/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Late-Night Subway CCD Portrait"></a></td></tr>
-</table>
-
-**Prompt:**
-
-```
-CCD flash photo with low-saturation black-pearl dark-gold tones, deep charcoal shadows, subtle dark-gold light reflections, soft frontal flash illuminating the subject, slight overexposure, fine grain, cool and moody late-night city atmosphere.
-
-Subject: young East Asian woman, elegant small oval face, narrow almond-shaped eyes, aloof expression, black low ponytail.
-Outfit: black turtleneck bodycon dress + dark gray thin jacket + sheer stockings + pointed stilettos.
-Setting: deserted midnight subway platform, metal benches, blurred backlit ad panels, reflective floor.
-Pose: sitting on platform bench, legs crossed naturally, one hand on her bag.
-Expression: pensive, glancing up at camera after looking down.
-Highlight: long legs, slim waist, cold elegant vibe.
-Aspect ratio: 9:16
-```
 35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt as the only top, unbuttoned at the top with deep cleavage and loosely tied at the waist, paired with a tiny black pleated mini skirt, barefoot in simple white slides, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, body slightly arched, one leg bent with foot resting against the door frame, the other leg straight, one hand holding a bottle of iced drink, the other hand lightly pulling the hem of her mini skirt, intensely seductive playful yet slightly vulnerable gaze straight at the viewer with soft doe eyes full of quiet temptation and teasing smile, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior with shelves and snacks in background, authentic 35mm film color grading with harsh lighting and neon accents, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the oversized shirt and mini skirt, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic late-night convenience store atmosphere
 ```
+
 ### Case 2: [Cinematic Minimal Portrait](https://x.com/iam_miharbi/status/2045151354679665101) (by [@iam_miharbi](https://x.com/iam_miharbi))
 
 | Output |
@@ -5641,6 +5621,28 @@ Negative Prompt: text, logo, watermark, extra face paint, messy fabric, distorte
 CCD flash photography style, late-night office setting, whiteboard covered in mathematical formulas in the background, black-rimmed glasses, white high-neck top, black high-waisted mini skirt, semi-matte cool-white porcelain skin with realistic skin texture, subject seated at desk, whiteboard marker held close to the lips, slight dutch angle composition, nuyoah aesthetic
 ```
 
+<!-- Case 313: Late-Night Subway CCD Portrait (by @iamaiistudio) -->
+### Case 313: [Late-Night Subway CCD Portrait](https://x.com/iamaiistudio/status/2068516066679283984) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case313/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case313/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Late-Night Subway CCD Portrait"></a></td><td width="50%"><a href="../images/portrait_case313/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case313/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Late-Night Subway CCD Portrait"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+CCD flash photo with low-saturation black-pearl dark-gold tones, deep charcoal shadows, subtle dark-gold light reflections, soft frontal flash illuminating the subject, slight overexposure, fine grain, cool and moody late-night city atmosphere.
+
+Subject: young East Asian woman, elegant small oval face, narrow almond-shaped eyes, aloof expression, black low ponytail.
+Outfit: black turtleneck bodycon dress + dark gray thin jacket + sheer stockings + pointed stilettos.
+Setting: deserted midnight subway platform, metal benches, blurred backlit ad panels, reflective floor.
+Pose: sitting on platform bench, legs crossed naturally, one hand on her bag.
+Expression: pensive, glancing up at camera after looking down.
+Highlight: long legs, slim waist, cold elegant vibe.
+Aspect ratio: 9:16
+
+35mm film photography with harsh convenience store fluorescent lighting mixed with colorful neon signs from outside, authentic film grain, high contrast, slight color cast, cinematic street editorial style, intimate medium shot, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlights from fluorescent light, subtle skin texture and micro pores, natural dewy makeup with soft flush on cheeks, glossy natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair in a messy high ponytail with many loose strands falling around face and neck, wearing an oversized white button-up shirt as the only top, unbuttoned at the top with deep cleavage and loosely tied at the waist, paired with a tiny black pleated mini skirt, barefoot in simple white slides, seductive casual leaning pose against the glass door of a 24-hour convenience store at late night, body slightly arched, one leg bent with foot resting against the door frame, the other leg straight, one hand holding a bottle of iced drink, the other hand lightly pulling the hem of her mini skirt, intensely seductive playful yet slightly vulnerable gaze straight at the viewer with soft doe eyes full of quiet temptation and teasing smile, bright cold fluorescent store light from inside mixed with pink and blue neon glow from outside signs, realistic reflections on glass door, blurred convenience store interior with shelves and snacks in background, authentic 35mm film color grading with harsh lighting and neon accents, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the oversized shirt and mini skirt, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic late-night convenience store atmosphere
+```
 <!-- Case 314: Vintage Motion-Blur Street Portrait (by @iamaiistudio) -->
 ### Case 314: [Vintage Motion-Blur Street Portrait](https://x.com/iamaiistudio/status/2068887185269616803) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
@@ -5709,4 +5711,673 @@ A cinematic forced-perspective street photography scene where a giant worn-out s
 
 ```
 Photorealistic high-fashion editorial image, vertical 4:5. A young adult fashion model sitting calmly on the center of one enormous pink flower growing above the clouds, the flower stem rising from below and disappearing into soft white clouds. Low-angle perspective from slightly below, the flower framing the image, making the flower feel monumental and surreal. The model wears a short sleeve crisp oversized white shirt, loose light trousers, silver jewelry, and black minimal sandals. Natural open brown hair moving softly in the wind, composed expression, slight soft smile. Clean vivid blue sky, a few soft white clouds, huge detailed flower petals, bright natural daylight, crisp vivid color, playful surreal fashion campaign mood, realistic anatomy, natural hands, sharp editorial photography, no text, no logos --ar 4:5 --raw --profile glu65pn --stylize 60 --weird 4 --hd
+```
+
+<!-- Case 318: Nighttime Bedroom Phone Selfie Close-up Portrait (by @TIGER) -->
+### Case 318: [Nighttime Bedroom Phone Selfie Close-up Portrait](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case318/output.jpeg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case318/output.jpeg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+Vertical 9:16 close-up nighttime bedroom phone selfie portrait. A young woman is lying on a bed or soft bedding, leaning very close to the camera, her face placed from the lower-right toward the center of the frame. The camera sits slightly below face level, as if shot from bed or tabletop height, with a subtle tilted composition. Keep the real low-light phone selfie feeling: mild digital noise, compressed dark areas, and a spontaneous imperfect frame.
+
+She looks directly into the lens with large clear eyes, fine black eyeliner, curled lashes, soft pink-brown eyeshadow, and a subtle aegyo-sal effect. Her expression is calm, soft, and slightly absent-minded, like a tired late-night pause. Her lips are gently closed with glossy rose-pink lip tint. Preserve a small soft face shape, delicate nose bridge, gentle jawline, clean transparent base makeup, and realistic skin texture rather than plastic smoothing. The makeup direction should feel like Korean / Xiaohongshu-style nighttime selfie beauty.
+
+Her hair is long, straight, dark brown almost black, naturally parted slightly off-center, falling close to the cheeks and shoulder, with a few fine loose strands across the forehead. The crown and hair edges catch cool blue-purple reflections. She wears a loose pale gray-white or cool light blue-gray knitted sweater with a slipped off-shoulder neckline, revealing one shoulder, the neck, collarbones, and a small upper-chest area near the neckline. The waist, legs, and bottom clothing are not visible; do not invent extra exposed body areas. Visible skin includes the face, neck, collarbones, one shoulder, a small upper-chest area, and partial fingers. Her skin tone is fair and natural, made porcelain-cool by the blue-purple light; the shoulder and neck skin should feel soft, clean, and slightly cool, as if covered by late-night screen light.
+
+The main light is a close blue-purple LED or screen-like glow from the lower-left front, washing across the cheeks, nose bridge, neck, shoulder, knit sweater, and foreground objects. The opposite side of the face remains darker, while a narrow weak warm light along the left door or mirror frame creates a cool-warm contrast. In the foreground, place a white ceramic cup with blue handwritten-style lettering and a dark-covered book or magazine, partially blocking the lower frame. The background is a dim bedroom or dorm room: a slanted door frame or mirror frame on the left, a half-open wardrobe with hanging dark and light clothes, a black decorative picture or bag above it, and white bedding. The atmosphere is quiet, intimate, and believable, as if she had been lying in bed late at night with the cup and book still there, then looked up into the lens while the blue-purple light was still on.
+
+Negative prompt: plastic skin, over retouched, heavy glamour lighting, extra exposed body, wide smile, bad hands, distorted face, harsh flash, clean studio background, over saturated neon, cartoon, anime, low detail eyes.
+```
+
+<!-- Case 319: CCD Japanese-Style Bedroom Girl Portrait (by @nanyuan0412) -->
+### Case 319: [CCD Japanese-Style Bedroom Girl Portrait](https://x.com/nanyuan0412/status/2072892849256046810) (by [@nanyuan0412](https://x.com/nanyuan0412))
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case319/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case319/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+CCD 闪光直拍、低清数码压缩、轻微过曝高光、柔焦美颜、浅粉蓝低饱和甜美调色，真人摄影，日系少女卧室写真。俯拍高机位广角手机感，中近景斜向构图，白色皱褶床单占大面积，年轻美女斜躺在床上，脸部位于右侧中部最清晰，双腿屈起抬向左上前景形成透视，身体被浅蓝白条纹棉质睡裙包裹，胸口系带与荷叶边、裙摆自然褶皱，白色蕾丝手套半透明层叠，一只手轻触嘴边，另一只手松弛摊在床上，白色短袜带浅蓝蝴蝶结图案。冷白到象牙白肤调，闪光带暖白高光，腿部和手臂轻微过曝，脸颊淡粉腮红，鼻尖与唇面有妆面反光；深棕长卷发散在枕头上，空气刘海和蓝色小发夹，半睁水光眼、上眼睑轻压、粉红嘴唇微张，娇俏迷离、欲言又止。右侧蓝白格纹枕和粉色抱枕，底部粉色复古电话，中下方白色小熊玩偶，少量草莓蛋糕与蓝色蝴蝶结点缀，辅助元素不可放大为主角。正面偏左上闪光直打，白、浅蓝、粉色为主，边缘锐度不均、轻颗粒、背景道具略虚，Pin 图式亲密生活感
+```
+
+<!-- Case 320: Close High-Angle Selfie Photo (by @TIGER) -->
+### Case 320: [Close High-Angle Selfie Photo](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case320/output.jpeg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case320/output.jpeg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "An adult female model appears in a close high-angle selfie-style image. Her face is close to the lens on the right side of the frame, one arm reaches toward the camera, and a finger or palm heavily blocks the upper-left area. The image feels like a spontaneous late-night room selfie, with a messy real background containing a laptop, desk lamp, cluttered table, shelves, and city lights outside the window.",
+    "mirror_rules": {
+      "is_mirror_selfie": false,
+      "rules": "Not a mirror selfie. Keep the handheld selfie perspective with one arm reaching toward the camera and a blurred finger obstruction in the upper-left corner. No mirror reflection or visible front-facing phone."
+    },
+    "age": "adult woman, appears in her 20s",
+    "expression": {
+      "eyes": {
+        "look": "moist, slightly tired eyes looking directly into the camera, partly covered by messy hair strands",
+        "energy": "late-night, tired, hazy, as if she just paused mid-motion",
+        "direction": "looking up toward the close camera from the right-middle area of the frame"
+      },
+      "mouth": {
+        "position": "lips slightly parted, with glossy highlights",
+        "energy": "relaxed, unguarded, carrying a slow late-night feeling"
+      },
+      "overall": "Her expression feels like a spontaneous camera raise in a messy room, with lived-in realism, tiredness, and emotional residue from the previous second."
+    },
+    "face": {
+      "preserve_original": "Preserve the small face, soft jawline, natural nose bridge, moist eyes, slightly flushed nose and cheeks, and real strands of hair pressed across the face. Do not replace her with a specific celebrity face or an overdone influencer look.",
+      "makeup": "Transparent late-night selfie makeup inspired by East Asian urban phone portraits: thin base, subtle under-eye shine, natural brown-black eyeliner, long lashes, muted pink-brown eyeshadow, lightly flushed nose and cheeks, and low-saturation rosy-pink glossy lips."
+    }
+  },
+  "hair": {
+    "color": "deep black-brown or natural dark brown",
+    "style": "long hair falling loosely, thick volume, messy strands around the face and forehead",
+    "effect": "The hair looks as if it had just been brushed by hand or moved by motion. Strands fall near the eyes, cheeks, and lips. Shadows are nearly black, while the lamp and screen light create soft brown reflections."
+  },
+  "body": {
+    "frame": "slender adult female frame, mostly cropped into face, neck, shoulders, and the arm reaching toward the camera",
+    "waist": "the waist is not clearly visible, hidden by the white top, cropping, and foreground obstruction",
+    "chest": "the chest is covered by a white short-sleeved T-shirt, showing only a casual clothing silhouette without emphasis on body shape",
+    "legs": "legs are not clearly visible and should not be a visual focus",
+    "skin": {
+      "visible_areas": "Visible skin includes the face, neck, a small collarbone area, shoulder edge, forearm reaching toward the camera, wrist, and part of the hand. The chest, waist, abdomen, back, hips, and legs are covered, cropped, or obstructed, with no added exposure.",
+      "tone": "natural warm fair skin with a pale peach undertone, appearing creamy beige under indoor warm light, with slight gray-green and cool-blue tones in the shadows",
+      "texture": "The skin should retain real selfie texture. Cheeks and nose tip feel slightly warm, fine, and faintly dewy to the touch; the foreground arm is soft and slightly out of focus because it is close to the lens. Avoid plastic smoothing.",
+      "lighting_effect": "A mix of desk lamp, laptop screen, and warm room light illuminates the face, nose tip, glossy lips, and extended arm, creating small highlights. The window night light and darker room areas push the shadows into low-saturation cool gray."
+    }
+  },
+  "pose": {
+    "position": "the subject is close to the camera in a room, sitting or half-standing, with her body shifted to the right side of the frame",
+    "base": "one arm reaches toward the camera, with a finger or palm covering the upper-left corner; the opposite shoulder and torso are cropped close by the selfie framing",
+    "overall": "The pose feels like she suddenly lifted the camera for a selfie. Her body leans slightly toward the lens, hair is disturbed by the motion, and the composition feels accidental."
+  },
+  "clothing": {
+    "top": {
+      "type": "white short-sleeved T-shirt",
+      "color": "white or warm white",
+      "details": "round or loose neckline, possible small black print on the chest but mostly cropped and obscured, casual cotton fabric",
+      "effect": "The T-shirt has a moderate loose fit, natural folds from body movement, and reflects lamp and screen light."
+    },
+    "bottom": {
+      "type": "bottom clothing not clearly visible",
+      "color": "uncertain",
+      "details": "cropped out by the close selfie framing",
+      "effect": "Do not add prominent bottom details or revealing styling."
+    }
+  },
+  "accessories": {
+    "jewelry": "a thin necklace or small pendant near the collarbone, and a transparent or silver bracelet/wrist accessory that becomes bright and blurred in the foreground",
+    "device": "a laptop on the desk in the background, with a blue-white glowing screen",
+    "prop": "desk lamp, cups, papers, cosmetics or small items, shelves, window city lights, chair, and everyday clutter"
+  },
+  "photography": {
+    "camera_style": "real smartphone selfie look, close-range wide-angle high-angle shot, with finger obstruction, motion blur, low-light compression noise, and casual imperfection",
+    "angle": "the camera is above and in front of the subject, looking downward. Her face is on the right side, and a finger close to the lens creates a huge blurred obstruction in the upper-left.",
+    "shot_type": "vertical close selfie crop, combining a face close-up with an extended-arm foreground",
+    "aspect_ratio": "vertical 4:3 or close to a phone photo ratio",
+    "texture": "low-light phone-photo texture, slight blur, mild noise, compression artifacts, localized lamp overexposure, and softened cluttered background",
+    "lighting": "warm-white desk lamp and laptop screen act as the visible light sources, with cool blue night light from the window. The light is uneven: the face is softly warm, while the shadows retain gray-green coolness.",
+    "depth_of_field": "shallow to medium depth of field: the face is relatively clear, the finger and arm reaching toward the lens are strongly blurred, and the desk, lamp, laptop, shelves, and city lights soften in the background."
+  },
+  "background": {
+    "setting": "a private room or work-bedroom at night, with a cluttered desk that looks recently used for work, makeup, or organizing things",
+    "wall_color": "warm white wall, locally tinted pale yellow by the desk lamp",
+    "elements": [
+      "open laptop screen",
+      "white or silver desk lamp",
+      "cluttered desk",
+      "cups and small objects",
+      "storage shelves with bottles and containers",
+      "city night view and window reflections",
+      "blurred finger obstruction in the upper-left",
+      "remove the original platform watermark in generation"
+    ],
+    "atmosphere": "late night, messy, lived-in, close, unprepared selfie moment",
+    "lighting": "the background has localized lamp overexposure, cool light from the laptop screen, scattered city lights outside, and a warm-cool indoor/night mix."
+  },
+  "the_vibe": {
+    "energy": "tired, real, messy, close, late-night",
+    "mood": "the lamp has been on for a long time and the laptop is still glowing; she seems to have suddenly reached for the camera before the frame was fully ready.",
+    "aesthetic": "East Asian urban late-night selfie, cluttered room, low-light smartphone texture, moist eyes, finger covering the lens, lived-in private feeling",
+    "authenticity": "Keep imperfections: finger obstruction, messy background, lamp overexposure, hair across the face, motion blur, phone noise, off-center framing, and foreground blur.",
+    "intimacy": "The camera is very close, but the feeling should stay like a daily late-night record rather than explicit posing.",
+    "story": "She may have just finished working or chatting. The room is still messy, the laptop is still running, and the instant her hand blocked the lens became the photo.",
+    "caption_energy": "\u201cThe laptop was still on, and she just took one quick photo.\u201d"
+  },
+  "constraints": {
+    "must_keep": [
+      "adult female model",
+      "high-angle close selfie perspective",
+      "blurred finger or palm blocking the upper-left corner",
+      "face close to the right side of the frame",
+      "messy long black-brown hair across the face",
+      "white short-sleeved T-shirt",
+      "moist eyes and slightly parted lips",
+      "thin necklace and wrist accessory",
+      "background laptop",
+      "desk lamp and cluttered room",
+      "city night window",
+      "low-light smartphone photo texture"
+    ],
+    "avoid": [
+      "do not make the subject look underage",
+      "avoid explicit sexualization",
+      "do not add nudity",
+      "avoid plastic skin",
+      "avoid commercial studio lighting",
+      "avoid an overly clean room",
+      "avoid perfectly sharp noise-free rendering",
+      "avoid anime face",
+      "do not remove all messy hair strands",
+      "avoid text, watermark, or logo"
+    ]
+  },
+  "negative_prompt": [
+    "underage",
+    "childlike",
+    "explicit nudity",
+    "pornographic",
+    "watermark",
+    "text",
+    "logo",
+    "plastic skin",
+    "over-smoothed face",
+    "anime face",
+    "studio lighting",
+    "perfect composition",
+    "clean empty room",
+    "extra limbs",
+    "distorted hand",
+    "bad fingers",
+    "warped face",
+    "harsh flash",
+    "high saturation",
+    "over-sharpened"
+  ]
+}
+```
+
+<!-- Case 321: Close High-Angle Selfie Soft Face (by @TIGER) -->
+### Case 321: [Close High-Angle Selfie Soft Face](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <a href="../images/portrait_case321/output.jpeg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case321/output.jpeg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "An adult woman in a close high-angle phone selfie, sitting or half-reclining on white bedding. The frame runs from the top of her head and lowered face down to the low-rise jeans area, with an intimate, casual, real-life snapshot feeling.",
+    "mirror_rules": "Not a mirror selfie; the phone or camera is held above the subject, looking downward. No visible phone, mirror, or reflected device.",
+    "age": "Adult, visually in her 20s",
+    "expression": {
+      "eyes": {
+        "look": "Eyes naturally looking downward, eyelids lowered, long eyelashes clearly visible",
+        "energy": "Quiet, soft, with a slight emotional afterglow of a paused moment",
+        "direction": "Looking down, not at the camera"
+      },
+      "mouth": {
+        "position": "Lips closed and relaxed",
+        "energy": "Soft muted red lip color, calm and restrained"
+      },
+      "overall": "An inward, natural expression, not a posed smile; it feels like a spontaneous moment while looking down or adjusting clothing."
+    },
+    "face": {
+      "preserve_original": "Preserve the soft face shape under the high-angle perspective, the nose bridge highlight caused by looking down, and the quiet downward gaze. Do not turn it into a front-facing commercial beauty portrait.",
+      "makeup": "A natural translucent makeup style often seen in East Asian social media beauty contexts: clean base, soft brows, delicate eyeliner, visible but not exaggerated lashes, light brown eyeshadow, coral-red or rose-red lips, sweet and natural rather than stage-like."
+    }
+  },
+  "hair": {
+    "color": "Dark brown to black-brown natural hair, with subtle brown highlights where the light hits",
+    "style": "Long hair, naturally loose, partly falling over the left shoulder, with fine strands over the forehead and a visible hair part",
+    "effect": "Slightly messy but realistic, with natural shine and tiny flyaway hairs; not overly silky or advertisement-perfect"
+  },
+  "body": {
+    "frame": "Close upper-body framing, natural body contours shaped by fitted fabric, relaxed but supported posture",
+    "waist": "The waist and abdomen are clearly visible between the cropped top and the low-rise jeans, including the full midriff and navel",
+    "chest": "No chest skin is visible; the chest area is fully covered by a fitted gray cropped T-shirt, with natural fabric tension and horizontal folds",
+    "legs": "Legs are mostly outside the frame; only the upper edge of the low-rise jeans and partial hip-line area are visible",
+    "skin": {
+      "visible_areas": "Visible skin includes the forehead, cheeks, nose bridge, area around the lips, a small edge of the neck, parts of both arms, the full waist and abdomen, the navel, and the upper hip area above the jeans. Shoulders are covered by the T-shirt; back, buttocks, and legs are not visible.",
+      "tone": "Warm fair skin tone with a soft creamy quality and a slight pink undertone under sunlight",
+      "texture": "The skin looks smooth while retaining real detail; the abdomen has natural softness and subtle under-skin variation. It should feel warm, clean, soft, and lightly sun-warmed to the touch, not plastic or overly airbrushed.",
+      "lighting_effect": "Warm natural light falls from the upper-right area of the frame, creating highlights on the forehead, nose bridge, upper fabric, and abdomen. White bedding provides soft reflected fill light, while the hemline and jeans edge create slight shadows."
+    }
+  },
+  "pose": {
+    "position": "The subject is sitting or half-reclining on a bed, leaning slightly back, head lowered, with arms placed to the sides or behind the body for support",
+    "base": "Weight rests on the hips and rear arm-support points; the waist opens naturally, shoulders slightly pulled back",
+    "overall": "A casual pause after sitting down, not a standardized pose; preserve slight body offset, fabric wrinkles, and imperfect symmetry"
+  },
+  "clothing": {
+    "top": {
+      "type": "Cropped fitted crew-neck T-shirt",
+      "color": "Light heather gray",
+      "details": "Short sleeves, hem ending around the upper abdomen, fine cotton-knit texture, horizontal stretch folds, and natural shadows",
+      "effect": "Fitted but not rigidly sculpted; the fabric responds to posture with realistic wrinkles, pressure marks, and subtle stretching"
+    },
+    "bottom": {
+      "type": "Low-rise blue denim jeans",
+      "color": "Washed blue with lighter worn edges",
+      "details": "Low waistband, visible button area, slightly open or loosened waistband, pale inner fabric and denim structure visible",
+      "effect": "Thick denim with clear creases, everyday wear, and a slightly worn texture"
+    }
+  },
+  "accessories": {},
+  "photography": {
+    "camera_style": "Close handheld phone selfie, authentic social media snapshot feel, similar to an iPhone or Android main/wide camera",
+    "angle": "Strong high-angle view from above the head and front, looking downward; the face, front fabric, abdomen, and waistband form a vertical perspective line",
+    "shot_type": "Vertical close-up to partial half-body crop, top of head near the upper edge, lower frame ending at the jeans waistband",
+    "aspect_ratio": "9:16 vertical",
+    "texture": "Slight phone sharpening, natural compression, mild noise, with visible bedding folds, clothing texture, and real skin transitions",
+    "lighting": "Indoor bedside natural daylight, warm and slanted, with white bedding acting as reflected fill light; avoid obvious studio rim light or perfect softbox lighting",
+    "depth_of_field": "Mostly clear smartphone wide-angle depth of field; face and clothing are sharp, dark furniture in the background slightly softened"
+  },
+  "background": {
+    "setting": "Bedroom or bedside interior",
+    "wall_color": "Mostly white bedding and dark furniture, with a small darker upper background area",
+    "elements": [
+      "white pillow or bedsheet",
+      "black bedside table or cabinet",
+      "small round gold or wooden knob",
+      "faint window light or tiny reflected points in the distance"
+    ],
+    "atmosphere": "Private, everyday, quiet, with the lingering feeling of morning or afternoon sunlight entering the room",
+    "lighting": "White bedding creates a broad soft bounce fill, while dark furniture lowers the background brightness and makes the skin highlights stand out"
+  },
+  "the_vibe": {
+    "energy": "Quiet, close, real, slightly lazy",
+    "mood": "As if she had just woken up, sat on the bed, or looked down for a second while adjusting herself",
+    "aesthetic": "Phone selfie, everyday bedroom, natural light, social media life-photo feeling rather than a perfect studio image",
+    "authenticity": "Keep messy flyaway hair, clothing wrinkles, slight composition offset, phone compression, and natural human body form",
+    "intimacy": "Very close framing, but emotionally restrained; the lack of eye contact gives it a private-space feeling",
+    "story": "She had just sat on the bed, the sunlight had already landed on her body, and the camera captured the downward-looking moment before the motion fully ended.",
+    "caption_energy": "Low-key, casual, like an everyday photo posted without over-explaining"
+  },
+  "constraints": {
+    "must_keep": [
+      "adult woman",
+      "high-angle downward shot",
+      "lowered head and downward gaze",
+      "dark brown long hair with forehead strands",
+      "gray fitted cropped T-shirt",
+      "visible waist, abdomen, and navel",
+      "low-rise washed blue jeans",
+      "white bedding background",
+      "warm natural daylight",
+      "authentic phone selfie texture"
+    ],
+    "avoid": [
+      "minor appearance",
+      "exposed chest or explicit nudity",
+      "oversexualized posing",
+      "plastic airbrushed skin",
+      "commercial studio lighting",
+      "front-facing direct gaze",
+      "perfectly symmetrical composition",
+      "heavy filters",
+      "AI anatomy distortion",
+      "watermarks or social media logos"
+    ]
+  },
+  "negative_prompt": [
+    "childlike",
+    "minor",
+    "explicit nudity",
+    "oversexualized",
+    "plastic skin",
+    "over-smoothed",
+    "studio lighting",
+    "perfect symmetry",
+    "distorted anatomy",
+    "extra fingers",
+    "bad hands",
+    "watermark",
+    "logo",
+    "text"
+  ]
+}
+```
+
+<!-- Case 322: Close Low-Angle Raw Phone-Texture Selfie (by @TIGER) -->
+### Case 322: [Close Low-Angle Raw Phone-Texture Selfie](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <img src="../images/portrait_case322/output.jpeg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "A young adult woman inside a car, captured in a close low-angle selfie with a raw mobile-phone feeling; the body is close to the camera, creating intimacy, pressure, and a quiet cool mood.",
+    "mirror_rules": "Not a mirror selfie, no mirror visible; the camera should sit below the chest or near the waist and abdomen, creating an upward selfie angle.",
+    "age": "young adult woman, around 20-28",
+    "expression": {
+      "eyes": {
+        "look": "eyes mostly hidden under the shadow of a low baseball cap, only a faint eye contour visible",
+        "energy": "calm, low-emotion, slightly distant",
+        "direction": "head slightly lowered, gaze seems directed toward the camera or phone screen"
+      },
+      "mouth": {
+        "position": "lips naturally closed and relaxed",
+        "energy": "no smile, restrained and quiet"
+      },
+      "overall": "an unforced car selfie, as if the photo was taken right after a still, absent-minded moment"
+    },
+    "face": {
+      "preserve_original": "keep the soft oval face impression, delicate features, natural nose bridge and relaxed lips, without creating an identifiable real person",
+      "makeup": "clean natural makeup inspired by cool-toned East Asian fashion aesthetics; soft matte base, natural pink-nude lips, very subtle eye makeup mostly hidden by the cap shadow"
+    }
+  },
+  "hair": {
+    "color": "deep black or natural black-brown",
+    "style": "long straight hair falling naturally from both sides of the cap and behind the shoulders",
+    "effect": "slightly messy strands, airy and real, with a faint rim light from the car window; avoid overly silky commercial hair"
+  },
+  "body": {
+    "frame": "slim with natural curves, clear waist and abdomen lines, slightly stretched by the low wide-angle perspective",
+    "waist": "waist and abdomen fully visible, flat but naturally soft, navel placed near the lower center of the frame",
+    "chest": "chest covered by a fitted white cropped tank top, fabric creates natural volume; no exposed chest skin",
+    "legs": "legs are mostly outside the frame, only the lower-body edge and low-waist clothing area are visible",
+    "skin": {
+      "visible_areas": [
+        "neck",
+        "shoulders",
+        "upper arms",
+        "edge of the underarm area",
+        "small area around the collarbone",
+        "full waist and abdomen",
+        "side waist",
+        "upper hip edge"
+      ],
+      "tone": "fair neutral-cool skin tone, slightly grayish and cool in the shaded car interior",
+      "texture": "skin looks smooth yet natural, as if cool to the touch, soft, with subtle pores and real underlying contours; no plastic smoothing",
+      "lighting_effect": "overcast daylight enters through the panoramic roof; the bright sky acts as backlight, the cap casts a strong shadow over the upper face, soft diffused light touches the abdomen and shoulders, while the black car interior creates deep contrast around the figure"
+    }
+  },
+  "pose": {
+    "position": "seated or leaning inside a car, front of the body close to the camera",
+    "base": "one arm extends upward and out of frame as if holding a phone or adjusting the angle; shoulders are uneven and the body weight is slightly shifted",
+    "overall": "low-angle selfie pose, torso leaning forward, head slightly lowered, natural but with subtle tension"
+  },
+  "clothing": {
+    "top": {
+      "type": "white sleeveless high-neck cropped tank top",
+      "color": "cool white",
+      "details": "large muted gray block-letter graphic print across the chest, simple neckline and armholes, hem slightly rolled upward",
+      "effect": "thin cotton or stretch knit fabric, fitted to the body, with slight horizontal wrinkles and realistic stretch texture"
+    },
+    "bottom": {
+      "type": "low-waist white bottom or folded-waist white sporty skirt/shorts",
+      "color": "white with small black inner edges",
+      "details": "folded fabric around the waist, black inner line slightly visible",
+      "effect": "soft fabric with natural creases, not too neat"
+    }
+  },
+  "accessories": {
+    "headwear": "worn gray baseball cap, low brim hiding the eyes, washed faded texture and visible stitching",
+    "jewelry": "thin silver necklace with a small flat silver pendant",
+    "device": "phone is not visible, but the image should feel like a handheld phone selfie",
+    "prop": "black car roof frame, panoramic sunroof, window edges"
+  },
+  "photography": {
+    "camera_style": "realistic mobile phone selfie, casual car selfie, not a studio shoot or polished commercial image",
+    "angle": "strong low-angle upward view, camera placed near the waist or car seat height, upper body leaning toward the lens",
+    "shot_type": "vertical close half-body selfie, framing includes cap, face shadow, shoulders, chest, waist, abdomen, and upper hip edge",
+    "aspect_ratio": "9:16 vertical",
+    "texture": "slight mobile noise, dark shadows with some detail loss, bright sky highlights, realistic sharpness without over-processing",
+    "lighting": "natural overcast daylight through the panoramic roof and windows; the subject remains in the darker car interior, bright sky becomes a large soft background, the cap creates a hard-edged face shadow, black car structure forms strong negative space",
+    "depth_of_field": "phone-camera depth of field, subject and car roof edges mostly clear, sky slightly soft but not heavily blurred"
+  },
+  "background": {
+    "setting": "inside a car under a panoramic sunroof",
+    "wall_color": "black car interior mixed with pale blue-gray cloudy sky",
+    "elements": [
+      "curved panoramic sunroof frame",
+      "black roof structure",
+      "pale blue-gray sky",
+      "soft clouds",
+      "window edges"
+    ],
+    "atmosphere": "quiet, private, slightly cold, like an overcast afternoon inside a car",
+    "lighting": "bright exterior sky, dim car interior, high contrast edges"
+  },
+  "the_vibe": {
+    "energy": "low-key, cool, naturally confident",
+    "mood": "as if she had just sat in the car on a cloudy day and casually took the photo, with the previous moment still lingering",
+    "aesthetic": "real phone selfie, low-angle car interior, cool white clothing against black structure, subtle sporty street style",
+    "authenticity": "keep slight off-center framing, low-angle perspective, clothing wrinkles, messy hair strands, face shadow, and mobile-phone noise",
+    "intimacy": "very close distance, but the expression remains detached, creating a private yet cool contrast",
+    "story": "she is adjusting the phone angle in the car, the cap hides her eyes, and in the next second she might put the phone down or look out the window",
+    "caption_energy": "a cold-toned selfie with no explanation, no performance, only the mood of a cloudy car interior"
+  },
+  "constraints": {
+    "must_keep": [
+      "low-angle car selfie perspective",
+      "gray low-brim baseball cap hiding the eyes",
+      "black car roof and curved panoramic sunroof",
+      "cloudy pale blue-gray sky background",
+      "white cropped sleeveless tank top",
+      "large muted gray block-letter graphic print",
+      "fully visible waist and abdomen",
+      "natural mobile-phone texture and slight noise",
+      "real shadows, no excessive fill light"
+    ],
+    "avoid": [
+      "any tattoos or body markings",
+      "text, stickers, or patterns on skin",
+      "overly commercial retouching",
+      "over-smoothed skin",
+      "studio lighting",
+      "exaggerated sexy pose",
+      "mirror selfie",
+      "strong filters",
+      "watermarks and social media tags"
+    ]
+  },
+  "negative_prompt": [
+    "tattoo",
+    "body art",
+    "skin text",
+    "watermark",
+    "logo watermark",
+    "over-retouched skin",
+    "plastic skin",
+    "studio lighting",
+    "mirror selfie",
+    "heavy makeup",
+    "extra fingers",
+    "distorted hands",
+    "bad anatomy",
+    "overexposed face",
+    "unrealistic body",
+    "AI glossy look"
+  ]
+}
+```
+
+<!-- Case 323: Real Street-Style Portrait (by @TIGER) -->
+### Case 323: [Real Street-Style Portrait](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <img src="../images/portrait_case323/323391.jpeg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+Vertical 9:16 real smartphone street portrait. A young adult woman leans diagonally against a red-and-white city taxi, her body forming a natural curve along the car. Both arms are raised high above her head with wrists crossed, while her waist and hip area are supported by the car body. She looks directly into the camera with clear calm eyes, slightly parted lips, and a soft cool expression with quiet street-fashion confidence.
+
+She has long dark brown to chestnut-brown hair, loose over her shoulders and chest, slightly lifted at the crown, with a few stray strands near the forehead. Her makeup is clean sweet-cool style: fresh base, light peach-pink blush, fine eyeliner, subtle aegyo-sal, curled lashes, and glossy coral-pink lips. She wears a white strapless bandeau crop top with red and black graphic lettering across the front, paired with light blue low-rise denim shorts with distressed edges, frayed patches and star appliqué details. Accessories include large silver hoop earrings, a thin necklace with a small pendant, and gold chain bracelets.
+
+Visible skin includes face, neck, collarbones, shoulders, underarm area, arms, palms, fingers, waist, abdomen, navel, hip edge and upper thighs; back and buttocks are not visible or are blocked by clothing and the car. Skin is bright fair with a slightly warm creamy tone, softened by strong urban daylight and car reflections. It should look delicate, smooth and sun-warmed, with slight real pores and natural daylight shine, not plastic or over-retouched.
+
+The camera angle is slightly high, looking downward in a close street portrait from upper thighs to raised hands. The background includes light gray-white high-rise buildings, parked cars, distant pedestrians, a blue road sign, reflective taxi windows, a red tail light and a taxi roof sign. Lighting is strong daytime urban natural light, with slight overexposure in the upper-left, bright reflections from buildings and the white car roof, and a faint warm bounce from the red car body. The image should feel like a real casual street shot, not a polished studio editorial.
+
+Negative prompt: screen overlay, lock screen overlay, status bar, timestamp, floating icons, watermark, studio backdrop, plastic skin, heavy retouching, flat soft light, oversexualized pose, extra fingers, distorted hands, distorted face, AI glossy look.
+```
+
+<!-- Case 324: Real Woman Sitting on Bedroom Floor (by @TIGER) -->
+### Case 324: [Real Woman Sitting on Bedroom Floor](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <img src="../images/portrait_case324/325231.jpeg" width="300" alt="Output image"> |
+
+**Prompt:**
+
+```
+{
+  "subject": {
+    "description": "A young adult woman sitting on a bedroom floor, captured from the side in a quiet private moment. The image should feel accidental and human, with slight blur, blown highlights, and lived-in imperfection rather than polished studio beauty.",
+    "mirror_rules": "Not a mirror selfie; no mirrored text or reflection logic needed. Keep the feeling of a low handheld camera angle.",
+    "age": "young adult woman, clearly 20+",
+    "expression": {
+      "eyes": {
+        "look": "eyes lowered, looking down toward an open book, magazine, or tablet on the floor",
+        "energy": "quiet, relaxed, soft, slightly morning-after or late-afternoon stillness",
+        "direction": "downward, not looking at the camera"
+      },
+      "mouth": {
+        "position": "lips naturally closed or softly relaxed",
+        "energy": "unposed, introspective"
+      },
+      "overall": "the side of the face is partially hidden by hair and strong light; the expression feels calm and unfinished, as if paused mid-motion"
+    },
+    "face": {
+      "preserve_original": "preserve the soft side-profile silhouette, natural jawline, gentle nose bridge, and partially obscured face; avoid turning it into a perfectly symmetrical commercial beauty face",
+      "makeup": "natural bare-skin makeup direction, inspired by soft East Asian casual beauty aesthetics: sheer base, subtle brows, muted lip color, almost invisible eye makeup, with clean skin washed by daylight"
+    }
+  },
+  "hair": {
+    "color": "dark brown-black, turning warm brown along the sunlit edges",
+    "style": "short to shoulder-length hair, naturally voluminous, side-parted, with slightly flipped-out ends",
+    "effect": "backlit hair creates soft glowing edges; strands partially cover the cheek and eyes, with a slightly messy just-woke-up texture"
+  },
+  "body": {
+    "frame": "slim and natural, not overly athletic or model-like, with a soft shoulder and neck line",
+    "waist": "a small side area of the waist and lower abdomen is visible due to the cropped top and seated pose, with natural folds and gentle shadow",
+    "chest": "upper chest and collarbone area are partly visible; the clothing fits naturally without exaggerated emphasis, while strong sunlight creates a blown-out white highlight across the front",
+    "legs": "thighs and part of the lower legs are visible, bent and resting sideways on the floor; the skin turns softly warm under the window light",
+    "skin": {
+      "visible_areas": "visible skin includes one shoulder and upper arm, forearms, hands, collarbone area, upper chest edge, side waist/lower abdomen, thighs, and part of the lower legs. The back and buttocks are not clearly shown; only the seated body contour remains.",
+      "tone": "light warm skin tone, almost creamy white in direct sunlight, with soft beige-apricot and gray warmth in the shadows",
+      "texture": "the skin should feel soft, warm, and finely textured, like it has been gently heated by window sunlight; avoid plastic smoothing, keep subtle grain, soft focus, natural overexposure, and diffused skin edges",
+      "lighting_effect": "strong window light enters from the rear-right and side windows, landing on the shoulder, upper chest, arms, and legs, creating large highlights, bloom, and edge glow; shaded areas remain soft warm gray"
+    }
+  },
+  "pose": {
+    "position": "sitting on the wooden floor, body turned to the right, head slightly lowered",
+    "base": "one hand supports the body behind her, the other reaches toward a book or tablet on the floor; both legs are bent and resting sideways",
+    "overall": "relaxed, natural, unposed, as if she was looking at something on the floor and sunlight briefly held the moment still"
+  },
+  "clothing": {
+    "top": {
+      "type": "white cropped off-shoulder top",
+      "color": "soft white",
+      "details": "the neckline slips down to reveal one shoulder; cropped cut exposes a small side-waist area; thin fitted fabric with natural wrinkles",
+      "effect": "the sunlit area becomes nearly blown-out white, with softened fabric edges and a casual body-hugging fit"
+    },
+    "bottom": {
+      "type": "gray lounge shorts",
+      "color": "light gray or gray-blue",
+      "details": "soft homewear fabric, slight bunching at the waist, short hem, naturally fitted around the thighs in the seated pose",
+      "effect": "subtle folds and shadows, not overly refined"
+    }
+  },
+  "accessories": {
+    "jewelry": "a very thin bracelet or hair-tie-like detail around the wrist, understated and barely noticeable",
+    "prop": "an open book, magazine, or tablet on the floor in the foreground, slightly out of focus"
+  },
+  "photography": {
+    "camera_style": "low-angle casual lifestyle photography, like a phone or small digital camera, with slight blur, motion softness, and natural grain",
+    "angle": "camera placed close to floor level, shooting from the front-left side of the subject; the woman sits on the left side of frame while large windows fill the upper background",
+    "shot_type": "environmental medium-close portrait, most of the seated body included, with slight cropping of the hand and foreground object",
+    "aspect_ratio": "vertical composition, around 2:3 or 3:4",
+    "texture": "soft focus, low contrast, film-like grain, blown highlights, hazy bloom",
+    "lighting": "natural window light as the key source, mixing strong backlight and sidelight; sunlight passes through white window frames and sheer curtains, creating real physical light patches and exposure spill on skin and fabric; no obvious artificial fill light",
+    "depth_of_field": "shallow to medium depth of field, with the face and foreground slightly soft, while background furniture and windows remain recognizable"
+  },
+  "background": {
+    "setting": "bright vintage bedroom or private room",
+    "wall_color": "warm white or pale cream walls",
+    "elements": [
+      "large white-framed windows",
+      "long white curtains",
+      "decorative scalloped curtain valances",
+      "white bed with soft bedding",
+      "wooden desk or vanity",
+      "stacks of books",
+      "vintage bedside cabinet and lamp",
+      "ceiling pendant lamp",
+      "wooden floor"
+    ],
+    "atmosphere": "quiet, domestic, slightly vintage, as if dust and warmth are suspended in the afternoon light",
+    "lighting": "strong daylight enters from outside; windows are bright and blown out, indoor shadows are warm gray, with uneven natural exposure"
+  },
+  "the_vibe": {
+    "energy": "low, slow, unperformed",
+    "mood": "gentle, private, hazy, with the feeling of a summer afternoon that had just passed",
+    "aesthetic": "vintage bedroom, natural light, lifestyle portrait, soft-focus film texture, low-saturation white and gray palette",
+    "authenticity": "keep real-camera imperfections: slight blur, overexposure, off-center framing, foreground interference, and imperfect posture",
+    "intimacy": "feels like a private moment casually photographed by a friend or by herself, not a formal photoshoot",
+    "story": "She had just sat down on the floor, the book beside her was not finished yet, and sunlight had already slipped across her body through the windows.",
+    "caption_energy": "“sun stayed a little longer than I did.” / “the afternoon light had not left yet.”"
+  },
+  "constraints": {
+    "must_keep": [
+      "low floor-level angle",
+      "side seated pose",
+      "white cropped off-shoulder top",
+      "gray lounge shorts",
+      "strong blown-out window light",
+      "large bedroom windows and white curtains",
+      "soft-focus film texture",
+      "real-life casual blur"
+    ],
+    "avoid": [
+      "over-retouched skin",
+      "commercial studio lighting",
+      "exaggerated sexy pose",
+      "overly sharp HD detail",
+      "perfectly centered composition",
+      "heavy makeup",
+      "plastic skin texture",
+      "overly modern luxury background"
+    ]
+  },
+  "negative_prompt": [
+    "over-retouched skin",
+    "plastic skin",
+    "sharp studio lighting",
+    "glamour pose",
+    "heavy makeup",
+    "perfect symmetry",
+    "hyper realistic commercial ad",
+    "clean CGI",
+    "over saturated colors",
+    "extra limbs",
+    "distorted hands",
+    "wrong anatomy",
+    "harsh flash",
+    "luxury hotel room"
+  ]
+}
 ```

@@ -11,168 +11,9 @@
 **Prompt:**
 
 ```
-
-<!-- Case 415: Ronaldo Tri-Zone Sports Poster (by @vireonixx) -->
-### Case 415: [Ronaldo Tri-Zone Sports Poster](https://x.com/vireonixx/status/2068870555349246242) (by [@vireonixx](https://x.com/vireonixx))
-
-<table>
-<tr><td width="50%"><a href="../images/poster_case415/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case415/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ronaldo Tri-Zone Sports Poster"></a></td><td width="50%"><a href="../images/poster_case415/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case415/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ronaldo Tri-Zone Sports Poster"></a></td></tr>
-</table>
-
-**Prompt:**
-
-```
-Cristiano Ronaldo sports poster. Background divided intothree horizontal zones. Top zone warm cream Pantone 9183Coccupying top 40% of poster. Middle zone signal redPantone 485C as a pure flat color band occupying exactly
-8% of poster height at golden ratio point. Bottom zone
-deep charcoal Pantone 432C occupying remaining 52%.
-Three zones. Two colors and one neutral. The geometry
-of the Portuguese flag deconstructed and reconstructedas graphic architecture.
-
-His figure spans all three zones. Shot full body from
-slight low angle. Al Nassr gold kit. Mid stride. Leftleg forward. Right arm back. The specific body positionof someone at absolute peak running velocity. Not a posedaction. A captured action. The body in the cream zonerendered in full color warm skin tones and gold kit. The
-body in the red zone bleached to near white silhouette
-where it intersects the red band. The body in the charcoal
-zone rendered in black and white high contrast. Three color treatments on one continuous figure. The zones are notbackgrounds they are filters. Each one revealing a
-different version of the same man.
-
-Motion blur. His figure in slight motion blur at 1/250second shutter. The sharp elements his face his number 7his boot touching ground. The blurred elements his armsin motion his hair his loose kit fabric. The blurcommunicates what no still image can. The speed. The
-relentlessness. The fact that he is never fully stopped.
-
-Layered over the three zones across the full poster width.
-A system of fine parallel horizontal lines. 0.3pt. Warm
-white. At 25% opacity. Running edge to edge. Spaced 4mm
-apart. The texture of a television scan line. Or a
-printing registration grid. Or the lines on a ruledpage waiting to be written on. The lines are the sameacross all three zones changing color against each
-background. White on cream barely visible. White on red
-glowing. White on charcoal clear and strong. The same
-line behaving differently in different worlds.
-
-Paint intervention. In the cream zone only. Upper left
-quadrant. Raw gestural brushstroke in cobalt blue
-Pantone 2728C. A single mark. Applied with a wide brush
-at 45 degrees. The blue unexpected against the cream.
-Not part of the flag system. A disruption. An intervention
-from outside the established color logic. The color of
-a sky he is always looking toward.
-
-Japanese typography. Large scale. Behind photograph layer.
-In cream zone behind his upper body. 挑戦 pronounced
-chōsen meaning challenge. Rendered at 200pt Noto Serif
-CJK deep charcoal at 15% opacity. The kanji visible
-through the photographic layer like a thought behind
-a face. In charcoal zone behind his lower body.
-勝利 pronounced shōri meaning victory. Same scale
-same treatment. Beginning and end. Challenge and victory.
-Above and below.
-
-Information system. Right side of poster. Thin vertical
-rule signal red 1px running full height. To its right
-a column of data in Helvetica Neue Light 6pt tracking
-200 bone white on charcoal and cream on red adjusting
-for legibility. Club career timeline. Years at each
-club. Goals per season. The data as a river running
-parallel to the figure. The career in numbers beside
-the career in motion.
-
-Typography primary. Across the red zone. Full poster
-width. The red band is a stage for one typographic event.
-Futura PT Heavy. All caps. White. 36pt. Tracking 300.
-Perfectly centered vertically in the red band. THE
-STANDARD HAS ALWAYS BEEN HIM. The red band exists to
-hold this sentence. Everything else in the poster exists
-to justify it.
-
-Below the red band entering the charcoal zone. Full width.
-Helvetica Neue Black Extended. White. 96pt. Tracking minus
-10. RONALDO. The letters occupying the full width exactly
-tracked to fit. The name as the foundation of the
-charcoal zone. Below the name in same charcoal zone.
-Helvetica Neue Light. 8pt. Tracking 600. Bone white.
-CR7 PORTUGAL 900 GOALS FORWARD LEGEND. One line. All
-the context needed. None of the decoration.
-
-Art direction M/M Paris conceptual intelligence. Bureau
-Borsche typographic sophistication. Wieden Kennedy
-Amsterdam emotional directness. Nike Brand Design
-production quality. All four present simultaneously
-at their absolute peak.
-
-Shot aesthetic Misan Harriman color and dignity. Ernst
-Haas motion blur mastery. Gregory Heisler technical
-perfection. Three photographers whose combined vision
-makes something none of them would make alone.
-
-Print format 70x100cm. 10K resolution. HDR. The three
-zones printed in three separate ink passes on a
-Heidelberg offset press. The red band overprinted twice
-for maximum saturation. The charcoal zone with 7 color
-process for maximum depth. The cream zone with minimum
-ink for maximum paper feel.
-```
-
-<!-- Case 416: Dreamcore Brand Kit Illustration (by @92digitalartArt) -->
-### Case 416: [Dreamcore Brand Kit Illustration](https://x.com/92digitalartArt/status/2068766168979063085) (by [@92digitalartArt](https://x.com/92digitalartArt))
-
-<table>
-<tr><td width="50%"><a href="../images/poster_case416/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dreamcore Brand Kit Illustration"></a></td><td width="50%"><a href="../images/poster_case416/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dreamcore Brand Kit Illustration"></a></td></tr>
-<tr><td width="50%"><a href="../images/poster_case416/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dreamcore Brand Kit Illustration"></a></td><td width="50%"><a href="../images/poster_case416/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dreamcore Brand Kit Illustration"></a></td></tr>
-</table>
-
-**Prompt:**
-
-```
-surreal dreamcore architectural illustration, bright Memphis design influence, pastel pop color palette, crisp black ink outlines, isometric fantasy garden space, tiled geometric walls, floating spheres, checkerboard floor, stylized clouds, ornamental plants and topiary, clean comic-book linework, playful postmodern shapes, flat colors with subtle grain texture, whimsical liminal atmosphere, decorative botanical details, airy blue sky, high-detail editorial illustration, vibrant retro-futuristic mood.
-```
-
-<!-- Case 417: Whimsical Mirror Travel Journal (by @Taaruk_) -->
-### Case 417: [Whimsical Mirror Travel Journal](https://x.com/Taaruk_/status/2068716967968788743) (by [@Taaruk_](https://x.com/Taaruk_))
-
-<table>
-<tr><td width="50%"><a href="../images/poster_case417/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case417/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Whimsical Mirror Travel Journal"></a></td><td width="50%"><a href="../images/poster_case417/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case417/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Whimsical Mirror Travel Journal"></a></td></tr>
-</table>
-
-**Prompt:**
-
-```
-Transform the uploaded photo into a whimsical hand-painted storybook illustration. Keep the exact pose, perspective, convex traffic mirror reflection, road, utility pole, and surrounding tropical greenery. Reimagine the mirror reflection as a vibrant illustrated world with lush jungle plants, palm trees, flowers, butterflies, doodle hearts, stars, swirls, smiling sun, fluffy clouds, and colorful hand-drawn decorations. The person is transformed into a cute cartoon character wearing a white t-shirt, navy shorts, white socks, and a blue cap, posing playfully with one leg raised and a peace sign. Integrate fitness-tracker statistics inside the mirror in a charming infographic style: “Day 53”, “4.06 km”, “88 m”, “24 min 9 sec”. Bright pastel colors, textured gouache paint, children's book aesthetic, whimsical doodles, clean outlines, cozy and cheerful mood, highly detailed foliage, playful travel journal style, Strava-inspired adventure artwork, vibrant greens, oranges, blues, and pinks, ultra-detailed illustration, masterpiece, kawaii aesthetic, editorial quality, vertical composition, 4k.
-```
-
-<!-- Case 418: Folk Papercraft Scene Remix (by @Ciri_ai) -->
-### Case 418: [Folk Papercraft Scene Remix](https://x.com/Ciri_ai/status/2068716810346860804) (by [@Ciri_ai](https://x.com/Ciri_ai))
-
-<table>
-<tr><td width="50%"><a href="../images/poster_case418/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case418/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Folk Papercraft Scene Remix"></a></td><td width="50%"><a href="../images/poster_case418/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case418/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Folk Papercraft Scene Remix"></a></td></tr>
-<tr><td width="50%"><a href="../images/poster_case418/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case418/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Folk Papercraft Scene Remix"></a></td></tr>
-</table>
-
-**Prompt:**
-
-```
-Reimagine the entire image as one cohesive Decorative Folk Flat Illustration blended with a soft handcrafted paper-cut layered style, inspired by charming papercraft diorama aesthetics. Preserve the original subject, composition, and overall mood, but simplify every element into clean flat forms, bold rounded shapes, and cute childlike proportions. Add playful doodle accents, decorative folk patterns, slightly uneven handmade outlines, and minimal facial details such as dot eyes and soft blush cheeks.
-
-Use a vivid, cheerful color palette that feels fresh and different from the original image, while keeping the final artwork warm, sweet, innocent, whimsical, and storybook-like. Create the feeling of layered cardstock with stacked paper depth, clean cut edges, subtle shadows between layers, and gentle paper-crafted imperfections, as if the scene were carefully cut, colored, and assembled on clean white paper. The result should look cute, handcrafted, playful, and visually unified, with a polished yet charming handmade folk-art papercraft finish.
-```
-
-<!-- Case 419: Argentina Number 10 Sports Poster (by @iamaiistudio) -->
-### Case 419: [Argentina Number 10 Sports Poster](https://x.com/iamaiistudio/status/2068534010574459131) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-<table>
-<tr><td width="50%"><a href="../images/poster_case419/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case419/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Argentina Number 10 Sports Poster"></a></td><td width="50%"><a href="../images/poster_case419/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case419/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Argentina Number 10 Sports Poster"></a></td></tr>
-</table>
-
-**Prompt:**
-
-```
-A mixed-media sports poster with a realistic chest-up portrait of a young Argentine soccer player, confident pose with a subtle smile, dark brown slightly messy hair. Wearing the Argentina national team jersey with iconic sky-blue and white stripes, Adidas logo on right chest, Argentina Football Association crest on left.
-
-Soft studio lighting from upper left with gentle shadows and highlights on the hair. A bold white number "10" fills the background, partially overlapped by the player.
-
-Background features vertical smoke bands in Argentine flag colors: sky blue, white, and sky blue.
-
-Modern, clean, and dynamic style combining sharp portrait details with soft smoky effects for a powerful professional sports-poster aesthetic.
-```
 A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
 ```
+
 ### Case 2: [Vintage Amalfi Travel Poster](https://x.com/WolfRiccardo/status/2044562722491121718) (by [@WolfRiccardo](https://x.com/WolfRiccardo))
 
 | Output |
@@ -732,36 +573,6 @@ Generate somthing super complex and info dense...
 用波普风格讲述金刚经
 ```
 
-### Case 57: [Theme Science Encyclopedia Card](https://x.com/alanlovelq/status/2046378199681257920) (by [@alanlovelq](https://x.com/alanlovelq))
-
-| Output |
-| :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case54/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case54/output.jpg" width="300" alt="Output image"></a> |
-
-**Prompt:**
-
-```
-请根据【主题】生成一张高质量竖版「科普百科图」。
-
-这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
-
-请让画面包含:
-- 一个清晰漂亮的主题主视觉
-- 若干局部特征放大细节
-- 多个圆角模块化信息分区
-- 清楚的标题层级与重点标签
-- 简洁但丰富的百科内容
-- 可视化评分、要点总结或Top 5模块
-
-内容栏目请根据主题自动适配,优先从这些方向中选择并合理组合:
-基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。
-
-视觉要求:
-浅色干净背景,柔和配色,轻阴影,精致小图标,圆角信息框,整洁排版,信息密度高但不拥挤,阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡,而不是广告图。
-
-请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。
-```
-
 ### Case 55: [Chili Pork Cooking Flowchart](https://x.com/Kurt_Rousey466/status/2046267707881029934) (by [@Kurt_Rousey466](https://x.com/Kurt_Rousey466))
 
 | Output |
@@ -860,6 +671,36 @@ AI 必须依据【主题】自动决定最合适的:
 最大细节密度,超清,电影级,印刷级,高端成片质感。
 ```
 
+
+### Case 57: [Theme Science Encyclopedia Card](https://x.com/alanlovelq/status/2046378199681257920) (by [@alanlovelq](https://x.com/alanlovelq))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case54/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case54/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt:**
+
+```
+请根据【主题】生成一张高质量竖版「科普百科图」。
+
+这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
+
+请让画面包含:
+- 一个清晰漂亮的主题主视觉
+- 若干局部特征放大细节
+- 多个圆角模块化信息分区
+- 清楚的标题层级与重点标签
+- 简洁但丰富的百科内容
+- 可视化评分、要点总结或Top 5模块
+
+内容栏目请根据主题自动适配,优先从这些方向中选择并合理组合:
+基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。
+
+视觉要求:
+浅色干净背景,柔和配色,轻阴影,精致小图标,圆角信息框,整洁排版,信息密度高但不拥挤,阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡,而不是广告图。
+
+请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。
+```
 
 ### Case 58: [A full-body outdoor shot captures a young Caucasian woman, possibly in her la...](https://x.com/AIwithSarah_/status/2047234995627172229) (by [@AIwithSarah_](https://x.com/AIwithSarah_))
 
@@ -9120,6 +8961,167 @@ Editorial fashion portrait, woman wearing flowing red bell-sleeve wrap dress, dr
 Create a luxury cinematic fashion poster featuring a stylish young male standing in a powerful confident pose, captured from a low-angle perspective. The subject wears a high-end black designer outfit with sharp tailoring, subtle metallic accents, and clean modern silhouette. His expression is calm, confident, and slightly intimidating, with direct eye contact. Hair is perfectly styled with soft volume and natural shine. Behind him is a large glowing circular spotlight in deep gold, creating a halo effect that enhances dominance and focus. The background is minimalist matte black with subtle texture, dust particles, and faint vignette edges to enhance depth. Lighting is dramatic studio-style with strong contrast, highlighting facial structure and clothing details. The composition is symmetrical and centered like a luxury brand advertisement or album cover. Ultra-realistic, 8K detail, 4:5 vertical ratio, high-end editorial aesthetic designed for viral engagement. --ar 4:5 ratio
 ```
 
+<!-- Case 415: Ronaldo Tri-Zone Sports Poster (by @vireonixx) -->
+### Case 415: [Ronaldo Tri-Zone Sports Poster](https://x.com/vireonixx/status/2068870555349246242) (by [@vireonixx](https://x.com/vireonixx))
+
+<table>
+<tr><td width="50%"><a href="../images/poster_case415/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case415/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ronaldo Tri-Zone Sports Poster"></a></td><td width="50%"><a href="../images/poster_case415/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case415/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ronaldo Tri-Zone Sports Poster"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Cristiano Ronaldo sports poster. Background divided intothree horizontal zones. Top zone warm cream Pantone 9183Coccupying top 40% of poster. Middle zone signal redPantone 485C as a pure flat color band occupying exactly
+8% of poster height at golden ratio point. Bottom zone
+deep charcoal Pantone 432C occupying remaining 52%.
+Three zones. Two colors and one neutral. The geometry
+of the Portuguese flag deconstructed and reconstructedas graphic architecture.
+
+His figure spans all three zones. Shot full body from
+slight low angle. Al Nassr gold kit. Mid stride. Leftleg forward. Right arm back. The specific body positionof someone at absolute peak running velocity. Not a posedaction. A captured action. The body in the cream zonerendered in full color warm skin tones and gold kit. The
+body in the red zone bleached to near white silhouette
+where it intersects the red band. The body in the charcoal
+zone rendered in black and white high contrast. Three color treatments on one continuous figure. The zones are notbackgrounds they are filters. Each one revealing a
+different version of the same man.
+
+Motion blur. His figure in slight motion blur at 1/250second shutter. The sharp elements his face his number 7his boot touching ground. The blurred elements his armsin motion his hair his loose kit fabric. The blurcommunicates what no still image can. The speed. The
+relentlessness. The fact that he is never fully stopped.
+
+Layered over the three zones across the full poster width.
+A system of fine parallel horizontal lines. 0.3pt. Warm
+white. At 25% opacity. Running edge to edge. Spaced 4mm
+apart. The texture of a television scan line. Or a
+printing registration grid. Or the lines on a ruledpage waiting to be written on. The lines are the sameacross all three zones changing color against each
+background. White on cream barely visible. White on red
+glowing. White on charcoal clear and strong. The same
+line behaving differently in different worlds.
+
+Paint intervention. In the cream zone only. Upper left
+quadrant. Raw gestural brushstroke in cobalt blue
+Pantone 2728C. A single mark. Applied with a wide brush
+at 45 degrees. The blue unexpected against the cream.
+Not part of the flag system. A disruption. An intervention
+from outside the established color logic. The color of
+a sky he is always looking toward.
+
+Japanese typography. Large scale. Behind photograph layer.
+In cream zone behind his upper body. 挑戦 pronounced
+chōsen meaning challenge. Rendered at 200pt Noto Serif
+CJK deep charcoal at 15% opacity. The kanji visible
+through the photographic layer like a thought behind
+a face. In charcoal zone behind his lower body.
+勝利 pronounced shōri meaning victory. Same scale
+same treatment. Beginning and end. Challenge and victory.
+Above and below.
+
+Information system. Right side of poster. Thin vertical
+rule signal red 1px running full height. To its right
+a column of data in Helvetica Neue Light 6pt tracking
+200 bone white on charcoal and cream on red adjusting
+for legibility. Club career timeline. Years at each
+club. Goals per season. The data as a river running
+parallel to the figure. The career in numbers beside
+the career in motion.
+
+Typography primary. Across the red zone. Full poster
+width. The red band is a stage for one typographic event.
+Futura PT Heavy. All caps. White. 36pt. Tracking 300.
+Perfectly centered vertically in the red band. THE
+STANDARD HAS ALWAYS BEEN HIM. The red band exists to
+hold this sentence. Everything else in the poster exists
+to justify it.
+
+Below the red band entering the charcoal zone. Full width.
+Helvetica Neue Black Extended. White. 96pt. Tracking minus
+10. RONALDO. The letters occupying the full width exactly
+tracked to fit. The name as the foundation of the
+charcoal zone. Below the name in same charcoal zone.
+Helvetica Neue Light. 8pt. Tracking 600. Bone white.
+CR7 PORTUGAL 900 GOALS FORWARD LEGEND. One line. All
+the context needed. None of the decoration.
+
+Art direction M/M Paris conceptual intelligence. Bureau
+Borsche typographic sophistication. Wieden Kennedy
+Amsterdam emotional directness. Nike Brand Design
+production quality. All four present simultaneously
+at their absolute peak.
+
+Shot aesthetic Misan Harriman color and dignity. Ernst
+Haas motion blur mastery. Gregory Heisler technical
+perfection. Three photographers whose combined vision
+makes something none of them would make alone.
+
+Print format 70x100cm. 10K resolution. HDR. The three
+zones printed in three separate ink passes on a
+Heidelberg offset press. The red band overprinted twice
+for maximum saturation. The charcoal zone with 7 color
+process for maximum depth. The cream zone with minimum
+ink for maximum paper feel.
+```
+
+<!-- Case 416: Dreamcore Brand Kit Illustration (by @92digitalartArt) -->
+### Case 416: [Dreamcore Brand Kit Illustration](https://x.com/92digitalartArt/status/2068766168979063085) (by [@92digitalartArt](https://x.com/92digitalartArt))
+
+<table>
+<tr><td width="50%"><a href="../images/poster_case416/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dreamcore Brand Kit Illustration"></a></td><td width="50%"><a href="../images/poster_case416/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dreamcore Brand Kit Illustration"></a></td></tr>
+<tr><td width="50%"><a href="../images/poster_case416/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dreamcore Brand Kit Illustration"></a></td><td width="50%"><a href="../images/poster_case416/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Dreamcore Brand Kit Illustration"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+surreal dreamcore architectural illustration, bright Memphis design influence, pastel pop color palette, crisp black ink outlines, isometric fantasy garden space, tiled geometric walls, floating spheres, checkerboard floor, stylized clouds, ornamental plants and topiary, clean comic-book linework, playful postmodern shapes, flat colors with subtle grain texture, whimsical liminal atmosphere, decorative botanical details, airy blue sky, high-detail editorial illustration, vibrant retro-futuristic mood.
+```
+
+<!-- Case 417: Whimsical Mirror Travel Journal (by @Taaruk_) -->
+### Case 417: [Whimsical Mirror Travel Journal](https://x.com/Taaruk_/status/2068716967968788743) (by [@Taaruk_](https://x.com/Taaruk_))
+
+<table>
+<tr><td width="50%"><a href="../images/poster_case417/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case417/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Whimsical Mirror Travel Journal"></a></td><td width="50%"><a href="../images/poster_case417/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case417/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Whimsical Mirror Travel Journal"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Transform the uploaded photo into a whimsical hand-painted storybook illustration. Keep the exact pose, perspective, convex traffic mirror reflection, road, utility pole, and surrounding tropical greenery. Reimagine the mirror reflection as a vibrant illustrated world with lush jungle plants, palm trees, flowers, butterflies, doodle hearts, stars, swirls, smiling sun, fluffy clouds, and colorful hand-drawn decorations. The person is transformed into a cute cartoon character wearing a white t-shirt, navy shorts, white socks, and a blue cap, posing playfully with one leg raised and a peace sign. Integrate fitness-tracker statistics inside the mirror in a charming infographic style: “Day 53”, “4.06 km”, “88 m”, “24 min 9 sec”. Bright pastel colors, textured gouache paint, children's book aesthetic, whimsical doodles, clean outlines, cozy and cheerful mood, highly detailed foliage, playful travel journal style, Strava-inspired adventure artwork, vibrant greens, oranges, blues, and pinks, ultra-detailed illustration, masterpiece, kawaii aesthetic, editorial quality, vertical composition, 4k.
+```
+
+<!-- Case 418: Folk Papercraft Scene Remix (by @Ciri_ai) -->
+### Case 418: [Folk Papercraft Scene Remix](https://x.com/Ciri_ai/status/2068716810346860804) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+<table>
+<tr><td width="50%"><a href="../images/poster_case418/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case418/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Folk Papercraft Scene Remix"></a></td><td width="50%"><a href="../images/poster_case418/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case418/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Folk Papercraft Scene Remix"></a></td></tr>
+<tr><td width="50%"><a href="../images/poster_case418/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case418/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Folk Papercraft Scene Remix"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Reimagine the entire image as one cohesive Decorative Folk Flat Illustration blended with a soft handcrafted paper-cut layered style, inspired by charming papercraft diorama aesthetics. Preserve the original subject, composition, and overall mood, but simplify every element into clean flat forms, bold rounded shapes, and cute childlike proportions. Add playful doodle accents, decorative folk patterns, slightly uneven handmade outlines, and minimal facial details such as dot eyes and soft blush cheeks.
+
+Use a vivid, cheerful color palette that feels fresh and different from the original image, while keeping the final artwork warm, sweet, innocent, whimsical, and storybook-like. Create the feeling of layered cardstock with stacked paper depth, clean cut edges, subtle shadows between layers, and gentle paper-crafted imperfections, as if the scene were carefully cut, colored, and assembled on clean white paper. The result should look cute, handcrafted, playful, and visually unified, with a polished yet charming handmade folk-art papercraft finish.
+```
+
+<!-- Case 419: Argentina Number 10 Sports Poster (by @iamaiistudio) -->
+### Case 419: [Argentina Number 10 Sports Poster](https://x.com/iamaiistudio/status/2068534010574459131) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="../images/poster_case419/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case419/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Argentina Number 10 Sports Poster"></a></td><td width="50%"><a href="../images/poster_case419/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case419/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Argentina Number 10 Sports Poster"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+A mixed-media sports poster with a realistic chest-up portrait of a young Argentine soccer player, confident pose with a subtle smile, dark brown slightly messy hair. Wearing the Argentina national team jersey with iconic sky-blue and white stripes, Adidas logo on right chest, Argentina Football Association crest on left.
+
+Soft studio lighting from upper left with gentle shadows and highlights on the hair. A bold white number "10" fills the background, partially overlapped by the player.
+
+Background features vertical smoke bands in Argentine flag colors: sky blue, white, and sky blue.
+
+Modern, clean, and dynamic style combining sharp portrait details with soft smoky effects for a powerful professional sports-poster aesthetic.
+
+A striking Spring 2026 city poster for Boston with an elegant celebratory mood and a bold contemporary design. On a clean off-white textured background with large areas of negative space, a miniature single sculler rows across the lower right corner of the image on a narrow ribbon of reflective water. The wake from the oar sweeps upward in a dynamic calligraphic curve, gradually transforming into the Charles River and then into a dreamlike hand-painted panorama of Boston. Inside this flowing river-shaped composition are iconic Boston elements: the Back Bay skyline, Beacon Hill brownstones, Acorn Street, Boston Public Garden, Swan Boats, Zakim Bridge, Fenway-inspired details, historic brick architecture, harbor ferries, and the city’s waterfront atmosphere. Soft morning fog, golden spring light, subtle festive accents in crimson and gold, rich detail, layered depth, sophisticated city-poster aesthetics, fresh and refined, visually powerful but not overcrowded. Elegant typography in the lower left reads “SPRING 2026” with a vertical slogan “BOSTON, A CITY OF RIVER, MEMORY, AND INVENTION”, text clear and beautifully composed, premium graphic design, 9:16
+```
 <!-- Case 420: Isometric Machine Cutaway Diorama (by @iamaiistudio) -->
 ### Case 420: [Isometric Machine Cutaway Diorama](https://x.com/iamaiistudio/status/2069014486707798113) (by [@iamaiistudio](https://x.com/iamaiistudio))
 

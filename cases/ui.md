@@ -11,21 +11,9 @@
 **Prompt:**
 
 ```
-
-<!-- Case 190: Chinese Wildlife Infographic (by @iamaiistudio) -->
-### Case 190: [Chinese Wildlife Infographic](https://x.com/iamaiistudio/status/2068852226844664044) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-<table>
-<tr><td width="50%"><a href="../images/ui_case190/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case190/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Chinese Wildlife Infographic"></a></td><td width="50%"><a href="../images/ui_case190/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case190/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Chinese Wildlife Infographic"></a></td></tr>
-</table>
-
-**Prompt:**
-
+渲染一个专业的 iOS APP 首页 UI 图，该 APP 主题为 Al Video Generator 英文界面。专业级设计，专业风格，暗黑色主题
 ```
-Design a visually rich infographic about an endangered animal using Chinese text. Feature a photorealistic animal as the main focal point, surrounded by annotated diagrams, structured callouts, and concise labels covering its habitat, diet, and distinctive traits. Blend photorealism with bold graphic design elements including color blocking, icons, and layered shapes on a clean background. Make it dense with information, tactile in feel, and professionally crafted.
-```
-用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它
-```
+
 ### Case 2: [Amateur iPhone Keynote Snapshot](https://x.com/patrickassale/status/2044687244368441742) (by [@patrickassale](https://x.com/patrickassale))
 
 | Output |
@@ -2815,7 +2803,7 @@ Highly detailed, colored pencil illustration, crayon art style, hand-sketched te
 
 **Prompt:**
 
-```json
+```
 {
   "type": "18-section complete brand identity and mascot design sheet",
   "brand": {
@@ -3150,6 +3138,20 @@ Full prompt:
 A first-person point-of-view (POV) shot inside a modern supermarket aisle. The viewer's hands are holding a mixed fruit jam jar with colorful branding, showing a blend of strawberry, blueberry, and orange flavors. Floating around the jar are sleek, semi-transparent Augmented Reality (AR) digital interfaces and holographic HUDs. The overlays display "Flavor Mix" with fruit icons, "Nutrition Info," and a glowing "Freshness Meter" reading 9/10. A digital shopping list with checkmarks for bread and butter appears beside the jar, along with small recipe suggestions like breakfast toast, pancakes, and desserts. The background shelves are slightly blurred with other products and shoppers, creating realistic depth of field. Bright, clean lighting with a futuristic retail atmosphere, ultra-realistic, cinematic look, high-tech AR glasses perspective, vertical composition.
 ```
 
+<!-- Case 190: Chinese Wildlife Infographic (by @iamaiistudio) -->
+### Case 190: [Chinese Wildlife Infographic](https://x.com/iamaiistudio/status/2068852226844664044) (by [@iamaiistudio](https://x.com/iamaiistudio))
+
+<table>
+<tr><td width="50%"><a href="../images/ui_case190/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case190/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Chinese Wildlife Infographic"></a></td><td width="50%"><a href="../images/ui_case190/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case190/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Chinese Wildlife Infographic"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+Design a visually rich infographic about an endangered animal using Chinese text. Feature a photorealistic animal as the main focal point, surrounded by annotated diagrams, structured callouts, and concise labels covering its habitat, diet, and distinctive traits. Blend photorealism with bold graphic design elements including color blocking, icons, and layered shapes on a clean background. Make it dense with information, tactile in feel, and professionally crafted.
+
+用这种风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它
+```
 <!-- Case 191: Scandinavian Cookbook Recipe Spread (by @iamaiistudio) -->
 ### Case 191: [Scandinavian Cookbook Recipe Spread](https://x.com/iamaiistudio/status/2069197657147638241) (by [@iamaiistudio](https://x.com/iamaiistudio))
 

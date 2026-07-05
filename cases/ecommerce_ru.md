@@ -2,6 +2,64 @@
 
 > Part of [awesome-gpt-image-2-prompts](../README_ru.md)
 
+### Case 89: [E-commerce Live Stream UI Mockup](https://x.com/sjbbxhz/status/2045684734714380687) (by [@sjbbxhz](https://x.com/sjbbxhz))
+
+| Результат |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg" width="300" alt="Результирующее изображение"></a> |
+
+**Промпт：**
+
+```
+{
+  "type": "live stream UI mockup",
+  "subject": {
+    "description": "portrait of {argument name=\"host name\" default=\"Elon Musk\"}, smiling, wearing a black t-shirt with a white technical schematic graphic",
+    "background": "left side shows a screen with '{argument name=\"left background logo\" default=\"SPACEX\"}' text, right side shows a red '{argument name=\"right background logo\" default=\"Tesla T logo\"}' and a dark car"
+  },
+  "ui_overlay": {
+    "top_header": {
+      "host_info": "avatar, name '{argument name=\"host name\" default=\"Elon Musk\"}', subtext '55.6万本场点赞', red '关注' button",
+      "rank_badge": "gold coin icon with '全站第1名'",
+      "viewer_stats": "3 top viewer avatars with '12.3w', '8.6w', '5.7w', total '68.7万', 'X' close button",
+      "right_links": "'更多直播 >', '礼物展馆 0/24' with blue '经典' tag"
+    },
+    "mid_left_gifts": {
+      "count": 2,
+      "items": [
+        "avatar '科技爱好者', '送小心心', heart icon x 1314",
+        "avatar '星辰大海', '送火箭', rocket icon x 666"
+      ]
+    },
+    "bottom_left_chat": {
+      "system_message": "level 37 badge '宇宙漫游者 加入了直播间'",
+      "message_count": 7,
+      "messages": [
+        "小火箭: 马斯克!未来可期!🚀",
+        "future: 特斯拉Model 2什么时候出?",
+        "星空梦想家: SpaceX今年能上火星吗?",
+        "AI探索者: Neuralink进展如何?",
+        "帅气的网友: 马总好!",
+        "Mars: 第一次来你的直播,超激动!",
+        "用户123: 讲讲AI吧,会取代人类吗?"
+      ]
+    },
+    "bottom_right_product_card": {
+      "hot_tag": "orange '热卖 x 1888'",
+      "image": "Tesla Cybertruck",
+      "title": "{argument name=\"product name\" default=\"特斯拉Cybertruck 电动皮卡\"}",
+      "price": "{argument name=\"product price\" default=\"¥ 1,618,000\"}",
+      "button": "red '抢' button",
+      "floating_animation": "translucent hearts floating up the right edge"
+    },
+    "bottom_bar": {
+      "input_field": "'说点什么...'",
+      "icons": ["smiley face", "three dots", "shopping cart", "gift box", "share"]
+    }
+  }
+}
+```
+
 ### Case 113: [E-commerce Main Image - Luxury Amber Perfume Ad](https://x.com/Polanco_IA/status/2047689647967609037) (by [@Polanco_IA](https://x.com/Polanco_IA))
 
 | Результат |
@@ -237,64 +295,6 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
 
 ```
 Using the provided reference image, transform the single casual product photo into a polished e-commerce TVC storyboard board for a {argument name="video duration" default="15-second"} ad in a {argument name="aspect ratio" default="9:16"} vertical format, presented as a 9-panel grid. Keep the same blue-and-white ceramic ashtray as the product base, but restage it across cinematic advertising shots with warm premium lighting, shallow depth of field, and a refined lifestyle desktop environment. Add a dark storyboard layout with Chinese titles and timing for each panel. Include exactly 9 scenes: 1) environment-establishing wide shot with desk, books, window, and the product placed in context; 2) hero product medium shot on the table; 3) extreme close-up of the blue floral craftsmanship pattern; 4) use case showing a hand placing a cigarette into the ashtray with visible smoke; 5) top-down capacity display showing multiple cigarette butts inside; 6) cleaning scene under running water in a sink with a hand holding the product; 7) bottom-detail close-up showing the underside and anti-slip pads; 8) mood/lifestyle scene at night with the product on a desk, smoke rising, and ambient lamp light; 9) brand closing frame with the product as the hero plus Chinese marketing text. Add the overall header text “产品TVC分镜脚本(15秒 / 9:16竖屏 / 9宫格)” and a product subtitle naming it {argument name="product name" default="青花瓷烟灰缸"}. Give each of the 9 panels a Chinese scene title and timestamp, plus small descriptive Chinese copy beneath each image in the style of a professional commercial shot list. Use premium, realistic commercial photography throughout, consistent product identity, elegant Chinese aesthetic, and a clean high-end storyboard presentation.
-```
-
-### Case 89: [E-commerce Live Stream UI Mockup](https://x.com/sjbbxhz/status/2045684734714380687) (by [@sjbbxhz](https://x.com/sjbbxhz))
-
-| Результат |
-| :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg" width="300" alt="Результирующее изображение"></a> |
-
-**Промпт：**
-
-```
-{
-  "type": "live stream UI mockup",
-  "subject": {
-    "description": "portrait of {argument name=\"host name\" default=\"Elon Musk\"}, smiling, wearing a black t-shirt with a white technical schematic graphic",
-    "background": "left side shows a screen with '{argument name=\"left background logo\" default=\"SPACEX\"}' text, right side shows a red '{argument name=\"right background logo\" default=\"Tesla T logo\"}' and a dark car"
-  },
-  "ui_overlay": {
-    "top_header": {
-      "host_info": "avatar, name '{argument name=\"host name\" default=\"Elon Musk\"}', subtext '55.6万本场点赞', red '关注' button",
-      "rank_badge": "gold coin icon with '全站第1名'",
-      "viewer_stats": "3 top viewer avatars with '12.3w', '8.6w', '5.7w', total '68.7万', 'X' close button",
-      "right_links": "'更多直播 >', '礼物展馆 0/24' with blue '经典' tag"
-    },
-    "mid_left_gifts": {
-      "count": 2,
-      "items": [
-        "avatar '科技爱好者', '送小心心', heart icon x 1314",
-        "avatar '星辰大海', '送火箭', rocket icon x 666"
-      ]
-    },
-    "bottom_left_chat": {
-      "system_message": "level 37 badge '宇宙漫游者 加入了直播间'",
-      "message_count": 7,
-      "messages": [
-        "小火箭: 马斯克!未来可期!🚀",
-        "future: 特斯拉Model 2什么时候出?",
-        "星空梦想家: SpaceX今年能上火星吗?",
-        "AI探索者: Neuralink进展如何?",
-        "帅气的网友: 马总好!",
-        "Mars: 第一次来你的直播,超激动!",
-        "用户123: 讲讲AI吧,会取代人类吗?"
-      ]
-    },
-    "bottom_right_product_card": {
-      "hot_tag": "orange '热卖 x 1888'",
-      "image": "Tesla Cybertruck",
-      "title": "{argument name=\"product name\" default=\"特斯拉Cybertruck 电动皮卡\"}",
-      "price": "{argument name=\"product price\" default=\"¥ 1,618,000\"}",
-      "button": "red '抢' button",
-      "floating_animation": "translucent hearts floating up the right edge"
-    },
-    "bottom_bar": {
-      "input_field": "'说点什么...'",
-      "icons": ["smiley face", "three dots", "shopping cart", "gift box", "share"]
-    }
-  }
-}
 ```
 
 ### Case 161: [Premium product studio shot template](https://x.com/PrometheanAIX/status/2049141839882522707) (by [@PrometheanAIX](https://x.com/PrometheanAIX))
@@ -684,8 +684,8 @@ full prompt:
 }
 ```
 
-<!-- Case 175: Предметная съемка острого чили-чатни (by @iamaiistudio) -->
-### Case 175: [Предметная съемка острого чили-чатни](https://x.com/iamaiistudio/status/2068032837610356989) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 175: Фото продукта острый перечный чатни (by @iamaiistudio) -->
+### Case 175: [Фото продукта острый перечный чатни](https://x.com/iamaiistudio/status/2068032837610356989) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/ecommerce_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Предметная съемка острого чили-чатни"></a></td><td width="50%"><a href="../images/ecommerce_case175/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Предметная съемка острого чили-чатни"></a></td></tr>
@@ -698,8 +698,8 @@ full prompt:
 Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surface, surrounded by whole red tomatoes, tomato halves, fresh red chili peppers, black peppercorns, and a small wooden bowl with chutney and a spoon. Warm earthy backdrop, soft directional light, deep rich shadows, high contrast, clean minimal styling, commercial product photography, ultra-detailed, 4K.
 ```
 
-<!-- Case 176: Сет фуд-фотографии с левитацией (by @iamaiistudio) -->
-### Case 176: [Сет фуд-фотографии с левитацией](https://x.com/iamaiistudio/status/2067851560168931394) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 176: Парящая фотография еды (by @iamaiistudio) -->
+### Case 176: [Парящая фотография еды](https://x.com/iamaiistudio/status/2067851560168931394) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/ecommerce_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case176/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Сет фуд-фотографии с левитацией"></a></td><td width="50%"><a href="../images/ecommerce_case176/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case176/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Сет фуд-фотографии с левитацией"></a></td></tr>

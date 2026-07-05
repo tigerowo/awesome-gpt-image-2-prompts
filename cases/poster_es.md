@@ -71,7 +71,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
 文字排版优美，大方，字迹清晰完整，尺寸9:16。
 ```
-
 ### Case 7: [Doodle Sketch AI Builder](https://x.com/blanplan/status/2045190582453350748) (by [@blanplan](https://x.com/blanplan))
 
 | Resultado |
@@ -105,7 +104,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて
 ```
-
 ### Case 10: [Browser Game Ad Creative Poster](https://x.com/llllegend0620/status/2045963764466688065) (by [@llllegend0620](https://x.com/llllegend0620))
 
 | Resultado |
@@ -120,7 +118,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 広告クリエイティブ制作
 思いついたら、もう遊べる。 AI×ブラウザゲームづくりは、マジで楽しい。 むずかしそうで、実ははじめやすい。 コードがわからなくても、はじめの一本は作れる
 ```
-
 ### Case 11: [Surreal Koi Nebula Illustration](https://x.com/liyue_ai/status/2045875219307655337) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Resultado |
@@ -132,7 +129,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16
 ```
-
 ### Case 12: [Ink-Curve Guangzhou Aesthetics Poster](https://x.com/liyue_ai/status/2045873940883808523) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Resultado |
@@ -144,7 +140,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 纯黑深邃底色，一条粗壮有力的墨色书法 S 型曲线自画面一端蜿蜒贯穿至另一端，构成整幅画面的视觉骨架与叙事动线。曲线上方是一只透明质感的画眉鸟，内部映射传统建筑叠影与蓝绿色光流；沿曲线错落分布广州地标与古典建筑序列，前景有白鹤与湖面，远景为层叠山峦。整体采用非线性透视、冷色调主导、暖色点缀，东方美学与现代意象交融，8K 超高清渲染，比例 9:16。
 ```
-
 ### Case 13: [Guangdong Super League Invitation Poster](https://x.com/liyue_ai/status/2045772039521542202) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Resultado |
@@ -156,7 +151,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 广东省城市足球超级联赛（粤超）邀请函海报设计，比例 9:16。S 型流动构图，以发光足球和动态能量流贯穿画面，沿动线融合广州塔、深圳平安金融中心、珠海渔女雕像、岭南建筑、佛山武术剪影、中山文化符号、潮汕英歌舞与清远山水。现代国潮高级海报风格，中国红主视觉，青蓝辅助，金色高光，带完整中文排版与电影级光影。
 ```
-
 ### Case 14: [Spring 2026 Guangzhou Promo Poster](https://x.com/grok/status/2046012437086818395) (by [@grok](https://x.com/grok))
 
 | Resultado |
@@ -168,7 +162,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 一张充满新春喜庆但高雅的 2026 广州城市宣传海报，9:16 竖版，双重曝光，S 型流动构图。纯白纹理背景，右下角微缩传统服饰人物挥舞长红绸，红绸变形成山脉河流，内部叠加广州全景：广州塔、珠江新城、珠江、游轮、古建筑与白云山。左下角排版 “SPRING 2026” 与竖排 “千年商都 魅力广州”。
 ```
-
 ### Case 15: [Epic Silhouette World Poster](https://x.com/Ghhhh3owi/status/2045803217251102897) (by [@Ghhhh3owi](https://x.com/Ghhhh3owi))
 
 | Resultado |
@@ -180,7 +173,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 收藏版史诗海报，人物侧脸剪影中生长出完整世界观与经典场景。整体偏电影海报加梦幻水彩插画风，安静、宏大、神圣、怀旧，带纸张颗粒、轻雾感、飞白刷痕与高级留白。
 ```
-
 ### Case 24: [Spring Guangzhou City Poster](https://x.com/alanlovelq/status/2045484598487060917) (by [@alanlovelq](https://x.com/alanlovelq))
 
 | Resultado |
@@ -198,7 +190,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 云雾环绕，仙气缥缈，色彩丰富，结构复杂，细节丰富，但因为大面积的留白，画面依然显得清新脱俗，左下角排版着“SPRING 2026”和竖排的宣传语，整体寓意“千年商都，魅力广州”。
 文字排版优美，大方，字迹清晰完整，尺寸9:16。
 ```
-
 ### Case 32: [Science Encyclopedia Vertical Poster](https://x.com/pfanis/status/2046413660147314714) (by [@pfanis](https://x.com/pfanis))
 
 | Resultado |
@@ -210,7 +201,6 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 Generate a high-quality vertical science popularization encyclopedia image based on [Theme].
 ```
-
 ### Case 33: [Journey to the West Chinese Comic](https://x.com/overseas58/status/2046271877577097376) (by [@overseas58](https://x.com/overseas58))
 
 | Resultado |
@@ -222,7 +212,6 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 以中国连环画（小人书）的风格帮我绘制大闹天空
 ```
-
 ### Case 34: [Character Relationship Map Poster](https://x.com/MrLarus/status/2046263153546174935) (by [@MrLarus](https://x.com/MrLarus))
 
 | Resultado |
@@ -234,7 +223,6 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 请根据【主题】生成一张高设计感的人物关系图海报。
 ```
-
 ### Case 35: [New Chinese Ink Landscape Poster](https://x.com/liyue_ai/status/2046215276249993720) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Resultado |
@@ -246,7 +234,6 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 新中式水墨山水海报，竖版9:16构图，东方极简美学风格，大面积留白，主题是春岚一叶红。
 ```
-
 ### Case 36: [AI Builder Doodle Sketch](https://x.com/opc_8838/status/2046162334440448339) (by [@opc_8838](https://x.com/opc_8838))
 
 | Resultado |
@@ -258,7 +245,6 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 以涂鸦速写风表现【一个厉害的AI builder】。
 ```
-
 ### Case 38: [Character Visual Vertical Poster](https://x.com/tebasaki3D/status/2046371076402503709) (by [@tebasaki3D](https://x.com/tebasaki3D))
 
 | Resultado |
@@ -270,7 +256,6 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 『神層37区 特級執行官 神巫サバト』この名称のキャラクターと世界観に合ったビジュアルイメージを、プロのデザイナーとして縦長のポスターイメージとして制作して
 ```
-
 ### Case 39: [Science Encyclopedia Infographic](https://x.com/MrLarus/status/2046231542817497392) (by [@MrLarus](https://x.com/MrLarus))
 
 | Resultado |
@@ -300,7 +285,6 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。
 ```
-
 ### Case 40: [Fictional Anime Movie Poster](https://x.com/seiiiiiiiiiiru/status/2046509734954741780) (by [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru))
 
 | Resultado |
@@ -312,7 +296,6 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 架空のアニメ映画のポスターをGPT image2で作成。
 ```
-
 ### Case 41: [Product Ad Redesign](https://x.com/genel_ai/status/2046498264774791514) (by [@genel_ai](https://x.com/genel_ai))
 
 | Resultado |
@@ -325,7 +308,6 @@ Generate a high-quality vertical science popularization encyclopedia image based
 この商品広告をプロのデザイナー目線でリデザインして。
 今のトレンド、ターゲットに合わせた洗練されたデザインで。
 ```
-
 ### Case 42: [Dark-Fantasy Guangzhou City Poster](https://x.com/liyue_ai/status/2046243132774494607) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Resultado |
@@ -349,7 +331,6 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 デメニギスの体の構造を解説するカラー図鑑のページ
 ```
-
 ### Case 45: [Science Fiction Movie Poster](https://x.com/underwoodxie96/status/2046514205529088501) (by [@underwoodxie96](https://x.com/underwoodxie96))
 
 | Resultado |
@@ -361,7 +342,6 @@ Generate a high-quality vertical science popularization encyclopedia image based
 ```
 Create a Science fiction movie poster
 ```
-
 ### Case 46: [Refreshing Summer Udon Ad](https://x.com/genel_ai/status/2046501692246470871) (by [@genel_ai](https://x.com/genel_ai))
 
 | Resultado |
@@ -373,7 +353,6 @@ Create a Science fiction movie poster
 ```
 少し暑くなってきた今の時期に、さわやかにさっぱりしたい、みずみずしさ、みたいなところをもっと強く感じたい。冷たいうどんやナス、つゆを口に含んだ時の爽快感、みたいなものをもっと感じるように
 ```
-
 ### Case 47: [Handwritten Medical Prescription Sheet](https://x.com/MrLarus/status/2046514998965371144) (by [@MrLarus](https://x.com/MrLarus))
 
 | Resultado |
@@ -385,7 +364,6 @@ Create a Science fiction movie poster
 ```
 生成一张手写中/西医药方图
 ```
-
 ### Case 48: [Silicon Valley 2026 Promo Poster](https://x.com/carsonyungos/status/2046523198116889064) (by [@carsonyungos](https://x.com/carsonyungos))
 
 | Resultado |
@@ -407,7 +385,6 @@ Surrounded by soft mist, golden California light, floating clouds, and delicate 
 
 In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” with a vertical promotional slogan: “Where Ideas Shape Tomorrow.” Beautiful editorial layout, graceful spacing, clear and complete lettering, premium city branding poster, cinematic lighting, sophisticated details, 9:16 aspect ratio.
 ```
-
 ### Case 49: [Japanese Supermarket Sale Flyer](https://x.com/weel_corp/status/2046514558064586782) (by [@weel_corp](https://x.com/weel_corp))
 
 | Resultado |
@@ -419,7 +396,6 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 ```
 『賑やかで魅力的なスーパーマーケットの折り込みチラシの画像。上部には「特売」の大きな文字と今週の日付。カラフルな商品写真(野菜・果物・牛肉・鮮魚)、赤枠の価格タグ、「超目玉商品」「家計応援」のキャッチ...』
 ```
-
 ### Case 50: [Dark Epic Concept Poster](https://x.com/A9Quant/status/2046224777208361126) (by [@A9Quant](https://x.com/A9Quant))
 
 | Resultado |
@@ -515,7 +491,6 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 画面必须具备:暗黑感、史诗感、压迫感、仪式感、命运感、电影完成度。
 最大细节密度,超清,电影级,印刷级,高端成片质感。
 ```
-
 ### Case 51: [Pilates Studio Ad Poster](https://x.com/ck_igarashi/status/2046528889124728993) (by [@ck_igarashi](https://x.com/ck_igarashi))
 
 | Resultado |
@@ -527,7 +502,6 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 ```
 ピラティス教室の広告画像を作成したい テキストはよりユーザーが登録をするのに惹かれるような文言にし、画像内には女性がピラティスを実際に行っている様子を映して
 ```
-
 ### Case 52: [6-Block Fashion Campaign Prompt Formula](https://x.com/anacoding/status/2046904999045628114) (by [@anacoding](https://x.com/anacoding))
 
 | Resultado |
@@ -542,7 +516,6 @@ Old money Hamptons editorial, tall blonde woman late 20s, serene elegant express
 
 > [!NOTE]
 > Prompt structure shared in the thread: `[character] [person description] [outfit] [quality 1] [quality 2] [place]`.
-
 ### Case 53: [Sony A7 Exploded View Breakdown Prompt](https://x.com/iaPulse_/status/2046903739429097660) (by [@iaPulse_](https://x.com/iaPulse_))
 
 | Resultado |
@@ -554,7 +527,6 @@ Old money Hamptons editorial, tall blonde woman late 20s, serene elegant express
 ```
 Descomposición detallada de una cámara de la marca Sony modelo A7 indicando todas sus piezas y con sus nombres.
 ```
-
 ### Case 54: [1900 Istiklal Street Panorama Prompt](https://x.com/ai_gezgini/status/2046903631509705030) (by [@ai_gezgini](https://x.com/ai_gezgini))
 
 | Resultado |
@@ -571,37 +543,6 @@ Generate somthing super complex and info dense...
 用可爱的风格讲述中国远征军的历史故事
 用波普风格讲述金刚经
 ```
-
-### Case 57: [Theme Science Encyclopedia Card](https://x.com/alanlovelq/status/2046378199681257920) (by [@alanlovelq](https://x.com/alanlovelq))
-
-| Resultado |
-| :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case54/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case54/output.jpg" width="300" alt="Imagen de resultado"></a> |
-
-**Prompt：**
-
-```
-请根据【主题】生成一张高质量竖版「科普百科图」。
-
-这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
-
-请让画面包含:
-- 一个清晰漂亮的主题主视觉
-- 若干局部特征放大细节
-- 多个圆角模块化信息分区
-- 清楚的标题层级与重点标签
-- 简洁但丰富的百科内容
-- 可视化评分、要点总结或Top 5模块
-
-内容栏目请根据主题自动适配,优先从这些方向中选择并合理组合:
-基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。
-
-视觉要求:
-浅色干净背景,柔和配色,轻阴影,精致小图标,圆角信息框,整洁排版,信息密度高但不拥挤,阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡,而不是广告图。
-
-请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。
-```
-
 ### Case 55: [Chili Pork Cooking Flowchart](https://x.com/Kurt_Rousey466/status/2046267707881029934) (by [@Kurt_Rousey466](https://x.com/Kurt_Rousey466))
 
 | Resultado |
@@ -613,7 +554,6 @@ Generate somthing super complex and info dense...
 ```
 帮我制作辣椒炒肉这道菜的详细制作流程图,真实风格,适用于小红书图文比例
 ```
-
 ### Case 56: [Cinematic Infographic Concept Poster](https://x.com/A9Quant/status/2046228485841334559) (by [@A9Quant](https://x.com/A9Quant))
 
 | Resultado |
@@ -699,8 +639,35 @@ AI 必须依据【主题】自动决定最合适的:
 画面必须具备史诗感、秩序感、控制力、仪式感、商业完成度。
 最大细节密度,超清,电影级,印刷级,高端成片质感。
 ```
+### Case 57: [Theme Science Encyclopedia Card](https://x.com/alanlovelq/status/2046378199681257920) (by [@alanlovelq](https://x.com/alanlovelq))
 
+| Resultado |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case54/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case54/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
+**Prompt：**
+
+```
+请根据【主题】生成一张高质量竖版「科普百科图」。
+
+这张图不是普通海报,也不是单纯插画,而是一张兼具“图鉴感、百科感、信息结构感、收藏感”的模块化科普信息图。整体风格参考高级博物图鉴、现代百科书页、生活方式知识卡和社交媒体高传播信息图的结合。
+
+请让画面包含:
+- 一个清晰漂亮的主题主视觉
+- 若干局部特征放大细节
+- 多个圆角模块化信息分区
+- 清楚的标题层级与重点标签
+- 简洁但丰富的百科内容
+- 可视化评分、要点总结或Top 5模块
+
+内容栏目请根据主题自动适配,优先从这些方向中选择并合理组合:
+基础档案、分类信息、外观特征、习性/生态、形成机制/结构组成、生长或使用条件、养护或维护建议、风险与注意事项、适合人群或适用场景、优缺点对比、快速评分卡。
+
+视觉要求:
+浅色干净背景,柔和配色,轻阴影,精致小图标,圆角信息框,整洁排版,信息密度高但不拥挤,阅读体验好。整体必须像真正可以发布、阅读、收藏、系列化生产的科普百科卡,而不是广告图。
+
+请不要做成普通商业宣传海报。要突出“知识整理 + 模块信息 + 图鉴式展示”的特征。
+```
 ### Case 58: [A full-body outdoor shot captures a young Caucasian woman, possibly in her la...](https://x.com/AIwithSarah_/status/2047234995627172229) (by [@AIwithSarah_](https://x.com/AIwithSarah_))
 
 | Resultado |
@@ -712,7 +679,6 @@ AI 必须依据【主题】自动决定最合适的:
 ```
 A full-body outdoor shot captures a young Caucasian woman, possibly in her late 20s, striding through a city crosswalk. She wears an oversized, matte chocolate-brown leather jacket paired with a free-flowing black skirt and sleek knee-high black boots, conveying a sense of high fashion street style. Her long, dark brown hair is wind-swept, complementing her poised and confident expression as she glances sideways. Behind her, a blurred urban backdrop features a yellow taxi and pedestrians, with buildings displaying varied architectural details in neutral tones. The scene utilizes soft ambient daylight filtering through light cloud cover, producing a muted, overcast lighting effect. The warm, earthy color palette consists of brown, black, and touches of beige. The image, likely from a high-resolution digital camera, presents a wide-angle view that maintains focus throughout, emphasizing a dynamic and fashionable feel.
 ```
-
 ### Case 59: [A professional product photography shot of a cold sparkling water](https://x.com/meng_dagg695/status/2047227172486824002) (by [@meng_dagg695](https://x.com/meng_dagg695))
 
 | Resultado |
@@ -738,7 +704,6 @@ with clean shadows. Shallow depth of field - can in sharp focus,
 background softly blurred. Mood: summer, tropical, fresh, refreshing.
 Commercial product photography, ultra-detailed, 8K.
 ```
-
 ### Case 60: [360 Equirectangular Panorama Image](https://x.com/rs_elwood/status/2047192228758692036) (by [@rs_elwood](https://x.com/rs_elwood))
 
 | Resultado |
@@ -752,7 +717,6 @@ Commercial product photography, ultra-detailed, 8K.
 
 Online 360° Panorama Viewer VR
 ```
-
 ### Case 61: [Soft poetic children's book illustration with watercolor and gouache textures...](https://x.com/dotey/status/2047174895293849972) (by [@dotey](https://x.com/dotey))
 
 | Resultado |
@@ -768,7 +732,6 @@ Child character (around 12 years old).Subtle visual metaphors like light, shadow
 
 Two children in calm conversation,soft connection forming.
 ```
-
 ### Case 62: [Aspect Ratio: 9:16 Vertical](https://x.com/GeekCatX/status/2047220831491858766) (by [@GeekCatX](https://x.com/GeekCatX))
 
 | Resultado |
@@ -816,7 +779,6 @@ Structure: A visible, crisp white standing inner collar provides a clean boundar
 
 Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with palpable fiber texture. The embroidery is heavy industry—using panjin goldwork, couched gold
 ```
-
 ### Case 63: [Hangzhou West Lake Travel Poster](https://x.com/BNBOKBt5/status/2047210189741605082) (by [@BNBOKBt5](https://x.com/BNBOKBt5))
 
 | Resultado |
@@ -828,7 +790,6 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 ```
 帮我生成一个介绍杭州西湖的海报
 ```
-
 ### Case 64: [Dongfang Bubai Wuxia Character Poster](https://x.com/songguoxiansen/status/2047204566559756707) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Resultado |
@@ -842,7 +803,6 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 图片2：东方不败绣花针如飞，红衣长发立于悬崖，黑木崖夕阳如血
 ```
-
 ### Case 65: [A Chinese Odyssey 90s Hong Kong Poster](https://x.com/songguoxiansen/status/2047201597697245252) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Resultado |
@@ -856,7 +816,6 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 图片2：杜蕾斯吉祥物×猪八戒，八戒害羞脸红遮面，文案取经路上要安全
 ```
-
 ### Case 66: [Journey to the West Daughter Kingdom Poster](https://x.com/cj858cjsoul/status/2047103956535697822) (by [@cj858cjsoul](https://x.com/cj858cjsoul))
 
 | Resultado |
@@ -870,7 +829,6 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 4.23早上测试成功
 ```
-
 ### Case 67: [Royal Tramp Character Poster](https://x.com/caiziboshi/status/2047091751731519744) (by [@caiziboshi](https://x.com/caiziboshi))
 
 | Resultado |
@@ -882,7 +840,6 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 ```
 生成鹿鼎记海报，展现韦小宝跟老婆XXX，忠于原著的描述，夸大特点，强调女性的美艳和男性的气质
 ```
-
 ### Case 68: [generate an image of a racing car poster with its spec and pricing](https://x.com/verysmallwoods/status/2047033599229137126) (by [@verysmallwoods](https://x.com/verysmallwoods))
 
 | Resultado |
@@ -894,7 +851,6 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 ```
 generate an image of a racing car poster with its spec and pricing
 ```
-
 ### Case 69: [Charlie Chaplin Product Poster Redesign](https://x.com/chenenpei/status/2046985783715025135) (by [@chenenpei](https://x.com/chenenpei))
 
 | Resultado |
@@ -908,8 +864,6 @@ generate an image of a racing car poster with its spec and pricing
 
 左边是 GPT-image-2 右边是
 ```
-
-
 ### Case 70: [Luxury Sportswear Basketball Athlete Campaign Poster](https://x.com/Shorelyn_/status/2047949711181832558) (by [@Shorelyn_](https://x.com/Shorelyn_))
 
 | Resultado |
@@ -931,8 +885,6 @@ Lighting is bright luxury studio lighting with crisp highlights, soft shadows, a
 
 Style should feel modern, minimal, elite, bold, high fashion sports campaign, luxury brand advertisement, clean composition, balanced negative space, strong visual impact, high resolution, square format.
 ```
-
-
 ### Case 71: [Streetwear Fashion Campaign Asian Apparel Poster](https://x.com/harboriis/status/2047921293123895520) (by [@harboriis](https://x.com/harboriis))
 
 | Resultado |
@@ -952,8 +904,6 @@ Graphic poster layout with giant bold condensed sans serif text reading “JEANS
 
 Composition should feel premium, trendy, clean, commercial, youthful, modern fashion ad campaign. Sharp focus, ultra realistic fabric texture, cinematic lighting, balanced negative space, sleek branding design, high resolution, vertical poster ratio.
 ```
-
-
 ### Case 72: [Epic Career Moments Cinematic Poster Template](https://x.com/Goodmanprotocol/status/2047900470921040270) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 | Resultado |
@@ -965,8 +915,6 @@ Composition should feel premium, trendy, clean, commercial, youthful, modern fas
 ```
 Create an epic poster showcasing the most iconic moments of [Insert Name]'s career. Cinematic style, lens flare. Portrait orientation. A1 poster size. aspect ratio 4:5 https://t.co/L9OHPKUNRp
 ```
-
-
 ### Case 73: [Avant-Garde Basketball Sculpture Sports Fashion Ad](https://x.com/AIwithkhan/status/2047886964037398989) (by [@AIwithkhan](https://x.com/AIwithkhan))
 
 | Resultado |
@@ -978,8 +926,6 @@ Create an epic poster showcasing the most iconic moments of [Insert Name]'s care
 ```
 Avant-garde sports fashion advertisement, oversized basketball posed like a monumental sculpture, female athlete reclining across the ball’s curved surface as if modern furniture, giant word “ELEVATE” in bold typography behind, burnt orange studio backdrop, glossy reflective floor, luxury athletic editorial aesthetic, cinematic lighting, ultra-clean composition, 1:1
 ```
-
-
 ### Case 74: [Avant-Garde Tennis Racket Sculpture Sports Fashion Ad](https://x.com/AIwithSynthia/status/2047884609321619831) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
 
 | Resultado |
@@ -991,8 +937,6 @@ Avant-garde sports fashion advertisement, oversized basketball posed like a monu
 ```
 Avant-garde sports fashion advertisement, oversized tennis racket positioned like monumental sculpture, female athlete seated casually on the strings as if a suspended lounge, giant word “PRECISION” in bold typography behind, crisp white studio backdrop, reflective court-like floor, luxury sportswear editorial aesthetic, cinematic lighting, ultra-clean composition, 1:1
 ```
-
-
 ### Case 75: [Surrealist Liquor Brand High Fashion Poster](https://x.com/hmontilla_/status/2047884126343032995) (by [@hmontilla_](https://x.com/hmontilla_))
 
 | Resultado |
@@ -1009,8 +953,6 @@ En la parte inferior central, una frase publicitaria en tipografía sans-serif b
 
 Establecer la relación de aspecto en 3:4.
 ```
-
-
 ### Case 76: [Premium Food Recipe Poster Elegant Layout](https://x.com/Preda2005/status/2047883394152088004) (by [@Preda2005](https://x.com/Preda2005))
 
 | Resultado |
@@ -1023,8 +965,6 @@ Establecer la relación de aspecto en 3:4.
 Create a premium food preparation poster for
  [ DISH NAME ], with a beautiful hero dish, warm natural lighting, cream background, elegant step-by-step recipe layout, ingredients, cooking process, premium food photography, refined English typography, luxury restaurant advertisement style, clean design, rich colors, highly detailed, visually irresistible, cinematic masterpiece.
 ```
-
-
 ### Case 77: [Luxury Fashion Magazine Cover Black and White](https://x.com/iamrealsnow/status/2047883187527856345) (by [@iamrealsnow](https://x.com/iamrealsnow))
 
 | Resultado |
@@ -1038,8 +978,6 @@ Create a high fashion editorial magazine cover inspired by luxury fashion public
 Magazine layout design with oversized serif masthead text at the top reading “VOGUE”, partially hidden behind the subject’s head. Minimal premium typography across the page. Add side text “FASHION”, issue date “2026 MAY”, left side headline “27 DIFFERENT STYLES”, and bold bottom right cover line “LOOK FAMOUS”. Include a small red translucent square overlay on one eye area with the word “CATCHY”.
 Style should feel premium, modern, cinematic, clean composition, sharp focus, ultra realistic skin texture, editorial luxury aesthetic, balanced negative space, timeless fashion cover design. Vertical magazine ratio, high resolution.
 ```
-
-
 ### Case 78: [Surrealist Rolex Luxury Watch Fashion Poster](https://x.com/Sheldon056/status/2047873913049538927) (by [@Sheldon056](https://x.com/Sheldon056))
 
 | Resultado |
@@ -1051,8 +989,6 @@ Style should feel premium, modern, cinematic, clean composition, sharp focus, ul
 ```
 A high-fashion surrealist poster for Rolex. A deep emerald green minimalist studio with a polished reflective floor. A massive Rolex watch stands upright like a monument. A male model in a tailored dark green suit leans casually against the watch face, wearing a matching Rolex.
 ```
-
-
 ### Case 79: [Peacock Botanical Vintage Symmetrical Art Print](https://x.com/dotey/status/2047803054422901046) (by [@dotey](https://x.com/dotey))
 
 | Resultado |
@@ -1064,8 +1000,6 @@ A high-fashion surrealist poster for Rolex. A deep emerald green minimalist stud
 ```
 symmetrical design featuring two elegant blue peacocks with detailed feather patterns, surrounded by blue floral elements, intricate vintage botanical ornament, soft beige background, classical floral decor style with rich navy and sky blue details, decorative art illustration --ar 3:2
 ```
-
-
 ### Case 80: [SPLASH Fashion Brand Hyper-Realistic Campaign Poster](https://x.com/miratechtool/status/2047780974709346606) (by [@miratechtool](https://x.com/miratechtool))
 
 | Resultado |
@@ -1082,8 +1016,6 @@ Lighting: cinematic studio, soft key light + rim light, reflective highlights on
 Style: luxury brand campaign (Zara / H&M), clean glossy environment.
 Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
 ```
-
-
 ### Case 81: [Avant-Garde Guitar Sculpture Fashion Advertisement](https://x.com/QamarRiaz1/status/2047777016733110722) (by [@QamarRiaz1](https://x.com/QamarRiaz1))
 
 | Resultado |
@@ -1095,7 +1027,6 @@ Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
 ```
 Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a guitarist in jeans casually seated on the a button as if furniture, giant word "Plism Art" behind in bold white typography, powder pastel studio background, reflective floor, luxury eyewear campaign aesthetic, ultra-clean layout, editorial magazine styling, Bold quote " What are you listening"   Tag : Create Own Change
 ```
-
 ### Case 110: [Illustrated City Food Map](https://x.com/mm_zzm44854/status/2045861258520568230) (by [@mm_zzm44854](https://x.com/mm_zzm44854))
 
 | Resultado |
@@ -1141,7 +1072,6 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
   }
 }
 ```
-
 ### Case 111: [3D Stone Staircase Evolution Infographic](https://x.com/GeekCatX/status/2045792240044511277) (by [@GeekCatX](https://x.com/GeekCatX))
 
 | Resultado |
@@ -1193,7 +1123,6 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
   }
 }
 ```
-
 ### Case 119: [Biomimetic Skyray Aircraft Poster](https://x.com/_simonsmith/status/2048172203946996041) (by [@_simonsmith](https://x.com/_simonsmith))
 
 | Resultado |
@@ -1205,7 +1134,6 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 ```
 {"type":"biomimetic aerospace concept poster","subject":{"vehicle":"futuristic aircraft concept","name":"{argument name=\"vehicle name\" default=\"SKYRAY\"}","inspiration":"{argument name=\"animal inspiration\" default=\"stingray\"}","design":"blended-wing-body aircraft shaped like a manta ray or stingray, wide triangular planform, smooth organic curves, sharp pointed nose, slightly raised central spine, tapered wing tips curling subtly upward, dark graphite-black metallic skin with fine panel lines and faint blue illuminated accents along edges and seams"},"style":{"mood":"premium futuristic industrial design presentation","rendering":"hyper-detailed cinematic 3D concept art mixed with blueprint visualization","color_palette":"black, charcoal, gunmetal, silver, deep ocean blue, electric cyan highlights","lighting":"low-key dramatic studio lighting with glossy reflections, cool rim light, subtle underwater ambience in the top inspiration strip"},"layout":{"background":"full black poster with faint technical grid lines and soft vignetting","sections":[{"title":"header","position":"top","count":3,"labels":["emblem mark","SKYRAY","INSPIRED BY THE SEA. ENGINEERED FOR THE SKY."]},{"title":"evolution strip","position":"upper middle","count":5,"labels":["realistic stingray underwater at far left","top-view biological stingray study","abstract aerodynamic line sketch","faceted aircraft blueprint transition drawing","final sleek aircraft concept at far right"]},{"title":"hero render","position":"center","count":1,"labels":["large three-quarter view of the aircraft"]},{"title":"technical views grid","position":"lower middle","count":6,"labels":["TOP","SIDE","FRONT","REAR","UNDERSIDE","DETAIL"]},{"title":"footer text","position":"bottom","count":1,"labels":["{argument name=\"body text\" default=\"A biomimetic high-speed aircraft concept shaped by the hydrodynamic elegance of the stingray. Its blended wing body, low-drag silhouette, and fluid control surfaces translate ocean-born efficiency into atmospheric performance.\"}"]}],"technical views":{"TOP":"top orthographic view with measurement ticks","SIDE":"thin side profile with long smooth belly curve","FRONT":"front orthographic view emphasizing broad wingspan and central cockpit hump","REAR":"rear orthographic view showing narrow tail end and wing sweep","UNDERSIDE":"underside three-quarter view","DETAIL":"close-up crop of metallic skin, seam lines, and glowing blue edge strip"}},"graphics":{"logo":"minimal four-point symmetrical emblem above title, resembling a stylized ray silhouette","arrows":"4 thin cyan arrows connecting the 5 stages in the evolution strip","typography":"widely spaced modern sans-serif uppercase text, clean luxury-tech branding"},"camera":{"hero render":"slightly elevated front-left three-quarter angle","technical views":"orthographic","inspiration image":"underwater side angle with light rays from above"},"quality":"ultra-clean, polished, high contrast, sharp, poster-ready, concept design board for aerospace branding or speculative industrial design"}
 ```
-
 ### Case 120: [Taoist Three Souls Seven Po Poster](https://x.com/leyu37829/status/2048125950681075833) (by [@leyu37829](https://x.com/leyu37829))
 
 | Resultado |
@@ -1217,7 +1145,6 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 ```
 A highly detailed vertical Taoist esoteric infographic poster in the style of an ancient Chinese religious scroll, printed on aged beige rice paper with fine ornamental borders, inked calligraphy, faded stains, and classical diagram annotations. At the top center, large black brush-calligraphy title text reads {argument name="headline text" default="道·三魂七魄"}. Directly below the title is a smaller paragraph of classical Chinese explanatory text in neat calligraphy. The composition is perfectly symmetrical and centered on a glowing vertical spiritual axis made of white-gold energy, mist, and lightning-like qi currents running from the bottom of the page to the heavens. At the very top, above the axis, depict 3 seated Taoist immortals or deities on clouds in a golden celestial realm, arranged left, center, and right, with halos and flowing robes in muted green, cream, and blue. Beneath them, create a towering multi-layered cosmological body diagram made of 9 stacked circular realms or platforms connected by swirling clouds and luminous energy. The upper 5 larger realms represent the five zang organs as miniature mythic landscapes: 1 forested green realm labeled liver/wood, 1 fiery red-gold temple city realm labeled heart/fire, 1 yellow earth realm with terraces labeled spleen/earth, 1 silver-blue mountain-and-water realm labeled lung/metal, and 1 dark blue watery abyss realm labeled kidney/water. Place a glowing meditating figure in a bright orb at the center junction between the upper organ realms and lower spirit layers. Below these, add 7 progressively darker circular underworld-like realms for the seven po souls, each densely populated with tiny scenes of human figures, spirits, beasts, ritual activity, suffering, temptation, conflict, and karmic symbolism, all wrapped by drifting smoke and energy ribbons. At the very bottom, show a seated human figure in meditation within a root-like cavern or corporeal foundation, surrounded by chains, rocks, and embodied worldly attachments. Around the central column, include exactly 9 labeled side panels and diagrams in traditional Chinese layout: top left a bagua and yin-yang cosmology circle; top right a dotted numerological or constellation-like chart; left upper a boxed list for 3 souls; right upper a boxed list for 7 po souls; left middle a five-elements relationship diagram with 5 colored nodes; right middle a circular essence-qi-spirit cycle diagram with 3 nodes; left lower a vertical boxed list of 7 categories or stages; right lower a boxed correspondence table; bottom left a five-direction and five-element human-body relation chart; bottom right a standing and seated meridian or cultivation body diagram. Use many small Chinese labels throughout every section, with classical seal stamps in red. The overall palette is antique parchment, sepia ink, muted jade, cinnabar red, smoky gray, gold, teal, and indigo. The style should feel like a museum-quality Daoist metaphysical chart, ultra intricate, hand-painted gongbi plus ink wash illustration, sacred, mystical, scholarly, dense with symbolism, extremely fine linework, soft cloud layering, and high-resolution poster design.
 ```
-
 ### Case 121: [Vintage Claude Shannon Infographic Poster](https://x.com/mob_17/status/2048118645017219381) (by [@mob_17](https://x.com/mob_17))
 
 | Resultado |
@@ -1229,7 +1156,6 @@ A highly detailed vertical Taoist esoteric infographic poster in the style of an
 ```
 {"type":"vintage editorial infographic poster","subject":"Claude Shannon and information theory","style":{"era":"1940s Bell Labs archival poster","look":"aged cream paper, blueprint drafting grid, thin ink linework, muted navy and charcoal printing, subtle stains and paper wear, technical illustration mixed with newspaper editorial design","rendering":"high-detail diagrammatic collage with engraved portrait, scientific charts, labeled panels, and hand-drawn signal graphics"},"poster":{"headline":"Claude Shannon — The Architecture of Information","subheadline":"How uncertainty became measurable, and communication became engineering.","topRightMeta":{"note":"NOTE TOSELF No. 6713–2","date":"MAY 1948","subject":"A Mathematical Theory of Communication"}},"layout":{"sections":[{"title":"left archival sidebar","position":"far left vertical column","count":5,"labels":["BELL LABORATORIES MURRAY HILL, N.J.","ENGINEERING THE INTANGIBLE","CLAUDE E. SHANNON 1916–2001","TOOLS OF THE INFORMATION AGE","quote panel"]},{"title":"THE COMMUNICATION MODEL","position":"upper middle wide panel","count":5,"labels":["1 INFORMATION SOURCE","2 ENCODER","3 CHANNEL","4 DECODER","5 DESTINATION"]},{"title":"ENTROPY: THE MEASURE OF UNCERTAINTY","position":"upper right box","count":4,"labels":["H(X) = −Σ p(x) log2 p(x)","PROBABILITY DISTRIBUTION p(x)","MORE EVEN MORE MAXED UNCERTAINTY","MORE LOPSIDED LESS UNCERTAINTY"]},{"title":"lower theory panels","position":"middle to lower band","count":3,"labels":["A ENTROPY — uncertainty before a message is known","B NOISE — randomness that corrupts transmission","C Redundancy & Error Correction — structure added so signals can survive failure"]},{"title":"THEORY THAT TRANSFORMED CIVILIZATION","position":"bottom horizontal timeline","count":8,"labels":["1840s TELEGRAPHY","1876+ TELEPHONE NETWORKS","1930s–40s DIGITAL COMPUTERS","1950s–60s SATELLITE COMMUNICATION","1970s INTERNET PROTOCOLS","1980s–90s DATA COMPRESSION","1990s–2000s CRYPTOGRAPHY","2010s+ AI & INFORMATION SYSTEMS"]}],"centerpiece":"a large abstract cloud of blue and gray signal noise, dots, lines, and waveforms behind the communication model, with arrows moving left to right through the five stages"},"visualElements":{"portrait":{"subject":"{argument name=\"scientist name\" default=\"Claude Shannon\"}","placement":"left-center","style":"black-and-white archival seated portrait at a desk with the face intentionally obscured by a pale square censor block, wearing suit and tie, writing on paper"},"objectsLeft":["rotary telephone on desk","open notebook or papers","technical console with CRT screen and knobs behind portrait","small icon row of 4 tools: oscilloscope, signal meter, relay, punched tape"],"communicationModel":["book and symbols under source","binary digits under encoder","large noisy channel cloud with wave overlays","binary digits and interpretation under decoder","light bulb icon under destination"],"chartsAndDiagrams":["bar chart for entropy probabilities","two low vs high entropy mini bar charts","tree diagram and entropy notation","signal distortion sketches labeled thermal noise, cross talk, distortion","error-correction binary pipeline from original message to recovered message"],"bottomDecor":["small waveform legend with sine wave, digital signal, and noise","archival stamp or footer on lower right"]},"color":{"background":"warm ivory paper","primaryInk":"dark navy","secondaryInk":"charcoal gray","accent":"faded steel blue"},"composition":"symmetrical wide poster with dense boxed annotations, fine border lines, and a museum-quality educational infographic feel","textDensity":"very high, with many small labels, formulas, captions, and historical notes in a carefully organized grid","aspectRatio":"16:9 landscape"}
 ```
-
 ### Case 122: [Ink-Wash Tribute Poster for Chen Uen](https://x.com/mob_17/status/2048118645017219381) (by [@mob_17](https://x.com/mob_17))
 
 | Resultado |
@@ -1241,7 +1167,6 @@ A highly detailed vertical Taoist esoteric infographic poster in the style of an
 ```
 Create a vintage editorial poster on aged rice paper celebrating {argument name="artist name" default="CHEN UEN"}, designed like a museum infographic mixed with Chinese ink wash illustration and calligraphy. The format is a single vertically oriented poster with a weathered parchment background, ink splatters, faded handwritten annotations, red seal stamps, and a scholarly, archival atmosphere. At the very top, place large black Chinese calligraphy for the name 鄭問, followed by a slash and the romanized name {argument name="romanized name" default="CHEN UEN"} in large serif capitals, with a small red seal beside it. Under the title, add the subtitle {argument name="subtitle text" default="The Taiwanese Master Who Turned Comics into Ink-Born Epic"} in elegant reddish-brown serif text. In the center, feature a dramatic painterly scene of 1 seated male artist in a loose white shirt at a desk, holding a brush over paper, his face intentionally obscured by a soft rectangular blur. Behind him, surround him with a swirling halo-like storm of monochrome ink-brush warriors and historical figures: exact count 9 visible character figures, including armored generals, swordsmen, and mounted riders, emerging from explosive black brushwork and smoke-like ink textures. On the left side, create a vertical section titled “Life & Milestones” with a black brushstroke header and smaller Chinese subtitle text. List exactly 6 timeline entries with red year markers and bilingual captions: 1958 born in Taiwan, 1983 Warrior Panther, 1989 Abi Sword, 1990 Heroes of the Eastern Zhou, 1991 Japan Cartoonists Association Award, 2017 legacy continues. Below that, add a small section titled “Ink in Detail” containing exactly 4 boxed brush studies labeled with short English captions: Dry brush texture, Ink wash gradient, Splatter energy, Bold contour line. On the right side, create a vertical section titled “Visual Method” with a black brushstroke header and smaller Chinese subtitle text. Include exactly 5 stacked boxed studies with image-and-caption layout: Brush as blade, Ink as atmosphere, Anatomy as fate, History as theatre, Speed lines become calligraphy. In the lower center, create a section titled “Major Works Constellation” with a dark brushstroke heading. Arrange exactly 5 circular work nodes around a central ink ring with Chinese calligraphy inside. Label the 5 nodes: Abi Sword, Heroes of the Eastern Zhou, Assassin Biographies, Magical Super Asia, Game character design legacy. Each circle contains a distinct monochrome or muted-color ink illustration, with subtle connecting marks like a constellation diagram. At the lower right, add a section titled “Studio Notes” containing exactly 6 visible objects: 4 hanging calligraphy brushes, 1 ink bowl, and 1 painter’s palette with blue and red pigment; beneath them place a sketchbook page with light pencil figure studies. Across the bottom, add a wide section titled “Why He Matters” with a black brushstroke header and smaller Chinese subtitle text, followed by a paragraph of serif body text in English describing his importance to comics, painting, calligraphy, cinema, and epic storytelling. Use a restrained palette of sepia, black ink, off-white paper, muted gray, with small accents of deep red and occasional blue. The whole image should feel like a refined cultural tribute poster, dense but balanced, highly detailed, painterly, and authentic to Chinese ink aesthetics.
 ```
-
 ### Case 123: [Water Signs Zodiac Character Poster](https://x.com/komorimedia/status/2048114825398731143) (by [@komorimedia](https://x.com/komorimedia))
 
 | Resultado |
@@ -1253,7 +1178,6 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 ```
 {"type":"Chinese zodiac-style character infographic poster","subject":"twelve zodiac character list, water signs edition","language":"Traditional Chinese","format":"vertical poster","style":{"overall":"elegant anime-inspired character catalog with editorial infographic layout","rendering":"soft polished digital illustration, pastel gradients, delicate sparkles, ornamental border design","mood":"dreamy, celestial, refined, feminine, aquatic"},"canvas":{"aspect_ratio":"2:3","background":"very light pearl white with pale blue-lavender tint, subtle texture, thin decorative frame with filigree corners and tiny stars"},"header":{"title":"{argument name=\"headline text\" default=\"十二星座角色清單|水象星座\"}","subtitle":"感受・直覺・共鳴","icons":["small stars","water droplet emblem in top right","curled cloud-like line art in top left"]},"layout":{"sections_count":3,"sections":[{"title":"巨蟹座 Cancer","position":"top panel","theme_color":"powder blue","zodiac_symbol":"Cancer glyph inside circle at left","constellation":"Cancer constellation at upper right","count":6,"labels":["元素:水","概念:情感守護者,把人放在心上","性格:溫柔、敏感、顧家","行動原則:先確認感受,再保護重要的人","戀愛傾向:慢慢靠近,越熟越黏","人際怪癖:嘴上說沒事,實際會記很久"],"character":{"identity":"same young woman model reimagined as zodiac character","pose":"half-body portrait, facing forward, arms gently wrapped around a large seashell pillow","hair":"long dark hair in a low ponytail","outfit":"light blue celestial slip dress with lace trim and sheer cardigan embroidered with stars and moons","accessories":"minimal jewelry","background":"soft blue night sky with crescent moon, seashell, sparkling stars, stylized ocean wave and tiny water droplets"}},{"title":"天蠍座 Scorpio","position":"middle panel","theme_color":"deep violet","zodiac_symbol":"Scorpio glyph inside circle at left","constellation":"Scorpio constellation at upper right","count":6,"labels":["元素:水","概念:深海偵察者,情緒有深度","性格:專注、神秘、意志強","行動原則:先觀察,再一擊到位","戀愛傾向:愛得深,重忠誠與獨占感","人際怪癖:越在乎越不說,會偷偷試探"],"character":{"identity":"same young woman model reimagined as zodiac character","pose":"half-body portrait, one hand near chin in a composed, enigmatic gesture","hair":"long dark ponytail","outfit":"black semi-sheer dress with gothic details and a dark plum off-shoulder shawl","accessories":"dangling earrings and layered necklace","background":"dark purple celestial sea scene with crescent moon, bubbles, stars, and curling misty water shapes"}},{"title":"雙魚座 Pisces","position":"bottom panel","theme_color":"lavender","zodiac_symbol":"Pisces glyph inside circle at left","constellation":"Pisces constellation at upper right","count":6,"labels":["元素:水","概念:夢境共感者,靠直覺導航","性格:浪漫、柔軟、有想像力","行動原則:先感受,再順流找答案","戀愛傾向:容易心動,渴望靈魂陪伴","人際怪癖:常把別人的情緒也一起感受"],"character":{"identity":"same young woman model reimagined as zodiac character","pose":"half-body portrait, one hand lifted as if balancing floating bubbles, other hand resting lightly at chest","hair":"long dark ponytail with a pale flower hair ornament","outfit":"translucent lavender fantasy dress with soft draped sleeves and shimmering fabric","accessories":"delicate earrings and necklace","background":"pale lilac underwater-celestial blend with bubbles, sparkles, and flowing translucent wave forms"}}],"dividers":"three horizontal framed panels with thin ornamental borders"},"footer":{"center_icon":"small blue seashell emblem","decorations":["tiny stars","fine scrollwork"]},"constraints":["all three zodiac entries must use the same woman as the base character with different styling, clothing, pose, and mood","text should be clean, editorial, and readable","each panel should clearly separate illustration area on the left and text block on the right","maintain cohesive water-element theme across all 3 signs","do not include the other nine zodiac signs in this image"]}
 ```
-
 ### Case 124: [Earth Signs Zodiac Character Poster](https://x.com/komorimedia/status/2048114825398731143) (by [@komorimedia](https://x.com/komorimedia))
 
 | Resultado |
@@ -1265,7 +1189,6 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 ```
 {"type":"vintage zodiac character infographic poster","theme":"earth signs only","language":"Traditional Chinese","style":{"overall":"elegant editorial infographic with soft anime-inspired live-action portrait compositing","palette":"warm beige, cream, taupe, olive-gray, muted brown, antique gold","mood":"stable, refined, calm, practical","texture":"aged paper background with subtle speckles and thin ornamental borders","rendering":"clean high-resolution print poster, soft lighting, delicate botanical and celestial line art"},"poster":{"orientation":"vertical","aspect_ratio":"3:4","title":"十二星座角色清單|土象星座","subtitle":"穩定・務實・沉著","decorations":["ornamental corner filigree","small gold sparkles","botanical branches","mountain illustrations","thin panel dividers"],"sections_count":3},"layout":{"sections":[{"title":"金牛座 Taurus","position":"top","count":1,"labels":["元素:土","概念:感官收藏家,穩穩生活","性格:務實、耐心、重享受","行動原則:先確認值得,再長線投入","戀愛傾向:慢熱但專情,重安全感","人際怪癖:對喜歡的人會默默餵食"]},{"title":"處女座 Virgo","position":"middle","count":1,"labels":["元素:土","概念:秩序管理者,細節控場","性格:理性、細膩、可靠","行動原則:先整理,再精準出手","戀愛傾向:用照顧和實際行動表達喜歡","人際怪癖:嘴上挑剔,心裡其實很在乎"]},{"title":"摩羯座 Capricorn","position":"bottom","count":1,"labels":["元素:土","概念:登峰實幹家,目標導向","性格:穩重、自律、有責任感","行動原則:先規劃,再穩定推進","戀愛傾向:慢熟務實,願意長期承諾","人際怪癖:關心常包裝成提醒與安排"]}],"centerpiece":"three stacked horizontal character cards, each with a portrait on the left and text profile on the right"},"character":{"identity":"the same young East Asian woman appears in all 3 sections","age":"early 20s","hair":"long dark brown to black hair in a low ponytail with side part","face":"soft feminine features, natural makeup, calm expression","customization":"keep the same base character across all zodiac entries, differentiated by wardrobe, pose, props, and themed background motifs"},"cards":[{"sign":"Taurus","symbol":"♉","portrait":{"pose":"waist-up, slightly turned, holding a ceramic mug with both hands","outfit":"cream knit sleeveless top under a soft sage-gray cardigan with delicate floral embroidery","expression":"gentle, relaxed, nurturing","props_count":1,"props":["mug"]},"background":"large pale circular halo, floral branch illustration, soft botanical motifs, small mountain drawing in upper right","visual_concept":"comfort, sensuality, domestic calm, slow living"},{"sign":"Virgo","symbol":"♍","portrait":{"pose":"waist-up, one hand holding a pen near the chin, the other arm holding an open notebook or planner","outfit":"light cream blouse with a bow tie collar under a pale sage vest with gold buttons","expression":"thoughtful, analytical, composed","props_count":2,"props":["pen","notebook"]},"background":"fine geometric diagram lines, botanical sprigs, diamond emblem with leaf motif","visual_concept":"order, precision, intelligence, organization"},{"sign":"Capricorn","symbol":"♑","portrait":{"pose":"waist-up, arms crossed, confident upright stance","outfit":"charcoal tailored blazer over a dark vest and crisp white shirt, small round lapel pin","expression":"serious, disciplined, self-assured","props_count":0,"props":[]},"background":"dramatic layered mountain landscape in sepia tones with subtle star-like sparkles","visual_concept":"ambition, endurance, authority, climbing toward goals"}],"typography":{"title_font":"classic high-contrast serif Chinese type","sign_name_font":"large bold Chinese serif with elegant italic Latin zodiac name","body_font":"clean readable Chinese print font","icon_style":"filled circular brown icons next to each bullet line"},"composition":{"margin":"generous cream margins","panel_style":"rounded rectangular panels with thin gold-brown borders","spacing":"even vertical stacking with narrow separators","text_alignment":"left-aligned profile bullets on the right side of each card"}}
 ```
-
 ### Case 125: [Fire Sign Zodiac Character Poster](https://x.com/komorimedia/status/2048114825398731143) (by [@komorimedia](https://x.com/komorimedia))
 
 | Resultado |
@@ -1287,7 +1210,6 @@ Panel 3: Sagittarius. Chinese title and English subtitle: "射手座 Sagittarius
 
 Overall design should feel premium, feminine, mystical, and collectible, like a social-media-ready zodiac character list poster. Use elegant serif-style Chinese typography for the main sign names and italic calligraphic English for Aries, Leo, and Sagittarius. Keep all text crisp, aligned, and readable. Add one small decorative fire emblem centered near the bottom border. Aspect ratio 3:4 portrait.
 ```
-
 ### Case 126: [Air Sign Zodiac Character Poster](https://x.com/komorimedia/status/2048114825398731143) (by [@komorimedia](https://x.com/komorimedia))
 
 | Resultado |
@@ -1299,7 +1221,6 @@ Overall design should feel premium, feminine, mystical, and collectible, like a 
 ```
 {"type":"Chinese zodiac-themed character infographic poster","format":"vertical poster","aspect_ratio":"3:4","style":"clean pastel editorial infographic with anime-inspired fashion photography, soft magical accents, elegant horoscope design, premium magazine layout","background":{"color":"warm ivory","border":"thin decorative gold frame with small ornamental corners and tiny sparkles","top_right_motif":"large pale air-element swirl ornament"},"title_block":{"headline":"十二星座角色清單|風象星座","subheadline":"靈活・交流・思辨","alignment":"top center","headline_color":"deep desaturated blue","subheadline_color":"muted gold"},"subject":{"count":3,"description":"the same young East Asian woman used as the base character appears in 3 separate horoscope panels, each shown from about thigh-up to waist-up with long dark hair and soft feminine styling, photographed frontally and integrated into illustrated pastel zodiac backdrops"},"layout":{"sections":[{"title":"雙子座 Gemini","position":"top panel","count":1,"theme_color":"butter yellow and cream","zodiac_symbol":"Gemini glyph inside a circle on the left","constellation":"small Gemini constellation in the upper right","character_pose":"playful double peace signs raised beside her face","outfit":"pale yellow cardigan over a white ribbed crop top, light bottoms, yellow belt, delicate necklace","background_motifs_count":4,"background_motifs":["speech bubble icon","sparkles","curved flowing lines","soft dots"],"text_items_count":6,"text_items":["元素:風","概念:資訊玩家,靈感跳接","性格:機靈、善聊、多變","行動原則:先交流,再快速轉向","戀愛傾向:喜歡有趣互動與腦力火花","人際怪癖:話題切換速度快到像開分頁"]},{"title":"天秤座 Libra","position":"middle panel","count":1,"theme_color":"blush pink and pastel lavender","zodiac_symbol":"Libra glyph inside a circle on the left","constellation":"small Libra constellation in the upper right","character_pose":"one hand raised open-palmed as if presenting balance, the other hand near her chin in an elegant thoughtful pose","outfit":"pink blazer draped over shoulders, pastel pink-and-blue wrapped dress, jeweled belt, earrings, necklace, bracelet","background_motifs_count":4,"background_motifs":["scales illustration","flowing ribbon-like swirls","sparkles","soft gradient haze"],"text_items_count":6,"text_items":["元素:風","概念:關係設計師,追求平衡","性格:優雅、圓融、審美強","行動原則:先衡量,再找最順解法","戀愛傾向:重氛圍與互相體面","人際怪癖:選太久,但又很會照顧場面"]},{"title":"水瓶座 Aquarius","position":"bottom panel","count":1,"theme_color":"lavender, icy blue, and silver","zodiac_symbol":"Aquarius glyph inside a circle on the left","constellation":"small Aquarius constellation in the upper right","character_pose":"holding and tilting a futuristic transparent vessel as glowing water-like energy pours out in looping streams","outfit":"metallic silver crop top and skirt set with translucent iridescent jacket, futuristic straps, reflective accessories","background_motifs_count":4,"background_motifs":["glowing circular energy rings","constellation lines","sparkles","light trails"],"text_items_count":6,"text_items":["元素:風","概念:未來觀察員,規則改革者","性格:獨立、理想派、腦洞大","行動原則:先思考原理,再另闢路線","戀愛傾向:重精神共鳴,也需要個人空間","人際怪癖:忽冷忽熱,其實是在充電"]}],"panel_count":3},"typography":{"languages":["Traditional Chinese","English zodiac names"],"headline_font":"elegant high-contrast serif","body_font":"clean legible Chinese serif or sans-serif hybrid","zodiac_english":"italic calligraphic serif"},"visual_rules":{"each_panel_has":8,"panel_elements":["left zodiac glyph badge","center-left character","right text block","English zodiac name","small constellation","pastel illustrated background motifs","thin panel border","6 bullet-style info lines with icons"],"spacing":"generous margins and symmetrical alignment","render_quality":"high resolution, crisp print-ready infographic"}}
 ```
-
 ### Case 127: [Ethnographic Plate for Tibetan Ceremonial Hat](https://x.com/degewa/status/2048104569037783226) (by [@degewa](https://x.com/degewa))
 
 | Resultado |
@@ -1311,7 +1232,6 @@ Overall design should feel premium, feminine, mystical, and collectible, like a 
 ```
 Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate focused on the ceremonial hat. Use REFERENCE_0 as the historical Tibetan context and silhouette reference, and REFERENCE_1 as the color, material, and ornament reference for the hat. Isolate and reconstruct the hat as a museum-style object study, removing the seated body as the main subject. Present the hat on an off-white document page as a scholarly catalog sheet in Chinese with small romanization. Add 8 numbered callouts around the object with fine dashed leader lines, each pointing to a specific structural detail. The centerpiece should be one large three-quarter underside view of the hat. Also include exactly 4 supplementary views/details: 1 side-profile wearing sketch with a faint line-drawn bust, 1 underside interior view, 1 top-down view, and 2 square close-up material swatches. Add exactly 4 thread-color samples near the lower right: blue, red, white, and yellow. At the top center, add the large title {argument name="headline text" default="唐徐帽"} with the romanization {argument name="romanization" default="(thang zhwa)"} beneath it, plus a smaller subtitle describing it as a summer ceremonial hat of high-ranking Tibetan monks. In the upper left, add a boxed metadata panel with multiple short Chinese fields, and in the upper right add a plate number reading {argument name="plate number" default="图版 No. 27"}. At the bottom, add one bordered note paragraph in Chinese. Overall style: meticulous archival infographic, anthropological catalog illustration, historically informed, precise woven texture, ivory-gold base with blue and red ornament, elegant print layout, thin rules and decorative divider marks, high-detail object rendering on a plain paper background.
 ```
-
 ### Case 128: [Vintage PRS Guitar Lineage Poster](https://x.com/GlennHasABeard/status/2048087784141857235) (by [@GlennHasABeard](https://x.com/GlennHasABeard))
 
 | Resultado |
@@ -1323,7 +1243,6 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 ```
 {"type":"luxury vintage guitar comparison infographic poster","subject":"a highly detailed, vertically oriented PRS electric guitar lineup chart designed like a premium museum poster or collector's reference board","style":"ornate, dark, glossy, high-contrast, gold-foil typography, elegant wood-and-metal textures, symmetrical grid layout, premium catalog aesthetic, subtle vintage patina, ultra sharp graphic design","branding":{"main headline":"THE LEGENDARY LINEAGE OF {argument name=\"brand name\" default=\"PRS GUITARS\"}","subheadline":"EVERY ICON. EVERY LINE. ONE HERITAGE.","signature":"Paul Reed Smith","left seal":"PAUL REED SMITH GUITARS","right seal":"MADE IN MARYLAND U.S.A."},"palette":{"background":"black and deep charcoal with dark figured wood accents","primary":"antique gold","secondary":"cream","accent colors":["deep green","teal","royal blue","purple","gold","burgundy"]},"layout":{"format":"single-page vertical poster","header":{"position":"top","elements":["large central title","small tagline below","script signature","2 circular emblems in upper left and upper right","3 horizontal legend boxes under the title"]},"sections":[{"title":"PRESTIGE TIER KEY","position":"upper left below title","count":6,"labels":["SE","S2","CE","CORE","WOOD LIBRARY","PRIVATE STOCK"]},{"title":"PICKUP ICON KEY","position":"upper center-right below title","count":7,"labels":["HH","HSH","P-90","SOAP","58/15","TCI","Bass"]},{"title":"TONAL CHARACTER KEY","position":"upper right below title","count":7,"labels":["Warm / Vintage","Balanced / All-around","Bright / Articulate","High Gain / Modern","Blues / Classic Rock","Metal / Progressive","Funk / Soul / Clean"]},{"title":"CORE","position":"first main row left label","count":7,"labels":["Custom 24","McCarty 594","DGT (David Grissom)","Custom 22","Hollowbody II","SC 594","row category panel"]},{"title":"S2","position":"second main row left label","count":6,"labels":["S2 Custom 24","S2 McCarty 594","S2 Standard 24","S2 Vela","S2 Singlecut","S2 Mira"]},{"title":"SE","position":"third main row left label","count":6,"labels":["SE Custom 24","SE Standard 24","SE Paul's Guitar","SE Santana","SE Hollowbody II","SE Mark Holcomb"]},{"title":"CE","position":"fourth main row left label","count":6,"labels":["CE 24","CE 22","CE 24 Semi-Hollow","CE 24 Floyd","CE 24 Satin","CE Bass"]},{"title":"BOLT-ON SERIES","position":"fifth main row left label","count":6,"labels":["NF 53","Silver Sky","NF 3","NF 53 Satin","DGT Bolt-On","Studio"]},{"title":"PRIVATE STOCK","position":"sixth main row left label","count":6,"labels":["Dragon I","Frostbite","#4004","The Tree of Life","#8731","PS DGT"]}],"footer":{"position":"bottom","elements":["small badge at lower left","centered company line","right-side script signature"]}},"content grid":{"total guitar models shown":37,"card design":"each product card contains a guitar render, model name, year, small pickup icons, a short descriptive blurb, and origin/wood specs at the bottom","row side panels":6},"visual details":{"guitars":"front-facing electric guitars with varied body shapes and highly polished figured maple tops, metallic and transparent finishes, some solid colors, some natural wood","typography":"all caps serif headlines, small serif body text, script signature accents","borders":"thin decorative gold rules around every panel and the full poster","lighting":"studio-lit instruments against dark panel backgrounds","render quality":"clean infographic precision with realistic product renders"},"camera":"straight-on flat poster view, no perspective distortion, centered composition","quality":"ultra detailed, print-ready, high-resolution editorial infographic, luxury brand poster"}
 ```
-
 ### Case 129: [Alishan One-Day Travel Poster](https://x.com/TWnese/status/2048077204786212887) (by [@TWnese](https://x.com/TWnese))
 
 | Resultado |
@@ -1335,7 +1254,6 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 ```
 Create a vintage illustrated travel poster in traditional Chinese for {argument name="destination name" default="阿里山國家風景區"}, designed as a one-day itinerary infographic with a split vertical layout. The left panel is a parchment-textured itinerary card in warm beige with ornate gold Art Nouveau borders and dark brown typography, and the right panel is a dramatic painted fantasy-realism map scene of a mountain journey at sunrise and sunset tones. At the top of the left panel, large headline text reads {argument name="headline text" default="阿里山國家風景區一日遊"}. Beneath it, include a short centered tagline in traditional Chinese: 「一座高山,五個經典景點。難忘的奇幻旅程。」 with a small decorative mountain divider. The left panel must contain exactly 5 numbered itinerary stops stacked vertically, each with a circular black-and-gold number badge, a small vignette illustration, a bold location name, a time in parentheses, and a short Chinese description. The 5 stops are: 1. 「阿里山車站」 at 「(8:00 AM)」 with a wooden mountain railway station illustration and description 「開啟探索神木與森林的旅程。」 2. 「阿里山森林鐵路」 at 「(9:30 AM)」 with a red-and-black steam train illustration and description 「穿越森林,體驗百年林鐵風情。」 3. 「神木區棧道」 at 「(11:30 AM)」 with giant cedar trees and elevated wooden boardwalk illustration and description 「漫步千年巨木下,感受森林靈氣。」 4. 「姊妹潭」 at 「(1:30 PM)」 with a tranquil forest lake and pavilion illustration and description 「欣賞靜謐湖光,聆聽自然樂章。」 5. 「小笠原山展望台」 at 「(4:00 PM)」 with a wooden observation deck above clouds at sunset illustration and description 「觀賞壯闊山景與雲海,欣賞日落。」 The right panel should depict a continuous glowing golden path winding through exactly 5 numbered map markers that match the left panel labels in order, with black-and-gold marker plaques reading: 1 「阿里山車站」, 2 「阿里山森林鐵路」, 3 「神木區棧道」, 4 「姊妹潭」, 5 「小笠原山展望台」. Show stop 1 as a rustic alpine wooden station perched on a cliff among pine forests; stop 2 as a small steam locomotive traveling on a curved mountain railway with smoke drifting upward; stop 3 as towering ancient red cypress trees with a spiral and zigzag wooden walkway around the trunks; stop 4 as an emerald lake surrounded by dense forest with a small pavilion and arched bridge; stop 5 as a lookout deck on a peak above a sea of clouds, facing a glowing sunset. The environment should feature layered mountain ranges, mist-filled valleys, evergreen forests, golden-hour light, luminous cloud seas, and a romantic painterly atmosphere with rich detail. At the bottom right, add a decorative compass rose labeled N, E, S, W, plus a dark green and gold information box with exactly 2 stats in traditional Chinese: 「總距離 ~9公里 / 5.6英里」 and 「預計時間 全天 - 14,500步」. Overall style: premium tourism poster, painterly digital illustration, nostalgic national-park brochure aesthetic, highly detailed, warm sepia and gold accents, elegant composition, readable Chinese text, vertical 2:3 poster.
 ```
-
 ### Case 130: [Dance Movement Reference Sheet](https://x.com/Ciri_ai/status/2048074587955658848) (by [@Ciri_ai](https://x.com/Ciri_ai))
 
 | Resultado |
@@ -1374,7 +1292,6 @@ no color, grayscale shading, clean linework, game concept art quality
 no background scenery, no color tones, no extra characters,
 no cluttered backgrounds
 ```
-
 ### Case 132: [Anime Museum Background Conversion](https://x.com/Dakiny/status/2048175219966394695) (by [@Dakiny](https://x.com/Dakiny))
 
 | Resultado |
@@ -1386,7 +1303,6 @@ no cluttered backgrounds
 ```
 Using the provided reference photo, recreate the same museum facade and frontal composition as a polished theatrical anime background illustration. Keep the architecture, signage, 3 flagpoles, broad steps, and overall layout consistent, but convert the image from realistic photography into a highly detailed hand-painted anime film style with clean linework, soft cel shading, gentle pastel stone colors, and crisp atmospheric lighting. Add dramatic sunlight from the upper right so the glass pyramid casts a large geometric lattice shadow across the central wall and left side of the entrance. Simplify and stylize the people into anime background characters, keeping the 2 visible groups: 1 lone figure on the left and 1 small cluster of 7 people near the center-right entrance. Preserve the clear blue-sky daytime mood while making the scene feel elegant, refined, and cinematic.
 ```
-
 ### Case 133: [16-Pose Dance Combat Reference Sheet](https://x.com/ExquisitMe/status/2048143577264402629) (by [@ExquisitMe](https://x.com/ExquisitMe))
 
 | Resultado |
@@ -1398,7 +1314,6 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 ```
 {"type":"pose reference sheet","subject":{"theme":"hip-hop dance and combat-ready movement chart","character":{"count":1,"gender_presentation":"female","age_appearance":"young adult","body_type":"fit athletic dancer","skin_tone":"light tan","hair":{"color":"black","style":"high ponytail with loose strands"},"outfit":{"count":5,"items":["white sports bra or cropped athletic top","baggy purple jogger pants","white chunky sneakers","purple wristbands or forearm bands on both arms","small hoop earrings"]}}},"style":{"image_type":"photorealistic studio pose sheet","lighting":"clean even studio lighting","background":"plain light gray to white seamless backdrop","camera":"full-body framing, straight-on view, consistent distance","rendering":"sharp realistic anatomy, dynamic motion, slight shadow under feet","face":"intentionally blurred or obscured"},"layout":{"grid":{"rows":4,"columns":4,"count":16},"numbering":{"count":16,"labels":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"],"position":"top-left corner of each cell"},"cell_borders":"thin black divider lines between all panels"},"poses":{"count":16,"items":[{"label":"1","description":"wide low squat, knees bent outward, torso angled slightly left, both arms extended loosely in a defensive dance stance"},{"label":"2","description":"deep side lunge to the left, left arm pointing straight left, right hand near the head, energetic directional pose"},{"label":"3","description":"low crouch with one hand touching the floor, one knee bent under the body, opposite arm extended horizontally"},{"label":"4","description":"upright one-leg balance, left knee lifted high, both arms spread outward for rhythm and balance"},{"label":"5","description":"similar one-leg raised pose with the other leg supporting, arms stretched outward in a lighter dance variation"},{"label":"6","description":"very wide grounded squat, torso pitched forward, one hand reaching toward the floor between the legs, other arm extended back"},{"label":"7","description":"dramatic standing back arch, chest lifted upward, hips forward, both arms opened behind and to the sides"},{"label":"8","description":"small jump or suspended squat, both feet off the floor, knees bent, arms spread wide symmetrically"},{"label":"9","description":"floor-supported seated lean, one hand planted behind, one arm reaching diagonally upward, legs bent to one side"},{"label":"10","description":"front-facing balance with one knee raised to hip height, one arm bent in guard position and the other extended sideways"},{"label":"11","description":"deep lateral stance, feet far apart, knees bent, both hands raised open near shoulder level like a ready combat pose"},{"label":"12","description":"low side lunge split, one hand planted on the floor, the other arm reaching vertically overhead, torso arched upward"},{"label":"13","description":"standing backward lean with relaxed bent knees, chest up, arms hanging loosely behind in a groove pose"},{"label":"14","description":"compact twisting crouch, weight low over bent legs, torso rotated, one arm pulled in and the other extended outward"},{"label":"15","description":"very wide side lunge stretch, one hand to the floor near the front foot, opposite arm reaching diagonally overhead"},{"label":"16","description":"one-leg lifted pose with knee high, one hand behind the head and the other arm extended forward, confident finishing stance"}]},"composition":"show the same dancer in all 16 panels with consistent outfit and scale, centered within each frame, designed like a movement library or choreography reference chart"}
 ```
-
 ### Case 134: [16-Panel Dance Pose Reference Sheet](https://x.com/ExquisitMe/status/2048143577264402629) (by [@ExquisitMe](https://x.com/ExquisitMe))
 
 | Resultado |
@@ -1410,7 +1325,6 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 ```
 {"type":"dance pose reference sheet","style":"clean studio pose chart, photoreal fitness-dance reference, white seamless background, sharp full-body photography, soft even lighting, minimal shadows, thin black grid lines separating panels","subject":{"count":1,"person":{"gender_presentation":"female","age_appearance":"young adult","build":"slim athletic toned dancer","skin_tone":"light tan","hair":{"color":"{argument name=\"hair color\" default=\"dark brown\"}","style":"high ponytail with loose strands"},"outfit":{"count":3,"items":["white fitted sports bra or cropped athletic tank","baggy blue-gray jogger pants","white sneakers"]}}},"layout":{"rows":4,"columns":4,"total_panels":16,"numbering":"black panel numbers in the top-left corner of each cell, labeled 1 through 16","sections":[{"title":"pose grid","position":"full page","count":16,"labels":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"]}]},"poses":{"count":16,"items":[{"panel":1,"description":"wide stance, knees bent, torso upright, right arm extended straight to the right in a pointing gesture, left arm bent near the body"},{"panel":2,"description":"deep low squat facing forward, feet wide apart, one hand lifted in front of the chest, the other resting near the thigh"},{"panel":3,"description":"low floor-supported pose, leaning back on one hand with hips low, one knee bent under the body, opposite arm stretched diagonally upward"},{"panel":4,"description":"standing on one leg with the other knee raised, one arm curved overhead, opposite arm extended to the right in a strong dance line"},{"panel":5,"description":"deep squat with legs wide, one hand on thigh and the other arm reaching straight upward"},{"panel":6,"description":"light upright pose with one knee lifted and both arms relaxed outward for balance"},{"panel":7,"description":"wide stance with both arms crossed tightly in front of the chest, feet planted apart"},{"panel":8,"description":"low crouch close to the floor, one hand braced on the ground, the other arm crossing the torso"},{"panel":9,"description":"dynamic side-leaning wide stance, one arm bent upward beside the head, opposite arm pointing strongly to the right"},{"panel":10,"description":"compact crouch with weight centered low, one elbow resting near a knee and head tilted slightly downward"},{"panel":11,"description":"deep side lunge with one leg extended long to the side, one hand on the floor and the other arm reaching straight up"},{"panel":12,"description":"upright wide-legged stance, one arm extended vertically overhead, the other hand relaxed near the hip"},{"panel":13,"description":"standing balance pose with one knee raised and both hands held low near the thighs"},{"panel":14,"description":"low horse stance with knees bent wide and forearms crossed in front of the chest"},{"panel":15,"description":"kneeling or very low crouched pose with one hand on the floor and the other resting on the raised knee"},{"panel":16,"description":"high side kick, balancing on one leg while the other leg extends horizontally, both arms bent in a guarded fighting pose"}]},"intent":"a {argument name=\"sheet purpose\" default=\"dance move sheet chart that can also be used for combat pose reference\"}, emphasizing silhouette variety, balance, rhythm, and dynamic athletic body lines","image_size":"landscape 16:9"}
 ```
-
 ### Case 135: [16-Panel Female Dance Pose Sheet](https://x.com/ExquisitMe/status/2048143577264402629) (by [@ExquisitMe](https://x.com/ExquisitMe))
 
 | Resultado |
@@ -1422,7 +1336,6 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 ```
 {"type":"pose reference sheet","subject":{"count":1,"description":"a fit young woman dancer shown repeatedly in a clean studio reference layout","appearance":{"gender":"female","age":"young adult","build":"athletic, toned midriff","skin tone":"light to medium tan","hair":{"color":"dark brown","style":"high messy ponytail with loose strands framing the face"},"expression":"neutral to focused"},"wardrobe":{"top":"charcoal gray sports bra or cropped athletic bralette","bottom":"oversized dark gray parachute cargo pants with gathered ankles","shoes":"white sneakers","accessories":["black wristband or fingerless glove on one hand","subtle sporty styling"]}},"layout":{"background":"plain white seamless studio background","grid":{"rows":4,"columns":4,"count":16,"cell labels":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"]},"style":"clean contact-sheet or choreography chart with thin black dividers between panels and small black numbers at the upper left of each panel"},"poses":[{"label":"1","description":"relaxed standing pose, weight on one leg, one hand near hip, slight contrapposto"},{"label":"2","description":"wide low dance stance, one arm bent behind the head, the other arm extended and pointing to the right"},{"label":"3","description":"legs spread in a grounded stance, torso slightly tilted, one hand resting near the upper thigh"},{"label":"4","description":"very low wide squat facing forward, torso leaning back, one hand near the face and the other near the thigh"},{"label":"5","description":"wide side lunge stance, one arm arched overhead, the other arm extended outward in a stylized dance line"},{"label":"6","description":"balancing on one leg with the other knee lifted high, one hand near the face in a punchy hip-hop pose"},{"label":"7","description":"floorwork pose supported by one hand on the ground, torso reclined sideways, legs bent and lifted in a dynamic breakdance-like position"},{"label":"8","description":"casual upright pose with one hand behind the head and one knee bent upward"},{"label":"9","description":"one-legged balance pose with the lifted knee bent, both arms extended outward for motion and rhythm"},{"label":"10","description":"low kneeling or crouched pose, one knee up and one knee down, one arm thrust forward toward the viewer"},{"label":"11","description":"deep squat with legs apart, one arm curved overhead in a dramatic arc"},{"label":"12","description":"standing lean to one side with one arm extended sideways and the other hand near the hip or thigh"},{"label":"13","description":"reclining floor pose supported by one hand behind the body, one leg bent and one leg extended"},{"label":"14","description":"upright standing pose with one arm fully extended and pointing to the right"},{"label":"15","description":"front-facing pose stepping forward with one knee lifted, one arm reaching or pointing forward"},{"label":"16","description":"wide confident stance with one arm pointing diagonally upward to the right"}],"rendering":{"medium":"photorealistic studio fashion and dance reference image","lighting":"soft even studio lighting with faint shadows beneath the feet and body","camera":"full-body framing, straight-on view, consistent distance in every panel","quality":"sharp, high-resolution, realistic anatomy and fabric folds"}}
 ```
-
 ### Case 136: [16-Pose Dance Reference Sheet](https://x.com/ExquisitMe/status/2048143577264402629) (by [@ExquisitMe](https://x.com/ExquisitMe))
 
 | Resultado |
@@ -1434,7 +1347,6 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 ```
 {"type":"pose reference sheet","subject":{"category":"female dancer fitness model","age_appearance":"young adult","build":"slim athletic","hair":{"color":"dark brown","style":"high ponytail"},"outfit":{"top":"light gray or white sports bra crop top","bottom":"baggy light gray sweatpants","shoes":"white sneakers"},"face":"softly blurred or de-emphasized facial features"},"style":{"image_type":"studio dance pose chart","background":"clean seamless white background","lighting":"bright even studio lighting with minimal shadows","color_palette":"neutral whites and light grays","camera":"full-body framing, straight-on view, consistent distance","rendering":"photorealistic"},"layout":{"grid":{"rows":4,"columns":4,"count":16,"border":"thin black dividers between cells"},"numbering":{"count":16,"labels":["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16"],"position":"top-left corner of each panel"},"sections":[{"title":"row 1","position":"top","count":4,"labels":["1 side lunge with one arm extended straight sideways and the other bent near chest","2 low floor pose leaning on one hand with one knee down and opposite arm arched upward","3 wide squat facing front with both arms opened in angular dance position","4 standing balance on one leg with opposite knee lifted and forearms crossed near chest"]},{"title":"row 2","position":"upper-middle","count":4,"labels":["5 deep backbend in wide stance with torso arched and one arm curved overhead","6 wide squat with one hand behind head and the other arm pointing outward","7 kneeling side stretch with one hand on floor and opposite arm reaching straight up","8 standing arabesque-style extension with torso tilted forward and one leg lifted high behind/sideways"]},{"title":"row 3","position":"lower-middle","count":4,"labels":["9 wide squat with torso tilted left, one arm curved overhead and one arm extended low","10 front-facing wide squat with both arms stretched diagonally in opposite directions","11 relaxed standing pose with legs apart and both forearms crossing in front of torso","12 floor recline supported on one hand and one knee, torso leaning back with bent legs"]},{"title":"row 4","position":"bottom","count":4,"labels":["13 small jump or lifted balance with one knee raised and one arm bent upward","14 low crouch squat with one hand reaching toward floor and other arm extended sideways","15 dramatic side backbend in wide stance with hair swinging and one arm curved overhead","16 powerful wide squat with one hand at chest and the other lowered to the side"]}],"overall_composition":"all 16 poses shown as separate panels in a uniform contact sheet"},"prompt":"Create a clean studio contact sheet of {argument name=\"pose count\" default=\"16\"} full-body dance or combat-reference poses featuring a {argument name=\"subject type\" default=\"young athletic woman\"} in a {argument name=\"outfit\" default=\"light gray sports bra, loose gray sweatpants, and white sneakers\"}. Use a seamless {argument name=\"background color\" default=\"white\"} background, bright even lighting, and a consistent straight-on camera. Arrange the poses in a 4x4 grid with thin black panel lines and small black numbers 1 through 16 in the top-left of each cell. The poses should mix standing, squatting, kneeling, floorwork, balance, kick-extension, backbend, and angular arm positions suitable for a dance sheet chart or combat movement reference. Keep the styling photorealistic, crisp, minimal, and instructional, with consistent wardrobe and hair across all panels."}
 ```
-
 ### Case 137: [Gas Giant Descent Storyboard](https://x.com/xRahultripathi/status/2048140775356354892) (by [@xRahultripathi](https://x.com/xRahultripathi))
 
 | Resultado |
@@ -1446,7 +1358,6 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 ```
 {"type":"cinematic sci-fi storyboard contact sheet","subject":{"primary":"a small futuristic spacecraft descending into a massive gas giant storm system","secondary":"an enormous leviathan-like silhouette hidden within the clouds","mood":"oppressive, catastrophic, awe-struck, high tension, cosmic dread","style":"photorealistic cinematic concept art with dark sci-fi realism, volumetric storm clouds, strong contrast, amber and black palette with occasional cold blue lightning","aspect_ratio":"16:9"},"vehicle":{"design":"compact armored deep-atmosphere ship with 3 bright rear engines, angular industrial hull, worn metallic panels","scale":"tiny compared to the planet and creature"},"layout":{"grid":{"rows":3,"columns":4,"count":12},"sections":[{"position":"row 1 col 1","description":"wide exterior shot of the ship entering the upper atmosphere of a colossal gas giant at extreme speed, glowing clouds streaked with fire and friction around the vessel, curved planetary horizon visible"},{"position":"row 1 col 2","description":"cockpit POV, dark interior filled with red and cyan holographic instruments, forward visibility collapsing into turbulent storm layers and electrical haze"},{"position":"row 1 col 3","description":"exterior mid-wide shot of the ship diving into a gigantic rotating cloud funnel, surrounded by violent spiraling storm structure"},{"position":"row 1 col 4","description":"extreme close exterior of the ship hull as bright lightning strikes dangerously close, white electric energy crawling across the metal surface"},{"position":"row 2 col 1","description":"dashboard warning screen in red, showing a critical systems failure interface with the exact visible text count of 4 warning lines and 1 large percentage readout: ['WARNING','ENGINES COMPROMISED','THRUST FLUCTUATION','GRAVITY SPIKE DETECTED','DESCENT RATE -453%']"},{"position":"row 2 col 2","description":"rear three-quarter exterior of the ship fighting turbulence inside dense storm clouds, engines burning hard while the craft barely holds course"},{"position":"row 2 col 3","description":"massive circular disturbance forming in the clouds like an eye or maw, entire storm systems displaced by something huge moving beneath"},{"position":"row 2 col 4","description":"second cockpit view with radar-like navigation display and red alert text, pilot making a blind evasive maneuver through lightning-filled darkness"},{"position":"row 3 col 1","description":"first reveal of the colossal creature shape rising near the ship, black organic surface and immense curved anatomy emerging from darkness, ship tiny at lower left"},{"position":"row 3 col 2","description":"spiral descent shot, ship caught inside a vortex tunnel of clouds, spinning downward with engines flaring as it struggles to recover"},{"position":"row 3 col 3","description":"sudden breakthrough into a calm void, minimal composition, ship flying in eerie silence through dark open space with soft mist and no visible storm around it"},{"position":"row 3 col 4","description":"final reveal, gigantic leviathan fully emerging behind or beside the ship in cleared space, backlit by a pale circular storm opening, enormous open maw-like silhouette dwarfing the craft"}],"continuity":"all 12 panels depict one continuous descent sequence from atmospheric entry to final creature reveal"},"lighting":{"primary":"glowing amber storm light","secondary":"red cockpit interface glow","accents":"blue-white lightning and engine exhaust"},"environment":{"location":"inside the upper and middle storm layers of a gigantic gas giant","weather":"violent turbulence, electrical storms, vortex funnels, cloud walls, pressure chaos","threat":"no safe zone, repeated near-failure, unknown colossal presence driving the storm"}}
 ```
-
 ### Case 138: [Surreal Baroque Painting Reality Fracture](https://x.com/JohnnyWang8802/status/2048129335853559824) (by [@JohnnyWang8802](https://x.com/JohnnyWang8802))
 
 | Resultado |
@@ -1458,7 +1369,6 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 ```
 A {argument name="painting style" default="baroque oil painting"} comes to life — its painted figures climbing out of the gilded frame into a {argument name="setting" default="modern white gallery"}, half their bodies still in flat 2D paint, half fully volumetric 3D humans, brushstrokes visible on their skin, the painting's background leaking watercolor clouds into the gallery ceiling, museum visitors frozen in shock, hyper-detailed, {argument name="artist influence" default="René Magritte meets Pixar"}, reality fracturing at every boundary
 ```
-
 ### Case 139: [Urban Alley Mural Artist](https://x.com/Professor_134/status/2048066672398102896) (by [@Professor_134](https://x.com/Professor_134))
 
 | Resultado |
@@ -1489,7 +1399,6 @@ Camera details: 35mm or 50mm lens, f/1.8–f/2.8 aperture, low-light photography
 Composition: vertical frame (4:5 or 9:16), subject slightly off-center, mural dominating the frame for strong visual storytelling.
 Generate image using uploaded image as reference
 ```
-
 ### Case 140: [RPG Map to Anime Event Scene](https://x.com/ArtwlDesign/status/2048054726768709769) (by [@ArtwlDesign](https://x.com/ArtwlDesign))
 
 | Resultado |
@@ -1501,7 +1410,6 @@ Generate image using uploaded image as reference
 ```
 Using the provided reference image, transform the top-down RPG town map into a polished anime-style event illustration from a human eye-level perspective. Keep the same village location and layout cues: the central stone well, the path network, the hedges, the wooden houses, and the narrow water canal on the left. Convert the 2 small sprite characters by the well into 2 full-size fantasy characters in the foreground: a silver-haired mage in a purple robe holding a staff, and a blonde elf in green-and-brown adventurer clothing, both leaning over and looking into the well. Add a cinematic JRPG feel with soft daylight, detailed painterly rendering, clean line art, and gentle depth of field. Preserve the sense that this scene is taking place in the same town square, but enrich it with natural perspective, more environmental detail, and 5 background villagers: 1 man cropped at the far left edge, 2 small figures standing on the center path in the distance, and 2 townspeople talking near the right-side buildings.
 ```
-
 ### Case 141: [Soft Pastel Anime Girl Full Body](https://x.com/hoshi122221/status/2048025730425196801) (by [@hoshi122221](https://x.com/hoshi122221))
 
 | Resultado |
@@ -1513,7 +1421,6 @@ Using the provided reference image, transform the top-down RPG town map into a p
 ```
 A full-body anime girl character design on a plain white background, centered and floating slightly, drawn in a soft minimalist pastel style with very thin gray linework and delicate flat colors. She has a petite youthful build and a cute, gentle silhouette, with special emphasis on a soft rounded face shape, smooth cheeks, and a softened jawline and chin. Her face is completely obscured by a blank skin-colored rectangular block with no facial features visible. She has short bob hair in {argument name="hair color" default="light ash brown"}, slightly tousled with wispy ends, long bangs covering part of the forehead, and a small ribbon hair tie on the right side in pale blue-gray. She wears 3 visible clothing pieces: an oversized pale blue cardigan with loose sleeves and front buttons, a cream-white slip dress with a scalloped neckline and a tiny button detail at the chest, and a frilled hem with a small ribbon near the right thigh. She is barefoot with slim pale legs, posed front-facing with both arms relaxed slightly outward, open hands, one leg straight and the other gently bent inward for a shy, weightless look. The illustration should feel airy, cute, understated, and clean, like a simple Japanese anime fashion sketch, with lots of negative space and no props, no shadows, and no background elements.
 ```
-
 ### Case 142: [Urban Fantasy Coexistence Crossing](https://x.com/Ray_CROWN0/status/2048024227664494775) (by [@Ray_CROWN0](https://x.com/Ray_CROWN0))
 
 | Resultado |
@@ -1525,7 +1432,6 @@ A full-body anime girl character design on a plain white background, centered an
 ```
 A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-style scramble crossing on a bright clear day, viewed at street level with a wide cinematic composition. The city blends modern realism with mythic fantasy: dense high-rise buildings covered in giant billboards, a red broadcast tower in the middle distance, blue sky with fluffy clouds, and a crowded crosswalk full of pedestrians. In the foreground, show 7 prominent character figures: a silver-haired elf woman in a flowing white dress holding an iced drink and tote bag on the far left; a central schoolgirl with long dark hair, black animal ears, a navy school blazer, plaid skirt, blue ribbon, and large navy shoulder bag, lifting one hand to her head; a young man in a dark suit looking down at a smartphone; an androgynous white-haired angelic figure in an elegant white-and-gold ceremonial outfit with large white wings; a small blonde girl in an ornate pastel pink frilled dress beside the angel; a dark-haired woman in a black coat in right foreground profile; and a small blue-haired cat-eared child in a blue dress with a bow standing near a cave entrance on the right. In the midground crowd, include mixed humans and fantasy races walking together naturally. Add 4 clearly visible nonhuman or supernatural background beings: 1 dragon flying in the sky, 1 winged female angel descending above the street, 1 lizard-headed businessman in a suit near the angelic figure, and 1 tall red-skinned horned demon with crossed arms standing by the hillside path. On the right side, transition the city into a lush shrine hillside with large green trees, a red torii gate, stone steps, and a wooden signboard reading Japanese kanji. Below it, place a rocky cave-like tunnel entrance glowing blue, with a wooden sign over the entrance and several figures descending into an underground shared district lit by crystals. Show 6 major billboard/sign elements across the cityscape: a huge left billboard reading "Shinpi Sekai 神秘世界" with a cosmic planet image; a large central political poster with Japanese text and a raised fist icon; 2 rooftop signs reading "未来研究所" on separate buildings; a large right billboard with Japanese text about coexistence and silhouettes of different beings; and 1 vertical banner with Japanese text on a nearby building. Emphasize the theme of coexistence between ordinary modern city life and hidden fantasy societies. Crisp anime linework, polished light novel key visual rendering, rich textures, soft sunlight, subtle atmospheric perspective, vibrant but believable colors, intricate clothing details, and a sense of awe, everyday bustle, and worldbuilding depth.
 ```
-
 ### Case 161: [Parent-Child Miscommunication Infographic](https://x.com/sarinaashapi/status/2048307780864606708) (by [@sarinaashapi](https://x.com/sarinaashapi))
 
 | Resultado |
@@ -1537,7 +1443,6 @@ A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-sty
 ```
 {"type":"Japanese infographic","style":"simple, easy-to-understand flat vector diagram, clean white background, rounded light-gray outer frame, minimal pastel color palette, presentation-slide design, clear hierarchy, lots of whitespace, modern sans-serif Japanese typography","canvas":{"aspect_ratio":"16:9"},"headline":{"text":"{argument name=\"headline text\" default=\"親子のすれ違いは、記録があるかないかで起こる\"}","position":"top center","size":"large bold black"},"layout":{"structure":"2 side-by-side rounded panels beneath the headline","sections":[{"title":"記録がない場合(ズレる)","position":"left","count":8,"header_color":"muted blue-gray","panel_border":"light gray","labels":["親の記憶","子どもの記憶","あのとき決まったよね","まだ考えてたのに","ズレが大きくなる","志望校がコロコロ変わる","理由が『なんとなく』","言ってることが違う","関係がギクシャク","現実を見てほしい","ちゃんと決めてほしい","口を出しすぎると関係が悪くなる"],"contents":{"top_left":{"type":"parent icon with thought bubble","icon_color":"blue","caption":"親の記憶","bubble_text":"あのとき\n決まったよね"},"top_right":{"type":"child icon with thought bubble","icon_color":"pink","caption":"子どもの記憶","bubble_text":"まだ考えてたのに"},"center":{"type":"horizontal double-headed arrow","color":"blue-gray"},"bottom_center":{"type":"downward arrow leading to burst shape","color":"light gray","burst_text":"ズレが\n大きくなる"},"bottom_left":{"type":"rounded note box","bullet_count":4,"bullets":["志望校がコロコロ変わる","理由が『なんとなく』","言ってることが違う","関係がギクシャク"]},"bottom_right":{"type":"rounded note box","bullet_count":3,"bullets":["現実を見てほしい","ちゃんと決めてほしい","口を出しすぎると関係が悪くなる"]}}},{"title":"記録がある場合(ズレにくい)","position":"right","count":7,"header_color":"mustard yellow","panel_border":"light yellow","labels":["親の認識","子どもの認識","記録"],"contents":{"top_left":{"type":"parent icon with thought bubble containing document symbol","icon_color":"blue","caption":"親の認識"},"top_right":{"type":"child icon with thought bubble containing document symbol","icon_color":"pink","caption":"子どもの認識"},"center":{"type":"horizontal double-headed arrow","color":"mustard yellow"},"bottom_center":{"type":"circular record icon with document symbol","outline_color":"mustard yellow","text":"記録"},"bottom_left_connector":{"type":"curved arrow from parent to record","color":"blue"},"bottom_right_connector":{"type":"curved arrow from child to record","color":"pink"}}}],"spacing":"balanced, symmetrical"},"visual_language":{"icons":"generic human bust icons and simple document line icons","emphasis":"contrast the left panel's misunderstanding with the right panel's shared record","mood":"educational, calm, practical"},"text_language":"Japanese","render_quality":"crisp vector edges, infographic suitable for social media educational posts"}
 ```
-
 ### Case 162: [Good Bath Day Editorial Poster](https://x.com/Kazuch75240438/status/2048205418238030327) (by [@Kazuch75240438](https://x.com/Kazuch75240438))
 
 | Resultado |
@@ -1549,7 +1454,6 @@ A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-sty
 ```
 Create a soft editorial lifestyle poster for {argument name="event date" default="4.26"} celebrating Japanese bath culture, designed like a refined magazine feature page in portrait orientation. The layout is split into two main columns with a pale cream and warm gray background, thin divider lines, elegant serif typography, and muted sage-green accents. At the top left, include the small heading “LIFESTYLE / FEATURE”, then a large date line reading “{argument name="event date" default="4.26"} EVENT”, followed by the large Japanese title “よい風呂の日” and the subtitle “特集” in sage green, with a small bathtub icon nearby. Beneath that, add the Japanese tagline “心も体も、ととのう時間。” and several short body-text blocks in Japanese explaining the meaning of Good Bath Day, including references to “4(よ)2(ふ)6(ろ)” and the benefits of bathing for body and mind. On the right side, show a bright, airy bathroom interior lit by soft natural morning light from a window, with beige and off-white tones, a wooden counter, folded white towels, a pump bottle, a sponge, woven baskets, and a few green plants. In front of the bathroom scene, place a youthful anime-style person with {argument name="hair color" default="soft medium brown"} tousled short hair, fair skin, and a relaxed expression, standing in a casual post-bath pose. The character wears a loose white T-shirt with a tiny dark square chest logo and light brown drawstring lounge pants, one hand in a pocket and the other holding a white towel up near the face and shoulder, conveying a fresh, just-bathed feeling. Near the character, include the handwritten-style Japanese side note “湯上がりの、リラックスタイム。” Add an oval badge on the lower right of the main image area with the English heading “GOOD BATH DAY” and Japanese explanatory text inside, plus a small bathtub icon. Below the main feature, include exactly 2 small inset images of the same character in the bathroom, each framed as rectangular mini-panels with narrow vertical Japanese captions beside them. At the bottom, create exactly 4 rounded rectangular information cards in a row: card 1 labeled “POINT 01” with the heading “お風呂の基本” and text about soaking in lukewarm water around 38–40°C; card 2 labeled “POINT 02” with the heading “日常でできること” and text about making bathing part of a routine instead of only showering; card 3 labeled “POINT 03” with the heading “楽しみ方・取り入れ方” and text about bath salts, scents, music, and lighting; card 4 labeled “まとめ” with concluding Japanese text about sustainable self-care. Decorate the cards with small illustrated elements such as leaves, a bathtub, a candle, a bottle, lavender sprigs, and a basket of folded towels. Along the very bottom, add a horizontal green tip strip labeled “今日からできる TIP” with exactly 3 checklist items: “就寝の1〜2時間前に入浴する”, “スマホは浴室に持ち込まない”, and “水分補給を忘れずに”. Place a final handwritten-style Japanese phrase at the lower right reading “自分をいたわる時間を。” The overall look should be clean, gentle, wellness-focused, feminine-neutral, and polished like a Japanese seasonal magazine infographic, with delicate anime illustration, soft shadows, subtle textures, and calm spa-like atmosphere.
 ```
-
 ### Case 163: [Japanese Sci-Fi Suit-Up Process Board](https://x.com/yy7482933910896/status/2048192904922075161) (by [@yy7482933910896](https://x.com/yy7482933910896))
 
 | Resultado |
@@ -1561,7 +1465,6 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 ```
 {"type":"Japanese sci-fi armor dressing-process infographic","style":"cinematic live-action tokusatsu-inspired promotional board, realistic industrial lighting, polished metal surfaces, sharp photographic detail","theme":"manual pre-battle suit-up sequence for a female hero in a red, silver, black, and blue protector suit","subject":{"character":{"gender":"female","age":"young adult","identity":"helmetless heroine during assembly, face intentionally obscured or anonymized in every unhelmeted panel","hair":"dark brown to black hair tied in a high ponytail with bangs","undersuit":"glossy black skintight inner suit with silver chest panel and white neck ring","armor":"retro-futuristic protector armor with red shoulder and arm plates, silver breastplate and torso plating, circular blue chest core, red waist unit, white gloves, red forearm guards with yellow stripe accents","helmet":"round red-and-silver helmet with black visor"},"environment":{"location":"high-tech industrial hangar or armor bay","background elements":["metal framework","robotic equipment","tool benches","armor racks","computer monitors","workshop lighting","bay corridor marked BAY-07 in final panel"]}},"layout":{"header":{"count":2,"labels":["ソルジャンヌ・スーツ 手動装着プロセス","専用プロテクタースーツ『ソルジャンヌ』を、戦闘前に手動で装着する様子。各ユニットを確実に装着し、システムを起動する。"],"design":"wide black-to-red gradient banner across top, large bold white Japanese text, diagonal red accent"},"sections":[{"title":"1 インナースーツの確認","position":"top-left","count":1,"labels":["各部のセンサーとコネクタをチェック。戦闘に備え、身体の状態を最終認する。"],"image":"three-quarter view of the heroine in only the black glossy inner suit, looking down while checking or tightening a wrist connector"},{"title":"2 胸部・肩部アーマーの装着","position":"top-center","count":1,"labels":["胸部ユニットと肩部プロテクターを装着。コネクタを接続し、ロックを固定する。"],"image":"mid shot with chest armor and red shoulder plates installed, heroine fastening the front torso area with both hands"},{"title":"3 腰部ユニット・ベルトの固定","position":"top-right","count":1,"labels":["ウエストユニットを装着し、各部のロックを確認。可動部の動作チェックを行う。"],"image":"mid shot with torso armor completed, heroine tightening or checking the waist belt and side locks"},{"title":"4 ヘルメットの準備","position":"bottom-left","count":1,"labels":["ヘルメットのバイザーと内部システムをチェック。ヘッドセットとの同期を確認する。"],"image":"heroine holding the red helmet in both hands at chest height, showing the glossy black visor"},{"title":"5 ヘルメットの装着・システム起動","position":"bottom-center","count":1,"labels":["ヘルメットを装着し、直上のコネクタをロック。全身のシステムが起動し、胸部コアが発光する。"],"image":"heroine placing the helmet onto her head with both hands; blue chest core glowing brightly"},{"title":"6 装着完了","position":"bottom-right","count":1,"labels":["全システムの最終チェックを行い、戦闘モードへ。ソルジャンヌ、出撃準備完了!"],"image":"full-body frontal hero pose in a futuristic corridor, fully suited with helmet on, arms relaxed at sides"}],"footer":{"count":1,"labels":["一つ一つの装着が、命を守り、力を引き出す。 ソルジャンヌの戦いは、ここから始まる。"],"design":"dark red cinematic footer strip with centered white Japanese slogan"},"grid":{"rows":2,"columns":3,"panel_count":6,"panel_borders":"thin white dividers","number_badges":6}},"text_rendering":{"language":"Japanese","font":"bold sans-serif headline with smaller sans-serif body text","colors":"white text on black, red, and white info bars; red numbered squares with white numerals"},"composition":"16:9 wide infographic board, six equal photo panels arranged in a 3-by-2 grid, each panel captioned below with a red numbered box from 1 to 6","lighting":"moody workshop lighting with metallic reflections and red accent lights, realistic shadows, cinematic sci-fi atmosphere"}
 ```
-
 ### Case 164: [Dreamy Shibuya Bubble Girl](https://x.com/terunari/status/2048308270914490666) (by [@terunari](https://x.com/terunari))
 
 | Resultado |
@@ -1573,7 +1476,6 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 ```
 A dreamy anime-style full-body illustration of a fashionable young woman standing in the middle of the Shibuya scramble crossing in Tokyo on a bright clear day, with the iconic cylindrical SHIBUYA 109 building centered in the background and recognizable commercial billboards surrounding it, including signs resembling H&M, DHC, DMM TV, Big Echo, and other dense Japanese city advertisements. She is the single main subject, posed gracefully as if floating or weightless, standing on top of one giant iridescent translucent soap bubble beneath her skirt. Her face is softly obscured and de-emphasized, while her long dark violet-black hair flows dramatically in the wind, with soft bangs and a pink floral headband accessory with ribbon on one side. She wears a sweet feminine spring outfit in pastel pink: a long-sleeved frilled blouse under a sleeveless pink dress with a ribbon tie at the chest, a tan belt at the waist, layered ruffles at the hem, and subtle sakura flower embroidery near the lower skirt. Her expression and body language should feel gentle, elegant, whimsical, and slightly magical. One hand is raised with her index finger pointing upward toward a floating bubble that contains 1 smartphone; her other hand holds a loop handle attached to a large transparent iridescent shopping-bag-like bubble containing 3 visible items: 1 SHIBUYA 109 paper shopping bag, 1 pink shopping bag or package, and 1 small pink bunny-faced pouch. Also include 1 separate floating smartphone/tablet-like device outside the bubbles near the lower left side, and 1 floating bubble on the lower right containing 1 compact camera. Surround her with many soap bubbles of different sizes, all highly reflective with rainbow highlights and delicate transparency, creating a soft sparkling atmosphere. The city scene should be busy but slightly softened, with pedestrians in the far background, crosswalk stripes in the foreground, and warm sunlight filtering through the urban canyon. Use polished high-detail anime illustration rendering, luminous pastel colors, glossy reflections, soft bloom, a romantic spring palette, and a magical everyday Tokyo aesthetic.
 ```
-
 ### Case 165: [Stormy Tropical City With Rooftop Plane](https://x.com/Gerry/status/2048303505702629537) (by [@Gerry](https://x.com/Gerry))
 
 | Resultado |
@@ -1585,7 +1487,6 @@ A dreamy anime-style full-body illustration of a fashionable young woman standin
 ```
 A cinematic wide aerial view of a tropical coastal city at sunset during a violent storm, split dramatically between dark storm clouds on the left and blazing golden sunlight on the right. In the foreground, a small single-engine light airplane with a high wing and visible tail is parked or perched precariously on a flat rooftop, seen from behind and slightly above, centered near the bottom of the frame. To the left midair, 1 helicopter flies low over the city with its searchlight cast downward. In the sky, include 1 faint lightning bolt on the far left. The city below is dense with wet streets, reflective pavement, low-rise commercial buildings, and a few taller modern towers, including 1 prominent striped high-rise near the center. A glowing red circular neon sign is visible near the middle distance. On the right side, a calm bay or inlet curves through the city, lined with 1 row of tall palm trees along the waterfront road, and crossed by 1 long low bridge in the distance. The water and streets glisten from recent rain, reflecting the orange sunlight breaking through the clouds. Mood is tense, dramatic, and slightly surreal, like a movie still from an urban disaster thriller. Photorealistic, ultra-detailed, high dynamic range lighting, volumetric sun rays, storm atmosphere, wet surfaces, rich contrast, deep shadows, golden highlights, wide-angle lens, epic composition.
 ```
-
 ### Case 168: [Outdoor Sportswear Grid Campaign](https://x.com/SPEEDAI07/status/2049081198211736062) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
 
 | Resultado |
@@ -1629,7 +1530,6 @@ Lighting: Professional, cinematic lighting with sharp detail and contrast
 Mood: Energetic, adventurous, motivational
 Aspect ratio: 1:1 (square collage)
 ```
-
 ### Case 169: [Topographic Letter Satellite Panels](https://x.com/madpencil_/status/2049080259476349218) (by [@madpencil_](https://x.com/madpencil_))
 
 | Resultado |
@@ -1653,7 +1553,6 @@ Panel 9 (L): volcanic terrain with lava flows forming an "L", dark rock with glo
 
 top-down satellite perspective, NASA Earth observation style, hyper-detailed textures, realistic geography, consistent scale and lighting across all panels, minimal clouds, high contrast, sharp focus, subtle atmospheric haze, natural color grading, ultra high resolution 8K, clean spacing between panels, modern gallery-style composition, visually cohesive but each panel distinctly different biome, letters clearly readable yet organically integrated into terrain
 ```
-
 ### Case 170: [Iced Coffee Product Infographic](https://x.com/Strength04_X/status/2049082049995362785) (by [@Strength04_X](https://x.com/Strength04_X))
 
 | Resultado |
@@ -1684,7 +1583,6 @@ Add clean minimalist text labels with thin pointer lines using these exact label
 “Glass”
 Ultra-realistic liquid detail, sharp reflections, premium commercial photography, 8K.
 ```
-
 ### Case 171: [Fashion Dress Collection Infographic](https://x.com/cellinlab/status/2049073530738754042) (by [@cellinlab](https://x.com/cellinlab))
 
 | Resultado |
@@ -1723,7 +1621,6 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
   }
 }
 ```
-
 ### Case 172: [Monochrome Fashion Cover](https://x.com/sha_zdiii/status/2049088961008848905) (by [@sha_zdiii](https://x.com/sha_zdiii))
 
 | Resultado |
@@ -1748,7 +1645,6 @@ Add a small holographic glitch-style label over the eyes with text “ICON”
 Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic, modern typography, clean layout, ultra premium branding
 --ar 2:3 --style raw --quality 2 --sharp focus --photorealistic
 ```
-
 ### Case 173: [Fast Food Character Poster](https://x.com/LoovaAI/status/2049085173015425354) (by [@LoovaAI](https://x.com/LoovaAI))
 
 | Resultado |
@@ -1760,7 +1656,6 @@ Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic,
 ```
 Use the character in image 1 as the main subject. Create a vertical poster ad in American fast food diner style. Low angle, wide lens. Red / yellow / white palette with ketchup splashes, melting cheese graphics, comic burst shapes, retro diner typography, and bold fast food poster collage aesthetic.
 ```
-
 ### Case 174: [New York across two centuries cinematic poster](https://x.com/Shinning1010/status/2049460661109879022) (by [@Shinning1010](https://x.com/Shinning1010))
 
 | Resultado |
@@ -1772,8 +1667,6 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 ```
 Create a cinematic 3:4 vertical poster of New York City that feels truly epic and unconventional, showing the passage from the 20th century to the 21st century in one seamless image. Place a lone figure at the center of the composition, standing in the middle of the street and looking forward as if witnessing New York across time. The left side should depict 20th-century New York with warm sepia atmosphere, vintage taxis, old newsstands, retro lamps, and landmarks like the Chrysler Building and Empire State Building. The right side should depict 21st-century New York with glass skyscrapers, One World Trade Center, digital billboards, and modern urban energy. Make the transition natural rather than split-screen, with coherent perspective, wet reflective pavement, realistic textures, atmospheric depth, and no text.
 ```
-
-
 ### Case 175: [Blue Tears cocktail tutorial infographic poster](https://x.com/cellinlab/status/2049460927121244510) (by [@cellinlab](https://x.com/cellinlab))
 
 | Resultado |
@@ -1785,7 +1678,6 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 ```
 试着帮我生成调制一杯蓝色眼泪鸡尾酒（配料流程你自己发挥想象，但是要写清楚确保可复现）的流程教学图和概念设计宣传图，轻奢酒咖海报风格，横版。
 ```
-
 ### Case 176: [ASCII dengue infographic](https://x.com/mapasbr/status/2049458767520051448) (by [@mapasbr](https://x.com/mapasbr))
 
 | Resultado |
@@ -1797,9 +1689,78 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 ```
 infográfico ASCII DENGUE
 ```
+### Case 177: [Anuncio principal de smartphone lavanda](https://x.com/meng_dagg695/status/2050472802327900342) (by [@meng_dagg695](https://x.com/meng_dagg695))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case177/output.jpg" width="300" alt="Output image"></a> |
 
-<!-- Case 184: Miniature City Knot Sculpture (by @Gdgtify) -->
-### Case 184: [Miniature City Knot Sculpture](https://x.com/Gdgtify/status/2051274139378315546) (by [@Gdgtify](https://x.com/Gdgtify))
+**Guías de envío:**
+
+```
+Redmi 17 pro new launch 🔥 Made with Gpt image 2 on Chatgpt Prompt : Ultra-realistic premium smartphone advertisement, featuring a confident young woman in her early 20s with fair skin and sharp facial features, wearing sleek black cat-eye sunglasses. She has long, thick braided hair styled into an extended oversized braid, colored in soft lavender/purple tones matching the product theme. She is captured in a dynamic low-angle cinematic pose, slightly twisting her torso while holding a Xiaomi 17 Pro smartphone toward the camera in a bold hero shot with strong forced perspective, the phone dominating the foreground. The smartphone features a matte metallic lavender/purple finish, minimalistic body with rounded corners, and a large rectangular camera module. The module includes two large camera lenses on the left, a circular secondary display on the right showing a minimal purple gradient clock UI, Leica branding near the camera, a clean flash strip, and subtle Xiaomi branding at the bottom. Outfit: fitted long-sleeve crop top in soft lavender/purple, paired with high-waisted muted grey/olive cargo pants, modern tech-fashion aesthetic. Background: clean minimal gradient transitioning from light grey to soft lavender/purple tones, with subtle blurred large-scale typography for depth. Lighting: soft studio lighting with neutral-to-cool tones, smooth skin illumination, controlled highlights on the phone edges, glossy reflections on camera lenses and display, minimal shadows, premium product photography style. Composition: low-angle shot for a powerful look, subject positioned slightly left, phone dominating the right foreground, clean negative space for branding. Futuristic UI overlays: thin minimal white/purple lines and nodes pointing to features with floating labels: “Leica Camera System” “Secondary Display Integration” “Ultra-Slim Premium Design” Glassmorphism panel (bottom-left, soft purple tint) listing: “Flagship Performance” “Advanced AI Imaging” “Fast Charging” “Next-Gen Xiaomi AI” Top corner text: “Xiaomi 17 Pro” in clean modern sans-serif typography. Style: high-end flagship smartphone advertisement, futuristic, minimal, elegant. Quality: 8K, ultra-detailed, sharp focus, HDR, cinematic commercial photography, realistic textures.
+```
+### Case 178: [Plantilla de póster gastronómico de lujo](https://x.com/SPEEDAI07/status/2050470348454551902) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case178/output.jpg" width="300" alt="Output image"></a> |
+
+**Guías de envío:**
+
+```
+GPT Image 2 on ChatGPT App Create a hyper-realistic vertical commercial food photography poster for a premium [PRODUCT TYPE], designed in a refined luxury advertisement style, 2:3 aspect ratio. Place [MAIN PRODUCT] as the central hero subject, positioned [COMPOSITION / ANGLE], with premium realistic details such as [TEXTURE DETAILS], [SURFACE FINISH], and [FOOD-SPECIFIC FEATURES]. Surround the product with [FLOATING INGREDIENTS / MOTION ELEMENTS], arranged dynamically but cleanly to create movement, depth, and visual balance. Add [LIQUID / SPLASH / DRIP / POWDER EFFECT] interacting with the product in a natural high-speed freeze-frame style, showing realistic viscosity, droplets, suspended particles, soft shadows, and crisp highlights. Use a [BACKGROUND STYLE] with a cohesive color palette of [COLOR PALETTE], keeping the composition clean, appetizing, and premium. Lighting should be [LIGHTING STYLE], emphasizing gloss, creaminess, texture, and material contrast. Include [TYPOGRAPHY / BRANDING DETAILS] if required, placed with elegant spacing and modern commercial balance. Ultra-detailed textures, photorealistic rendering, high-end dessert or beverage advertisement aesthetic, sharp focus on the hero product, slight depth falloff on outer elements, clean studio composition, luxurious, fresh, indulgent, 8K resolution. Cheat Sheet [PRODUCT TYPE]: matcha drink, ice cream bar, pistachio cone, dessert poster [MAIN PRODUCT]: cup, bar, cone, packaged dessert [COMPOSITION / ANGLE]: overhead flat-lay, centered vertical, mid-air diagonal [TEXTURE DETAILS]: crumbs, powder, nuts, cream ridges, ice cubes [SURFACE FINISH]: glossy chocolate, matte powder, creamy swirl, transparent plastic [FLOATING INGREDIENTS]: almonds, tea leaves, pistachios, cherry pieces [MOTION EFFECT]: splash, drip, swirl, powder burst, frozen particles [BACKGROUND STYLE]: soft gradient, textured powder surface, clean studio backdrop [COLOR PALETTE]: matcha green, chocolate brown, cherry pink, pistachio sage [TYPOGRAPHY]: brand name, product title, tagline, offer badge, CTA button
+```
+### Case 179: [Póster de zumo de naranja inflable](https://x.com/Goodmanprotocol/status/2050451019746926879) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case179/output.jpg" width="300" alt="Output image"></a> |
+
+**Guías de envío:**
+
+```
+Perfect for the summers GPT Image 2 on ChatGPT Prompt: Design a '4:5' product poster for an 'orange' juice 3d bottle using playful inflatable-plastic packaging surrealism where the bottle behaves like a squeezed toy object mid-pressure. The poster should communicate juiciness, tension, and tactile freshness through a bottle that visibly bulges, stretches, and compresses like a soft object being squeezed from the inside out. SUBJECT: A single bottle dominates the center-left, illustrated in a semi-3D stylized form (not photoreal). The bottle is visibly distorted—its midsection bulges outward while the neck is slightly compressed, as if internal juice pressure is pushing against the container walls. The liquid inside exaggerates this effect, forming rounded convex surfaces pressing against the plastic. The cap is slightly tilted from pressure. The bottle feels elastic, alive, and reactive rather than rigid. COMPOSITION: The composition mechanic is “internal pressure distortion”. The eye enters through the most inflated part of the bottle (center bulge), then follows curved tension lines outward toward stretched typography on the right side. The camera uses a slightly low, close-up perspective with mild fisheye distortion, amplifying the sense of pressure and expansion. The bottle leans diagonally into the frame as if pushing against invisible resistance. Negative space on the right is intentionally stretched and warped, echoing the bottle’s deformation. TYPOGRAPHY: Headline: “SQUEEZE BACK” in thick, rounded, inflated lettering that mimics air-filled plastic. The type is physically distorted—letters stretch horizontally near the bottle and compress toward the edges, as if affected by the same pressure force. The headline sits to the right of the bottle but partially overlaps its bulging edge. Subheadline: “Juice that pushes back.” in a narrow condensed sans, straight and rigid, contrasting the soft headline. Small circular microcopy labels (e.g., “100% organic”, “no added sugar”) appear like printed stickers slightly warped by the surface tension. LIGHTING / GRAPHIC TREATMENT: Soft studio lighting adapted for stylized rendering—broad diffused highlights across curved surfaces, subtle specular streaks that follow the deformation. No realistic reflections—only controlled, simplified highlight bands that emphasize volume and elasticity. COLORS: 'orange' juice bottle color and 3d header text. Small accents of 'bright lime green' for sticker elements. High contrast between glowing orange and dark surroundings. BACKGROUND: A smooth dark gradient field with subtle radial tension lines expanding outward from the bottle, like invisible pressure waves. No texture clutter—clean but dynamically warped space. STYLE: Neo-pop surreal product illustration with inflatable material logic, playful distortion, and high-impact commercial clarity. FINISH: Soft plastic-like rendering, clean edges, controlled gradient transitions, no noise or grain, polished but intentionally stylized surface behavior. FOOTER: A compact floating sticker cluster in the bottom-right corner containing a small brand placeholder, a circular “fresh batch” seal, and minimal product info arranged like packaging labels. NEGATIVE: Avoid realistic photography, static bottle poses, generic splash effects, centered symmetry, rigid typography, template layouts, clutter, excessive gloss, low detail, and stock advertising aesthetics.
+```
+### Case 180: [Póster de moda urbana verde esmeralda](https://x.com/harboriis/status/2050444570345742591) (by [@harboriis](https://x.com/harboriis))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case180/output.jpg" width="300" alt="Output image"></a> |
+
+**Guías de envío:**
+
+```
+GPT Image 2 on ChatGPT Prompt: Create a bold street-fashion poster featuring a handsome man with short black hair, and a fearless expression. Dress him in a glossy emerald satin bomber jacket and black pants. Place him in front of a distressed concrete wall with emerald, black, and white layered textures. Use dramatic editorial lighting, crisp contrast, and a premium urban mood. Add bold uppercase typography with a clean modern poster style.
+```
+### Case 181: [Campaña retro de patinaje sobre ruedas](https://x.com/AIwithSynthia/status/2050430705189191704) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case181/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case181/output.jpg" width="300" alt="Output image"></a> |
+
+**Guías de envío:**
+
+```
+PixPretty @PixPrettyAI with GPT Image 2 has been quietly setting a new standard over the past few days Prompt : A premium sports fashion campaign featuring a confident athletic woman wearing a red and white retro roller skating outfit, styled in a minimal studio environment with bold red and beige tones. Top frame: full-body shot of the model sitting casually on a concrete ledge, wearing white roller skates with red wheels, one leg extended and the other bent, looking sideways with a strong editorial pose. Background features large bold typography reading “FREEDOM” in oversized letters. Bottom left frame: close-up portrait of the model with glowing skin, slicked-back hair, and sharp lighting emphasizing facial structure. Minimal text “OWN YOUR PACE” placed beside her. Bottom right frame: dynamic action pose of the model skating low to the ground, hand reaching forward, showcasing motion and strength. Background includes minimal graphic lines and text “BALANCE FLOW FREEDOM”. Style: high-end commercial photography, sharp details, cinematic lighting, glossy skin highlights, strong shadows, ultra-clean composition, brand campaign aesthetic, Nike/Adidas inspired, 1:1 layout, grid collage format, editorial typography, bold color blocking, 4K resolution.
+```
+### Case 182: [Póster editorial de ropa deportiva futurista](https://x.com/gold_force_guri/status/2050428455360348191) (by [@gold_force_guri](https://x.com/gold_force_guri))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case182/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case182/output.jpg" width="300" alt="Output image"></a> |
+
+**Guías de envío:**
+
+```
+GPT image 2 on @SocialSight Prompt: High-fashion futuristic sportswear editorial poster, full-body female model in dynamic wide-leg stance, oversized white minimalist sweatshirt with voluminous sleeves, glossy translucent parachute pants, chunky white-orange athletic sneakers, sleek messy updo hairstyle, gold statement earrings, soft natural makeup, confident editorial expression, studio fashion photography, centered composition, smooth neutral beige gradient background with large abstract glossy red-pink organic 3D inflatable blob shapes behind model, bold oversized white typography “just” partially behind subject, premium athletic brand campaign aesthetic, ultra-clean lighting, soft diffused studio shadows, luxury streetwear advertisement, contemporary magazine cover design, minimalist layout, subtle futuristic graphic microtext, highly polished commercial fashion retouching, sharp focus, cinematic soft contrast, photorealistic, high detail, 8k
+```
+### Case 183: [Póster publicitario de auriculares streetwear](https://x.com/Strength04_X/status/2050420683482800333) (by [@Strength04_X](https://x.com/Strength04_X))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case183/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case183/output.jpg" width="300" alt="Output image"></a> |
+
+**Guías de envío:**
+
+```
+GPT image 2 on ChatGPT 📱 Prompt: A streetwear advertisement poster. A cool teenage girl in oversized hoodie and baggy jeans leans against a giant pair of floating wireless headphones 2x her height with "BASS" logo on earcups, colorful sound wave visualizer glowing behind. Dark urban brick wall background with purple and pink gradient neon lighting. Bold graffiti-style typography "BASS" in background. Tagline bottom: "Feel every frequency." Small text top-right corner reads "Designed with GPT Image 2" in grey. Photorealistic, street culture editorial style.
+```
+<!-- Case 184: Escultura nudo ciudad miniatura (by @Gdgtify) -->
+### Case 184: [Escultura nudo ciudad miniatura](https://x.com/Gdgtify/status/2051274139378315546) (by [@Gdgtify](https://x.com/Gdgtify))
 
 | Output |
 | :----: |
@@ -1812,9 +1773,8 @@ GPT Image 2 + Kling = 🔥 This was done for Tokyo.
 
 [VAR_CITY] = "Tokyo, Japan"     [NODE 1: BASE_TOPOLOGY] Generate a complex, self-intersecting 3D endless loop (e.g., a thick Trefoil Knot or Gordian Knot). Material_Output: Raw, unfinished layered birch plywood. Visible wood grain.  [NODE 2: INSTANCER_LOGIC] AI_INFERENCE_TRIGGER: Analyze [VAR_CITY]. Extract its iconic architectural style, specific landmarks, and road infrastructure.  Action: Instance these urban elements directly onto the surface normals of the [BASE_TOPOLOGY].  [NODE 3: GRAVITY_WARP] The gravity vector is strictly relative to the surface of the knot. Buildings must project outward from the wood, regardless of whether the surface is facing up, down, or sideways. The roads must follow the curvature perfectly. Tiny metallic cars dot the highways.  [RENDER_ENGINE] Execute Tree. Output as a physical macro-photography studio shot. The object sits on a blank museum pedestal. Soft, diffuse top-lighting. Shallow depth of field to emphasize the miniature scale.
 ```
-
-<!-- Case 185: Taiwanese Food Blog Spread (by @aiistudiocom) -->
-### Case 185: [Taiwanese Food Blog Spread](https://x.com/aiistudiocom/status/2051271666429473079) (by [@aiistudiocom](https://x.com/aiistudiocom))
+<!-- Case 185: Difusion blog comida taiwanesa (by @aiistudiocom) -->
+### Case 185: [Difusion blog comida taiwanesa](https://x.com/aiistudiocom/status/2051271666429473079) (by [@aiistudiocom](https://x.com/aiistudiocom))
 
 | Output |
 | :----: |
@@ -1825,9 +1785,8 @@ GPT Image 2 + Kling = 🔥 This was done for Tokyo.
 ```
 A cozy restaurant table filled with a vibrant Taiwanese meal, shot in warm natural lighting. A large bowl of braised beef noodle soup with wide noodles, tender beef chunks, bok choy, and green onions sits in the foreground. Surrounding dishes include a bowl of rice topped with raw egg yolk, seaweed, kimchi, and chopped vegetables; a plate of Taiwanese fried chicken and tofu with greens; stir-fried water spinach with garlic; and a small dish of marinated vegetables. A tall elegant glass dessert with shrimp salad layered inside stands in the center. Wooden table surface, ceramic bowls, and a teapot in the background create a homely aesthetic. Handwritten-style Chinese text annotations and doodles are scattered around the dishes, adding a playful, lifestyle-blog feel. Soft depth of field, warm tones, high detail, food photography style.
 ```
-
-<!-- Case 186: Alien Disclosure Dossier (by @Gdgtify) -->
-### Case 186: [Alien Disclosure Dossier](https://x.com/Gdgtify/status/2051262563426459707) (by [@Gdgtify](https://x.com/Gdgtify))
+<!-- Case 186: Expediente revelacion alienigena (by @Gdgtify) -->
+### Case 186: [Expediente revelacion alienigena](https://x.com/Gdgtify/status/2051262563426459707) (by [@Gdgtify](https://x.com/Gdgtify))
 
 | Output |
 | :----: |
@@ -1876,9 +1835,8 @@ Phase 4: Tone
 Output: One high-detail declassified dossier poster as a single finished image.
 </instruction>
 ```
-
-<!-- Case 187: Empire Inferno Burger Poster (by @iamsofiaijaz) -->
-### Case 187: [Empire Inferno Burger Poster](https://x.com/iamsofiaijaz/status/2051258805070282960) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+<!-- Case 187: Cartel burger Inferno Imperio (by @iamsofiaijaz) -->
+### Case 187: [Cartel burger Inferno Imperio](https://x.com/iamsofiaijaz/status/2051258805070282960) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
 
 | Output |
 | :----: |
@@ -1926,9 +1884,8 @@ Bottom section:
 Style:
 Ultra-realistic, 8K food photography, commercial advertising, sharp focus, dramatic, premium global fast-food branding, highly detailed textures, mouthwatering presentation.
 ```
-
-<!-- Case 188: Greek Yogurt Lifestyle Ad (by @LoverCrick28247) -->
-### Case 188: [Greek Yogurt Lifestyle Ad](https://x.com/LoverCrick28247/status/2051196874208800872) (by [@LoverCrick28247](https://x.com/LoverCrick28247))
+<!-- Case 188: Anuncio yogur griego estilo vida (by @LoverCrick28247) -->
+### Case 188: [Anuncio yogur griego estilo vida](https://x.com/LoverCrick28247/status/2051196874208800872) (by [@LoverCrick28247](https://x.com/LoverCrick28247))
 
 | Output |
 | :----: |
@@ -1965,9 +1922,8 @@ elegant serif + modern script combination
 
 --ar 4:5 --style raw --v 6 --q 2
 ```
-
-<!-- Case 189: Fitness Boxing Campaign Collage Poster (by @AIwithSynthia) -->
-### Case 189: [Fitness Boxing Campaign Collage Poster](https://x.com/AIwithSynthia/status/2049718330353975652) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
+<!-- Case 189: Cartel collage campana boxeo fitness (by @AIwithSynthia) -->
+### Case 189: [Cartel collage campana boxeo fitness](https://x.com/AIwithSynthia/status/2049718330353975652) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
 
 | Output |
 | :----: |
@@ -1986,7 +1942,624 @@ Full-body action pose of the woman throwing a punch at the punching bag. Dynamic
 Overall style:
 premium fitness brand campaign, dramatic studio lighting, soft shadows, high contrast, ultra realistic, sharp details, minimal color palette (red, white, neutral tones), clean composition, cinematic photography, 4k quality.
 ```
+<!-- Case 190: Póster infográfico del Samsung Galaxy S25 (by @bmx_ai13) -->
+### Case 190: [Póster infográfico del Samsung Galaxy S25](https://x.com/bmx_ai13/status/2051692833258852586) (by [@bmx_ai13](https://x.com/bmx_ai13))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case190/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case190/output.jpg" width="300" alt="Output image"></a> |
 
+**Guías de envío:**
+
+```
+Create a premium futuristic infographic poster for Samsung Galaxy S25 in a vertical 3:4 aspect ratio. Center the Galaxy S25 phone lineup with multiple sleek smartphones shown from front and back angles, including a silver S Pen beside the main phone. Use a deep cosmic blue space background with stars, glowing light trails, luminous orbit rings, reflective glass floor, and distant mountain silhouettes for depth.
+
+At the top, add bold clean text: "SAMSUNG", large headline "Galaxy S25", subheadline "Galaxy AI", and tagline "Intelligence in Motion."
+
+Design the poster as a modern tech infographic with thin glowing connector lines, circular icon badges, and clean feature callouts around the phones. Add these sections:
+
+Galaxy AI: Smarter every day
+Pro Grade Camera: Capture every detail
+Next Gen Performance: Power that evolves
+Built to Last: Stronger inside and out
+Brilliant Display: Immersive edge to edge viewing
+S Pen Support: Create, sketch, and work faster
+
+At the bottom, create a glowing spec bar with small icons and short feature blocks:
+
+Premium Design: Sleek. Refined. Timeless.
+50MP High-Resolution Camera: Stunning clarity, day or night.
+Snapdragon 8 Elite for Galaxy: Built for speed. Ready for anything.
+All Day Battery: More power. Less worry.
+IP68 Water & Dust Resistance: Adventure ready. Worry free.
+Storage Options: Up to 1TB storage.
+
+Style: ultra premium Samsung style product advertising, clean futuristic UI design, metallic typography, blue white neon glow, realistic phone render, sharp readable typography, cinematic lighting, glossy reflections, high end commercial poster, no humans, no messy text, no watermark.
+```
+<!-- Case 191: Fotografía gastronómica con personajes doodle (by @Taaruk_) -->
+### Case 191: [Fotografía gastronómica con personajes doodle](https://x.com/Taaruk_/status/2051690647997088110) (by [@Taaruk_](https://x.com/Taaruk_))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case191/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case191/output.jpg" width="300" alt="Output image"></a> |
+
+**Prompt 1 (Beach café + cute doodle characters):**
+
+```
+Aesthetic beachside café scene with a wooden table overlooking the ocean, bright daylight, soft shadows, tropical vibe. A delicious bowl of food and a coconut drink placed on the table. Add cute illustrated cartoon characters (fox, bunny, cat) sitting and relaxing around the food, with tiny hand-drawn doodles (hearts, sparkles, motion lines). Cozy wholesome mood, playful storytelling, mix of real photography and 2D illustration overlay, soft warm color grading, shallow depth of field, ultra-realistic food details, 4K.
+```
+
+**Prompt 2 (Food flatlay + playful illustrated annotations):**
+
+```
+Top-down vibrant food flatlay featuring multiple crispy fried dishes (fish, shrimp, chicken) with dipping sauces on a dark textured table. Add playful hand-drawn doodles and tiny cartoon characters interacting with the food (surfing shrimp, holding signs, cooking, playing). Include fun handwritten labels like "Golden Crunch", "Perfect Pairing", "Champion Fish". Bright colors, high contrast, crispy texture details, steam effects, dynamic composition, social media food ad style, ultra-realistic, 4K.
+```
+
+**Prompt 3 (Cozy coffee + illustrated storytelling):**
+
+```
+Warm cozy coffee scene on a rustic wooden table with a cup of latte art on a yellow saucer, coffee beans and cinnamon sticks around, small bonsai plant nearby. Add cute animated doodle characters (coffee bean with wings, cat barista painting latte art) and flowing illustrated steam forming magical shapes. Include soft handwritten typography: "Crafted Comfort – Your Daily Ritual". Golden hour lighting, warm tones, soft glow, dreamy atmosphere, shallow depth of field, ultra-realistic + 2D illustration blend, 4K.
+```
+<!-- Case 192: Póster deportivo dinámico (by @SPEEDAI07) -->
+### Case 192: [Póster deportivo dinámico](https://x.com/SPEEDAI07/status/2051679223715365331) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case192/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case192/output.jpg" width="300" alt="Output image"></a> |
+
+**Guías de envío:**
+
+```
+A dynamic sports poster of a professional football player mid-strike, captured in a dramatic low-angle perspective, stadium lights blazing through light rain, water droplets frozen in motion, intense facial expression, muscular tension visible, cinematic lighting, high contrast shadows, ultra-detailed textures, motion blur on ball, sharp focus on athlete, bold typography overlay: "NO EXCUSES. JUST RESULTS.", modern sports branding style, Nike-style campaign aesthetic, 35mm lens, ultra-realistic
+```
+<!-- Case 193: Póster de campaña publicitaria de marca de lujo (by @TechieBySA) -->
+### Case 193: [Póster de campaña publicitaria de marca de lujo](https://x.com/TechieBySA/status/2051676877794816074) (by [@TechieBySA](https://x.com/TechieBySA))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case193/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case193/output.jpg" width="300" alt="Output image"></a> |
+
+**Guías de envío:**
+
+```
+A world-class luxury advertising campaign poster, 4:5 ratio, for [BRAND/PRODUCT], shot in a high-end photography studio, [COLOR] dramatic lighting with vivid color gels casting bold shadows, single hero product floating center frame with hyper-reflective surface catching light streaks, cinematic lens flare, deep rich background with gradient bloom, chrome and glass material feel, oversized bold editorial typography with the brand name, razor-sharp tagline in elegant thin font, extreme detail and texture on the product, smoke or liquid elements subtly in background, feels like Apple x Nike x Lamborghini had a campaign, shot on Hasselblad, photorealistic, magazine cover quality
+```
+<!-- Case 194: Anuncio de fotografía de producto para zumo (by @Jawad_Rahman_) -->
+### Case 194: [Anuncio de fotografía de producto para zumo](https://x.com/Jawad_Rahman_/status/2051671878608228630) (by [@Jawad_Rahman_](https://x.com/Jawad_Rahman_))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case194/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case194/output.jpg" width="300" alt="Output image"></a> |
+
+**Guías de envío:**
+
+```
+A highly realistic low-angle shot of a confident young woman with long, vibrant red hair, holding a watermelon juice can close to the camera in a dramatic perspective. The can appears large in the foreground due to forced perspective, with sharp focus on the product. The woman has fair skin, natural makeup, and a subtle confident expression, looking slightly down toward the camera.
+
+She is wearing a fitted blue sleeveless crop top and light gray sweatpants. Her posture is relaxed yet bold, with one arm extended forward holding the can.
+
+The background is a smooth, colorful gradient blending blue, orange, and red tones, creating a vibrant summer aesthetic. Bright natural sunlight illuminates the scene with soft shadows and high contrast, giving a clean commercial photography look.
+
+The juice can design features a watermelon theme with red and green colors, minimal modern typography, and realistic texture details like condensation droplets.
+
+Ultra-detailed, photorealistic, 8K resolution, sharp focus, shallow depth of field, professional product photography, vibrant colors, cinematic lighting.
+
+Add text: "Your name" in small clean white font at the upper right corner.
+```
+### Case 195: Póster de personaje anime streetwear
+
+**Source**: [@john_my07](https://x.com/john_my07/status/2052054223286870247)
+
+**Prompt**:
+```
+Create a premium stylized illustration of {character_name} from {franchise}, designed as a modern anime-inspired streetwear poster with bold visual identity and cinematic composition.
+Character Interpretation
+Analyze the character’s canon personality and translate it into visual storytelling:
+heroic / determined → explosive movement, confident energy
+calm / intelligent → composed posture, restrained motion
+mysterious / dark → low-key presence, hidden intensity
+aggressive / chaotic → tension-filled stance, sharp gestures
+Extract the character’s most recognizable signature color from the original design and make it the dominant visual accent throughout the artwork.
+Pose & Presence
+Design an iconic pose that instantly communicates the character’s personality:
+dynamic action poses for energetic characters
+relaxed but commanding posture for confident personalities
+shadowed or asymmetrical stance for mysterious characters
+forward-driving combat stance for intense characters
+Body language should feel expressive, cinematic, and instantly readable.
+Facial Expression
+Match the expression tightly to the character’s emotional identity and canon temperament, confident, cold, playful, threatening, fearless, etc.
+Visual Style
+Blend:
+anime illustration aesthetics
+modern streetwear / techwear fashion design
+high-end graphic poster composition
+Style requirements:
+ultra-clean linework
+semi-flat rendering with selective detail
+strong contrast and shape language
+sleek editorial feel
+minimal but visually impactful
+Outfit Redesign
+Reinterpret the original costume as contemporary fashion while preserving recognizable identity traits:
+signature symbols
+silhouettes
+accessories
+hairstyle cues
+iconic patterns or materials
+The design should feel wearable yet unmistakably tied to the character.
+Composition & Layout
+Vertical composition ({aspect_ratio})
+Off-center framing
+Strong diagonal movement across the canvas
+Layered foreground/background depth
+Poster-like balance using intentional negative space
+Color Direction
+Clean white or near-white dominant background
+Signature character color as the main accent
+One complementary secondary accent color
+Minimal palette with bold contrast and controlled saturation
+Background Design
+Create an abstract graphic environment using:
+geometric forms
+sharp framing elements
+layered shapes
+subtle typography-inspired structures
+color-themed visual accents tied to the character
+Keep the background stylish and supportive rather than overly detailed.
+Effects & Motion
+Add stylized visual effects that reflect the character’s energy:
+motion streaks
+paint slashes
+energy trails
+graphic impact lines
+glow accents
+Effects should naturally follow movement and color identity.
+Lighting & Rendering
+Directional cinematic lighting
+Crisp shadows and edge highlights
+Soft glow using the signature accent color
+Ultra-clean vector-like finish
+Premium 4K poster-quality rendering
+Sharp, polished, modern presentation
+```
+
+**Output**:
+
+<img src="../images/poster_case195/output.jpg" width="500">
+
+---
+### Case 196: Infografía de animales en peligro de extinción
+
+**Source**: [@MrDasOnX](https://x.com/MrDasOnX/status/2052064402866851981)
+
+**Prompt**:
+```
+Create a visually rich infographic about an endangered animal. Start by finding one online, research its habitat, diet, and unique traits. Present information through annotated visuals and structured callouts, not generic sections. Style it like a bold graphic illustration: a detailed, photorealistic central animal as the focal point, supported by diagrams, callouts, and concise text elements. Use clean backgrounds and a mix of photorealism with strong graphic elements (shapes, icons, color blocking) in a layered composition. Make it dense, tactile, and professionally authored.
+```
+
+**Output**:
+
+<img src="../images/poster_case196/output.jpg" width="500">
+
+---
+### Case 197: Recreación acogedora en claymation
+
+**Source**: [@miratechtool](https://x.com/miratechtool/status/2052033236964950111)
+
+**Prompt**:
+```
+Recreate the scene as a cozy claymation-style world made from soft modeling clay. Every object should have handmade textures, rounded shapes, fingerprints, and soft lighting like a stop-motion movie. Use warm pastel colors and a cute cinematic atmosphere.
+```
+
+**Output**:
+
+<img src="../images/poster_case197/output.jpg" width="500">
+
+---
+### Case 198: Guerrero anime con potenciación shonen
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2052061103426040157)
+
+**Prompt**:
+```
+Ultra-detailed anime warrior illustration inspired by legendary shonen power-up scenes, full-body low-angle composition, floating god-like character with torn battle clothes, muscular anatomy, intense glowing aura energy exploding around the body, celestial magic circle halo behind the character, cosmic symbols and sacred geometry, crackling lightning, floating debris and rocks, galaxy particles, divine transformation moment, dramatic cinematic lighting, hyper detailed ink lines, painterly anime shading, dynamic energy splashes, glowing embers and sparks, dark cosmic background mixed with radiant aura colors, ultra sharp focus, highly detailed textures, epic manga poster aesthetic, vertical composition, masterpiece quality, 8k.
+```
+
+**Output**:
+
+<img src="../images/poster_case198/output.jpg" width="500">
+
+---
+### Case 199: Póster propagandístico de Naruto
+
+**Source**: [@im_shahid7](https://x.com/im_shahid7/status/2052056738845855956)
+
+**Prompt**:
+```
+**
+
+Ultra-premium propaganda poster, A4 size, vertical composition, themed around Naruto Uzumaki in a distinct shinobi-inspired visual language.
+
+Poster structure:
+Top section (dominant upper half): A large, iconic silhouette of Naruto’s head and upper torso, facing slightly sideways, with intense determined eyes and forehead protector clearly visible. His hair and headband cloth flow outward, forming the primary visual mass.
+
+Inside this large silhouette: apply a double exposure narrative collage using a warm-to-cool chakra gradient (orange, red, deep blue). Integrate layered elements such as:
+– Kurama (Nine-Tails fox) faintly emerging behind or within the silhouette
+– Hidden Leaf Village skyline (Konoha rooftops, Hokage Rock)
+– swirling chakra energy patterns and wind trails
+– small action scenes (Naruto running, Rasengan forming, shadow clones mid-motion)
+– symbolic elements like scrolls, kunai, and leaves carried by wind
+
+Middle to bottom section: Full-body Naruto as the secondary subject, standing grounded with a slightly forward-leaning stance, one hand forming Rasengan, cloak (Six Paths or Hokage cloak variation) subtly flowing. This figure anchors the composition.
+
+Composition flow:
+Create a vertical energy stream (chakra flow line) connecting:
+full-body Naruto → rising chakra particles → internal collage → large silhouette above
+This line should feel like ascending energy or destiny.
+
+Left and right sides:
+Introduce asymmetrical supporting elements for narrative tension:
+– Left: faint silhouettes of allies (Sasuke, Sakura, Kakashi) blended softly
+– Right: abstract enemy presence (Akatsuki clouds, shadowy figures, broken fragments)
+All elements should feel embedded within mist, chakra haze, and layered space.
+
+Visual style:
+Eastern ink-wash + modern anime fusion.
+Use:
+– ink diffusion edges
+– soft blur transitions
+– fragmented textures
+– layered clouds and smoke-like chakra
+– controlled white negative space
+
+Color design:
+More vibrant and striking than traditional — glowing oranges, electric blues, deep blacks, with subtle gold highlights. High contrast focal lighting on face and Rasengan.
+
+Aesthetic tone:
+Epic, emotional, and symbolic of growth, struggle, and legacy.
+
+Overall:
+Highly refined, cinematic, layered storytelling poster with strong hierarchy, clean composition, and powerful central identity.
+```
+
+**Output**:
+
+<img src="../images/poster_case199/output.jpg" width="500">
+
+---
+### Case 200: Collage editorial de bolos de lujo
+
+**Source**: [@amynys](https://x.com/amynys/status/2052035945491284314)
+
+**Prompt**:
+```
+Three-image luxury bowling editorial collage featuring a professional female bowler based on the uploaded reference photo, on a pristine bowling alley with polished wooden lanes and perfectly set pins, soft natural and artificial alley lighting, minimalistic and high-end sports photography style, ultra-realistic, cinematic color grading, clean composition, no text, no logos.
+
+Use the exact woman from the provided reference image — accurately replicate her facial features, skin tone, hair, eyes, and expression — but make her slim with an athletic, toned build and dress her in proper bowling attire: a fitted collared bowling polo shirt, stylish slim-fit performance pants, and professional bowling shoes.
+
+Layout: asymmetrical grid (one large frame + two smaller frames)
+
+Frame 1 (Left – Hero Wide Shot):
+Full-body low-angle shot of the bowler in the classic bowling approach, powerfully releasing the bowling ball down the lane, pins visible in the distance, strong leading lines on the polished wooden lane, balanced composition, calm and intensely focused posture, modern bowling center background
+
+Frame 2 (Top Right – Close-Up Detail):
+Extreme close-up of her face and hands gripping the bowling ball, intense concentration, visible skin texture and slight natural sweat glow, shallow depth of field, beautifully blurred background
+
+Frame 3 (Bottom Right – Action Shot):
+Side angle of the bowler completing the smooth follow-through after releasing the ball, bowling ball rolling down the lane toward the pins, natural motion feel, soft shadows, realistic lighting
+
+Style Keywords:
+luxury sports campaign, editorial photography
+```
+
+**Output**:
+
+<img src="../images/poster_case200/output.jpg" width="500">
+
+---
+### Case 201: Visual de itinerario de viaje de Hamburgo
+
+**Source**: [@tisch_eins](https://x.com/tisch_eins/status/2052026781566132280)
+
+**Prompt**:
+```
+Create a beautiful 3-day travel itinerary visual for a first-time trip to Hamburg. You decide the best schedule, neighborhoods, activities, and food stops. Include: Day 1, Day 2, Day 3 Morning, afternoon, evening A simple map-inspired layout Practical travel tips A short “best for” label for each day Requirements: Make the itinerary realistic and easy to follow. Do not overload the design with too much text. Style: Premium travel guide layout, soft colors, small illustrations, clean typography, editorial magazine feel.
+```
+
+**Output**:
+
+<img src="../images/poster_case201/output.jpg" width="500">
+
+---
+### Case 202: Pingüino chibi con sudadera al atardecer en la playa
+
+**Source**: [@saniaspeaks_](https://x.com/saniaspeaks_/status/2052094260254757243)
+
+**Prompt**:
+```
+Ultra cute chibi gugu gaga anime girl wearing a fluffy penguin hoodie costume at a tropical beach during sunset, wearing stylish sunglasses, holding colorful ice cream, soft golden sunset lighting, relaxing beach vacation vibes, kawaii atmosphere, palm trees swaying, sparkling ocean waves, warm orange-pink sky, cute beach café nearby, tiny seashells and sand details, cinematic lighting, adorable big eyes, fluffy detailed costume texture, dreamy summer aesthetic, Studio Ghibli inspired, highly detailed, 3D anime render, cozy tropical mood, cute vacation scene in Okinawa Japan --ar 3:4
+```
+
+**Output**:
+
+<img src="../images/poster_case202/output.jpg" width="500">
+
+---
+### Case 203: Cuadrícula de diorama de un día en la vida
+
+**Source**: [@Gdgtify](https://x.com/Gdgtify/status/2052113923277525145)
+
+**Prompt**:
+```
+2:1 grid, do this for Asimov and Einstein->  A premium editorial poster titled "a day in the life of [$PROFESSION]". A split-level 3D architectural cross-section diorama of a [$PROFESSION]'s daily environments floating on a matte charcoal base::4 The individual in mod_designer_toy format in their environment::3.2 The Flow: A cascading timeline ribbon weaves through 6 micro-scenes, each containing hyper-detailed miniature tools, screens, and workflow artifacts specific to [$PROFESSION]::5 The Atmosphere: Cool dawn blue transitioning to focused task lighting, then warm evening ambient glow. Subtle motion blur on transitional elements to imply rhythm::3 The UI: Sleek vertical sidebar with time-stamped blocks, minimalist line icons, and a subtle progress bar. Clean sans-serif typography hierarchy::3 Avoid: Cartoonish proportions, flat illustrations, cluttered desks, stock photo aesthetics, visible hands, text artifacts::-2
+```
+
+**Output**:
+
+<img src="../images/poster_case203/output.jpg" width="500">
+
+---
+### Case 204: Ilustración editorial de póster de viaje
+
+**Source**: [@Naiknelofar788](https://x.com/Naiknelofar788/status/2052405499363221863)
+
+**Prompt**:
+```
+[DESTINATION] = (Seoul)
+
+Create a premium editorial travel poster illustration of [DESTINATION].
+
+Style:
+
+flat vector illustration, ultra clean minimalism,
+
+mid-century modern aesthetic,
+
+editorial travel poster style (Scandinavian design inspired),
+
+no photorealism, no textures, no noise, no gradients
+
+Composition:
+
+vertical 4:5 poster layout,
+
+foreground: calm waterfront / road / natural edge
+
+midground: colorful local houses or buildings with clean geometric shapes
+
+background: iconic natural landscape or mountain of [DESTINATION]
+
+add 1–2 landmark structures (church, tower, bridge, etc.) subtly
+
+Architecture:
+
+simplified geometric buildings,
+
+clean edges, flat colors,
+
+slightly varied roof colors (harmonious palette, not random)
+
+Color palette:
+
+soft, cohesive, location-inspired colors
+
+pastel tones + muted contrast
+
+bright but not saturated
+
+(example: sky blue, coral, mustard, navy, soft green)
+
+Lighting:
+
+bright daylight, soft shadows,
+
+clean and fresh atmosphere
+
+Typography:
+
+add text at bottom center:
+
+"[DESTINATION]" (large, modern sans-serif, spaced letters)
+
+"[COUNTRY]" (small subtitle below)
+
+Mood:
+
+calm, clean, premium, slightly dreamy travel magazine feel
+
+Quality:
+
+ultra clean edges,
+
+perfect alignment,
+
+no distortion,
+
+high resolution, print-ready
+```
+
+**Output**:
+
+<img src="../images/poster_case204/output.jpg" width="500">
+
+---
+### Case 205: Póster hype de zapatillas Dunk King
+
+**Source**: [@Strength04_X](https://x.com/Strength04_X/status/2052409312816103443)
+
+**Prompt**:
+```
+- A hype sneaker advertisement poster featuring a young Black male basketball player frozen in a powerful mid-air dunk pose beside a gigantic orange and black basketball shoe nearly three times his height, with “DUNK KING” boldly written across the sole. Dramatic stadium court light beams cut through the dark basketball arena background, while a blurred cheering crowd adds intense game-night energy and motion. Massive bold orange block typography spelling “DUNK KING” dominates the background for a strong editorial impact. At the bottom, the tagline reads “Rise above the rest.” while small grey text in the top-right corner says “Designed with GPT Image 2.” Photorealistic, ultra-detailed, high-energy Nike-style sneaker campaign aesthetic with cinematic lighting, dynamic shadows, premium sports editorial composition, and intense hype atmosphere.
+```
+
+**Output**:
+
+<img src="../images/poster_case205/output.jpg" width="500">
+
+---
+### Case 206: Póster meme del esfuerzo de creador de contenido
+
+**Source**: [@amynys](https://x.com/amynys/status/2052433600830636504)
+
+**Prompt**:
+```
+Create a highly detailed, vibrant, cartoon-style meme illustration in the exact same chaotic, colorful, motivational-poster aesthetic as viral “content creator hustle” memes.
+
+The scene should feel busy, funny, relatable, and visually packed with details — flying dollar bills everywhere, glowing neon X logo in the background, sparkles, dramatic expressions, sticky notes, cluttered wooden desk, and humorous overthinking energy.
+
+The main subject is a stressed female content creator with long wavy brown hair, subtle highlights, freckles, and expressive eyes. She is wearing a fitted lavender sheath dress (short sleeves, elegant but casual).
+
+She is sitting hunched over at her desk with terrible posture — neck craned toward her phone, shoulders rounded forward, and visibly suffering from neck and back pain from creating content all day.
+
+One hand holds a black smartphone with the white X logo. The other hand rubs her sore neck and lower back dramatically.
+
+Add cartoon pain effects:
+red pain lines
+sweat drops
+slightly crooked posture
+exhausted but determined facial expression
+
+Large white thought bubble above her head: “Will my neck and back survive this content creation hustle today? 😩💀”
+
+Around her are 3 smaller cartoon versions of herself giving advice:
+LEFT SIDE: Excited happy version fist-pumping with sparkles and a green stretch icon. Speech bubble: “① Yes! Do chin tucks + shoulder rolls every hour or your posture is cooked! 📈”
+RIGHT SIDE: Angry arms-crossed version beside a declining posture graph. Speech bubble: “② No! You need cat-cow poses and child’s pose every 60 minutes or your back will stay wrecked! 📉”
+BOTTOM RIGHT: Teary-eyed praying version with sparkles and a floating dollar-sign cloud. Speech bubble: “③ If only by a miracle you did neck rotations, seated twists, AND wall angels daily… your pain would vanish! 🥹💪”
+
+Desk details:
+Black coffee mug labeled: “CAFFEINE CONTENT & CORE STRENGTH”
+Spiral notebook: “TODAY’S GOAL: GET PAID & FIX POSTURE” with the word “PAIN” crossed out in red
+Sticky notes: “Neck Rolls?” “Cat-Cow Break?” “Viral Hook… or Stretch First?” “Engage More? (Your Back No)”
+Laptop sticky notes: “X PAYOUT WHEN?!” “MANIFEST GOOD POSTURE ❤️”
+Clipboard checklist titled: “CONTENT CREATOR HUSTLE” with boxes checked: IDEAS HOOKS EDIT POST REPEAT STRETCHES
+Style:
+ultra detailed
+glossy cartoon rendering
+cinematic lighting
+exaggerated funny expressions
+vibrant saturated colors
+humorous meme-poster composition
+social-media-viral aesthetic
+relatable creator burnout humor
+playful chaos everywhere
+high-detail Pixar-meets-editorial-cartoon style
+Aspect ratio: 4:5 vertical poster format.
+```
+
+**Output**:
+
+<img src="../images/poster_case206/output.jpg" width="500">
+
+---
+### Case 207: Storyboard cinematográfico de rescate en guerra en 16 tomas
+
+**Source**: [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2052429790247063712)
+
+**Prompt**:
+```
+FORMAT: 15s / 160 BPM / 16 SHOTS
+SUBJECT: @[image1]
+WARDROBE: Military tactical gear
+ENVIRONMENT: Battlefield
+MOOD: Chaotic → heroic
+STYLE: War cinematic
+CORE IDEA: She rescues someone under fire
+SHOT FLOW:
+Gunfire everywhere
+She runs low
+Explosion nearby
+Finds injured ally
+Lifts them
+Bullets hitting ground
+Smoke cover
+Calls extraction
+Helicopter sound
+Runs toward it
+Enemy fire
+Slides behind cover
+Final sprint
+Helicopter lift
+Pull up shot
+Fade
+```
+
+**Output**:
+
+<img src="../images/poster_case207/output.jpg" width="500">
+
+---
+### Case 208: Infografía de viaje Sabores de India
+
+**Source**: [@Ankit_patel211](https://x.com/Ankit_patel211/status/2052455193703530525)
+
+**Prompt**:
+```
+Made on GPT Image 2
+
+PROMPT — “FLAVORS OF INDIA” Luxury Culinary Travel Poster
+
+Ultra-detailed infographic travel poster titled “FLAVORS OF INDIA”, elegant luxury editorial design, vertical composition, sophisticated culinary magazine aesthetic blended with modern 3D isometric cartography.
+
+At the center: a highly detailed 3D isometric map of India in carved ivory-white stone texture, divided into states with subtle engraved borders. The map features miniature iconic Indian landmarks placed geographically: Taj Mahal, India Gate, Hawa Mahal, Charminar, Gateway of India, Meenakshi Temple, Kerala houseboats, Himalayan monasteries, and Varanasi ghats. Tiny rivers, palm trees, mountains, boats, and architectural miniatures integrated into the map for a premium handcrafted appearance.
+
+Surrounding the map: cinematic professional food photography of famous Indian dishes with luxury typography labels and elegant descriptions:
+
+Butter Chicken
+
+Hyderabadi Biryani
+
+Masala Dosa
+
+Chole Bhature
+
+Pani Puri
+
+Gulab Jamun
+
+Lassi
+
+Rogan Josh
+
+Pav Bhaji
+
+Thali
+
+Right side vertical sidebar sections: “MUST TRY” and “ICONIC EXPERIENCES” containing small circular food icons and sepia architectural sketches with tiny editorial descriptions.
+
+Background: warm off-white parchment paper texture with subtle grain, framed using delicate hand-drawn Indian botanical illustrations, lotus motifs, paisley patterns, spice illustrations, and fine golden ornamental borders.
+
+Decorative accents: floating spices (cardamom, cinnamon, saffron, chili, star anise), brass utensils, steam effects, tiny gold embellishments, compass rose, vintage travel map details.
+
+Typography style: luxury serif fonts, elegant gold embossed headings, refined editorial layout, premium spacing, Vogue magazine inspired composition.
+
+Color palette: warm saffron, ivory, deep maroon, gold, sandalwood beige, muted emerald, spice brown, soft terracotta.
+
+Lighting: soft cinematic studio lighting, premium food-commercial photography lighting, subtle shadows, warm highlights.
+
+Style keywords: ultra realistic, luxury infographic poster, gourmet travel editorial, cinematic food photography, 3D map illustration, handcrafted premium design, highly detailed textures, elegant tourism campaign, collectible poster aesthetic, 8K, masterpiece quality, global magazine cover quality, sophisticated composition.
+```
+
+**Output**:
+
+<img src="../images/poster_case208/output.jpg" width="500">
+
+---
+### Case 209: Sección transversal de mundo artefacto esférico
+
+**Source**: [@Gdgtify](https://x.com/Gdgtify/status/2052549040429043928)
+
+**Prompt**:
+```
+I asked GPT Image 2 and Nano Banana to visualize one of my favorite books in this style. Lots of fun.
+
+Do this for Shahnameh: A hyper-realistic macro photograph of a giant spherical artifact cracked open to reveal a world inside, resting in a white studio::4
+The Exterior Shell: The unbroken left side of the sphere is covered in a 2D painted manuscript aesthetic inferred from the cultural origins of [MEDIA_TITLE]. It features beautiful calligraphy text and flat traditional painted illustrations::5
+The Interior Cavern: The hollowed-out inside is a hyper-detailed 3D miniature carved diorama of the world of [MEDIA_TITLE]. Multi-tiered carved stone and gold architecture, inferred mythological creatures, tiny rivers, and thousands of micro-scale soldiers in battle::5
+Lighting and Material: Antiqued finish, rough cracked stone edges, warm glowing internal firelight illuminating the deep cavern, shallow depth of field::4
+Modern day, photorealistic humans, real landscape, messy background::-2
+```
+
+**Output**:
+
+<img src="../images/poster_case209/output.jpg" width="500">
+
+---
 ### Case 210: Urban Fashion Editorial Collage Poster
 
 **Source**: [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2052597387169091660)
@@ -2001,7 +2574,6 @@ Create a high-resolution 8K portrait poster in an Urban Fashion Editorial Collag
 <img src="../images/poster_case210/output.jpg" width="500">
 
 ---
-
 ### Case 211: Wildlife Photographer 16-Panel Storyboard
 
 **Source**: [@saniaspeaks_](https://x.com/saniaspeaks_/status/2052727888894734731)
@@ -2016,7 +2588,6 @@ Create a cinematic 16-panel storyboard infographic showing the adventure of a yo
 <img src="../images/poster_case211/output.jpg" width="500">
 
 ---
-
 ### Case 212: Zodiac Yumi Cells Chibi Poster
 
 **Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2052606882418930028)
@@ -2033,7 +2604,6 @@ Create a poster inspired by Yumi’s Cells with the same soft, aesthetic, slice-
 <img src="../images/poster_case212/output.jpg" width="500">
 
 ---
-
 ### Case 213: French New Wave Vintage Movie Poster
 
 **Source**: [@Sairah_0](https://x.com/Sairah_0/status/2052599554672091368)
@@ -2048,7 +2618,6 @@ Vintage French New Wave movie poster, inspired by 1960s Jean-Luc Godard cinema, 
 <img src="../images/poster_case213/output.jpg" width="500">
 
 ---
-
 ### Case 214: Apocalyptic Titan Warrior Anime Poster
 
 **Source**: [@Kashberg_0](https://x.com/Kashberg_0/status/2052590241522024790)
@@ -2063,7 +2632,6 @@ Ultra-realistic cinematic anime movie poster of a female warrior inspired by a t
 <img src="../images/poster_case214/output.jpg" width="500">
 
 ---
-
 ### Case 215: Jujutsu Kaisen Cinematic Key Visual
 
 **Source**: [@im_shahid7](https://x.com/im_shahid7/status/2052600349006184623)
@@ -2080,7 +2648,6 @@ Inside the silhouette, use
 <img src="../images/poster_case215/output.jpg" width="500">
 
 ---
-
 ### Case 216: Food Delivery Cinematic Infographic
 
 **Source**: [@ShamiWeb3](https://x.com/ShamiWeb3/status/2052656479791178178)
@@ -2097,7 +2664,6 @@ Main focus: a delivery rider or delivery bag centered dramatically with gourmet 
 <img src="../images/poster_case216/output.jpg" width="500">
 
 ---
-
 ### Case 217: Dark Fantasy Double Exposure Poster
 
 **Source**: [@AIwithAliya](https://x.com/AIwithAliya/status/2052641476153360592)
@@ -2116,7 +2682,6 @@ Realistic style, dramatic dept
 <img src="../images/poster_case217/output.jpg" width="500">
 
 ---
-
 ### Case 218: Shinobi Warrior Propaganda Poster
 
 **Source**: [@meng_dagg695](https://x.com/meng_dagg695/status/2052615523326947395)
@@ -2133,7 +2698,6 @@ Large dramatic silhouette of the warrior's head and upper torso, face angled sli
 <img src="../images/poster_case218/output.jpg" width="500">
 
 ---
-
 ### Case 219: Tokyo Revengers Propaganda Poster
 
 **Source**: [@im_shahid7](https://x.com/im_shahid7/status/2052775670720397616)
@@ -2162,7 +2726,6 @@ Large dramatic silhouette of the warrior's head and upper torso, face angled sli
 <img src="../images/poster_case219/output.jpg" width="500">
 
 ---
-
 ### Case 220: Flavors of USA Luxury Travel Poster
 
 **Source**: [@amynys](https://x.com/amynys/status/2052725712478511256)
@@ -2182,7 +2745,6 @@ The map features miniature iconic American landmarks placed geographically:
 <img src="../images/poster_case220/output.jpg" width="500">
 
 ---
-
 ### Case 221: Starbucks Coffee World Surreal Poster
 
 **Source**: [@Shorelyn_](https://x.com/Shorelyn_/status/2052759917468283143)
@@ -2198,7 +2760,6 @@ The map features miniature iconic American landmarks placed geographically:
 <img src="../images/poster_case221/output.jpg" width="500">
 
 ---
-
 ### Case 222: BLEACH Manga Collage Anime Poster
 
 **Source**: [@ponyodong](https://x.com/ponyodong/status/2052983036724355468)
@@ -2238,7 +2799,6 @@ anime key visual, BLEACH style, manga collage poster, cinematic anime lighting, 
 <img src="../images/poster_case222/output.jpg" width="500">
 
 ---
-
 ### Case 223: Tokyo Minimalist Line-Art Travel Poster
 
 **Source**: [@oggii_0](https://x.com/oggii_0/status/2052987633501188101)
@@ -2289,7 +2849,6 @@ Crisp geometric perspe
 <img src="../images/poster_case223/output.jpg" width="500">
 
 ---
-
 ### Case 224: Kawaii Kids Scrapbook Photography Poster
 
 **Source**: [@Taaruk_](https://x.com/Taaruk_/status/2052783847784480942)
@@ -2310,7 +2869,6 @@ Cute kawaii scrapbook-style baby photography collage, smiling baby girl wearing 
 <img src="../images/poster_case224/output.jpg" width="500">
 
 ---
-
 ### Case 225: Anime Character Streetwear Collector Poster
 
 **Source**: [@john_my07](https://x.com/john_my07/status/2052271225972625503)
@@ -2353,7 +2911,6 @@ tactical straps and belt
 <img src="../images/poster_case225/output.jpg" width="500">
 
 ---
-
 ### Case 226: Retro Motel Noir Bunny Portrait Poster
 
 **Source**: [@you1873118](https://x.com/you1873118/status/2053124141075841049)
@@ -2380,7 +2937,6 @@ Cinematic retro motel photography, seductive noir atmosphere, Asian woman in ele
 <img src="../images/poster_case226/output.jpg" width="500">
 
 ---
-
 ### Case 227: Yumi's Cells Zodiac Chibi Poster
 
 **Source**: [@Kashberg_0](https://x.com/Kashberg_0/status/2052916429859827932)
@@ -2395,7 +2951,6 @@ I am “TAURUS.” Create a poster inspired by Yumi’s Cells with the same soft
 <img src="../images/poster_case227/output.jpg" width="500">
 
 ---
-
 ### Case 228: Sports Athlete Editorial Collage Poster
 
 **Source**: [@AIwithSynthia](https://x.com/AIwithSynthia/status/2052970867655893294)
@@ -2422,7 +2977,6 @@ Color palette: deep crimson red, white accents, cream typography, glossy hardwoo
 <img src="../images/poster_case228/output.jpg" width="500">
 
 ---
-
 ### Case 229: Character Silhouette Key Visual Poster
 
 **Source**: [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2052771565318897945)
@@ -2437,7 +2991,6 @@ A character promotional poster of [XXX], using a unified vertical key-visual com
 <img src="../images/poster_case229/output.jpg" width="500">
 
 ---
-
 ### Case 230: Urban Fashion Editorial Collage Poster
 
 **Source**: [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2052650417356456447)
@@ -2458,7 +3011,6 @@ The subject’s pose must not resemble the reference photo. Create a completely 
 <img src="../images/poster_case230/output.jpg" width="500">
 
 ---
-
 ### Case 231: Kids Backpack Cartoon Ad Poster
 
 **Source**: [@Strength04_X](https://x.com/Strength04_X/status/2052769877619065287)
@@ -2475,7 +3027,6 @@ Prompt - A colorful kids advertisement poster featuring an adorable 6-year-old g
 <img src="../images/poster_case231/output.jpg" width="500">
 
 ---
-
 ### Case 232: Ink Sketch Newspaper Collage Portrait
 
 **Source**: [@harboriis](https://x.com/harboriis/status/2052574508205449439)
@@ -2502,7 +3053,6 @@ aspect ratio 4:6
 <img src="../images/poster_case232/output.jpg" width="500">
 
 ---
-
 ### Case 233: Premium Scandinavian Travel Poster
 
 **Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053347075648278737)
@@ -2585,7 +3135,6 @@ high resolution, print-ready
 <img src="../images/poster_case233/output.jpg" width="500">
 
 ---
-
 ### Case 234: Watercolor City Street Travel Poster
 
 **Source**: [@Taaruk_](https://x.com/Taaruk_/status/2053495454764282108)
@@ -2600,7 +3149,6 @@ A detailed watercolor travel poster of a lively city street, hand-painted urban 
 <img src="../images/poster_case234/output.jpg" width="500">
 
 ---
-
 ### Case 235: Mid-Century 3-Color City Poster
 
 **Source**: [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053523890744545437)
@@ -2618,7 +3166,6 @@ Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language nam
 <img src="../images/poster_case235/output.jpg" width="500">
 
 ---
-
 ### Case 236: Y2K Kawaii Editorial Poster
 
 **Source**: [@sha_zdiii](https://x.com/sha_zdiii/status/2053465283214651420)
@@ -2633,7 +3180,6 @@ High-fashion kawaii Y2K editorial poster featuring a stylish young woman standin
 <img src="../images/poster_case236/output.jpg" width="500">
 
 ---
-
 ### Case 237: Camera Evolution Timeline Poster
 
 **Source**: [@AIwithkhan](https://x.com/AIwithkhan/status/2053487042605326593)
@@ -2648,7 +3194,6 @@ Ultra detailed vertical infographic poster showing the evolution of cameras from
 <img src="../images/poster_case237/output.jpg" width="500">
 
 ---
-
 ### Case 238: Portrait Collage Fashion Poster
 
 **Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2053489348470051163)
@@ -2663,7 +3208,6 @@ High-end portrait collage poster in vertical format. The background contains fou
 <img src="../images/poster_case238/output.jpg" width="500">
 
 ---
-
 ### Case 239: Tokyo Street Line-Art Poster
 
 **Source**: [@Shorelyn_](https://x.com/Shorelyn_/status/2053317557747351783)
@@ -2798,7 +3342,6 @@ Ultra-precise vector-quality rendering
 <img src="../images/poster_case239/output.jpg" width="500">
 
 ---
-
 ### Case 240: Minimalist City Line-Art Travel Poster
 
 **Source**: [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2053474337404117220)
@@ -2815,7 +3358,6 @@ Style keywords: ultra detailed line art, architectural sketch, urban perspective
 <img src="../images/poster_case240/output.jpg" width="500">
 
 ---
-
 ### Case 241: Kids Fashion Editorial Poster
 
 **Source**: [@ChillaiKalan__](https://x.com/ChillaiKalan__/status/2053761999583297716)
@@ -2965,7 +3507,6 @@ Ultra high resolution
 <img src="../images/poster_case241/output.jpg" width="500">
 
 ---
-
 ### Case 242: High-Fashion Editorial Poster Template
 
 **Source**: [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2053814655655543119)
@@ -2980,7 +3521,6 @@ Ultra high resolution
 <img src="../images/poster_case242/output.jpg" width="500">
 
 ---
-
 ### Case 243: Japanese Whimsical Folk-Art Illustration
 
 **Source**: [@sha_zdiii](https://x.com/sha_zdiii/status/2053810777786835445)
@@ -3028,7 +3568,6 @@ Negative prompt: avoid exact copy of Pinterest styles, avoid messy composition, 
 <img src="../images/poster_case243/output.jpg" width="500">
 
 ---
-
 ### Case 244: Cinematic Character Design Sheet
 
 **Source**: [@Mind_Boticni](https://x.com/Mind_Boticni/status/2053843881553502219)
@@ -3066,7 +3605,6 @@ Maintain perfect continuity in facial identity, body proportions, hairstyle, out
 <img src="../images/poster_case244/output.jpg" width="500">
 
 ---
-
 ### Case 245: Minimal Fashion Product Ad Poster
 
 **Source**: [@harboriis](https://x.com/harboriis/status/2053813021592506439)
@@ -3081,7 +3619,6 @@ Create a high-end fashion product advertisement poster in portrait 4:5 ratio, cl
 <img src="../images/poster_case245/output.jpg" width="500">
 
 ---
-
 ### Case 246: COSMED Anime Commercial Poster
 
 **Source**: [@Kashberg_0](https://x.com/Kashberg_0/status/2053763810423664652)
@@ -3105,7 +3642,6 @@ Create a bold anime crossover advertisement poster featuring Monkey D. Luffy wor
 <img src="../images/poster_case246/output.jpg" width="500">
 
 ---
-
 ### Case 247: Yumi's Cells Anime Poster
 
 **Source**: [@ZaraIrahh](https://x.com/ZaraIrahh/status/2053861275503890861)
@@ -3120,7 +3656,6 @@ I am “VIRGO.” Create a poster inspired by Yumi’s Cells with the same soft,
 <img src="../images/poster_case247/output.jpg" width="500">
 
 ---
-
 ### Case 248: Japanese Graffiti Street Poster
 
 **Source**: [@Shorelyn_](https://x.com/Shorelyn_/status/2053733398502645760)
@@ -3145,7 +3680,6 @@ Ultra-detailed, highly aesthetic, premium composition, realistic texture renderi
 <img src="../images/poster_case248/output.jpg" width="500">
 
 ---
-
 ### Case 249: Brand City Takeover Poster
 
 **Source**: [@harboriis](https://x.com/harboriis/status/2053879429265572226)
@@ -3402,10 +3936,9 @@ repetitive placements
 <img src="../images/poster_case249/output.jpg" width="500">
 
 ---
+<!-- Case 250: Collage editorial rasgado mano (by @realsigridjin) -->
 
-<!-- Case 250: Hand-Torn Editorial Collage (by @realsigridjin) -->
-
-### Case 250: [Hand-Torn Editorial Collage](https://x.com/realsigridjin/status/2054368795121361249) (by [@realsigridjin](https://x.com/realsigridjin))
+### Case 250: [Collage editorial rasgado mano](https://x.com/realsigridjin/status/2054368795121361249) (by [@realsigridjin](https://x.com/realsigridjin))
 
 | Output |
 | :----: |
@@ -3416,10 +3949,9 @@ repetitive placements
 ```
 Transform the attached image into a collage artwork. Make it appear as if hand-torn from newspapers, magazines, and flyers and pasted. Every single expression should be completed using large, torn pieces of paper. Represent in detail the torn edges, wrinkles, overlaps, and glue marks on the paper. Use relatively large pieces of paper, not too small, and place them randomly at different angles and directions, with the paper orientation rotated haphazardly. Create it to look like an actual collage roughly hand-pasted by a person.
 ```
+<!-- Case 251: Ilustracion nocturna barco velero brillante (by @churvikv) -->
 
-<!-- Case 251: Glowing Sailboat Night Illustration (by @churvikv) -->
-
-### Case 251: [Glowing Sailboat Night Illustration](https://x.com/churvikv/status/2054315113587384469) (by [@churvikv](https://x.com/churvikv))
+### Case 251: [Ilustracion nocturna barco velero brillante](https://x.com/churvikv/status/2054315113587384469) (by [@churvikv](https://x.com/churvikv))
 
 | Output |
 | :----: |
@@ -3430,10 +3962,9 @@ Transform the attached image into a collage artwork. Make it appear as if hand-t
 ```
 A luminous sailboat, outlined in glowing golden light, floats serenely on dark, rippling water under a starry night sky. The sails, translucent and faintly blue, catch the ethereal light, while the hull is a solid, dark silhouette. Numerous tiny, twinkling golden stars are scattered across the black expanse above, and a crescent moon hangs softly to the right. Lush, vibrant green reeds and grasses sprout from smooth, grey stones in the foreground, their tips adorned with delicate, glowing golden florets. The water reflects the golden outline of the sailboat, creating a shimmering, warm glow that contrasts with the cool, deep darkness of the night. The scene is composed with a slightly low angle, emphasizing the majestic presence of the sailboat against the vastness of the night. The overall atmosphere is magical, tranquil, and dreamlike, evoking a sense of peaceful adventure and celestial wonder. The style is reminiscent of digital fantasy art with glowing neon accents.
 ```
+<!-- Case 252: Cartel viaje linea arte Estambul (by @miilesus) -->
 
-<!-- Case 252: Istanbul Line-Art Travel Poster (by @miilesus) -->
-
-### Case 252: [Istanbul Line-Art Travel Poster](https://x.com/miilesus/status/2054285276780929527) (by [@miilesus](https://x.com/miilesus))
+### Case 252: [Cartel viaje linea arte Estambul](https://x.com/miilesus/status/2054285276780929527) (by [@miilesus](https://x.com/miilesus))
 
 | Output |
 | :----: |
@@ -3534,10 +4065,9 @@ Ultra-precise vector-quality rendering
 Luxury travel poster aesthetic
 Museum-quality graphic design composition
 ```
+<!-- Case 253: Cartel forajido western oscuro (by @you1873118) -->
 
-<!-- Case 253: Dark Western Outlaw Poster (by @you1873118) -->
-
-### Case 253: [Dark Western Outlaw Poster](https://x.com/you1873118/status/2054366009214316840) (by [@you1873118](https://x.com/you1873118))
+### Case 253: [Cartel forajido western oscuro](https://x.com/you1873118/status/2054366009214316840) (by [@you1873118](https://x.com/you1873118))
 
 | Output |
 | :----: |
@@ -3556,10 +4086,9 @@ Museum-quality graphic design composition
 
 风格：黑色墨迹飞溅、旧纸纹理、电影级写实、暗黑西部、强烈明暗对比、皮革和金属超细节、尘土、泥点、划痕、烟雾、火星、边缘轮廓光、高级收藏级游戏海报、荒野大镖客氛围、艺术设定集质感、8K、高细节。
 ```
+<!-- Case 254: Cartel mascota anime streetwear (by @Taaruk_) -->
 
-<!-- Case 254: Anime Streetwear Mascot Poster (by @Taaruk_) -->
-
-### Case 254: [Anime Streetwear Mascot Poster](https://x.com/Taaruk_/status/2054234237398851768) (by [@Taaruk_](https://x.com/Taaruk_))
+### Case 254: [Cartel mascota anime streetwear](https://x.com/Taaruk_/status/2054234237398851768) (by [@Taaruk_](https://x.com/Taaruk_))
 
 | Output |
 | :----: |
@@ -3570,10 +4099,9 @@ Museum-quality graphic design composition
 ```
 Stylized anime streetwear brand poster of a fast-food mascot character, full-body dynamic pose, highly detailed manga/anime illustration, modern urban fashion outfit inspired by the restaurant brand colors and identity, oversized hoodie, tactical straps, sneakers, chains, branded accessories, holding signature food item, bold graphic typography, editorial magazine layout, Japanese text elements, logos, promotional stickers, menu-style side panels, grunge textures, paint splashes, distressed paper background, collectible poster aesthetic, cyber street fashion meets commercial advertising, vibrant red/orange/black/white color palette, dramatic lighting, ultra detailed line art, cel-shaded anime rendering, energetic composition, high contrast, trendy hypebeast vibe, futuristic fast-food campaign art, iconic mascot redesign, layered collage graphics, branding everywhere on clothing and background, premium anime poster quality, vertical composition, sharp shadows, dynamic perspective, stylish and playful attitude.
 ```
+<!-- Case 255: Cartel referencia infografica vida silvestre (by @sha_zdiii) -->
 
-<!-- Case 255: Wildlife Infographic Reference Poster (by @sha_zdiii) -->
-
-### Case 255: [Wildlife Infographic Reference Poster](https://x.com/sha_zdiii/status/2054229209460117552) (by [@sha_zdiii](https://x.com/sha_zdiii))
+### Case 255: [Cartel referencia infografica vida silvestre](https://x.com/sha_zdiii/status/2054229209460117552) (by [@sha_zdiii](https://x.com/sha_zdiii))
 
 | Output |
 | :----: |
@@ -3613,10 +4141,9 @@ Lighting: dramatic cinematic lighting, volumetric fog, glowing rim light, atmosp
 The final artwork must look like a viral collectible wildlife poster people would instantly save, repost, print, and frame.
 Ultra-realistic, 8K, cinematic infographic masterpiece, insanely detailed, premium art direction, tactile textures, layered storytelling, emotional visual impact, museum-quality composition, viral social-media-worthy aesthetic.
 ```
+<!-- Case 256: Diorama miniatura civilizacion antigua (by @Naiknelofar788) -->
 
-<!-- Case 256: Ancient Civilization Miniature Diorama (by @Naiknelofar788) -->
-
-### Case 256: [Ancient Civilization Miniature Diorama](https://x.com/Naiknelofar788/status/2054221110372405534) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+### Case 256: [Diorama miniatura civilizacion antigua](https://x.com/Naiknelofar788/status/2054221110372405534) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
 
 | Output |
 | :----: |
@@ -3629,10 +4156,9 @@ A highly detailed miniature diorama of an ancient civilization under constructio
 The miniature terrain blends seamlessly into the printed engineering drawings beneath, combining realistic sand, stone, earth, marble, vegetation, or desert textures with visible architectural floor plans, elevation sketches, measurements, annotations, and cross-sections. Surrounding the workspace are drafting instruments, compasses, rolled parchment plans, books, rulers, brass weights, candles, maps, carving tools, and historical reference materials that enhance the workshop atmosphere.
 Soft cinematic lighting with warm natural sunlight from a nearby window, shallow depth of field, ultra realistic textures, handcrafted museum-quality scale model aesthetic, intricate miniature detailing, photoreal materials, atmospheric realism, editorial architectural photography style, clean composition, immersive world-building, vertical composition, extremely high detail, realistic shadows, authentic historical mood.
 ```
+<!-- Case 257: Cartel collage moda japonesa (by @Mind_Boticni) -->
 
-<!-- Case 257: Japanese Fashion Collage Poster (by @Mind_Boticni) -->
-
-### Case 257: [Japanese Fashion Collage Poster](https://x.com/Mind_Boticni/status/2054203134411739609) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+### Case 257: [Cartel collage moda japonesa](https://x.com/Mind_Boticni/status/2054203134411739609) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
 
 | Output |
 | :----: |
@@ -3643,10 +4169,9 @@ Soft cinematic lighting with warm natural sunlight from a nearby window, shallow
 ```
 Cinematic vertical collage featuring a Japanese woman in elegant fashion captured during golden sunset. Background composed of warm-toned rounded storyboard frames arranged diagonally, each showing soft monochrome motion scenes—running fingers through hair, walking on bridge, looking at skyline, soft smile in wind. The main subject is in rich color with glowing sunset highlights, wearing flowing rust-orange designer dress with natural fabric movement. Emotional storytelling mood, romantic cinematic tone, high-end fashion editorial poster style.
 ```
+<!-- Case 258: Cartel tipografia Bangkok Swiss (by @Shorelyn_) -->
 
-<!-- Case 258: Bangkok Swiss Typography Poster (by @Shorelyn_) -->
-
-### Case 258: [Bangkok Swiss Typography Poster](https://x.com/Shorelyn_/status/2054196121980002523) (by [@Shorelyn_](https://x.com/Shorelyn_))
+### Case 258: [Cartel tipografia Bangkok Swiss](https://x.com/Shorelyn_/status/2054196121980002523) (by [@Shorelyn_](https://x.com/Shorelyn_))
 
 | Output |
 | :----: |
@@ -3769,10 +4294,9 @@ Intellectual, calm, avant-garde, collectible luxury travel poster found in a mus
 OUTPUT:
 Ultra-detailed 8K vector-style rendering, ultra sharp print-ready quality, high-end editorial poster design.
 ```
+<!-- Case 259: Cartel mundo viaje miniatura (by @Goodmanprotocol) -->
 
-<!-- Case 259: Miniature Travel World Poster (by @Goodmanprotocol) -->
-
-### Case 259: [Miniature Travel World Poster](https://x.com/Goodmanprotocol/status/2054074803381018750) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+### Case 259: [Cartel mundo viaje miniatura](https://x.com/Goodmanprotocol/status/2054074803381018750) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 | Output |
 | :----: |
@@ -3783,10 +4307,9 @@ Ultra-detailed 8K vector-style rendering, ultra sharp print-ready quality, high-
 ```
 A cinematic hyper-detailed miniature travel diorama resting inside an open human palm, themed around [CITY/COUNTRY NAME] tourism and travel. A realistic passport and official travel visa card stand upright in the center of a tiny landscape inspired by the destination, surrounded by miniature travelers with luggage, scattered suitcases, local vegetation, iconic cultural elements, and detailed environmental textures matching the location. In the background, the famous skyline and landmark architecture of [CITY/COUNTRY NAME] rise softly with atmospheric depth, while the national flag waves beside the documents. A commercial airplane flies overhead in a bright blue sky with soft clouds. Ultra-realistic textures, shallow depth of field, warm sunlight, soft cinematic shadows, macro photography style, tilt-shift miniature effect, vibrant tourism atmosphere, highly detailed handcrafted diorama aesthetic, realistic skin texture on the hand, premium travel advertisement look --ar 1:1
 ```
+<!-- Case 260: Grafiti japones retrato (by @iamaiistudio) -->
 
-<!-- Case 260: Japanese Graffiti Portrait (by @iamaiistudio) -->
-
-### Case 260: [Japanese Graffiti Portrait](https://x.com/iamaiistudio/status/2054714863885394325) (by [@iamaiistudio](https://x.com/iamaiistudio))
+### Case 260: [Grafiti japones retrato](https://x.com/iamaiistudio/status/2054714863885394325) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3797,10 +4320,9 @@ A cinematic hyper-detailed miniature travel diorama resting inside an open human
 ```
 Design a high-detail portrait poster in a bold Japanese graffiti-inspired art style that fuses modern urban street aesthetics with expressive Japanese visual culture. Pack the poster with dynamic graffiti typography, layered spray-paint textures, hand-drawn motifs, abstract paint splashes, neon brush strokes, urban sticker elements, Japanese calligraphy accents, and decorative ornaments that amplify the energetic mood. Keep the overall composition artistic, rebellious, fashionable, and visually striking, yet still polished to premium editorial poster quality, never messy or overdone. The subject should NOT copy the exact pose or expression from any reference image. Instead, invent an entirely new pose that feels natural, confident, and alive. The expression should read as emotionally expressive, charismatic, and engaging, never stiff, awkward, flat, or blank. The pose should carry the elegance and sophistication of an international fashion model, with stylish posture, natural movement, and a subtle attitude that elevates the cinematic fashion vibe. The outfit must be contemporary, stylish, casual fashion with strong visual appeal. Skip plain or repetitive clothing. Lean into fashionable layering, modern streetwear inspiration, premium casual styling, and a balanced mix of colors, patterns, textures, and fabrics for a rich, non-monotonous look. The clothing should feel trendy, fashionable, youthful, and visually premium, while still belonging inside the Japanese graffiti poster concept. Fill the background and poster decorations with thematic urban Japanese-inspired elements: graffiti walls, spray textures, painted symbols, urban signage, layered stickers, modern Japanese graphic motifs, abstract shapes, paint drips, street fashion aesthetics, and stylish decorative compositions that deepen the artistic intensity without distracting from the subject. Lighting should feel cinematic and fashionable, with strong contrast, clean highlights, realistic skin texture, and high-end editorial poster quality. The final result must look like a premium modern street-fashion campaign poster, with highly detailed textures, balanced composition, vibrant color harmony, realistic proportions, ultra-sharp focus, and immersive visual storytelling. Ultra-detailed, highly aesthetic, premium composition, realistic texture rendering, fashionable urban atmosphere, cinematic quality, poster-ready design, 8K ultra high resolution. #AIart #GPTImage2
 ```
+<!-- Case 261: Portada album estado animo lista reproduccion (by @getimg_ai) -->
 
-<!-- Case 261: Playlist Mood Album Cover (by @getimg_ai) -->
-
-### Case 261: [Playlist Mood Album Cover](https://x.com/getimg_ai/status/2054654412547629350) (by [@getimg_ai](https://x.com/getimg_ai))
+### Case 261: [Portada album estado animo lista reproduccion](https://x.com/getimg_ai/status/2054654412547629350) (by [@getimg_ai](https://x.com/getimg_ai))
 
 | Output |
 | :----: |
@@ -3811,10 +4333,9 @@ Design a high-detail portrait poster in a bold Japanese graffiti-inspired art st
 ```
 Create an album cover inspired by this playlist: [playlist], translating its mood into colors, textures, objects, and cinematic composition, with no artist names. https://t.co/t1efbQ9sgP
 ```
+<!-- Case 262: Editorial ciudad Play-Doh (by @Goodmanprotocol) -->
 
-<!-- Case 262: Play-Doh City Editorial (by @Goodmanprotocol) -->
-
-### Case 262: [Play-Doh City Editorial](https://x.com/Goodmanprotocol/status/2054629670239502408) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+### Case 262: [Editorial ciudad Play-Doh](https://x.com/Goodmanprotocol/status/2054629670239502408) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 | Output |
 | :----: |
@@ -3825,7 +4346,6 @@ Create an album cover inspired by this playlist: [playlist], translating its moo
 ```
 Create an ultra-charming 3:4 editorial illustration of a five-year-old child sitting at a cozy craft table, happily building a handmade Play-Doh miniature [City Name]. The entire world must clearly look sculpted by a real child using colorful Play-Doh clay - soft rounded shapes, uneven geometry, tiny fingerprints, squished textures, slightly crooked buildings, playful proportions, imperfect symmetry, and adorable handcrafted charm. The miniature city should include recognizable landmarks, bridges, rivers, cafés, food stalls, apartment buildings, parks, trains, buses, tiny clay people, trees, clouds, and playful neighborhood scenes. Dense with delightful micro-details while remaining organized and cozy. The child should feel authentic and natural, wearing casual everyday clothing with a curious, proud expression. Avoid stereotypes or costume-like styling. Visual style: premium children’s editorial illustration, soft claymation-inspired rendering, miniature diorama photography mood, whimsical storytelling, high-end family travel magazine aesthetic, ultra detailed, handcrafted warmth. Lighting & color: bright neutral daylight, soft diffused natural indoor lighting, airy Scandinavian editorial mood, crisp whites, fresh pastel Play-Doh palette, slightly cool-neutral white balance, clean highlights, luminous soft shadows. Avoid yellow tint, orange cast, sepia tone, moody cinematic lighting, neon oversaturation, or dark shadows. The city must feel genuinely handmade by a talented five-year-old - playful, imperfect, emotional, and imaginative, never like professional miniature modeling or hyperreal sculpture. No fake text, logos, watermarks, AI artifacts, hyperreal architecture, or over-polished miniature aesthetics. Bottom-right corner: small handwritten white crayon sentence: Let’s play in [City Name] The handwriting should feel naturally childlike, cute, uneven, and readable.
 ```
-
 <!-- Case 263: 3D Liquid Art Poster (by @92digitalartArt) -->
 
 ### Case 263: [3D Liquid Art Poster](https://x.com/92digitalartArt/status/2054597084473422099) (by [@92digitalartArt](https://x.com/92digitalartArt))
@@ -3839,10 +4359,9 @@ Create an ultra-charming 3:4 editorial illustration of a five-year-old child sit
 ```
 A mesmerizing and explosively colorful vertical poster featuring giant 3D liquid fluid sculpture forms, enormous glossy morphing blob shapes in vivid electric colors — a massive melting form in hot magenta pink flowing and dripping downward, intersecting with a giant swirling wave of electric cobalt blue, a third liquid mass in neon lime green curling upward like a breaking ocean wave, all three liquid forms colliding at the center in a spectacular splash explosion with hundreds of flying colorful droplets frozen mid-air, each liquid surface rendered with a perfect mirror-glossy finish reflecting the surrounding colors in dazzling distorted highlights, the background a clean bright white making the vivid color explosions pop with maximum visual impact, smaller floating 3D geometric shapes — spheres cubes and diamonds — in candy yellow coral orange and violet orbiting the main liquid forms, bold heavy rounded white typography outlined in black at the top reading "LET IT FLOW" in massive bouncy letters, smaller subtitle below "Create without limits", tiny spark and splash symbols scattered as accents, ultra-saturated maximum color impact, premium 3D render quality, 9:16 vertical ratio
 ```
+<!-- Case 264: Cartel viaje isometrico (by @iamaiistudio) -->
 
-<!-- Case 264: Isometric Travel Poster (by @iamaiistudio) -->
-
-### Case 264: [Isometric Travel Poster](https://x.com/iamaiistudio/status/2054593748085215513) (by [@iamaiistudio](https://x.com/iamaiistudio))
+### Case 264: [Cartel viaje isometrico](https://x.com/iamaiistudio/status/2054593748085215513) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -3853,10 +4372,9 @@ A mesmerizing and explosively colorful vertical poster featuring giant 3D liquid
 ```
 Design a vertical retro mid-century travel poster of [CITY NAME] showcasing [LANDMARK]. Stick to a tight 3-color scheme: cream-toned paper background, black technical line drawing, plus one [COLOR] accent. Aesthetic: minimalist isometric top-down aerial perspective with very fine cross-hatching and silkscreen print grain. Color rules: fill the entire sky in flat solid [COLOR], add small [COLOR] touches on rooftops or street details. Zero gradients allowed. Typography: large bold sans-serif "[CITY NAME]" at the top in cream, with the city's name in its native language set smaller in cream beneath it. #AIart #GPTImage2
 ```
+<!-- Case 265: Sello postal viaje vintage (by @iamsofiaijaz) -->
 
-<!-- Case 265: Vintage Travel Postage Stamp (by @iamsofiaijaz) -->
-
-### Case 265: [Vintage Travel Postage Stamp](https://x.com/iamsofiaijaz/status/2054530631187788035) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+### Case 265: [Sello postal viaje vintage](https://x.com/iamsofiaijaz/status/2054530631187788035) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
 
 | Output |
 | :----: |
@@ -3867,10 +4385,9 @@ Design a vertical retro mid-century travel poster of [CITY NAME] showcasing [LAN
 ```
 Vintage travel postage stamp design featuring [CITY / COUNTRY], ultra-detailed illustrated souvenir stamp, elegant art deco typography spelling “[NAME]” across the center in large ornate serif letters, iconic landmarks and skyline of [PLACE], traditional cultural architecture, scenic local elements, palm trees / boats / streets / mountains depending on location, warm cinematic lighting, soft pastel sky, retro airmail aesthetics, aged paper texture, engraved print style, luxurious vintage tourism poster feel, intricate ornamental borders, postal cancellation mark with local language and English text, “3.50 AED” denomination, symmetrical composition, highly detailed linework, muted [COLOR PALETTE] color scheme, nostalgic philatelic artwork, premium collectible stamp aesthetic, realistic shading, textured ink print, retro travel poster style, 4k illustration, highly detailed vintage engraving.
 ```
+<!-- Case 266: Conjunto collage papel vintage (by @Sairah_0) -->
 
-<!-- Case 266: Vintage Paper Collage Set (by @Sairah_0) -->
-
-### Case 266: [Vintage Paper Collage Set](https://x.com/Sairah_0/status/2054502531628486758) (by [@Sairah_0](https://x.com/Sairah_0))
+### Case 266: [Conjunto collage papel vintage](https://x.com/Sairah_0/status/2054502531628486758) (by [@Sairah_0](https://x.com/Sairah_0))
 
 | Output |
 | :----: |
@@ -3881,10 +4398,9 @@ Vintage travel postage stamp design featuring [CITY / COUNTRY], ultra-detailed i
 ```
 Aesthetic vintage paper collage portrait of a stylish woman taking a mirror selfie, made entirely from torn magazine and newspaper pieces, layered mixed-media artwork, neutral beige and brown tones, Vogue-inspired fashion editorial style, black sunglasses, sleek ponytail hairstyle, white corset top, silver jewelry, purple smartphone, textured ripped paper edges, handcrafted mosaic effect, realistic shadows and depth, chic typography cutouts, inspirational quotes scattered around, cozy luxury aesthetic, highly detailed analog collage art, soft warm lighting, Instagram moodboard vibe, premium editorial composition, ultra detailed, 4k Prompt : Vintage breakfast aesthetic collage made from torn magazine and newspaper clippings, artistic mixed-media paper mosaic style, croissants on a plate with jam, black coffee in a dark cup, fresh fruits and berries, butter dish with knife, café table atmosphere, dark green textured background, ripped paper layers with visible cracks and folds, lifestyle editorial typography, cozy European café vibe, warm earthy tones, handcrafted scrapbook look, realistic paper texture, aesthetic Pinterest moodboard composition, soft cinematic lighting, luxury brunch aesthetic, ultra detailed, high realism, 4k collage art style
 ```
+<!-- Case 267: Retrato vector kawaii cubista (by @ChillaiKalan__) -->
 
-<!-- Case 267: Cubist Kawaii Vector Portrait (by @ChillaiKalan__) -->
-
-### Case 267: [Cubist Kawaii Vector Portrait](https://x.com/ChillaiKalan__/status/2054457447142805832) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+### Case 267: [Retrato vector kawaii cubista](https://x.com/ChillaiKalan__/status/2054457447142805832) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
 
 | Output |
 | :----: |
@@ -3895,10 +4411,9 @@ Aesthetic vintage paper collage portrait of a stylish woman taking a mirror self
 ```
 Create a cute neo-expressionist cubist minimal vector portrait illustration, Picasso meets kawaii minimalism, inspired by stylized fashion editorials and playful modern art. Ultra-simplified exaggerated facial features with oversized abstract eyes, flat cartoon eye shapes, minimal black dots or single curved strokes, no realistic iris details, no eyelashes, extremely reduced facial detail. Tiny abstract nose drawn with one short angular line.￼ Small single-stroke lips, tiny soft geometric mouth shape, minimal expression marks, no realistic mouth anatomy. Rounded cheeks, dreamy innocent expression, playful asymmetrical proportions, elongated elegant neck, simplified geometric facial planes, stylized angular hair shapes, subtle caricature aesthetics, childlike artistic distortion.￼ Use clean scalable vector shapes, flat color blocking, bold primitive contour lines, sharp Bézier curves, abstract polygon composition, minimal linework, naive handmade drawing quality, expressive empty space, icon-like facial abstraction, no realistic rendering, 2D primitive facial symbols. Add subtle oil pastel grain overlays, rough handmade brush accents, raw scribbled handwritten marks, visible pigment texture, silkscreen poster feeling.￼ Vibrant limited color palette against deep matte black background. Luxury editorial gallery poster composition, contemporary fashion illustration, artsy modern cubist poster, stylish and adorable, premium print-ready vector artwork.￼
 ```
+<!-- Case 268: Retrato audifonos Trash Polka (by @ChillaiKalan__) -->
 
-<!-- Case 268: Trash Polka Headphones Portrait (by @ChillaiKalan__) -->
-
-### Case 268: [Trash Polka Headphones Portrait](https://x.com/ChillaiKalan__/status/2054390412253827522) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+### Case 268: [Retrato audifonos Trash Polka](https://x.com/ChillaiKalan__/status/2054390412253827522) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
 
 | Output |
 | :----: |
@@ -3909,7 +4424,6 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 ```
 ​A high-detail digital painting of a young woman wearing large, vibrant red over-ear headphones, looking directly at the viewer with a piercing gaze. The art style is a fusion of stylized realism and urban abstract expressionism. Her hair is messy, light brown/blonde with loose strands and sharp, geometric shards integrated into the locks. The composition features heavy ink splatters, paint drips, and chaotic red and black brushstrokes reminiscent of 'trash polka' art.￼ The background is a clean, minimalist off-white, making the bold red accents and fine linework pop. High contrast, sharp focus on the eyes, cinematic lighting, 8k resolution, trendy street art aesthetic. ​Key Technical Elements to Capture ​Color Palette: Dominated by Red, Black, and White. This high-contrast triad is essential for that aggressive, modern look. ​Artistic Influence: Mentioning "Trash Polka" or "Ink Drip Art" helps the AI understand the messy, splatter-heavy background and the "shattered" look of the hair. ​Character Features: Use terms like "piercing gaze" and "stylized realism" to ensure the face isn't too cartoonish or too photographic, hitting that perfect "concept art" middle ground. ​Graphic Elements: The image uses geometric shards and abstract textures overlapping the subject, which creates a sense of depth and digital glitchiness. Aspect ratio is 9:16
 ```
-
 <!-- Case 269: 3D Typography Travel Poster (by @Naiknelofar788) -->
 
 ### Case 269: [3D Typography Travel Poster](https://x.com/Naiknelofar788/status/2054390259115536874) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
@@ -3923,7 +4437,6 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 ```
 Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury editorial destination advertising fused with realistic sculptural letterform architecture. The city name “[CITY]” must be the dominant subject, occupying most of the canvas. Build the letters as large, realistic, three-dimensional sculptural forms made from glossy painted material, polished ceramic, soft plaster, carved stone, sunlit architectural surfaces, or city-adaptive materials. Each letter should physically transform into the city’s identity: landmarks, skyline silhouettes, arches, towers, domes, bridges, windows, balconies, cultural patterns, coastal forms, or street details must grow directly out of the letterforms. Landmarks should feel architecturally integrated, not pasted behind or around the word. A tower may rise from a vertical stem, a bridge may connect two letters, a dome may form the curve of a rounded letter, rooftops may shape the top edges, and windows or ornamental details may be embedded into the letter faces. Use a low-angle three-quarter camera view so the typography feels monumental, cinematic, premium, and friendly. Place the 3D city-name sculpture slightly low in the frame, filling the central and lower portions of the poster, with generous negative space above. At the top header, add a refined horizontal row of faded landmark symbols related to the city: tiny vector icons, or translucent architectural glyphs. Keep them very soft, elegant, and secondary, like premium magazine header details. Add each landmark name below its icon. Keep all faded and premium. Remove any visible sun from the top-left corner. Use bright natural daylight with a soft key light from the upper-left, gentle fill light, clean highlights, subtle ambient occlusion, and soft contact shadows beneath the letters. The lighting should feel cheerful, fresh, and editorial, not dark or overly cinematic. Use a bright city-adaptive palette based on [CITY]: coastal cities use aqua, coral, cream, and sunny yellow; historic cities use warm stone, terracotta, olive, and soft sky blue; tropical cities use turquoise, mango, palm green, and white; mountain cities use alpine blue, meadow green, snow white, and golden warmth; nightlife cities use violet, cyan, peach, and amber. Keep colors clean, optimistic, premium, and controlled. Add subtle editorial text elements to improve the poster: small uppercase header text such as “DESTINATION SERIES”, a tiny location code like “CITY / 01”, delicate vertical divider lines, a minimal footer line such as “VISIT [CITY]”, and small microtype coordinates or issue number near the bottom edge. These text elements must remain quiet and secondary so the large 3D city name stays the hero. Background should be clean and spacious with a soft sky gradient, delicate clouds, or abstract color field only. Do not place extra landmarks in the background; all major city identity must come from the typography itself, except the faded symbolic header row. Style: premium editorial travel advertising, luxury magazine cover, realistic 3D typographic sculpture, bright modern optimism, cheerful wanderlust, cultural identity, clean art direction. Negative prompt: avoid generic travel posters, separate landmark collages, landmarks pasted behind text, flat typography, cluttered backgrounds, visible sun in the top-left corner, excessive icons, dark cinematic lighting, muddy colors, cheap souvenir aesthetics, unreadable city name, distorted letters, random gradients, noisy textures, stock-template layouts, and overdecorated tourist graphics.
 ```
-
 <!-- Case 270: 泳装时尚杂志四宫格 (by @Adam38363368936) -->
 ### Case 270: [泳装时尚杂志四宫格](https://x.com/Adam38363368936/status/2055819711066316883) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
@@ -3936,9 +4449,8 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 ```
 泳装时尚杂志广告页面，4:3 ，日本模特， S型曲线，【颜色】色系。（变换姿势和风格，四宫格展示）
 ```
-
-<!-- Case 271: Monochrome Caricature Portrait Sheet (by @Noor_ul_ain43) -->
-### Case 271: [Monochrome Caricature Portrait Sheet](https://x.com/Noor_ul_ain43/status/2055796848552755579) (by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43))
+<!-- Case 271: Hoja retrato caricatura monocromo (by @Noor_ul_ain43) -->
+### Case 271: [Hoja retrato caricatura monocromo](https://x.com/Noor_ul_ain43/status/2055796848552755579) (by [@Noor_ul_ain43](https://x.com/Noor_ul_ain43))
 
 | Output |
 | :----: |
@@ -3955,7 +4467,6 @@ Right character: muscular bald man with raised eyebrow, thick neck, strong jawli
 
 Minimal shading, thin crosshatching, clean line art, monochrome aesthetic, white background, artistic character design concept sketch, highly detailed hand-drawn look, playful exaggerated anatomy, professional caricature sketch style
 ```
-
 <!-- Case 272: 星河入梦 3D CG 插画 (by @liyue_ai) -->
 ### Case 272: [星河入梦 3D CG 插画](https://x.com/liyue_ai/status/2055679355242844462) (by [@liyue_ai](https://x.com/liyue_ai))
 
@@ -3990,9 +4501,8 @@ dreamy fantasy girl, celestial goddess, galaxy dress, holographic starlight, sof
 负面提示词：
 身体比例错误，畸形手指，多手指，多手臂，脸部崩坏，眼睛不对称，廉价质感，灰蒙蒙，脏色调，过度锐化，低清晰度，杂乱背景，文字，水印，logo
 ```
-
-<!-- Case 273: Character Profile Sheet (by @iamsofiaijaz) -->
-### Case 273: [Character Profile Sheet](https://x.com/iamsofiaijaz/status/2055633103973134719) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
+<!-- Case 273: Hoja perfil personaje (by @iamsofiaijaz) -->
+### Case 273: [Hoja perfil personaje](https://x.com/iamsofiaijaz/status/2055633103973134719) (by [@iamsofiaijaz](https://x.com/iamsofiaijaz))
 
 | Output |
 | :----: |
@@ -4007,9 +4517,8 @@ Personality board design with handwritten text such as traveler, coder, photogra
 Includes small chibi version of the character, laptop working scene, rafting action scene, map sketches, stars, arrows, and artistic scribbles.
 Modern concept art meets fashion illustration, dynamic ink strokes, expressive line art, textured watercolor shading, warm paper background, cinematic composition, Pinterest aesthetic, highly detailed, visually rich, creative journal vibe, character design sheet, semi-realistic comic illustration.
 ```
-
-<!-- Case 274: Korean Editorial Fashion Moodboard (by @Mind_Boticni) -->
-### Case 274: [Korean Editorial Fashion Moodboard](https://x.com/Mind_Boticni/status/2055627790255587483) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+<!-- Case 274: Moodboard editorial moda coreana (by @Mind_Boticni) -->
+### Case 274: [Moodboard editorial moda coreana](https://x.com/Mind_Boticni/status/2055627790255587483) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
 
 | Output |
 | :----: |
@@ -4060,7 +4569,6 @@ Around the character include many small scrapbook-inspired collage sections:
 Typography should be very small, elegant, subtle, and blended naturally into the layout like luxury fashion magazine captions. Use tiny serif text such as: “golden aura”, “soft bloom”, “editorial notes”, “mood archive”, and “daily elegance”. Text must never dominate the image.
 Overall aesthetic: warm, feminine, luxurious, ultra detailed, realistic photography, soft dreamy atmosphere, premium Korean fashion magazine moodboard, cinematic lighting, highly aesthetic Pinterest composition, rich textures, airy and bright color palette.
 ```
-
 ### Case 275: [Busan Travel Journal Illustration](https://x.com/Naiknelofar788/status/2056189569515892819) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
 
 | Output |
@@ -4083,7 +4591,6 @@ NEGATIVE PROMPT: CGI, photorealistic rendering, anime face, identity change, pla
 ￼ metro ticket fragments passport stamps vintage postage marks boarding pass scraps coffee stains botanical doodles hand-drawn arrows tiny seashell sketches travel annotations paper tape collage small Korean handwritten notes
 COLOR PALETTE: soft ocean blue dusty aqua muted sand beige faded coral warm cream seafoam green soft terracotta accents washed watercolor neutrals LIGHTING: golden morning seaside sunlight airy coastal glow romantic atmospheric haze gentle cinematic warmth
 ```
-
 ### Case 276: [Borussia War Room Interior](https://x.com/guicastellanos1/status/2056059581697056978) (by [@guicastellanos1](https://x.com/guicastellanos1))
 
 | Output |
@@ -4122,7 +4629,6 @@ Window: steel-framed industrial window showing Signal Iduna Park stadium exterio
 
 Atmosphere: raw industrial power, signal yellow burning against matte black, steel and concrete and light — the most intensecolour contrast of all twelve rooms. Photorealistic, 35mm, cinematic.
 ```
-
 ### Case 277: [Kawaii Muslim Cafe Scene](https://x.com/Taaruk_/status/2056053350261739866) (by [@Taaruk_](https://x.com/Taaruk_))
 
 | Output |
@@ -4136,7 +4642,6 @@ Cute kawaii-style lifestyle photography, adorable chibi-inspired Muslim characte
 
 Scene Variations:
 ```
-
 ### Case 278: [Marrakech Watercolor Travel Poster](https://x.com/SimplyAnnisa/status/2055894520139559253) (by [@SimplyAnnisa](https://x.com/SimplyAnnisa))
 
 | Output |
@@ -4154,7 +4659,6 @@ Background depicts the Medina skyline with terracotta buildings, palm trees, the
 
 Bottom center has a palm tree icon with text 'MOROCCO' and small decorative motifs. Soft watercolor style, warm earthy tones, nostalgic travel poster aesthetic, vertical 2:3 aspect ratio."
 ```
-
 ### Case 279: [Retro Travel Poster Collage](https://x.com/Goodmanprotocol/status/2055882758845878709) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 | Output |
@@ -4261,7 +4765,6 @@ ultra detailed,
 clean typography,
 museum poster quality.
 ```
-
 ### Case 280: [Serene City Travel Illustration](https://x.com/oggii_0/status/2055876530988015791) (by [@oggii_0](https://x.com/oggii_0))
 
 | Output |
@@ -4358,7 +4861,6 @@ Aspect ratio: 4:3 or 3:2
 
 Creator: @hermes_agent_kr on Threads
 ```
-
 ### Case 281: [Watercolor 2026 Calendar Poster](https://x.com/you1873118/status/2056175244256411890) (by [@you1873118](https://x.com/you1873118))
 
 | Output |
@@ -4428,7 +4930,6 @@ S M T W T F S
 保持参考图一的原有构图、温柔季节感、手账插画质感和高级可爱氛围。
 不要出现真实照片感，不要过度写实，不要赛博风，不要厚重油画风。
 ```
-
 ### Case 282: [High-Concept Personal Portrait](https://x.com/zhongying14/status/2056068905165074849) (by [@zhongying14](https://x.com/zhongying14))
 
 | Output |
@@ -4485,7 +4986,6 @@ GPT Image 2提示词分享👇
 
 除非用户明确要求“输出提示词”“解释画面”“分析我是什么样的人”，否则只生成最终图像。
 ```
-
 ### Case 283: [梦落琴弦幻想钢琴插画](https://x.com/liyue_ai/status/2056048047222907009) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
@@ -4507,7 +5007,6 @@ GPT Image 2提示词分享👇
 
 画面中大量紫色花瓣在空气中缓慢飘落，前景与背景都有虚化花瓣，形成强烈的空间层次。整体色彩以黑色钢琴、银白长发、淡蓝紫礼裙、紫色花瓣、冷白窗光为主，氛围高级、梦幻、浪漫、安静。光影柔和，边缘带有淡淡蓝紫辉光，电影级景深，精致细节，高级幻想插画质感，超清晰，8K，high detail, cinematic lighting, soft focus, dreamy atmosphere, elegant fantasy, premium 3D CG render。
 ```
-
 ### Case 284: [Coffee Girl By the River](https://x.com/MrGafish/status/2055912487493726603) (by [@MrGafish](https://x.com/MrGafish))
 
 | Output |
@@ -4532,8 +5031,6 @@ GPT Image 2提示词分享👇
 画质：简约而圆润的形态，保留墨水质感的粗犷线条
 避免：文字、水印、logo、畸形结构
 ```
-
-
 ### Case 285: [Floating Island Travel Poster](https://x.com/Naiknelofar788/status/2056551186610966530) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
 
 | Output |
@@ -4545,7 +5042,6 @@ GPT Image 2提示词分享👇
 ```
 Create a premium 9:16 hyper-realistic travel-poster of [COUNTRY NAME] in the same style as a luxury editorial miniature-map diorama: show the country as a recognizable floating island map with dramatic cliff edges, crystal-clear water, soft clouds, and a pure white  background. Use a clean, elegant poster layout with large culturally appropriate typography for “[COUNTRY NAME]” at the top, using a font style inspired by the country’s identity, history, script, or visual culture, plus a short refi
 ```
-
 ### Case 286: [Vintage Monochrome City Travel Poster](https://x.com/Taaruk_/status/2056577980349264028) (by [@Taaruk_](https://x.com/Taaruk_))
 
 | Output |
@@ -4557,7 +5053,6 @@ Create a premium 9:16 hyper-realistic travel-poster of [COUNTRY NAME] in the sam
 ```
 Vintage monochrome city travel poster illustration, detailed urban sketch aesthetic, clean architectural line art mixed with soft watercolor shading, modern Southeast Asian city atmosphere, minimalist green-and-cream color palette, elegant travel poster typography, large bold city name at the top, bilingual typography with Asian characters, highly detailed street life scene, busy urban crossroads, flyovers, buses, motorcycles, cafes, local restaurants, pedestrians crossing streets, shopping mall
 ```
-
 ### Case 287: [Flat-Vector City Lifestyle Collage](https://x.com/Goodmanprotocol/status/2056612365156978731) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 | Output |
@@ -4569,7 +5064,6 @@ Vintage monochrome city travel poster illustration, detailed urban sketch aesthe
 ```
 Create a sophisticated flat-vector editorial pattern illustration of [Melbourne], composed as a seamless lifestyle-art collage combining iconic landmarks, local culture, vacation scenes, and symbolic city objects.
 ```
-
 ### Case 288: [Sci-Fi Character Concept Sheet](https://x.com/0kncn/status/2056372978607174077) (by [@0kncn](https://x.com/0kncn))
 
 | Output |
@@ -4581,7 +5075,6 @@ Create a sophisticated flat-vector editorial pattern illustration of [Melbourne]
 ```
 Create a 16:9 character concept sheet for a celestial voyager in an epic cinematic sci-fi fantasy aesthetic.
 ```
-
 ### Case 289: [Pixar 3D Character Design Sheet](https://x.com/TechieBySA/status/2056419585369198677) (by [@TechieBySA](https://x.com/TechieBySA))
 
 | Output |
@@ -4596,7 +5089,6 @@ LEFT SIDE — CHAD
 Large name in bold black. Underneath: “Just needed a quick pump check.”
 Hero portrait — Chad isolated on clean white. No background. Pixar 3D man, late 20s, natural athletic build — genuinely fit but not cartoonishly huge. Ne
 ```
-
 ### Case 290: [Vintage Travel Collage Poster](https://x.com/sdhilip/status/2056261616967270640) (by [@sdhilip](https://x.com/sdhilip))
 
 | Output |
@@ -4608,7 +5100,6 @@ Hero portrait — Chad isolated on clean white. No background. Pixar 3D man, lat
 ```
 Vintage mixed-media travel collage poster, portrait orientation, themed around [COUNTRY].
 ```
-
 ### Case 291: [Premium Travel Infographic Poster](https://x.com/Ankit_patel211/status/2056519161023787394) (by [@Ankit_patel211](https://x.com/Ankit_patel211))
 
 | Output |
@@ -4620,7 +5111,6 @@ Vintage mixed-media travel collage poster, portrait orientation, themed around [
 ```
 Create an ultra-premium editorial travel infographic poster about FRANCE in a clean vertical 3:4 ratio.
 ```
-
 ### Case 292: [9-Frame Cinematic Storyboard Grid](https://x.com/guicastellanos1/status/2056425976763146366) (by [@guicastellanos1](https://x.com/guicastellanos1))
 
 | Output |
@@ -4633,9 +5123,8 @@ Create an ultra-premium editorial travel infographic poster about FRANCE in a cl
 for GPT-2:
 Create a single image storyboard with 9 cinematic frames arranged in a  3×3 grid. Each frame is a widescreen 16:9 panel with a film aspect ratio  letterbox. Style: ultra-cinematic sci-fi blockbuster mixed with premium  airline commercial. Think Blade Runner 2049 color grading meets a UEFA  Champions League broadcast opener meets a luxury brand TVC.
 ```
-
-<!-- Case 293: Póster publicitario de cerveza vintage de los años 60 (by @Goodmanprotocol) -->
-### Case 293: [Póster publicitario de cerveza vintage de los años 60](https://twitter.com/Goodmanprotocol/status/2056791983717503015) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
+<!-- Case 293: Cartel cerveza vintage 1960 (by @Goodmanprotocol) -->
+### Case 293: [Cartel cerveza vintage 1960](https://twitter.com/Goodmanprotocol/status/2056791983717503015) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 | Resultado |
 | :----: |
@@ -4646,9 +5135,8 @@ Create a single image storyboard with 9 cinematic frames arranged in a  3×3 gri
 ```
 Authentic 1960s American advertising poster for [BREW], vintage mid-century commercial illustration, [PERSON DESCRIPTION] holding a frosty glass bottle of [BREW], bright optimistic lifestyle scene, nostalgic Americana atmosphere, bold [COLOR 1] and [COLOR 2] color palette, elegant retro typography, the text “[BREW]” prominently integrated into the poster design, authentic screen print texture, subtle paper grain, hand-painted illustration style, vintage Madison Avenue advertising aesthetic, clean composition, highly detailed, warm cinematic lighting, premium poster design, authentic 1960s print imperfections, painterly realism, soft brushwork, vertical composition 4:5
 ```
-
-<!-- Case 294: Tablero de propuesta cinematográfica para director (by @Mind_Boticni) -->
-### Case 294: [Tablero de propuesta cinematográfica para director](https://twitter.com/Mind_Boticni/status/2056793598243553464) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+<!-- Case 294: Tablero presentacion director cinematografico (by @Mind_Boticni) -->
+### Case 294: [Tablero presentacion director cinematografico](https://twitter.com/Mind_Boticni/status/2056793598243553464) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
 
 | Resultado |
 | :----: |
@@ -4659,9 +5147,8 @@ Authentic 1960s American advertising poster for [BREW], vintage mid-century comm
 ```
 A premium director’s pitch presentation board for a high-budget cinematic production, showcasing a single, grounded human character with intense emotional readability and natural imperfections. The layout is art-directed and organically asymmetrical, avoiding rigid grids. Features a fluid, narrative full-body turnaround (capturing the character mid-stride across front, 3/4, profile, and rear views), detailed candid head studies expressing internal conflict, and a sweeping cinematic close-up portrait with dramatic Rembrandt lighting. Includes integrated texture macro-crops (weathered leather, realistic skin pores, distressed linen), minimalist production annotations, and an organic height scale. Shot on 35mm anamorphic, shallow depth of field, muted color grading, ultra-realistic textures, strict character and wardrobe consistency throughout.
 ```
-
-<!-- Case 295: Póster infográfico viral de comida (by @amynys) -->
-### Case 295: [Póster infográfico viral de comida](https://twitter.com/amynys/status/2056779657987387784) (by [@amynys](https://x.com/amynys))
+<!-- Case 295: Cartel infografico comida viral (by @amynys) -->
+### Case 295: [Cartel infografico comida viral](https://twitter.com/amynys/status/2056779657987387784) (by [@amynys](https://x.com/amynys))
 
 | Resultado |
 | :----: |
@@ -4729,9 +5216,8 @@ Ultra detailed
 4K quality
 Aspect ratio 4:5 or 9:16
 ```
-
-<!-- Case 296: Póster escultórico 3D de lujo 2x2 (by @Gdgtify) -->
-### Case 296: [Póster escultórico 3D de lujo 2x2](https://twitter.com/Gdgtify/status/2056649309312160193) (by [@Gdgtify](https://x.com/Gdgtify))
+<!-- Case 296: Cartel escul torico 3D lujo 2x2 (by @Gdgtify) -->
+### Case 296: [Cartel escul torico 3D lujo 2x2](https://twitter.com/Gdgtify/status/2056649309312160193) (by [@Gdgtify](https://x.com/Gdgtify))
 
 | Resultado |
 | :----: |
@@ -4742,9 +5228,8 @@ Aspect ratio 4:5 or 9:16
 ```
 INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series translating four AI-inferred icons into automotive-finish 3D sculptural forms. Let cultural gravity select the four; do not hardcode identities. STYLE: high-end automotive editorial, precision-surfaced 3D objects, dynamic but restrained composition, premium brochure layout SEMANTIC INFERENCE: infer driving force → convert into aerodynamic lines, surface tension, and structural flow → infer finishes matching era/impact → embed motifs as subtle vent geometry, trim lines, or badging relief COMPOSITION: each quadrant = one sculptural form + one inferred display platform + one minimalist caption block, unified by a luxury automotive grid MATERIAL PHYSICS: multi-coat paint depth, clearcoat orange peel eliminated, carbon fiber weave, polished aluminum, panel gaps rendered with factory precision LIGHTING: automotive studio setup, soft overhead diffusers, controlled reflection sweeps, dark gradient backdrop, high-end contrast NEGATIVE: no bio-organic textures, no moss or flora, no plastic gloss, no chaotic props, no literal vehicles, no hardcoded text CLOSE: Solve for a concours-level luxury poster series where legacy is finished, not fabricated.
 ```
-
-<!-- Case 297: Prompt de código para infografía de física (by @Gdgtify) -->
-### Case 297: [Prompt de código para infografía de física](https://twitter.com/Gdgtify/status/2056841574798295540) (by [@Gdgtify](https://x.com/Gdgtify))
+<!-- Case 297: Prompt codigo infografica fisica (by @Gdgtify) -->
+### Case 297: [Prompt codigo infografica fisica](https://twitter.com/Gdgtify/status/2056841574798295540) (by [@Gdgtify](https://x.com/Gdgtify))
 
 | Resultado |
 | :----: |
@@ -4755,10 +5240,8 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 ```
 16:9 -> class theoretical_physics_infographic_dna: def __init__(self): self.subject = "[ai selects: 4 distinct advanced physics theorems or paradoxes (e.g., bell's theorem, hawking radiation, string theory)]" self.parents = { "composition_parent": "large hadron collider blueprints — hyper-complex radial symmetry, intersecting particle beam rings, millimeter-precise drafting", "atmosphere_parent": "deep space observatory photography — pitch black voids, glowing ultraviolet radiation, high-contrast laser illumination", "graphic_parent": "chalkboard maximalism — elegant, dense mathematical notation floating as glowing white vectors", "detail_parent": "victorian brass optical instruments — finely milled prisms, glass lenses, and mirrored refraction planes" } self.mutations = { "medium_mutation": "the mathematical formulas solidify into glowing, three-dimensional glass sculptures bending the light around them", "information_mutation": "particle collision tracks are woven like fine gold thread through the dark background", "semantic_mutation": "the invisible physical law is rendered as a massive, tangible, gravitational machine distorting the grid of the poster itself" } def generate_grid(self): instruction = """ generate a 2x2 grid of vertical luxury infographic posters giving physical form to the chosen [subject]s. invent a magnificent scientific machine or optical diorama for each. explode the layers to show quantum states, gravitational warping, equations, and subatomic scale. the design must feel like a classified schematic from a hyper-advanced, aesthetically obsessed civilization. semantic inference must make the invisible laws of physics breathtakingly visible. """ return render( instruction, format="2x2 grid, vertical luxury posters, conceptual scientific infographic", typography=""" large title: [name of theorem/paradox] subtitle: [the physicist / the era] microtext: [the core equation / metric tensor / explanatory blazon] """, composition="strict radial or gravitational-well symmetry. razor-sharp fine lines contrasting with deep voids.", lighting="harsh, clinical laser light interacting with pure optical glass and vantablack.", constraints="no cartoon atoms, no clip-art planets, no messy chalkboards. only pristine, museum-grade scientific aesthetic." )
 ```
-
-
-<!-- Case 298: Football Player Dynamic Poster (by @harboriis) -->
-### Case 298: [Football Player Dynamic Poster](https://x.com/harboriis/status/2057296163972567081) (by [@harboriis](https://x.com/harboriis))
+<!-- Case 298: Cartel dinamico jugador futbol (by @harboriis) -->
+### Case 298: [Cartel dinamico jugador futbol](https://x.com/harboriis/status/2057296163972567081) (by [@harboriis](https://x.com/harboriis))
 
 | Output |
 | :----: |
@@ -4769,9 +5252,8 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 ```
 A dynamic mixed-media football poster featuring James Rodríguez in Colombia’s national team colors, designed with a bold street-art editorial aesthetic. The composition blends realistic sports photography with layered urban graphic design elements. Background features a gritty city basketball-court wall covered in oversized graffiti murals, torn posters, paint drips, neon spray textures, stickers, marker tags, and distressed concrete textures in yellow, blue, and red tones. James stands in an explosive action pose controlling the ball mid-motion, illuminated by dramatic cinematic lighting and colorful urban reflections. Typography: massive hand-painted graffiti lettering reading “JAMES RODRÍGUEZ” integrated diagonally across the composition with rough brush textures and paint splatter overlap. Add layered halftone dots, motion streaks, comic-book speed effects, urban doodles, ripped-paper collage textures, and bold geometric accents. Style feels like a fusion of Nike World Cup campaign visuals, Hypebeast editorial design, Latin American street culture, and modern football social-media posters. High contrast, energetic, rebellious, chaotic but premium composition. Ultra-detailed 4K digital artwork, trendy sports poster aesthetic, vibrant urban color grading.
 ```
-
-<!-- Case 299: Travel Food Advertisement Poster (by @Naiknelofar788) -->
-### Case 299: [Travel Food Advertisement Poster](https://x.com/Naiknelofar788/status/2057282710469767241) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+<!-- Case 299: Cartel publicitario comida viaje (by @Naiknelofar788) -->
+### Case 299: [Cartel publicitario comida viaje](https://x.com/Naiknelofar788/status/2057282710469767241) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
 
 | Output |
 | :----: |
@@ -4782,9 +5264,8 @@ A dynamic mixed-media football poster featuring James Rodríguez in Colombia’s
 ```
 Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay’s-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign.
 ```
-
-<!-- Case 300: Vintage Watercolor Travel Poster (by @Taaruk_) -->
-### Case 300: [Vintage Watercolor Travel Poster](https://x.com/Taaruk_/status/2057298831289761976) (by [@Taaruk_](https://x.com/Taaruk_))
+<!-- Case 300: Cartel viaje acuarela vintage (by @Taaruk_) -->
+### Case 300: [Cartel viaje acuarela vintage](https://x.com/Taaruk_/status/2057298831289761976) (by [@Taaruk_](https://x.com/Taaruk_))
 
 | Output |
 | :----: |
@@ -4796,9 +5277,8 @@ Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vert
 Minimalist vintage travel poster in delicate watercolor and ink sketch style, elegant European travel illustration, soft neutral tones on textured ivory paper background, hand-painted cityscape with loose watercolor washes, fine architectural pen linework, cozy café storefronts, bicycles, cobblestone streets, flower-filled balconies, classic street lamps, soft atmospheric perspective, cinematic morning light, dreamy travel journal aesthetic, sophisticated typography layout with large serif country/city title at the top, handwritten subtitle and poetic tagline, small passport-style stamps, elegant editorial composition, airy negative space, timeless travel magazine design.
 Scene variations: • London  rainy streets, red double-decker bus, black taxi, Big Ben in the background, cozy bookstore café, Portobello Road signage, muted gray-beige palette with soft red accents. • Greece  whitewashed Santorini alleyways, blue domes, bougainvillea flowers, seaside café, Mediterranean sunlight, bright white and soft ocean blue palette. • Switzerland alpine lakeside town, snowy mountains, vintage tram, Swiss flags, luxury café terraces, peaceful European old-town atmosphere. • Australia Melbourne-style tram street, jacaranda trees with purple blossoms, sunny café culture, modern-meets-vintage urban scenery.
 ```
-
-<!-- Case 301: Retro Cafe Scrapbook Poster (by @j_smeaton99) -->
-### Case 301: [Retro Cafe Scrapbook Poster](https://x.com/j_smeaton99/status/2057295551327347035) (by [@j_smeaton99](https://x.com/j_smeaton99))
+<!-- Case 301: Cartel album recortes cafeteria retro (by @j_smeaton99) -->
+### Case 301: [Cartel album recortes cafeteria retro](https://x.com/j_smeaton99/status/2057295551327347035) (by [@j_smeaton99](https://x.com/j_smeaton99))
 
 | Output |
 | :----: |
@@ -4809,9 +5289,8 @@ Scene variations: • London  rainy streets, red double-decker bus, black taxi, 
 ```
 Whimsical retro cafe scrapbook poster, dreamy pistachio rose latte aesthetic, layered iced pistachio drink with rose cream foam and milk gradients, ultra-realistic beverage photography blended with hand-drawn journal doodles, soft watercolor marker sketches, playful handwritten cafe notes, tiny arrows and ingredient callouts, sticker-book collage composition, pastel stationery aesthetic, cozy Korean cafe moodboard style, textured paper scraps and washi tape layers, sparkles, bows, cherries, and tiny floral doodles surrounding the drink, trendy Pinterest-inspired cafe branding, warm natural window lighting, creamy foam textures with realistic condensation droplets, rich pistachio green paired with blush pink and cream tones, detailed ice cubes and glass reflections, modern Gen Z dessert-shop aesthetic, artistic flatlay composition with cute props like mini spoons, cookies, flowers, and polaroid snapshots, editorial social-media-ready food poster vibe, ultra detailed, soft dreamy color palette, stylish lifestyle cafe photography.
 ```
-
-<!-- Case 302: Blueberry Lavender Soda Scrapbook Poster (by @john_my07) -->
-### Case 302: [Blueberry Lavender Soda Scrapbook Poster](https://x.com/john_my07/status/2057417084259487783) (by [@john_my07](https://x.com/john_my07))
+<!-- Case 302: Cartel album recortes soda arandano lavanda (by @john_my07) -->
+### Case 302: [Cartel album recortes soda arandano lavanda](https://x.com/john_my07/status/2057417084259487783) (by [@john_my07](https://x.com/john_my07))
 
 | Output |
 | :----: |
@@ -4822,9 +5301,8 @@ Whimsical retro cafe scrapbook poster, dreamy pistachio rose latte aesthetic, la
 ```
 Vintage-inspired blueberry lavender soda scrapbook poster, dreamy artisanal cafe advertisement aesthetic, sparkling layered blueberry soda with lavender cream foam and translucent ice cubes, ultra-realistic beverage photography blended with playful hand-drawn doodles and pastel marker sketches, fizzy carbonation bubbles visible through the glass, soft purple-to-blue gradient drink tones with creamy white foam top, whimsical handwritten cafe notes and tiny ingredient arrows, sticker-book collage layout with torn paper textures and washi tape accents, cozy Korean dessert cafe moodboard style, delicate lavender flower doodles, bows, stars, tiny moons, blueberries, and sparkles surrounding the drink, textured notebook paper scraps layered organically across the composition, trendy Pinterest-inspired beverage branding, warm cinematic natural window lighting, glossy condensation droplets and realistic glass reflections, editorial flatlay cafe photography mixed with journal-style illustrations, cute props like vintage spoons, blueberry pastries, mini flowers, recipe cards, cassette tapes, and polaroid snapshots, nostalgic Gen Z cafe aesthetic with Y2K undertones, dreamy soft-focus atmosphere, highly detailed scrapbook composition, artistic social-media-ready dessert shop poster vibe, soft pastel lavender, dusty blue, cream, and silver color palette, stylish lifestyle cafe photography, premium editorial food advertisement aesthetic.
 ```
-
-<!-- Case 303: Scientific Concept Anchor Poster (by @Gdgtify) -->
-### Case 303: [Scientific Concept Anchor Poster](https://x.com/Gdgtify/status/2057297076032262574) (by [@Gdgtify](https://x.com/Gdgtify))
+<!-- Case 303: Cartel ancla concepto cientifico (by @Gdgtify) -->
+### Case 303: [Cartel ancla concepto cientifico](https://x.com/Gdgtify/status/2057297076032262574) (by [@Gdgtify](https://x.com/Gdgtify))
 
 | Output |
 | :----: |
@@ -4835,8 +5313,50 @@ Vintage-inspired blueberry lavender soda scrapbook poster, dreamy artisanal cafe
 ```
 Anchor: The word "[SCIENTIFIC CONCEPT (e.g.,  CARBON / DNA / GRAVITY)]" :: where each  letter is constructed from the molecular  structure, atomic bonds, or physical  diagrams associated with that concept ::4  Morphology: DNA — letters formed from  double helix ladder rungs and backbone  curves. CARBON — letters built from  benzene ring hexagons and bond lines.  GRAVITY — letters curve and stretch  as if pulled toward a point mass,  lower strokes elongated by gravitational  lensing. All fully readable ::3  Material Physics: Scientific whiteboard  aesthetic — white chalk or marker on  dark ground. Or blueprint blue with  white diagrammatic linework ::3  Illumination: Flat, even, academic —  as if projected on a lecture screen ::2  Render Stack: Science magazine cover,  university poster, Ted Talk title card ::1  Negative: [photorealistic molecular  renders, 3D shading, color-coded  atoms in standard CPK colors,  realistic laboratory imagery] :: -1
 ```
+<!-- Case 304: Póster editorial de moda (by @zulkarnaimx) -->
+### Case 304: [Póster editorial de moda](https://x.com/zulkarnaimx/status/2057500045713506318) (by [@zulkarnaimx](https://x.com/zulkarnaimx))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case304/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case304/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Editorial Fashion Poster"></a> |
 
+**Guías de envío:**
 
+```
+Editorial fashion poster featuring a full-body, stylish male model leaning casually against a light stone column in an upscale urban setting, wearing a slim-fit black button-down shirt tucked into tailored camel chinos with a slight cuff and a brown leather belt, polished dark brown leather loafers, classic black sunglasses and a minimalist wristwatch. Compose with generous left-side negative space reserved for bold typography and graphic elements: large stacked headline "BLACK + CAMEL" in black and camel tones, three-word tagline "WARM • TIMELESS • EFFORTLESS," two circular color swatches (black and camel), and small outfit icons with labels for "black shirt," "camel chinos," and "brown loafers." Warm, natural golden-hour light with soft shadows, shallow depth of field, sharp subject, soft bokeh background.
+```
+<!-- Case 305: Póster infográfico editorial de alta moda (by @Hope_Ai01) -->
+### Case 305: [Póster infográfico editorial de alta moda](https://x.com/Hope_Ai01/status/2057367851905040849) (by [@Hope_Ai01](https://x.com/Hope_Ai01))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case305/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - High Fashion Editorial Infographic Poster"></a> |
+
+**Guías de envío:**
+
+```
+A high-fashion editorial infographic poster featuring a stunning female fashion model standing confidently in the center against a clean luxury studio background. She is wearing an elegant Indo-Western fusion outfit — a richly embroidered long ethnic jacket fused with a modern fitted silhouette, stylish draped skirt/palazzo, intricate patterns, premium fabric textures, contemporary jewelry, and designer heels. The model looks glamorous, confident, and runway-ready. Around the model, create a professional fashion design chart layout with stylish annotation lines and labels pointing toward different outfit elements. Mention detailed fashion notes on the sides such as: Fabric Type, Embroidery Details, Sleeve Design, Neckline Style, Waist Fit, Fusion Elements.
+```
+<!-- Case 306: Diseño de póster de baloncesto (by @abs_uiux) -->
+### Case 306: [Diseño de póster de baloncesto](https://x.com/abs_uiux/status/2057390002678464986) (by [@abs_uiux](https://x.com/abs_uiux))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case306/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case306/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Basketball Poster Design"></a> |
+
+**Guías de envío:**
+
+```
+Create a high-impact professional basketball poster design for a fictional live game event. Make it look like a premium modern sports promo poster for social media and print. Use a bold energetic composition with one heroic male basketball player in mid-air performing a powerful dunk as the main focus. Add dramatic arena lighting, a packed crowd atmosphere, motion streaks, flying dust, glowing sparks, and floating particles. Use an intense sports color palette of deep navy, black, orange, red, gold, and white with strong contrast and glowing highlights. Add clean, readable typography with a bold game title, team names, date, venue, and ticket info.
+```
+<!-- Case 307: Generación de tarjeta de personaje con tres vistas (by @rionaifantasy) -->
+### Case 307: [Generación de tarjeta de personaje con tres vistas](https://x.com/rionaifantasy/status/2057445381072650545) (by [@rionaifantasy](https://x.com/rionaifantasy))
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case307/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case307/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 角色卡三视图生成"></a> |
+
+**Guías de envío:**
+
+```
+把我生成这张照片女主角的角色卡片：包含正面侧面背面三视图，以及多表情面部特写，和手部不同动作的特写，保持女主角的外貌发型身材服饰气质完全不变
+```
 ### Case 308: Luxury Garden Pitch Deck Storyboard
 
 **Source**: [@Strength04_X](https://x.com/Strength04_X/status/2058423104444239926)
@@ -4851,7 +5371,6 @@ Create a high-end 4:3 luxury garden pitch deck storyboard in 3x4 grid (12 frames
 <img src="../images/poster_case308/output.jpg" width="500">
 
 ---
-
 ### Case 309: Retro Music Festival Pop Poster
 
 **Source**: [@AvelyrahnAI](https://x.com/AvelyrahnAI/status/2058545998440624282)
@@ -4932,7 +5451,6 @@ premium magazine-st
 <img src="../images/poster_case309/output.jpg" width="500">
 
 ---
-
 ### Case 310: Universal Luxury Brand Poster
 
 **Source**: [@Naiknelofar788](https://x.com/Naiknelofar788/status/2058543808011534772)
@@ -4958,7 +5476,6 @@ Shot on 14mm fisheye lens, ultra realistic, highly detailed, 8k quality, dramati
 <img src="../images/poster_case310/output.jpg" width="500">
 
 ---
-
 ### Case 311: Football Victory Poster
 
 **Source**: [@OrhanGhazi65942](https://x.com/OrhanGhazi65942/status/2058482055336579127)
@@ -4973,7 +5490,6 @@ Ultra-detailed sports poster design featuring multiple dynamic versions of a foo
 <img src="../images/poster_case311/output.jpg" width="500">
 
 ---
-
 ### Case 312: 3D Travel Typography Poster
 
 **Source**: [@Sheldon056](https://x.com/Sheldon056/status/2058564258007539770)
@@ -5000,7 +5516,6 @@ Use a bright city-adaptive palette based on [New York]: coastal cities use aqu
 <img src="../images/poster_case312/output.jpg" width="500">
 
 ---
-
 ### Case 313: Bangkok 3D Travel Poster
 
 **Source**: [@kingofdairyque](https://x.com/kingofdairyque/status/2058523997055160797)
@@ -6382,7 +6897,6 @@ prompt:
 
 A minimalist modern editorial illustration. Style: Nordic lifestyle magazine meets Korean literary book cover meets indie architectural sketch. Natural eye-level composition, everyday setting. Color palette: creamy white, ivory, gray-beige, sage green, deep olive, ink black, tiny touches of grayish-pink. Thin black ink outlines, slightly hand-drawn feel. Highly abstracted shapes, elongated quiet silhouettes. Background textures: aged paper grain, scratches, ink spots, print noise. Shadows rendered as solid blocks of pure black or dark green, no gradients, no realistic lighting, no 3D rendering. Quiet, cool, literary, restrained aesthetic. High-end editorial and independent publication finish. No text, no watermark, no high-saturation colors, no photographic feel.
 ```
-
 ### Case 354: [World Cup Match Poster](https://x.com/lukmanfebrianto/status/2064159903531544961) (by [@lukmanfebrianto](https://x.com/lukmanfebrianto))
 
 ![World Cup Match Poster](../../images/poster_case354/output.jpg)
@@ -6397,8 +6911,6 @@ Photorealistic movie poster designed by a professional graphic designer with thi
 - Below main title, text '[Name of The Stadium] - [Location], [Date]'
 - At the top, 'World Cup 2026' logo
 ```
-
-
 ### Case 355: [Cinematography Analysis Frame](https://x.com/bmx_ai13/status/2064109968203362408) (by [@bmx_ai13](https://x.com/bmx_ai13))
 
 ![Cinematography Analysis Frame](../../images/poster_case355/output.jpg)
@@ -6437,8 +6949,6 @@ Style: Luxury fashion editorial photography, soft cinematic realism, warm beige 
 
 Camera: 35mm lens, medium wide framing, eye level camera angle, 16:9 widescreen.
 ```
-
-
 ### Case 356: [Vintage Anatomic Book Plate](https://x.com/livybabie/status/2064033077123236291) (by [@livybabie](https://x.com/livybabie))
 
 ![Vintage Anatomic Book Plate](../../images/poster_case356/output.jpg)
@@ -6457,8 +6967,6 @@ Place the labels naturally around the figure, balancing readability and visual e
 
 Lighting should be soft and flat like a scanned antique page. The final result must feel like a scholarly anatomical illustration, not a modern infographic. High detail, precise linework, aged paper texture, anatomical accuracy, elegant composition, subtle red muscle fibers, pale blue veins, ivory bone rendering, dark graphite outlines, old medical atlas atmosphere, realistic printed-page imperfections.
 ```
-
-
 ### Case 357: [Crowd Mosaic Football Portrait](https://x.com/Taaruk_/status/2064032287969481186) (by [@Taaruk_](https://x.com/Taaruk_))
 
 ![Crowd Mosaic Football Portrait](../../images/poster_case357/output.jpg)
@@ -6467,8 +6975,6 @@ Lighting should be soft and flat like a scanned antique page. The final result m
 ```
 Ultra-detailed crowd mosaic portrait of a legendary football player, created entirely from thousands of tiny people standing and walking on a vast white surface. From a distance, the crowd forms a hyper-realistic giant face and upper body portrait; up close, every individual person is clearly visible. Long cinematic shadows, aerial top-down perspective, massive scale, intricate human arrangement, photorealistic details, high contrast lighting, clean minimalist background, depth and dimension, masterpiece composition, ultra-sharp focus, 8K resolution, social art installation, human mosaic effect, volumetric lighting, realistic skin tones formed by crowd density, award-winning conceptual photography, breathtaking visual illusion, drone photography, highly detailed faces, premium quality, modern generative art.
 ```
-
-
 ### Case 358: [Origami Food Poster](https://x.com/Gdgtify/status/2064020126937039318) (by [@Gdgtify](https://x.com/Gdgtify))
 
 ![Origami Food Poster](../../images/poster_case358/output.jpg)
@@ -6494,8 +7000,6 @@ OUTPUT: Soft off-white or pastel background, elegant minimalist typography, razo
 
 NEGATIVE: no holograms, no bioluminescent glows, no VR/AR elements, no realistic food photography, no messy torn paper edges, no visible digital 3D artifacts, no cluttered backgrounds, no watermark.
 ```
-
-
 ### Case 359: [Surrealism History Timeline](https://x.com/92digitalartArt/status/2064012013357928462) (by [@92digitalartArt](https://x.com/92digitalartArt))
 
 ![Surrealism History Timeline](../../images/poster_case359/output.jpg)
@@ -6504,8 +7008,6 @@ NEGATIVE: no holograms, no bioluminescent glows, no VR/AR elements, no realistic
 ```
 A surrealist historical timeline infographic poster in 16:9 horizontal format inspired by Salvador Dalí, featuring a dreamlike desert landscape where a long melting clock transforms into a winding historical timeline path across the composition, with floating doors, stretched shadows, levitating drawers, cracked stone statues, and impossible reflections merging into one symbolic world; the timeline should run diagonally from left to right like a dream corridor, with key surrealism dates placed inside small elegant labels, including 1917, 1924, 1929, 1936, 1940s and 1960s, each date connected to a strange symbolic object such as an eye, an egg, a telephone, a bird cage, a face, or a candle, all drawn with refined illusionistic detail; the background should be a warm twilight gradient blending sand beige, pale gold, faded blue and shadowy violet, with clouds that look like painted smoke and a horizon that bends unnaturally; the title should be placed at the top center in large dramatic serif typography reading SURREALISM, with the subtitle TIMELINE OF THE SUBCONSCIOUS beneath it in smaller elegant text; fact panels should be placed asymmetrically around the dreamscape, each one framed like a museum label but slightly distorted, with short sections labeled ORIGINS, MANIFESTO, KEY ARTISTS, DREAM LOGIC, FAMOUS WORKS, and LEGACY, plus a small DID YOU KNOW? box near the lower right with five original facts; the entire image should feel uncanny, poetic, intellectually rich, visually luxurious, and unmistakably surrealist, with no copied artwork, no logos, no modern UI, 16:9 horizontal ratio
 ```
-
-
 ### Case 360: [3D Travel Ticket](https://x.com/AIwithkhan/status/2063963460963270774) (by [@AIwithkhan](https://x.com/AIwithkhan))
 
 ![3D Travel Ticket](../../images/poster_case360/output.jpg)
@@ -6514,7 +7016,6 @@ A surrealist historical timeline infographic poster in 16:9 horizontal format in
 ```
 Photorealistic 3D travel ticket concept, a close-up human hand holding a large vintage “NYC All Access Pass” ticket in front of a clean cream-colored background. The ticket acts as a portal window into New York City, revealing a detailed miniature Manhattan street scene inside the cutout frame. A realistic yellow NYC taxi emerges out of the ticket in 3D onto a floating road platform, creating a pop-out effect. The Empire State Building rises dramatically behind the ticket, with hand-drawn sketch illustrations of the Statue of Liberty, Brooklyn Bridge, Broadway sign, and coffee cup surrounding the composition. Premium paper texture, cinematic lighting, warm golden-hour tones, ultra-detailed miniature city diorama, depth of field, travel advertisement aesthetic, creative paper-craft design, hyperrealistic, clean studio background, professional product photography, sharp focus, 8K, vertical composition.
 ```
-
 ### Case 361: [Luxury Birthday Poster 3:4](https://x.com/Taaruk_/status/2064548138422263945) (by [@Taaruk_](https://x.com/Taaruk_))
 
 ![Luxury Birthday Poster 3:4](../../images/poster_case361/output.jpg)
@@ -6523,7 +7024,6 @@ Photorealistic 3D travel ticket concept, a close-up human hand holding a large v
 ```
 Professional luxury birthday poster, 3:4 ratio. Entire frame filled with a premium off white luxury paper textured wall. Large number “2” precisely carved in the wall with visible depth and realistic inner shadows. Inside the number: soft pink and pink balloons, subtle white flowers, elegant bouquet arrangement, premium celebration styling. A happy 2 year old child with preserved reference facial features, wearing a milky white T shirt and pink denim overalls, laughing naturally. Face, shoulder, one hand and one foot extend outside the number creating a realistic 3D effect. Warm cinematic sunlight from one side, soft rim light, photorealistic skin, premium studio photography, ultra realistic, sharp focus. Typography on wall: MUNONYE, CHAPTER 2, 365 MORE DAYS OF WONDER. Clean minimalist layout, luxury magazine cover aesthetic, high end art direction, realistic shadows, natural colors, no tree shadows, no fake lighting, no AI artifacts.
 ```
-
 ### Case 362: [Window Girl Fashion Editorial](https://x.com/iamaiistudio/status/2064545132180074569) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 ![Window Girl Fashion Editorial](../../images/poster_case362/output.jpg)
@@ -6540,7 +7040,6 @@ Camera: 35mm lens, centered full-body framing within the window frame, moderate 
 
 #AIart #GPTImage2
 ```
-
 ### Case 363: [Premium Streetwear Graphic Tee](https://x.com/j_smeaton99/status/2064540729528267108) (by [@j_smeaton99](https://x.com/j_smeaton99))
 
 ![Premium Streetwear Graphic Tee](../../images/poster_case363/output.jpg)
@@ -6549,7 +7048,6 @@ Camera: 35mm lens, centered full-body framing within the window frame, moderate 
 ```
 Create a high-end fashion product photo of a modern oversized streetwear T-shirt. The shirt features a large, professionally designed graphic print on the front. Design style: contemporary urban streetwear, bold typography mixed with futuristic geometric elements, clean vector artwork, subtle distressed textures, premium screen-print aesthetic, balanced composition, visually striking but wearable. Color palette: black, white, silver, and electric blue accents. The design should look like it belongs in a luxury streetwear collection. Photorealistic fabric texture, realistic folds, premium cotton material, studio lighting, fashion campaign quality, ultra-detailed, sharp focus, e-commerce ready, trend-forward apparel design.
 ```
-
 ### Case 364: [Three-Frame Nightlife Collage](https://x.com/mehvishs25/status/2064539698027258333) (by [@mehvishs25](https://x.com/mehvishs25))
 
 ![Three-Frame Nightlife Collage](../../images/poster_case364/output.jpg)
@@ -6582,7 +7080,6 @@ Style Direction:
 
 Candid nightlife photograph
 ```
-
 ### Case 365: [Travel Planning Tabletop Scene](https://x.com/Naiknelofar788/status/2064532259596816668) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
 
 ![Travel Planning Tabletop Scene](../../images/poster_case365/output.jpg)
@@ -6596,7 +7093,6 @@ Mixed-media diorama style, intricate papercraft architecture, layered paper terr
 Include these [LOCATION] highlights: [LANDMARK LIST].
 Color palette inspired by [LOCATION'S NATURAL/CULTURAL COLORS].
 ```
-
 ### Case 366: [iPhone Candid Notebook Photo](https://x.com/iamaiistudio/status/2064530096720150770) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 ![iPhone Candid Notebook Photo](../../images/poster_case366/output.jpg)
@@ -6609,7 +7105,6 @@ Candid photo of a flat open notebook covered in black ballpoint pen handwriting.
 
 #AIart #GPTImage2
 ```
-
 ### Case 367: [French New Wave Film Still](https://x.com/iamaiistudio/status/2064515035708408119) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 ![French New Wave Film Still](../../images/poster_case367/output.jpg)
@@ -6618,7 +7113,6 @@ Candid photo of a flat open notebook covered in black ballpoint pen handwriting.
 ```
 Black and white cinematic image in 1950s-60s French New Wave style. Two people standing close on a narrow Parisian street at dawn, not quite touching, intimacy expressed through proximity alone. She tilts slightly toward him; he gazes past her, deep in thought. Simple clothing: trench coats, knit sweaters, no excess. Natural faces, honest expressions, no glamour. Stone walls, shuttered windows, stacked cafe chairs, a bicycle leaning against the wall. Eye-level static camera, wide negative space, slightly imperfect composition. Soft diffused daylight, subtle 35mm film grain, gentle shadows. Emotion through stillness and silence, love present but unspoken. Godard and Truffaut aesthetic: restrained, observational, melancholic art-house romance.
 ```
-
 ### Case 368: [Nighttime Japanese Theater Cinematic](https://x.com/Preda2005/status/2064507889818144850) (by [@Preda2005](https://x.com/Preda2005))
 
 ![Nighttime Japanese Theater Cinematic](../../images/poster_case368/output.jpg)
@@ -6627,7 +7121,6 @@ Black and white cinematic image in 1950s-60s French New Wave style. Two people s
 ```
 Create a cinematic 16:9 wide image from the audience POV at a nighttime outdoor Japanese theater performance. The camera feels like a handheld smartphone recording from the crowd, with silhouetted audience heads and raised phones in the foreground. On stage, a cute plush capybara mascot girl named Capychan stands small but heroic, with a round chubby body, huge capybara hood, pineapple crown, yellow number 10 jersey, blonde-and-green hair, heterochromia eyes, and two glowing energy swords, one green and one gold. She faces a colossal original samurai robot with black, red and gold armor, glowing red eyes, and a massive mechanical katana. The stage has a traditional Japanese village gate, bamboo forest, lanterns, taiko drums, smoke, sparks, explosions, dramatic spotlights, and a realistic live performance atmosphere. Make the image dynamic, as if captured during a fast battle scene, with motion energy, smoke trails, impact sparks, and epic scale contrast. No copyrighted characters, no logos, no subtitles. Cinematic, high detail, realistic audience-recorded viral video frame.
 ```
-
 ### Case 369: [Furniture Product Sheet Layout](https://x.com/iamaiistudio/status/2064499654725902349) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 ![Furniture Product Sheet Layout](../../images/poster_case369/output.jpg)
@@ -6653,7 +7146,6 @@ Separate the two sections with a vertical dividing line or subtle split backgrou
 
 #AIart #GPTImage2
 ```
-
 ### Case 370: [Anime Character Concept Showcase](https://x.com/itsPixieVerse/status/2064496721431024075) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
 
 ![Anime Character Concept Showcase](../../images/poster_case370/output.jpg)
@@ -6686,7 +7178,6 @@ Use this tri-fold layout:
 
 - Place these views over very subtle vertical and horizontal
 ```
-
 ### Case 371: [Dopamine Burst 3D Poster](https://x.com/iamaiistudio/status/2064485010653225077) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 ![Dopamine Burst 3D Poster](../../images/poster_case371/output.jpg)
@@ -6701,7 +7192,6 @@ Modern internet visual design excellence, Behance / Dribbble 3D illustration pos
 
 #AIart #GPTImage2
 ```
-
 ### Case 372: [Scandinavian Branding Mockup](https://x.com/iamaiistudio/status/2064469666521829435) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 ![Scandinavian Branding Mockup](../../images/poster_case372/output.jpg)
@@ -6716,7 +7206,6 @@ Minimal personal branding identity mockup for a female entrepreneur or creator, 
 
 #AIart #GPTImage2
 ```
-
 ### Case 373: [Hand-drawn Doodle Art Overlay](https://x.com/iamaiistudio/status/2064454454553051298) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 ![Hand-drawn Doodle Art Overlay](../../images/poster_case373/output.jpg)
@@ -6737,7 +7226,6 @@ Keep the illustrated additions from overwhelming the original photo. Aim for a b
 
 #AIart #GPTImage2
 ```
-
 ### Case 374: [Japanese Ad Banner 2x2 Grid](https://x.com/iamaiistudio/status/2064440310479176084) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 ![Japanese Ad Banner 2x2 Grid](../../images/poster_case374/output.jpg)
@@ -6799,7 +7287,6 @@ Keep the illustrated additions from overwhelming the original photo. Aim for a b
         "elements": [
           "crispy g
 ```
-
 ### Case 375: [Argentina Football Uniform Promo](https://x.com/AIwithAliya/status/2064424561622634711) (by [@AIwithAliya](https://x.com/AIwithAliya))
 
 ![Argentina Football Uniform Promo](../../images/poster_case375/output.jpg)
@@ -6932,7 +7419,6 @@ The feeling:
 
 She carries the weight of champio
 ```
-
 ### Case 376: [Food Ad Layered Dessert](https://x.com/iamaiistudio/status/2064424485328204244) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 ![Food Ad Layered Dessert](../../images/poster_case376/output.jpg)
@@ -6947,7 +7433,6 @@ A partially bitten realistic classic [brand] product resting on a plate, exposin
 
 #AIart #GPTImage2
 ```
-
 ### Case 377: [Claymation Teen Girl with Headphones](https://x.com/ZephyraLeigh/status/2064422178683228483) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
 
 ![Claymation Teen Girl with Headphones](../../images/poster_case377/output.jpg)
@@ -6974,7 +7459,6 @@ A partially bitten realistic classic [brand] product resting on a plate, exposin
 
 [STYLE NOTES]: Clay headphone ear cups with embossed Sony logo, sound waves as curling clay ribbons, neon sign as glowing colored clay tubing, Aardman Studios meets streetwear aesthetic
 ```
-
 ### Case 378: [Greek Mythology Olympian Family Tree](https://x.com/92digitalartArt/status/2064420821922152795) (by [@92digitalartArt](https://x.com/92digitalartArt))
 
 ![Greek Mythology Olympian Family Tree](../../images/poster_case378/output.jpg)
@@ -6983,7 +7467,6 @@ A partially bitten realistic classic [brand] product resting on a plate, exposin
 ```
 An Art Nouveau style historical infographic poster in 16:9 horizontal format about Greek mythology, featuring an elegant flowing composition inspired by classical decorative poster design, with ornate floral borders, curling vines, golden laurel motifs, and graceful asymmetrical linework; the central artwork should depict the Olympian family tree as a beautiful mythic tableau with Zeus, Hera, Athena, Apollo, Artemis, Poseidon, and Aphrodite arranged in a ceremonial vertical hierarchy around Mount Olympus, each god or goddess framed by stylized Art Nouveau halos, flowing hair, marble columns, peacocks, olive branches, stars, waves, and moon crescents, all drawn with elongated elegant contours and rich decorative detail; use a palette of deep teal, antique gold, cream, and muted rose, with subtle gradients only in the illustrated figures and background sky; place the title at the top in large ornamental serif lettering reading GREEK MYTHOLOGY, with the subtitle THE OLYMPIAN FAMILY TREE beneath it in smaller elegant text; organize the facts into decorative side panels with graceful curved frames and thin gold rules, including sections labeled ORIGINS, GODS OF OLYMPUS, SYMBOLS, POWERS, HEROES, and LEGACY, plus a small DID YOU KNOW? box near the lower corner with five original myth facts; the entire poster should feel luxurious, classical, poetic, and richly decorative, with no modern UI, no copyrighted artwork, and a true Art Nouveau atmosphere, 16:9 horizontal ratio
 ```
-
 ### Case 379: [Ultra-realistic Trophy Sports Photography](https://x.com/Goodmanprotocol/status/2064399631187059188) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 ![Ultra-realistic Trophy Sports Photography](../../images/poster_case379/output.jpg)
@@ -7010,7 +7493,6 @@ Captured with a Canon EOS R3 and RF 70-200mm f/2.8L lens, Getty Images realism, 
 
 Luxury black gift box
 ```
-
 ### Case 380: [Celestial Fantasy Oracle Storyboard](https://x.com/itsPixieVerse/status/2064396369348239452) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
 
 ![Celestial Fantasy Oracle Storyboard](../../images/poster_case380/output.jpg)
@@ -7067,7 +7549,6 @@ Close emotional shot of Astrielle calmly controlling floating stars with elegant
 
 Epic frontal cinematic shot of massive
 ```
-
 ### Case 381: [3D Product Mockup Smartphone](https://x.com/Samann_ai/status/2064420488445567481) (by [@Samann_ai](https://x.com/Samann_ai))
 
 ![3D Product Mockup Smartphone](../../images/poster_case381/output.jpg)
@@ -7926,9 +8407,8 @@ Use clean soft textures and realistic PBR materials with balanced, natural light
 
 Set the background to solid [BACKGROUND COLOR]. Display [COUNTRY NAME] in bold text at the top center with [STRUCTURE NAME] on the next line, followed by a minimal architecture icon below. Adjust text color to ensure contrast.
 ```
-
-<!-- Case 403: Mundo en miniatura de cuerda (by @Gdgtify) -->
-### Case 403: [Mundo en miniatura de cuerda](https://x.com/Gdgtify/status/2066192943887630372) (by [@Gdgtify](https://x.com/Gdgtify))
+<!-- Case 403: Mundo miniatura cuerda (by @Gdgtify) -->
+### Case 403: [Mundo miniatura cuerda](https://x.com/Gdgtify/status/2066192943887630372) (by [@Gdgtify](https://x.com/Gdgtify))
 
 | Output |
 | :----: |
@@ -7939,9 +8419,8 @@ Set the background to solid [BACKGROUND COLOR]. Display [COUNTRY NAME] in bold t
 ```
 create a charming but ultra-refined scene centered on [wind-up toy / mechanical miniature world] where a tiny self-contained world is powered by a visible wind-up key and internal spring system. the toy should contain miniature architecture, characters, moving scenery, rotating signage, tiny lifts, oscillating parts, and small narrative moments that all activate from one central mechanism. mini world features: include visual zones for [main scene], [secondary scene], [moving prop], [character action], and [secret detail / easter egg]. surrounding close-ups can reveal the key, spring chamber, cams, and hidden moving linkages. visual style: japanese capsule toy magic meets luxury miniature cinematography meets premium collectible product photography. whimsical, intricate, emotionally irresistible. composition guidelines: the toy remains the hero, but the viewer should feel invited to peer into its tiny world. balance cuteness with high craftsmanship. make the mechanisms visible enough to create fascination. lighting & background: soft studio lighting with theatrical micro-shadows, premium pastel, lacquer, or dark velvet backdrop depending on [mood], hyper-detailed miniature realism, no watermark. variables: [wind-up toy / mechanical miniature world], [main scene], [secondary scene], [moving prop], [character action], [secret detail / easter egg], [mood]
 ```
-
-<!-- Case 404: Ciudad de medusas sobre las dunas (by @92digitalartArt) -->
-### Case 404: [Ciudad de medusas sobre las dunas](https://x.com/92digitalartArt/status/2066176419038683562) (by [@92digitalartArt](https://x.com/92digitalartArt))
+<!-- Case 404: Ciudad medusa sobre dunas (by @92digitalartArt) -->
+### Case 404: [Ciudad medusa sobre dunas](https://x.com/92digitalartArt/status/2066176419038683562) (by [@92digitalartArt](https://x.com/92digitalartArt))
 
 | Output |
 | :----: |
@@ -7965,9 +8444,8 @@ A serene daylight scene on an alien desert planet, wide cinematic shot of a floa
 NEGATIVE PROMPT:
 human-like alien, blue-skinned humanoid, generic sci-fi city, skyscrapers, cyberpunk neon, dark horror tone, gore, tentacle monster cliché, cheap sci-fi armor, guns, war scene, cartoon, anime chibi, bad anatomy, cluttered composition, oversaturated colors, heavy bloom, low detail, blurry image, noisy grain, HUD, UI, readable text, watermark, logo, plastic toy look, realistic Earth desert animals, Earth buildings, spaceships dogfighting
 ```
-
-<!-- Case 405: Póster de viaje de mapa urbano tilt-shift (by @iamaiistudio) -->
-### Case 405: [Póster de viaje de mapa urbano tilt-shift](https://x.com/iamaiistudio/status/2066145999266128367) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 405: Cartel viaje mapa ciudad efecto maqueta (by @iamaiistudio) -->
+### Case 405: [Cartel viaje mapa ciudad efecto maqueta](https://x.com/iamaiistudio/status/2066145999266128367) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/poster_case405/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case405/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Póster de viaje de mapa urbano tilt-shift"></a></td><td width="50%"><a href="../images/poster_case405/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case405/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Póster de viaje de mapa urbano tilt-shift"></a></td></tr>
@@ -7989,7 +8467,6 @@ Show large bold typography of "[CITY NAME]" printed directly on the map in the f
 
 Aspect ratio 1:1.
 ```
-
 <!-- Case 406: Póster del evento AI Music Bootcamp (by @iamaiistudio) -->
 ### Case 406: [Póster del evento AI Music Bootcamp](https://x.com/iamaiistudio/status/2066538267835867647) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
@@ -8005,88 +8482,6 @@ Generate a dramatic Japanese anime-style event promotional poster in vertical 4:
 Layer crisp Japanese typography integrated like a professional event ad with exactly 8 text groups: (1) top-left heading 「始まるのは、キミと創る 音楽の物語。」 with subcopy 「AIを使って、みんなで音楽をつくる特別な3日間。」; (2) top-right glowing marquee 「GW連休!」 and neon box 「みんなで最高の音楽をつくろう!」; (3) center title with English 「AI MUSIC BOOTCAMP 2」 above large 「AI音楽 ブートキャンプ 2」; (4) massive gold metallic text across the middle 「開催決定!」; (5) date bar 「開催期間」 with 「5.2 SAT 土」 and 「5.4 MON 月」; (6) hashtag callout 「参加はカンタン!!  をつけて投稿するだけ!」; (7) encouragement line 「初心者も大歓迎! みんなで最高の音楽体験を!」; (8) three bottom feature captions with icons: 「一緒に学ぶ 仲間とつながる」, 「AIで創る 新しい音楽体験」, 「想いをカタチに 自分だけの1曲を」.
 
 Left edge: vertical filmstrip with 4 panels showing the girl (1) performing on stage before a crowd, (2) at a music production desk with screens, (3) singing into a mic, (4) playing acoustic guitar. Lower area: 2 neon music icons — tilted smartphone with music note (lower left), glowing microphone with musical notes (lower right). Text effects: glossy, luminous, gold and white emboss, energetic streaks and spark explosions around headline. Mood: inspiring, celebratory, futuristic, emotionally uplifting — like a high-impact Japanese Golden Week music event ad.
-```
-<!-- Case 407: Stay Focused Editorial Poster (by @iamaiistudio) -->
-### Case 407: [Póster editorial Stay Focused](https://x.com/iamaiistudio/status/2067444516605620410) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-| Resultado |
-| :----: |
-| <a href="../images/poster_case407/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case407/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Póster editorial Stay Focused"></a> |
-
-**Prompt:**
-
-```
-Award-worthy graphic design poster in neo-editorial / contemporary editorial style, D&AD / Awwwards / Behance quality.
-
-Theme: Stay Focused.
-
-Create a powerful central visual metaphor for this theme — transform the concept into a sculptural, iconic, installation-like object that is cut, layered, stretched, stacked, reconstructed, wrapped, or deconstructed, with clear conceptual weight rather than decoration.
-
-Clean, minimal light-gray background with generous whitespace.
-
-High-contrast modern editorial typography: oversized bold black English headline at top, secondary subtitle, annotation text, exhibition-style hierarchy.
-
-Swiss editorial grid system with intentional breaks, asymmetric balance, precise alignment, strong rhythm, refined spacing.
-
-Centered or near-centered composition with strong vertical tension.
-
-Materials and rendering: premium product-quality render, matte surfaces, subtle reflections, hard-edge cuts, slight inter-layer translucency, suspended sliced structures, refined details, crisp silhouettes.
-
-Color: black, white, and gray dominant with a single striking accent color and minimal secondary accents — restrained, high-end, contemporary.
-
-Lighting: soft studio lighting, subtle shadows, ultra-clean render, highly polished but non-glossy, razor-sharp details.
-
-Mood: conceptual, intellectual, exhibition-grade, contemporary, premium, restrained, iconic.
-
-Aspect ratio 9:16, 4K, ultra sharp, ultra detailed, ultra clean, high resolution.
-```
-
-<!-- Case 408: Chowmein Recipe Infographic (by @iamaiistudio) -->
-### Case 408: [Infografía de receta de chowmein](https://x.com/iamaiistudio/status/2067429181726904350) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-| Resultado |
-| :----: |
-| <a href="../images/poster_case408/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case408/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Infografía de receta de chowmein"></a> |
-
-**Prompt:**
-
-```
-Ultra-clean modern recipe infographic for chowmin. Feature the finished dish as hero visual, plated and slightly elevated in a perspective or angled view. Arrange ingredients, preparation steps, and tips dynamically around the dish in an editorial layout. Ingredients: icons or mini illustrations with quantities, arranged in clusters or circular flows connected visually to the dish. Steps: numbered panels with arrows or connecting lines forming a logical flow, including small cooking icons (knife, pan, oven, timer). Optional info: calories, prep/cook time, servings, spice level displayed as clean bubbles or badges. Visual style: editorial infographic meets lifestyle food photography. Vibrant natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels, accent colors on key stats. Composition: finished meal as hero, ingredients and steps flowing dynamically around it, clear visual hierarchy with ample negative space. Lighting: soft natural studio light on a minimal textured or gradient background. Output: 1080x1080, ultra-crisp, social-feed optimized, no watermark.
-```
-
-<!-- Case 409: Poster editorial New Intelligence (by @iamaiistudio) -->
-### Case 409: [Poster editorial New Intelligence](https://x.com/iamaiistudio/status/2067778187644584418) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-| Resultado |
-| :----: |
-| <a href="../images/poster_case409/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case409/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Poster editorial New Intelligence"></a> |
-
-**Prompt:**
-
-```
-Award-quality graphic design poster, neo-editorial and contemporary editorial style, D&AD / Awwwards / Behance-level visual impact.
-
-Theme: What's Inside the New Intelligence — The Age of AI.
-
-Build a powerful core visual metaphor for this theme — translate the abstract concept into a sculptural, iconic, installation-like object. The central object should appear cut, layered, stretched, stacked, reconstructed, wrapped, or deconstructed, carrying clear conceptual meaning rather than decorative ornament.
-
-Clean, minimal light-gray background with generous whitespace.
-
-High-contrast modern editorial typographic layout: oversized bold black English headline at the top, secondary subtitle, annotation text, exhibition-style information hierarchy.
-
-Swiss editorial grid system with intentional breaks, asymmetric balance, precise alignment, strong rhythm, refined spacing.
-
-Centered or near-centered composition with strong vertical tension.
-
-Materials and rendering: premium product-rendering quality, matte surfaces, subtle reflections, hard-edge cuts, slight inter-layer translucency, suspended sliced structures, refined details, crisp silhouettes.
-
-Color: predominantly black, white and gray with a single striking accent color and very limited secondary accents — restrained, high-end, contemporary.
-
-Lighting: soft studio lighting, subtle shadows, ultra-clean rendering, highly polished but non-glossy, razor-sharp details.
-
-Mood: conceptual, intellectual, exhibition-grade, contemporary, premium, restrained, iconic.
-
-Aspect ratio 9:16, 4K, ultra sharp, ultra detailed, ultra clean, high resolution.
 ```
 
 <!-- Case 407: Póster editorial Stay Focused (by @iamaiistudio) -->
@@ -8136,7 +8531,40 @@ Aspect ratio 9:16, 4K, ultra sharp, ultra detailed, ultra clean, high resolution
 ```
 Ultra-clean modern recipe infographic for chowmin. Feature the finished dish as hero visual, plated and slightly elevated in a perspective or angled view. Arrange ingredients, preparation steps, and tips dynamically around the dish in an editorial layout. Ingredients: icons or mini illustrations with quantities, arranged in clusters or circular flows connected visually to the dish. Steps: numbered panels with arrows or connecting lines forming a logical flow, including small cooking icons (knife, pan, oven, timer). Optional info: calories, prep/cook time, servings, spice level displayed as clean bubbles or badges. Visual style: editorial infographic meets lifestyle food photography. Vibrant natural food colors, subtle drop shadows, clean vector icons, modern typography, soft gradients or glassmorphism for step panels, accent colors on key stats. Composition: finished meal as hero, ingredients and steps flowing dynamically around it, clear visual hierarchy with ample negative space. Lighting: soft natural studio light on a minimal textured or gradient background. Output: 1080x1080, ultra-crisp, social-feed optimized, no watermark.
 ```
+<!-- Case 409: Poster editorial New Intelligence (by @iamaiistudio) -->
+### Case 409: [Poster editorial New Intelligence](https://x.com/iamaiistudio/status/2067778187644584418) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
+| Resultado |
+| :----: |
+| <a href="../images/poster_case409/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case409/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Poster editorial New Intelligence"></a> |
+
+**Prompt:**
+
+```
+Award-quality graphic design poster, neo-editorial and contemporary editorial style, D&AD / Awwwards / Behance-level visual impact.
+
+Theme: What's Inside the New Intelligence — The Age of AI.
+
+Build a powerful core visual metaphor for this theme — translate the abstract concept into a sculptural, iconic, installation-like object. The central object should appear cut, layered, stretched, stacked, reconstructed, wrapped, or deconstructed, carrying clear conceptual meaning rather than decorative ornament.
+
+Clean, minimal light-gray background with generous whitespace.
+
+High-contrast modern editorial typographic layout: oversized bold black English headline at the top, secondary subtitle, annotation text, exhibition-style information hierarchy.
+
+Swiss editorial grid system with intentional breaks, asymmetric balance, precise alignment, strong rhythm, refined spacing.
+
+Centered or near-centered composition with strong vertical tension.
+
+Materials and rendering: premium product-rendering quality, matte surfaces, subtle reflections, hard-edge cuts, slight inter-layer translucency, suspended sliced structures, refined details, crisp silhouettes.
+
+Color: predominantly black, white and gray with a single striking accent color and very limited secondary accents — restrained, high-end, contemporary.
+
+Lighting: soft studio lighting, subtle shadows, ultra-clean rendering, highly polished but non-glossy, razor-sharp details.
+
+Mood: conceptual, intellectual, exhibition-grade, contemporary, premium, restrained, iconic.
+
+Aspect ratio 9:16, 4K, ultra sharp, ultra detailed, ultra clean, high resolution.
+```
 <!-- Case 410: Corte demoníaca de Lion-Camel Ridge (by @iamaiistudio) -->
 ### Case 410: [Corte demoníaca de Lion-Camel Ridge](https://x.com/iamaiistudio/status/2068096704973549620) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
@@ -8149,9 +8577,8 @@ Ultra-clean modern recipe infographic for chowmin. Feature the finished dish as 
 ```
 Dark, eerie Chinese mythological atmosphere blending traditional aesthetics with cinematic realism, meticulous detail, multi-pass rendering, flawless modeling. Journey to the West — the treacherous Lion-Camel Ridge, teeming with countless demons. Three massive thrones: the heavily armored Demon Elephant King seated on the left, the heavily armored Demon Lion King enthroned at center, the heavily armored Great Roc Demon King on the right. A diminutive Sun Wukong — back turned to the viewer — marches forward with his Ruyi Jingu Bang resting on his shoulder, clad in full battle armor. Low-angle upward shot, telephoto compression, dramatic hard shadows. Maximum detail, multiple refinement passes, precise perspective and structural lines, exquisite craftsmanship.
 ```
-
-<!-- Case 411: Póster editorial suízo de Moscú (by @Naiknelofar788) -->
-### Case 411: [Póster editorial suízo de Moscú](https://x.com/Naiknelofar788/status/2067991181376868462) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
+<!-- Case 411: Cartel editorial Moscu Swiss (by @Naiknelofar788) -->
+### Case 411: [Cartel editorial Moscu Swiss](https://x.com/Naiknelofar788/status/2067991181376868462) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
 
 <table>
 <tr><td width="50%"><a href="../images/poster_case411/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case411/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Póster editorial suízo de Moscú"></a></td><td width="50%"><a href="../images/poster_case411/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case411/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Póster editorial suízo de Moscú"></a></td></tr>
@@ -8179,9 +8606,8 @@ Color palette: warm ivory background, deep navy or charcoal typography, concrete
 
 Negative prompt: photorealistic, 3D render, glossy, maximalist, overcrowded city, complex illustration, too many details, too many landmarks
 ```
-
-<!-- Case 412: Póster Whispers in the Crowd (by @iamaiistudio) -->
-### Case 412: [Póster Whispers in the Crowd](https://x.com/iamaiistudio/status/2067837876822581352) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 412: Cartel susurros multitud (by @iamaiistudio) -->
+### Case 412: [Cartel susurros multitud](https://x.com/iamaiistudio/status/2067837876822581352) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/poster_case412/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case412/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Póster Whispers in the Crowd"></a></td><td width="50%"><a href="../images/poster_case412/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case412/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Póster Whispers in the Crowd"></a></td></tr>
@@ -8192,9 +8618,8 @@ Negative prompt: photorealistic, 3D render, glossy, maximalist, overcrowded city
 ```
 A sorrowful Korean psychological drama movie poster depicting a beautiful young woman photographed from a dramatic overhead angle, camera pointing straight down at her face as she gazes upward. Her long dark hair is loosely gathered in an undone bun with loose strands framing her face. Pale complexion, an expression of quiet emotional exhaustion. She is dressed in an oversized burgundy wool sweater, dark grey leggings, and scuffed white sneakers, holding a worn paperback book tightly against her chest. Surrounding her, a busy subway station where commuters stream past in long-exposure motion blur, their figures becoming ghostly streaks of movement against cold grey platform tiles. The contrast between her stillness and their motion creates a powerful sense of solitude. Korean title text at the top reads: "군중 속의 속삭임 (Gunjung Sogui Soksagim - Whispers in the Crowd)". Bold white serif typography fills the center of the composition. Visual style: warm-beige film grade, fine analog grain, shallow depth of field, soft tungsten underground lighting, subtle atmospheric haze, cinematic K-drama mood. Shot on Sony A7R IV, 50mm, slow shutter speed.
 ```
-
-<!-- Case 413: Red Dress Editorial Portrait (by @meng_dagg695) -->
-### Case 413: [Retrato editorial de vestido rojo](https://x.com/meng_dagg695/status/2068369080504222141) (by [@meng_dagg695](https://x.com/meng_dagg695))
+<!-- Case 413: Retrato editorial vestido rojo (by @meng_dagg695) -->
+### Case 413: [Retrato editorial vestido rojo](https://x.com/meng_dagg695/status/2068369080504222141) (by [@meng_dagg695](https://x.com/meng_dagg695))
 
 | Output |
 | :----: |
@@ -8205,9 +8630,8 @@ A sorrowful Korean psychological drama movie poster depicting a beautiful young 
 ```
 Editorial fashion portrait, woman wearing flowing red bell-sleeve wrap dress, dramatic hard rim lighting from camera-left casting golden edge glow on fabric, direct intense eye contact with camera, parted lips, confident expression, wind-blown sleeve fabric captured mid-motion with natural fabric ripple, hair strands lifted by wind, deep saturated red shadows contrasted against warm blown-out gold highlights, asymmetric tight crop with one sleeve extending off-frame, cinematic color grading, high dynamic range, shot on Hasselblad medium format, 85mm lens, f/1.8 shallow depth of field, warm amber gradient backdrop with subtle atmospheric haze and soft lens flare bottom-left corner, skin texture realistic with subtle highlight sheen, professional studio fashion photography, ultra detailed
 ```
-
-<!-- Case 414: Golden Halo Fashion Poster (by @Xaroon_x) -->
-### Case 414: [Poster de moda con halo dorado](https://x.com/Xaroon_x/status/2068359539691532543) (by [@Xaroon_x](https://x.com/Xaroon_x))
+<!-- Case 414: Cartel moda halo dorado (by @Xaroon_x) -->
+### Case 414: [Cartel moda halo dorado](https://x.com/Xaroon_x/status/2068359539691532543) (by [@Xaroon_x](https://x.com/Xaroon_x))
 
 | Output |
 | :----: |
@@ -8218,9 +8642,8 @@ Editorial fashion portrait, woman wearing flowing red bell-sleeve wrap dress, dr
 ```
 Create a luxury cinematic fashion poster featuring a stylish young male standing in a powerful confident pose, captured from a low-angle perspective. The subject wears a high-end black designer outfit with sharp tailoring, subtle metallic accents, and clean modern silhouette. His expression is calm, confident, and slightly intimidating, with direct eye contact. Hair is perfectly styled with soft volume and natural shine. Behind him is a large glowing circular spotlight in deep gold, creating a halo effect that enhances dominance and focus. The background is minimalist matte black with subtle texture, dust particles, and faint vignette edges to enhance depth. Lighting is dramatic studio-style with strong contrast, highlighting facial structure and clothing details. The composition is symmetrical and centered like a luxury brand advertisement or album cover. Ultra-realistic, 8K detail, 4:5 vertical ratio, high-end editorial aesthetic designed for viral engagement. --ar 4:5 ratio
 ```
-
-<!-- Case 415: Ronaldo Tri-Zone Sports Poster (by @vireonixx) -->
-### Case 415: [Póster deportivo de Ronaldo con tres zonas](https://x.com/vireonixx/status/2068870555349246242) (by [@vireonixx](https://x.com/vireonixx))
+<!-- Case 415: Cartel deportivo Ronaldo trizona (by @vireonixx) -->
+### Case 415: [Cartel deportivo Ronaldo trizona](https://x.com/vireonixx/status/2068870555349246242) (by [@vireonixx](https://x.com/vireonixx))
 
 <table>
 <tr><td width="50%"><a href="../images/poster_case415/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case415/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Póster deportivo de Ronaldo con tres zonas"></a></td><td width="50%"><a href="../images/poster_case415/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case415/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Póster deportivo de Ronaldo con tres zonas"></a></td></tr>
@@ -8316,9 +8739,8 @@ for maximum saturation. The charcoal zone with 7 color
 process for maximum depth. The cream zone with minimum
 ink for maximum paper feel.
 ```
-
-<!-- Case 416: Dreamcore Brand Kit Illustration (by @92digitalartArt) -->
-### Case 416: [Ilustración de kit de marca Dreamcore](https://x.com/92digitalartArt/status/2068766168979063085) (by [@92digitalartArt](https://x.com/92digitalartArt))
+<!-- Case 416: Ilustracion kit marca dreamcore (by @92digitalartArt) -->
+### Case 416: [Ilustracion kit marca dreamcore](https://x.com/92digitalartArt/status/2068766168979063085) (by [@92digitalartArt](https://x.com/92digitalartArt))
 
 <table>
 <tr><td width="50%"><a href="../images/poster_case416/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ilustración de kit de marca Dreamcore"></a></td><td width="50%"><a href="../images/poster_case416/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case416/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ilustración de kit de marca Dreamcore"></a></td></tr>
@@ -8332,9 +8754,8 @@ surreal dreamcore architectural illustration, bright Memphis design influence, p
 
 Created entirely with ChatGPT Image 2 🚀
 ```
-
-<!-- Case 417: Whimsical Mirror Travel Journal (by @Taaruk_) -->
-### Case 417: [Diario de viaje con espejo fantasioso](https://x.com/Taaruk_/status/2068716967968788743) (by [@Taaruk_](https://x.com/Taaruk_))
+<!-- Case 417: Diario viaje espejo caprichoso (by @Taaruk_) -->
+### Case 417: [Diario viaje espejo caprichoso](https://x.com/Taaruk_/status/2068716967968788743) (by [@Taaruk_](https://x.com/Taaruk_))
 
 <table>
 <tr><td width="50%"><a href="../images/poster_case417/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case417/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Diario de viaje con espejo fantasioso"></a></td><td width="50%"><a href="../images/poster_case417/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case417/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Diario de viaje con espejo fantasioso"></a></td></tr>
@@ -8345,9 +8766,8 @@ Created entirely with ChatGPT Image 2 🚀
 ```
 Transform the uploaded photo into a whimsical hand-painted storybook illustration. Keep the exact pose, perspective, convex traffic mirror reflection, road, utility pole, and surrounding tropical greenery. Reimagine the mirror reflection as a vibrant illustrated world with lush jungle plants, palm trees, flowers, butterflies, doodle hearts, stars, swirls, smiling sun, fluffy clouds, and colorful hand-drawn decorations. The person is transformed into a cute cartoon character wearing a white t-shirt, navy shorts, white socks, and a blue cap, posing playfully with one leg raised and a peace sign. Integrate fitness-tracker statistics inside the mirror in a charming infographic style: “Day 53”, “4.06 km”, “88 m”, “24 min 9 sec”. Bright pastel colors, textured gouache paint, children's book aesthetic, whimsical doodles, clean outlines, cozy and cheerful mood, highly detailed foliage, playful travel journal style, Strava-inspired adventure artwork, vibrant greens, oranges, blues, and pinks, ultra-detailed illustration, masterpiece, kawaii aesthetic, editorial quality, vertical composition, 4k.
 ```
-
-<!-- Case 418: Folk Papercraft Scene Remix (by @Ciri_ai) -->
-### Case 418: [Remix de escena de papercraft folk](https://x.com/Ciri_ai/status/2068716810346860804) (by [@Ciri_ai](https://x.com/Ciri_ai))
+<!-- Case 418: Remix escena artesanal papel (by @Ciri_ai) -->
+### Case 418: [Remix escena artesanal papel](https://x.com/Ciri_ai/status/2068716810346860804) (by [@Ciri_ai](https://x.com/Ciri_ai))
 
 <table>
 <tr><td width="50%"><a href="../images/poster_case418/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case418/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Remix de escena de papercraft folk"></a></td><td width="50%"><a href="../images/poster_case418/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case418/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Remix de escena de papercraft folk"></a></td></tr>
@@ -8361,9 +8781,8 @@ Reimagine the entire image as one cohesive Decorative Folk Flat Illustration ble
 
 Use a vivid, cheerful color palette that feels fresh and different from the original image, while keeping the final artwork warm, sweet, innocent, whimsical, and storybook-like. Create the feeling of layered cardstock with stacked paper depth, clean cut edges, subtle shadows between layers, and gentle paper-crafted imperfections, as if the scene were carefully cut, colored, and assembled on clean white paper. The result should look cute, handcrafted, playful, and visually unified, with a polished yet charming handmade folk-art papercraft finish.
 ```
-
-<!-- Case 419: Argentina Number 10 Sports Poster (by @iamaiistudio) -->
-### Case 419: [Póster deportivo con el número 10 de Argentina](https://x.com/iamaiistudio/status/2068534010574459131) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 419: Cartel deportivo Argentina numero 10 (by @iamaiistudio) -->
+### Case 419: [Cartel deportivo Argentina numero 10](https://x.com/iamaiistudio/status/2068534010574459131) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/poster_case419/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case419/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Póster deportivo con el número 10 de Argentina"></a></td><td width="50%"><a href="../images/poster_case419/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case419/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Póster deportivo con el número 10 de Argentina"></a></td></tr>
@@ -8382,9 +8801,8 @@ Background features vertical smoke bands in Argentine flag colors: sky blue, whi
 
 Modern, clean, and dynamic style combining sharp portrait details with soft smoky effects for a powerful professional sports-poster aesthetic.
 ```
-
-<!-- Case 420: Diorama isométrico de máquina seccionada (by @iamaiistudio) -->
-### Case 420: [Diorama isométrico de máquina seccionada](https://x.com/iamaiistudio/status/2069014486707798113) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 420: Diorama corte maquina isometrico (by @iamaiistudio) -->
+### Case 420: [Diorama corte maquina isometrico](https://x.com/iamaiistudio/status/2069014486707798113) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/poster_case420/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case420/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Diorama isométrico de máquina seccionada"></a></td><td width="50%"><a href="../images/poster_case420/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case420/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Diorama isométrico de máquina seccionada"></a></td></tr>
@@ -8407,9 +8825,8 @@ Position [MACHINE NAME] in large bold typography at the top-center, followed by 
 
 All text color must automatically adapt for maximum contrast against the background (white or black as needed).
 ```
-
-<!-- Case 421: Ilustración acogedora de estilo de vida japonés (by @oggii_0) -->
-### Case 421: [Ilustración acogedora de estilo de vida japonés](https://x.com/oggii_0/status/2069469184787198164) (by [@oggii_0](https://x.com/oggii_0))
+<!-- Case 421: Ilustracion estilo vida japonesa acogedora (by @oggii_0) -->
+### Case 421: [Ilustracion estilo vida japonesa acogedora](https://x.com/oggii_0/status/2069469184787198164) (by [@oggii_0](https://x.com/oggii_0))
 
 <table>
 <tr><td width="50%"><a href="../images/poster_case421/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case421/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ilustración acogedora de estilo de vida japonés"></a></td><td width="50%"><a href="../images/poster_case421/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case421/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Ilustración acogedora de estilo de vida japonés"></a></td></tr>

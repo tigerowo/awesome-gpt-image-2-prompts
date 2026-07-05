@@ -220,6 +220,33 @@ A character promotional poster titled “INPUT NAME,” designed in a unified ve
 
 
 ---
+### Case 16: [Anime wallpaper for foldable phone — colorful aesthetic](https://github.com/tigerowo/awesome-gpt-image-2-prompts/issues/18) (by [@THX-night](https://x.com/THX-night))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case16/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case16/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+请为我生成一个适用于折叠屏手机（Oppo find N6，内屏2480 × 2248 像素，外屏2616 × 1140 像素，比例适配即可，不需要完全对齐一样的像素大小）的4k壁纸，壁纸主体为动漫，风格中性壁纸适用于男性使用，但是动漫角色是女生，女生略为阳光且内敛，这个女生不能有太多的媚态。风格建议：唯美风。整个图片的色调偏向色彩多样化鲜艳方向，注意头发线条整洁，不要过于杂乱和生硬。直接做一个可以两屏适配的横纵可裁切大图。
+```
+
+### Case 17: [Anime wallpaper for foldable phone — dark cool style](https://github.com/tigerowo/awesome-gpt-image-2-prompts/issues/19) (by [@THX-night](https://x.com/THX-night))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case17/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case17/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+请为我生成一个适用于折叠屏手机（Oppo find N6，内屏2480 × 2248 像素，外屏2616 × 1140 像素，比例适配即可，不需要完全对齐一样的像素大小）的4k壁纸，壁纸主体为动漫，风格中性壁纸适用于男性使用，但是动漫角色是女生，短发。风格建议：酷、耍帅风格，但是不要像那种二次元手游一样，可以带一些未来元素。整个图片的色调适合黑色折叠屏手机风格，注意头发线条整洁，不要过于杂乱和生硬。这个图片人物占比不要太大，否则放到手机上效果不好。
+```
+
+
+---
+
 ### Case 18: Stylized 3D Skater Character
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062038112398954712)
@@ -627,6 +654,51 @@ no cluttered backgrounds
 ```
 
 ---
+### Case 24: Korean Dance Motion Sheet
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2066659127485718574)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="../images/character_case24/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case24/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Dance Motion Sheet"></a> |
+
+**プロンプト：**
+
+```
+[STYLE]
+black and white grayscale illustration, 3D rendered character, clean instructional reference sheet,
+white background, comic panel grid layout, technical diagram aesthetic
+
+[LAYOUT]
+4x4 grid, 16 panels total, each panel divided by thin black borders,
+cells numbered 1 through 16, uniform panel dimensions
+
+[CHARACTER]
+young female dancer, athletic build, ponytail hairstyle, crop top and baggy pants, sneakers — same character across all panels
+
+[PANEL STRUCTURE - per cell]
+top-left: bold number badge + Korean title text
+center: full-body character pose illustration
+bottom-left: Korean description text (3-4 lines)
+overlay: motion arrows showing movement direction
+
+[ARROWS / MOTION INDICATORS]
+curved arrows, straight arrows, circular rotation markers,
+placed around the character to indicate movement flow and direction
+
+[RENDERING STYLE]
+high-detail 3D sculpt style, soft studio lighting, subtle shadows,
+no color, grayscale shading, clean linework, game concept art quality
+
+[NEGATIVE]
+no background scenery, no color tones, no extra characters,
+no cluttered backgrounds
+```
+
+---
+
 ### Case 25: ルミナント・アーキビストのキャラクターポスター
 
 **出典:** [@92digitalartArt](https://x.com/92digitalartArt/status/2066558474650095890)
@@ -647,6 +719,27 @@ human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf
 ```
 
 ---
+### Case 25: Luminant Archivist Character Poster
+
+**Source**: [@92digitalartArt](https://x.com/92digitalartArt/status/2066558474650095890)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="../images/character_case25/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case25/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luminant Archivist Character Poster"></a> |
+
+**プロンプト：**
+
+```
+Vertical 9:16 full-body cinematic portrait of a single alien character, the Luminant Archivist, standing on a rocky ridge on the twilight band of an alien planet; the creature has a tall elongated body with three root-like legs forming a stable tripod, lower torso textured like smooth bark and sinew fused together; two long arms with four segmented joints each end in multifingered, tendril-like manipulators gently holding a glowing hexagonal plate; instead of a human head, the upper torso flares into a tall crown of layered translucent plates arranged like a vertical fan, each plate lit from within by faint cyan neural patterns, no face, no eyes, no mouth; along its back and shoulders grow rigid bioluminescent data plates, flat hexagonal organisms clinging like barnacles, softly pulsing in cyan, teal and occasional warm amber; the body is draped in a partial organic mantle made of fibrous membrane and chitin filaments, not clothing but grown; background shows a perpetual dusk sky with a low orange band on one horizon and deep indigo on the opposite, distant silhouettes of hollow spires and tiny other Archivists crossing the landscape; ground covered in reflective glassy lichen and small crystals catching the character's glow; palette of deep indigo, dusty violet, cyan glows and subtle warm amber accents; strong horizon rim light outlining the Archivist's silhouette, subtle backlighting from the bioluminescent plates, gentle atmospheric haze; realistic but slightly painterly rendering, extremely detailed textures on skin, plates and lichen; composed like a high-end sci-fi character poster, vertical 9:16 aspect ratio, full body in frame, centered but with enough headroom and ground visible to feel part of a larger universe.
+
+Negative prompt:
+human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf, armor suit, guns, generic sci-fi soldier, anime style, cartoon, chibi, cyberpunk city, neon signs, medieval fantasy, wings, halos, angel, bad anatomy, random extra limbs, cluttered background, oversaturated colors, strong lens distortion, fisheye, low resolution, blurry details, noisy grain, HUD, UI, readable text, watermark, logo, modern Earth clothing, sneakers, jeans, T-shirt
+```
+
+---
+
 ### Case 26: ビジュアルノベル キャラクタープロフィール
 
 **出典:** [@iamaiistudio](https://x.com/iamaiistudio/status/2067308176715001944)
@@ -672,6 +765,30 @@ Catchphrase: "(line here)"
 ```
 
 ---
+### Case 26: Visual Novel Character Profile
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2067308176715001944)
+
+**Output:**
+
+| Output |
+| :----: |
+| <a href="../images/character_case26/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case26/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Visual Novel Character Profile"></a> |
+
+**プロンプト：**
+
+```
+Create a high-quality character introduction page using a chibi illustration and a full standing character artwork, styled like an official visual novel (gal-game) character profile page. It should look realistic enough to use on an actual game website. Include CG-style illustrations, facial expression variants, and a chibi version of the character.
+
+"Self-introduction here"
+
+Name: (name here)
+Theme color: (color here)
+Height: (height here) cm
+Weight: (weight here) kg
+Catchphrase: "(line here)"
+```
+
 ### Case 27: 中世の錬金術師キャラクターシート
 
 **出典:** [@itsPixieVerse](https://x.com/itsPixieVerse/status/2067750004178215241)
@@ -716,8 +833,51 @@ Use this tri-fold layout:
 Ensure complete character and costume consistency across all sections. The Hero Spotlight must visually anchor the sheet, offering a clean, open, and professional layout that avoids dense, repetitive, or cluttered grids.
 ```
 
-<!-- Case 28: ピクサー風バナナのヒーローキャラクター (by @iamaiistudio) -->
-### Case 28: [ピクサー風バナナのヒーローキャラクター](https://x.com/iamaiistudio/status/2068003049600380972) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 27: Medieval Alchemist Character Sheet (by @itsPixieVerse) -->
+### Case 27: [Medieval Alchemist Character Sheet](https://x.com/itsPixieVerse/status/2067750004178215241) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
+
+| Output |
+| :----: |
+| <a href="../images/character_case27/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case27/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Medieval Alchemist Character Sheet"></a> |
+
+**プロンプト：**
+
+```
+Create a high-end, asymmetric editorial CHARACTER CONCEPT SHOWCASE from these inputs:
+
+[STYLE]: stylized 3D stop-motion claymation style with rich tactile textures of clay, felt, and leather, and warm cinematic studio lighting
+[SUBJECT_DESCRIPTION]: A charming and slightly eccentric traveling medieval alchemist and cartographer. He wears a heavy, oversized patched wool coat over a worn leather tunic, multiple small glowing potion vials and rolled-up parchment scrolls strapped to his utility belt, a wide-brimmed traveler's hat, and thick round brass spectacles. He has a messy, hand-sculpted ginger beard, warm curious eyes, and a friendly smile. He carries an ancient, brass-trimmed leather satchel. His design features exaggerated, whimsical proportions and a cozy, rustic medieval aesthetic.
+
+Create the layout in a clean 16:9 widescreen format on a neutral studio gray or warm off-white background with a minimal technical border. The design must look like a premium production visual bible, using clean typography, no clutter, no watermarks, and no logos. Apply [STYLE] only to the character and visual elements, keeping the presentation layout clean, structured, and minimal.
+
+Infer all missing details from the subject description, including name, role, brief background specs, and a cohesive color palette.
+
+Use this tri-fold layout:
+
+1. HERO SPOTLIGHT (Left 40% of the board)
+- Show one large, highly detailed full-body dynamic action pose of the subject.
+- This pose should showcase the character's primary personality, attitude, and silhouette.
+
+2. TECHNICAL TURNAROUND (Center 35% of the board)
+- Show exactly two clean full-body views: Front View and Back View.
+- The subject should be in a relaxed, neutral stance.
+- Place these views over very subtle vertical and horizontal grid lines resembling a technical schematic blueprint.
+
+3. KEY DETAILS (Right 25% of the board)
+- EXPRESSION TRIO: Exactly 3 large, highly expressive close-up headshots showing core emotional states: Calm/Neutral, Highly Focused/Intense, and a Dynamic/Expressive emotion (like a smirk or fierce grin).
+- GEAR CALLOUTS: Exactly 2 clean, isolated close-up panels showing primary wardrobe textures, signature accessories, or weapons/gear.
+
+4. SPECS & COLOR BANNER (Bottom Edge)
+- A minimalist, horizontal typography block listing Name, Role, Age, and Core Theme.
+- Adjacent to the text, display 5 to 6 clean geometric color swatches showing the character's primary color palette with no labels.
+
+Ensure complete character and costume consistency across all sections. The Hero Spotlight must visually anchor the sheet, offering a clean, open, and professional layout that avoids dense, repetitive, or cluttered grids.
+```
+
+---
+
+<!-- Case 28: ピクサーバナナヒーローキャラクター (by @iamaiistudio) -->
+### Case 28: [ピクサーバナナヒーローキャラクター](https://x.com/iamaiistudio/status/2068003049600380972) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -729,8 +889,8 @@ Ensure complete character and costume consistency across all sections. The Hero 
 Pixar-style 3D animated banana character, single fruit brought to life. A charismatic male figure with bold confident eyes, thick expressive brows, and a wide grin full of gleaming white teeth with sparkle accents. Smooth, slightly glossy yellow peel with soft highlights. Stubby cartoon arms and legs, posed upright with arms crossed in a heroic stance. Background features a blurred bunch of bananas. Standing on a wooden dining table beside a sun-filled window in a cozy modern home interior. Rich vibrant colors, cinematic lighting, soft natural shadows, ultra-detailed high-fidelity textures.
 ```
 
-<!-- Case 29: Pastel Kawaii Animal Companions (by @Taaruk_) -->
-### Case 29: [パステルかわいい動物コンパニオン](https://x.com/Taaruk_/status/2068351521016955098) (by [@Taaruk_](https://x.com/Taaruk_))
+<!-- Case 29: パステルカワイイ動物仲間 (by @Taaruk_) -->
+### Case 29: [パステルカワイイ動物仲間](https://x.com/Taaruk_/status/2068351521016955098) (by [@Taaruk_](https://x.com/Taaruk_))
 
 | Output |
 | :----: |
@@ -742,8 +902,8 @@ Pixar-style 3D animated banana character, single fruit brought to life. A charis
 Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable animal companion, inspired by modern Japanese stationery art and children's picture books, clean vector linework, soft cream background, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature, cozy scenic background with seaside boardwalk, lakeside village, mountain town or whimsical nature landscape, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.
 ```
 
-<!-- Case 30: LEGO Football Collectible Figure (by @ChillaiKalan__) -->
-### Case 30: [LEGOサッカー・コレクティブルフィギュア](https://x.com/ChillaiKalan__/status/2068717001145778630) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+<!-- Case 30: LEGOサッカーコレクションフィギュア (by @ChillaiKalan__) -->
+### Case 30: [LEGOサッカーコレクションフィギュア](https://x.com/ChillaiKalan__/status/2068717001145778630) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
 
 <table>
 <tr><td width="50%"><a href="../images/character_case30/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGOサッカー・コレクティブルフィギュア"></a></td><td width="50%"><a href="../images/character_case30/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGOサッカー・コレクティブルフィギュア"></a></td></tr>
@@ -755,4 +915,3 @@ Cute minimalist pastel doodle illustration, kawaii character standing side-by-si
 ```
 A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
 ```
-

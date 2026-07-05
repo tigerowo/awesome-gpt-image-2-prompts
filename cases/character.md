@@ -11,22 +11,9 @@
 **Prompt:**
 
 ```
-
-<!-- Case 30: LEGO Football Collectible Figure (by @ChillaiKalan__) -->
-### Case 30: [LEGO Football Collectible Figure](https://x.com/ChillaiKalan__/status/2068717001145778630) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
-
-<table>
-<tr><td width="50%"><a href="../images/character_case30/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO Football Collectible Figure"></a></td><td width="50%"><a href="../images/character_case30/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO Football Collectible Figure"></a></td></tr>
-<tr><td width="50%"><a href="../images/character_case30/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO Football Collectible Figure"></a></td><td width="50%"><a href="../images/character_case30/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO Football Collectible Figure"></a></td></tr>
-</table>
-
-**Prompt:**
-
-```
-A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
-```
 Show me the attached image as a snapshot from an actual anime
 ```
+
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
 
 | Output |
@@ -777,4 +764,19 @@ Pixar-style 3D animated banana character, single fruit brought to life. A charis
 
 ```
 Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable animal companion, inspired by modern Japanese stationery art and children's picture books, clean vector linework, soft cream background, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature, cozy scenic background with seaside boardwalk, lakeside village, mountain town or whimsical nature landscape, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.
+```
+<!-- Case 30: LEGO Football Collectible Figure (by @ChillaiKalan__) -->
+### Case 30: [LEGO Football Collectible Figure](https://x.com/ChillaiKalan__/status/2068717001145778630) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+
+<table>
+<tr><td width="50%"><a href="../images/character_case30/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO Football Collectible Figure"></a></td><td width="50%"><a href="../images/character_case30/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO Football Collectible Figure"></a></td></tr>
+<tr><td width="50%"><a href="../images/character_case30/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO Football Collectible Figure"></a></td><td width="50%"><a href="../images/character_case30/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - LEGO Football Collectible Figure"></a></td></tr>
+</table>
+
+**Prompt:**
+
+```
+A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
+
+Show me the attached image as a snapshot from an actual anime
 ```

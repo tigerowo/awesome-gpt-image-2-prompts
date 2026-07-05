@@ -109,145 +109,6 @@
 }
 ```
 
-### Case 112: [Anime Character Brand Identity & Merch Board](https://x.com/chi_vc_/status/2046061073720369228) (by [@chi_vc_](https://x.com/chi_vc_))
-
-| Resultat |
-| :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case112/output.jpg" width="300" alt="Image du resultat"></a> |
-
-**Prompt：**
-
-```
-{
-  "type": "brand identity and merchandise design board",
-  "theme": {
-    "color_palette": "{argument name=\"theme color\" default=\"pastel pink\"} and white",
-    "motif": "{argument name=\"motif\" default=\"cherry blossoms\"} and pink hearts"
-  },
-  "character": {
-    "description": "anime girl with short brown bob hair, pink eyes, wearing a white hoodie, gentle smile"
-  },
-  "branding": {
-    "main_logo": "{argument name=\"character name\" default=\"癒音ちー\"}",
-    "sub_logo": "{argument name=\"character subtext\" default=\"ゆおんちー\"}"
-  },
-  "layout": {
-    "sections": [
-      {
-        "type": "header banner",
-        "position": "top",
-        "elements": ["large main logo", "sub logo", "cherry blossom graphics", "character portrait on the right"]
-      },
-      {
-        "type": "product packaging",
-        "position": "middle left",
-        "elements": ["1 square box with heart-shaped transparent window showing pink heart candies", "character illustration on box", "2 individual candy wrappers", "5 scattered heart candies"]
-      },
-      {
-        "type": "promotional poster",
-        "position": "middle right",
-        "elements": ["character portrait", "heart-shaped candy bowl", "main logo", "text '4.26 NEW OPEN'", "text '{argument name=\"social handle\" default=\"@yuonchii\"}'"]
-      },
-      {
-        "type": "horizontal web banner",
-        "position": "lower middle",
-        "elements": ["main logo", "cherry blossoms", "character portrait on the right"]
-      },
-      {
-        "type": "social media profile mockup",
-        "position": "bottom left",
-        "elements": ["header image with logo", "1 circular profile picture", "handle '{argument name=\"social handle\" default=\"@yuonchii\"}'", "1 follow button", "mock bio text"]
-      },
-      {
-        "type": "merchandise collection",
-        "position": "bottom right",
-        "count": 9,
-        "items": ["1 white t-shirt with logo", "1 white mug with character", "4 round pin badges", "1 acrylic keychain", "2 candy packets"]
-      }
-    ]
-  }
-}
-```
-
-### Case 108: [Dark Mode Marketing Case Study UI](https://x.com/IndieDevHailey/status/2044974254769463312) (by [@IndieDevHailey](https://x.com/IndieDevHailey))
-
-| Resultat |
-| :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case108/output.jpg" width="300" alt="Image du resultat"></a> |
-
-**Prompt：**
-
-```
-{
-  "type": "UI/UX landing page mockup",
-  "theme": "dark mode, sleek modern aesthetic, glassmorphism, {argument name=\"primary accent color\" default=\"neon purple and blue\"} glowing accents",
-  "header": {
-    "logo": "{argument name=\"brand name\" default=\"goViralX\"}",
-    "top_right_tag": "VIRAL CAMPAIGN CASE STUDY"
-  },
-  "layout": {
-    "sections": [
-      {
-        "name": "Hero",
-        "headline": "{argument name=\"hero headline\" default=\"How We Created 10M+ Viral Impact\"}",
-        "subheadline": "3天引爆全网, 助力品牌实现指数级增长",
-        "stats_row": {
-          "count": 4,
-          "labels": ["总播放量", "互动率", "转化咨询", "执行周期"],
-          "values": ["{argument name=\"main statistic\" default=\"10,240,000+\"}", "18.7%", "3,200+", "72小时"]
-        },
-        "visual": "cinematic shot of a person in a hoodie looking at glowing digital screens and graphs, large play button overlay"
-      },
-      {
-        "name": "Strategy",
-        "title": "Our 3-Day Execution Strategy",
-        "layout_type": "vertical timeline",
-        "steps_count": 3,
-        "elements_per_step": ["timeline node", "title", "bullet points", "video thumbnail with play button", "description box"]
-      },
-      {
-        "name": "Performance",
-        "title": "Data-Driven Performance",
-        "left_column": {
-          "stat_cards_count": 4,
-          "values": ["10M+", "43%", "28,000+", "3,200+"]
-        },
-        "right_column": {
-          "charts_count": 2,
-          "chart_1": "line graph showing 7-day growth peaking at Day 3",
-          "chart_2": "horizontal segmented bar chart showing platform distribution (TikTok 52%, Instagram 24%, X 15%, YouTube 9%)"
-        }
-      },
-      {
-        "name": "Keys to Success",
-        "title": "The 3 Keys to Viral Success",
-        "cards_count": 3,
-        "card_elements": ["glowing icon (fire, target, antenna)", "title", "description", "VIEW DETAIL link"]
-      },
-      {
-        "name": "Social Proof",
-        "title": "TRUSTED BY CREATORS & BRANDS",
-        "left_column": {
-          "logos_count": 8,
-          "grid": "2x4",
-          "brands": ["SHEIN", "SHOPLINE", "Blueglass", "instacart", "lemon8", "mi", "CIDER", "bellroy"]
-        },
-        "right_column": {
-          "testimonial_cards_count": 2,
-          "elements": ["quote", "author title (SaaS Founder, Growth Manager)"]
-        }
-      },
-      {
-        "name": "Call to Action",
-        "title": "READY TO GO VIRAL?",
-        "interactive_elements": ["text input field", "glowing button with text '{argument name=\"call to action text\" default=\"获取专属增长方案 ->\"}'"],
-        "visual": "3D render of a rocket ship taking off with purple and blue flames"
-      }
-    ]
-  }
-}
-```
-
 ### Case 107: [18-Panel Mascot Brand Identity Document](https://x.com/Colin_Leeee/status/2044802802149650631) (by [@Colin_Leeee](https://x.com/Colin_Leeee))
 
 | Resultat |
@@ -345,42 +206,201 @@
 }
 ```
 
-### Case 166: [Japanese Chinese Food Delivery Flyer](https://x.com/xc5_/status/2048310696686014935) (by [@xc5_](https://x.com/xc5_))
+### Case 108: [Dark Mode Marketing Case Study UI](https://x.com/IndieDevHailey/status/2044974254769463312) (by [@IndieDevHailey](https://x.com/IndieDevHailey))
 
 | Resultat |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case166/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case166/output.jpg" width="300" alt="Image du resultat"></a> |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case108/output.jpg" width="300" alt="Image du resultat"></a> |
 
 **Prompt：**
 
 ```
-A Japanese neighborhood Chinese restaurant delivery flyer for mailbox posting (3:4 aspect ratio). Designed to look like a double-sided B5 print.
-
-Flyer characteristics (following the grammar of real delivery flyers):
-- Flashy red and yellow color scheme.
-- Large text at the top: "Delivery Available! {argument name="shop name" default="Mona-Hanten"}" (shadowed Gothic font).
-- An illustration of a {argument name="character" default="Chinese girl in a red cheongsam with a brown short bob"} holding ramen and saying "Welcome!" in a speech bubble.
-- A menu photo grid (4x3) featuring various dishes: different types of ramen, fried rice, gyoza, sweet and sour pork, shrimp in chili sauce, mapo tofu, liver and leek stir-fry, tenshinhan, twice-cooked pork, spring rolls, annin tofu, and fried rice sets.
-- Names and prices for each dish.
-- A large yellow banner saying "Free delivery on all menu items over ¥1,000!".
-- "Order by phone! ☎ 072-XX-XXXX" emphasized with a red circle.
-- Business hours "11:00-22:00 (Closed on Tuesdays)".
-- Delivery area map (simple schematic map).
-- Coupon (perforated line for clipping): "One free plate of gyoza with this flyer!".
-
-Texture of cheap paper printing. Includes fold marks. Precision that could be mistaken for a real Japanese delivery flyer.
+{
+  "type": "UI/UX landing page mockup",
+  "theme": "dark mode, sleek modern aesthetic, glassmorphism, {argument name=\"primary accent color\" default=\"neon purple and blue\"} glowing accents",
+  "header": {
+    "logo": "{argument name=\"brand name\" default=\"goViralX\"}",
+    "top_right_tag": "VIRAL CAMPAIGN CASE STUDY"
+  },
+  "layout": {
+    "sections": [
+      {
+        "name": "Hero",
+        "headline": "{argument name=\"hero headline\" default=\"How We Created 10M+ Viral Impact\"}",
+        "subheadline": "3天引爆全网, 助力品牌实现指数级增长",
+        "stats_row": {
+          "count": 4,
+          "labels": ["总播放量", "互动率", "转化咨询", "执行周期"],
+          "values": ["{argument name=\"main statistic\" default=\"10,240,000+\"}", "18.7%", "3,200+", "72小时"]
+        },
+        "visual": "cinematic shot of a person in a hoodie looking at glowing digital screens and graphs, large play button overlay"
+      },
+      {
+        "name": "Strategy",
+        "title": "Our 3-Day Execution Strategy",
+        "layout_type": "vertical timeline",
+        "steps_count": 3,
+        "elements_per_step": ["timeline node", "title", "bullet points", "video thumbnail with play button", "description box"]
+      },
+      {
+        "name": "Performance",
+        "title": "Data-Driven Performance",
+        "left_column": {
+          "stat_cards_count": 4,
+          "values": ["10M+", "43%", "28,000+", "3,200+"]
+        },
+        "right_column": {
+          "charts_count": 2,
+          "chart_1": "line graph showing 7-day growth peaking at Day 3",
+          "chart_2": "horizontal segmented bar chart showing platform distribution (TikTok 52%, Instagram 24%, X 15%, YouTube 9%)"
+        }
+      },
+      {
+        "name": "Keys to Success",
+        "title": "The 3 Keys to Viral Success",
+        "cards_count": 3,
+        "card_elements": ["glowing icon (fire, target, antenna)", "title", "description", "VIEW DETAIL link"]
+      },
+      {
+        "name": "Social Proof",
+        "title": "TRUSTED BY CREATORS & BRANDS",
+        "left_column": {
+          "logos_count": 8,
+          "grid": "2x4",
+          "brands": ["SHEIN", "SHOPLINE", "Blueglass", "instacart", "lemon8", "mi", "CIDER", "bellroy"]
+        },
+        "right_column": {
+          "testimonial_cards_count": 2,
+          "elements": ["quote", "author title (SaaS Founder, Growth Manager)"]
+        }
+      },
+      {
+        "name": "Call to Action",
+        "title": "READY TO GO VIRAL?",
+        "interactive_elements": ["text input field", "glowing button with text '{argument name=\"call to action text\" default=\"获取专属增长方案 ->\"}'"],
+        "visual": "3D render of a rocket ship taking off with purple and blue flames"
+      }
+    ]
+  }
+}
 ```
 
-### Case 167: [Pastel Jellyfish Room Goods Poster](https://x.com/Ayu_AI_0912/status/2048309565817766139) (by [@Ayu_AI_0912](https://x.com/Ayu_AI_0912))
+### Case 109: [VR Headset Exploded View Poster](https://x.com/wory37303852/status/2045925660401795478) (by [@wory37303852](https://x.com/wory37303852))
 
 | Resultat |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case167/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case167/output.jpg" width="300" alt="Image du resultat"></a> |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case109/output.jpg" width="300" alt="Image du resultat"></a> |
 
 **Prompt：**
 
 ```
-{"type":"pastel lifestyle poster / character room-goods feature sheet","theme":"soft dreamy lavender jellyfish aesthetic","style":"Japanese cute editorial graphic, airy white background, pastel lilac palette, delicate handwritten notes, sparkles and tiny doodles, soft product photography mixed with magazine layout","subject":{"character":{"name":"{argument name=\"character name\" default=\"くらげちゃん\"}","appearance":"young woman with a short platinum-blonde bob haircut, wearing a fluffy pale-lavender zip hoodie over a white inner top, shown from chest up on the lower right, face intentionally obscured with a plain beige rectangle"}},"layout":{"orientation":"vertical poster","background":"clean white with faint pastel doodles of stars, bubbles, tiny jellyfish, and musical notes","sections":[{"title":"header","position":"top","count":5,"labels":["speech bubble intro","main title","small subtitle GOODS","horizontal lavender ribbon tagline","round badge on the top right"]},{"title":"featured goods grid","position":"upper and middle left","count":6,"labels":["ゆらゆらくらげランプ","くらげと夢見るベッドリネン","くらげシェルミラー","くらげグラデマグ","くらげのときめき収納ボックス","くらげふわもこマット"]},{"title":"side handwritten note","position":"upper right","count":1,"labels":["みんなも くらげちゃんRoomで いっしょに まったりしよー♡♡"]},{"title":"room concept box","position":"lower left","count":1,"labels":["くらげちゃんの お部屋作りのこだわり"]},{"title":"pick up circle","position":"lower center-left","count":1,"labels":["Pick up!"]}],"product_images":{"count":6,"items":[{"name":"ゆらゆらくらげランプ","description":"small translucent jellyfish-shaped lamp on a white base, glowing softly in pale blue-lavender"},{"name":"くらげと夢見るベッドリネン","description":"plush pastel-lavender bed with fluffy comforter and pillows, dreamy cozy bedroom styling"},{"name":"くらげシェルミラー","description":"small tabletop mirror with a puffy shell-like pastel-lilac frame and rounded base"},{"name":"くらげグラデマグ","description":"ceramic mug with lavender-to-pink gradient and a simple jellyfish illustration"},{"name":"くらげのときめき収納ボックス","description":"pastel storage box holding cosmetics and small bottles, decorated with a jellyfish emblem"},{"name":"くらげふわもこマット","description":"small fluffy cloud-like or jellyfish-like mat in pale lavender and white"}]},"text_elements":{"main_title":"{argument name=\"headline text\" default=\"くらげちゃんの お部屋アイテム\"}","badge_text":"くらげちゃんの Room お部屋作りの こだわりポイントも 教えちゃうよ。","tagline":"ふわふわで甘くて、ちょっぴり夢みたいな私のお部屋へようこそ♡","speech_bubble":"くらげちゃんの お気に入りだけ集めた お部屋アイテムを紹介するよ♪","concept_points":{"count":3,"items":["色は白とラベンダーで統一!","光が集まるふわっとした空間に","お友達入りのアイテムに囲まれて 自分らしくいられる空間を大切にしてるよ♪"]},"product_blurbs":"each product has a short handwritten Japanese description in a cute casual font beside or below the image"},"composition":"the poster is left-heavy with product cards and text, while the character portrait occupies the lower right third, slightly overlapping the layout","color_palette":{"count":5,"colors":["white","pastel lavender","soft lilac","pale gray-violet","touches of pastel blue-pink gradient"]},"rendering_notes":"keep everything very soft, feminine, and cozy; rounded corners on all product photos; mix of bold Japanese headline typography and light handwritten annotations; subtle shadows; clean high-key lighting; social-media-ready editorial collage aesthetic"}
+{
+  "type": "exploded view product diagram poster",
+  "subject": "VR headset",
+  "style": "clean high-tech 3D render, studio lighting, glowing accents",
+  "background": "{argument name=\"background color\" default=\"soft purple and blue gradient\"}",
+  "header": {
+    "logo": "∞ {argument name=\"product name\" default=\"Meta Quest 3\"}",
+    "subtitle": "{argument name=\"main catchphrase\" default=\"まったく新しい現実を、まったく新しい構造から。\"}"
+  },
+  "layout": {
+    "centerpiece": "vertically stacked exploded view of a VR headset showing 9 distinct layers of internal components: outer shell, camera sensors, motherboard with chip, pancake lenses, internal frame, battery packs, side straps, top strap, and facial interface cushion.",
+    "callout_labels": {
+      "count": 8,
+      "left_side": [
+        "Snapdragon® XR2 Gen 2\n圧倒的な処理性能でリアルタイムな体験を。",
+        "調整可能なIPD機構\n幅広いユーザーに快適なフィット感を。",
+        "精密設計されたヘッドストラップ\n快適さと安定性を追求したエルゴノミクス。"
+      ],
+      "right_side": [
+        "フェイスプレート\n洗練されたデザインと最適な重量バランス。",
+        "トラッキングカメラ\n高精度な位置トラッキングと環境認識を実現。",
+        "パンケーキレンズ\n薄型設計で広い視野角と鮮明な映像を提供。",
+        "高性能バッテリー\n長時間駆動を支える最適化された電源設計。",
+        "柔らかなフェイスインターフェース\n長時間でも快適な装着感を実現。"
+      ]
+    },
+    "footer": {
+      "left_text_block": {
+        "headline": "{argument name=\"bottom headline\" default=\"体験は、構造から進化する。\"}",
+        "body": "一つひとつのパーツに、没入体験を支える最先端テクノロジーとこだわりの設計。Meta Quest 3は、未来を感じさせる体験を内部から生み出しています。"
+      },
+      "right_logo": "∞ Meta"
+    }
+  }
+}
+```
+
+### Case 112: [Anime Character Brand Identity & Merch Board](https://x.com/chi_vc_/status/2046061073720369228) (by [@chi_vc_](https://x.com/chi_vc_))
+
+| Resultat |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case112/output.jpg" width="300" alt="Image du resultat"></a> |
+
+**Prompt：**
+
+```
+{
+  "type": "brand identity and merchandise design board",
+  "theme": {
+    "color_palette": "{argument name=\"theme color\" default=\"pastel pink\"} and white",
+    "motif": "{argument name=\"motif\" default=\"cherry blossoms\"} and pink hearts"
+  },
+  "character": {
+    "description": "anime girl with short brown bob hair, pink eyes, wearing a white hoodie, gentle smile"
+  },
+  "branding": {
+    "main_logo": "{argument name=\"character name\" default=\"癒音ちー\"}",
+    "sub_logo": "{argument name=\"character subtext\" default=\"ゆおんちー\"}"
+  },
+  "layout": {
+    "sections": [
+      {
+        "type": "header banner",
+        "position": "top",
+        "elements": ["large main logo", "sub logo", "cherry blossom graphics", "character portrait on the right"]
+      },
+      {
+        "type": "product packaging",
+        "position": "middle left",
+        "elements": ["1 square box with heart-shaped transparent window showing pink heart candies", "character illustration on box", "2 individual candy wrappers", "5 scattered heart candies"]
+      },
+      {
+        "type": "promotional poster",
+        "position": "middle right",
+        "elements": ["character portrait", "heart-shaped candy bowl", "main logo", "text '4.26 NEW OPEN'", "text '{argument name=\"social handle\" default=\"@yuonchii\"}'"]
+      },
+      {
+        "type": "horizontal web banner",
+        "position": "lower middle",
+        "elements": ["main logo", "cherry blossoms", "character portrait on the right"]
+      },
+      {
+        "type": "social media profile mockup",
+        "position": "bottom left",
+        "elements": ["header image with logo", "1 circular profile picture", "handle '{argument name=\"social handle\" default=\"@yuonchii\"}'", "1 follow button", "mock bio text"]
+      },
+      {
+        "type": "merchandise collection",
+        "position": "bottom right",
+        "count": 9,
+        "items": ["1 white t-shirt with logo", "1 white mug with character", "4 round pin badges", "1 acrylic keychain", "2 candy packets"]
+      }
+    ]
+  }
+}
+```
+
+### Case 131: [Parody Luxury Product Advertisement](https://x.com/tonysimons_/status/2048057490940596595) (by [@tonysimons_](https://x.com/tonysimons_))
+
+| Resultat |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case131/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case131/output.jpg" width="300" alt="Image du resultat"></a> |
+
+**Prompt：**
+
+```
+High-impact parody e-commerce infographic for “{argument name="product" default="Four Loko"}” malt beverage. Foreground: An extreme close-up of a rough, weathered hand holding a tall, brightly colored can of {argument name="product" default="Four Loko"} toward the camera. The can is slightly cold with visible condensation droplets and a loud, chaotic flavor design. The hand and can have a slight macro-lens blur for depth, with the can still reading clearly as the hero product. Central Subject: In the mid-ground, a funny, disheveled {argument name="subject" default="homeless-looking man"} sitting casually on a milk crate in an urban alley. He has a scruffy beard, messy hair, layered worn clothing, and a huge unbothered grin. He should look chaotic but oddly charismatic, like the accidental king of bad decisions. He is posed like a confident lifestyle-ad model, proudly showing off the can. Background & Lighting: A ridiculously polished ad-style backdrop mixed with a grimy city alley setting. Soft-focus urban textures, dumpster shapes, graffiti hints, and scattered clutter in the distance. Add dramatic studio lighting, soft glow, rainbow prism flares, and subtle light leaks to make the whole thing look way too premium for the subject matter. A few blurred {argument name="product" default="Four Loko"} cans can float artistically in the background for extra absurdity. Typography & Layout (Bold sans-serif, white and neon accent styling): Top Center (Background): Massive, bold text reading “{argument name="brand name" default="FOUR LOKO"}” positioned behind the subject. Top Right: Bold text reading “The Champagne of Bad Ideas”. Mid-Left: “Premium chaos and zero self-control” Mid-Right: Large, bold “23” with the text “ounces of terrible decisions.” Bottom-Right: Large, bold “1" with the text “can to ruin tomorrow.” Optional small callout text near the bottom: “Now with more regret.” Style: Ultra-detailed, 8k parody commercial photography, sharp focus on the can, shallow depth of field, vibrant trashy color palette, clean advertising composition, exaggerated premium product-ad aesthetic, funny visual contrast between polished branding and the wrecked subject.
 ```
 
 ### Case 143: [Magical Seed Packet Diorama](https://x.com/AllaAisling/status/2048156345518768190) (by [@AllaAisling](https://x.com/AllaAisling))
@@ -486,62 +506,42 @@ A luxurious editorial product photograph of a single perfume bottle nestled into
 A hyper-detailed cinematic isometric miniature city model of {argument name="landmark tower" default="Burj Khalifa"} rising dramatically from the center of a square architectural master-plan board, presented like a luxury urban planning maquette on a black background. The composition shows one dominant ultra-tall silver skyscraper in the exact center, surrounded by a dense ring of modern high-rise towers, illuminated roads, bridges, and glowing warm city lights. Curving turquoise-blue water features and artificial lakes wrap around the central district in multiple connected pools and canals, with one large circular fountain-like feature near the tower base and several small island shapes visible in the water. In the lower right quadrant, include a large low-rise complex with rounded geometric roofs and subtle green-lit sections, connected by multilane roads and looping interchanges. The entire city sits on one square beige map board engraved with faint street grids and planning lines, with the board edges clearly visible and slightly raised. Viewpoint is a high three-quarter isometric angle, centered and symmetrical, with the tower extending far upward into negative space. Lighting is dramatic and luxurious: warm golden edge lights on buildings and roads, cool reflections in the water, crisp metallic highlights on the central tower, and a deep black void surrounding the model. Style should feel like a photorealistic architectural visualization mixed with a premium collectible scale model, extremely intricate, sharp, polished, and elegant.
 ```
 
-### Case 131: [Parody Luxury Product Advertisement](https://x.com/tonysimons_/status/2048057490940596595) (by [@tonysimons_](https://x.com/tonysimons_))
+### Case 166: [Japanese Chinese Food Delivery Flyer](https://x.com/xc5_/status/2048310696686014935) (by [@xc5_](https://x.com/xc5_))
 
 | Resultat |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case131/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case131/output.jpg" width="300" alt="Image du resultat"></a> |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case166/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case166/output.jpg" width="300" alt="Image du resultat"></a> |
 
 **Prompt：**
 
 ```
-High-impact parody e-commerce infographic for “{argument name="product" default="Four Loko"}” malt beverage. Foreground: An extreme close-up of a rough, weathered hand holding a tall, brightly colored can of {argument name="product" default="Four Loko"} toward the camera. The can is slightly cold with visible condensation droplets and a loud, chaotic flavor design. The hand and can have a slight macro-lens blur for depth, with the can still reading clearly as the hero product. Central Subject: In the mid-ground, a funny, disheveled {argument name="subject" default="homeless-looking man"} sitting casually on a milk crate in an urban alley. He has a scruffy beard, messy hair, layered worn clothing, and a huge unbothered grin. He should look chaotic but oddly charismatic, like the accidental king of bad decisions. He is posed like a confident lifestyle-ad model, proudly showing off the can. Background & Lighting: A ridiculously polished ad-style backdrop mixed with a grimy city alley setting. Soft-focus urban textures, dumpster shapes, graffiti hints, and scattered clutter in the distance. Add dramatic studio lighting, soft glow, rainbow prism flares, and subtle light leaks to make the whole thing look way too premium for the subject matter. A few blurred {argument name="product" default="Four Loko"} cans can float artistically in the background for extra absurdity. Typography & Layout (Bold sans-serif, white and neon accent styling): Top Center (Background): Massive, bold text reading “{argument name="brand name" default="FOUR LOKO"}” positioned behind the subject. Top Right: Bold text reading “The Champagne of Bad Ideas”. Mid-Left: “Premium chaos and zero self-control” Mid-Right: Large, bold “23” with the text “ounces of terrible decisions.” Bottom-Right: Large, bold “1" with the text “can to ruin tomorrow.” Optional small callout text near the bottom: “Now with more regret.” Style: Ultra-detailed, 8k parody commercial photography, sharp focus on the can, shallow depth of field, vibrant trashy color palette, clean advertising composition, exaggerated premium product-ad aesthetic, funny visual contrast between polished branding and the wrecked subject.
+A Japanese neighborhood Chinese restaurant delivery flyer for mailbox posting (3:4 aspect ratio). Designed to look like a double-sided B5 print.
+
+Flyer characteristics (following the grammar of real delivery flyers):
+- Flashy red and yellow color scheme.
+- Large text at the top: "Delivery Available! {argument name="shop name" default="Mona-Hanten"}" (shadowed Gothic font).
+- An illustration of a {argument name="character" default="Chinese girl in a red cheongsam with a brown short bob"} holding ramen and saying "Welcome!" in a speech bubble.
+- A menu photo grid (4x3) featuring various dishes: different types of ramen, fried rice, gyoza, sweet and sour pork, shrimp in chili sauce, mapo tofu, liver and leek stir-fry, tenshinhan, twice-cooked pork, spring rolls, annin tofu, and fried rice sets.
+- Names and prices for each dish.
+- A large yellow banner saying "Free delivery on all menu items over ¥1,000!".
+- "Order by phone! ☎ 072-XX-XXXX" emphasized with a red circle.
+- Business hours "11:00-22:00 (Closed on Tuesdays)".
+- Delivery area map (simple schematic map).
+- Coupon (perforated line for clipping): "One free plate of gyoza with this flyer!".
+
+Texture of cheap paper printing. Includes fold marks. Precision that could be mistaken for a real Japanese delivery flyer.
 ```
 
-### Case 109: [VR Headset Exploded View Poster](https://x.com/wory37303852/status/2045925660401795478) (by [@wory37303852](https://x.com/wory37303852))
+### Case 167: [Pastel Jellyfish Room Goods Poster](https://x.com/Ayu_AI_0912/status/2048309565817766139) (by [@Ayu_AI_0912](https://x.com/Ayu_AI_0912))
 
 | Resultat |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case109/output.jpg" width="300" alt="Image du resultat"></a> |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case167/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case167/output.jpg" width="300" alt="Image du resultat"></a> |
 
 **Prompt：**
 
 ```
-{
-  "type": "exploded view product diagram poster",
-  "subject": "VR headset",
-  "style": "clean high-tech 3D render, studio lighting, glowing accents",
-  "background": "{argument name=\"background color\" default=\"soft purple and blue gradient\"}",
-  "header": {
-    "logo": "∞ {argument name=\"product name\" default=\"Meta Quest 3\"}",
-    "subtitle": "{argument name=\"main catchphrase\" default=\"まったく新しい現実を、まったく新しい構造から。\"}"
-  },
-  "layout": {
-    "centerpiece": "vertically stacked exploded view of a VR headset showing 9 distinct layers of internal components: outer shell, camera sensors, motherboard with chip, pancake lenses, internal frame, battery packs, side straps, top strap, and facial interface cushion.",
-    "callout_labels": {
-      "count": 8,
-      "left_side": [
-        "Snapdragon® XR2 Gen 2\n圧倒的な処理性能でリアルタイムな体験を。",
-        "調整可能なIPD機構\n幅広いユーザーに快適なフィット感を。",
-        "精密設計されたヘッドストラップ\n快適さと安定性を追求したエルゴノミクス。"
-      ],
-      "right_side": [
-        "フェイスプレート\n洗練されたデザインと最適な重量バランス。",
-        "トラッキングカメラ\n高精度な位置トラッキングと環境認識を実現。",
-        "パンケーキレンズ\n薄型設計で広い視野角と鮮明な映像を提供。",
-        "高性能バッテリー\n長時間駆動を支える最適化された電源設計。",
-        "柔らかなフェイスインターフェース\n長時間でも快適な装着感を実現。"
-      ]
-    },
-    "footer": {
-      "left_text_block": {
-        "headline": "{argument name=\"bottom headline\" default=\"体験は、構造から進化する。\"}",
-        "body": "一つひとつのパーツに、没入体験を支える最先端テクノロジーとこだわりの設計。Meta Quest 3は、未来を感じさせる体験を内部から生み出しています。"
-      },
-      "right_logo": "∞ Meta"
-    }
-  }
-}
+{"type":"pastel lifestyle poster / character room-goods feature sheet","theme":"soft dreamy lavender jellyfish aesthetic","style":"Japanese cute editorial graphic, airy white background, pastel lilac palette, delicate handwritten notes, sparkles and tiny doodles, soft product photography mixed with magazine layout","subject":{"character":{"name":"{argument name=\"character name\" default=\"くらげちゃん\"}","appearance":"young woman with a short platinum-blonde bob haircut, wearing a fluffy pale-lavender zip hoodie over a white inner top, shown from chest up on the lower right, face intentionally obscured with a plain beige rectangle"}},"layout":{"orientation":"vertical poster","background":"clean white with faint pastel doodles of stars, bubbles, tiny jellyfish, and musical notes","sections":[{"title":"header","position":"top","count":5,"labels":["speech bubble intro","main title","small subtitle GOODS","horizontal lavender ribbon tagline","round badge on the top right"]},{"title":"featured goods grid","position":"upper and middle left","count":6,"labels":["ゆらゆらくらげランプ","くらげと夢見るベッドリネン","くらげシェルミラー","くらげグラデマグ","くらげのときめき収納ボックス","くらげふわもこマット"]},{"title":"side handwritten note","position":"upper right","count":1,"labels":["みんなも くらげちゃんRoomで いっしょに まったりしよー♡♡"]},{"title":"room concept box","position":"lower left","count":1,"labels":["くらげちゃんの お部屋作りのこだわり"]},{"title":"pick up circle","position":"lower center-left","count":1,"labels":["Pick up!"]}],"product_images":{"count":6,"items":[{"name":"ゆらゆらくらげランプ","description":"small translucent jellyfish-shaped lamp on a white base, glowing softly in pale blue-lavender"},{"name":"くらげと夢見るベッドリネン","description":"plush pastel-lavender bed with fluffy comforter and pillows, dreamy cozy bedroom styling"},{"name":"くらげシェルミラー","description":"small tabletop mirror with a puffy shell-like pastel-lilac frame and rounded base"},{"name":"くらげグラデマグ","description":"ceramic mug with lavender-to-pink gradient and a simple jellyfish illustration"},{"name":"くらげのときめき収納ボックス","description":"pastel storage box holding cosmetics and small bottles, decorated with a jellyfish emblem"},{"name":"くらげふわもこマット","description":"small fluffy cloud-like or jellyfish-like mat in pale lavender and white"}]},"text_elements":{"main_title":"{argument name=\"headline text\" default=\"くらげちゃんの お部屋アイテム\"}","badge_text":"くらげちゃんの Room お部屋作りの こだわりポイントも 教えちゃうよ。","tagline":"ふわふわで甘くて、ちょっぴり夢みたいな私のお部屋へようこそ♡","speech_bubble":"くらげちゃんの お気に入りだけ集めた お部屋アイテムを紹介するよ♪","concept_points":{"count":3,"items":["色は白とラベンダーで統一!","光が集まるふわっとした空間に","お友達入りのアイテムに囲まれて 自分らしくいられる空間を大切にしてるよ♪"]},"product_blurbs":"each product has a short handwritten Japanese description in a cute casual font beside or below the image"},"composition":"the poster is left-heavy with product cards and text, while the character portrait occupies the lower right third, slightly overlapping the layout","color_palette":{"count":5,"colors":["white","pastel lavender","soft lilac","pale gray-violet","touches of pastel blue-pink gradient"]},"rendering_notes":"keep everything very soft, feminine, and cozy; rounded corners on all product photos; mix of bold Japanese headline typography and light handwritten annotations; subtle shadows; clean high-key lighting; social-media-ready editorial collage aesthetic"}
 ```
 
 ### Case 168: [Luxury poster for fictional AI ad printer](https://x.com/nijisora_yuma/status/2049462065639858687) (by [@nijisora_yuma](https://x.com/nijisora_yuma))
@@ -714,9 +714,9 @@ Prompt 1: Vibrant lifestyle food advertisement, smiling woman in a bright hot pi
 Prompt 2: Dynamic food product advertisement for "Berry Loud" mixed berry blend, acai smoothie bowl overflowing with strawberries, raspberries, blueberries, blackberries, banana slices, granola, dramatic berry juice splashes and floating fruits in mid air, branded jar beside bowl, vivid hot pink background, large retro cream typography saying "NEW DROP BERRY LOUD", glossy lighting, hyper realistic food photography, energetic composition, vibrant colors, commercial product shoot, ultra detailed textures, splash effect, studio lighting, 4k, advertising poster style
 ```
 
-<!-- Case 174: Luxury Fragrance Campaign Portrait (by @amynys) -->
+<!-- Case 174: Portrait campagne parfum luxe (by @amynys) -->
 
-### Case 174: [Luxury Fragrance Campaign Portrait](https://x.com/amynys/status/2054340951678587051) (by [@amynys](https://x.com/amynys))
+### Case 174: [Portrait campagne parfum luxe](https://x.com/amynys/status/2054340951678587051) (by [@amynys](https://x.com/amynys))
 
 | Output |
 | :----: |
@@ -734,9 +734,9 @@ Include a sleek black perfume bottle inspired by a luxury noir fragrance aesthet
 The overall mood should feel seductive, mysterious, powerful, feminine, cinematic, timeless, and ultra-luxurious — like a Chanel Coco Noir campaign directed by a Hollywood cinematographer. High detail, photorealistic skin texture, glossy highlights, rich blacks, warm gold accents, magazine-quality fashion photography, 8K luxury editorial finish.
 ```
 
-<!-- Case 175: Berry Splash Cafe Campaign (by @iamaiistudio) -->
+<!-- Case 175: Campagne cafe Berry Splash (by @iamaiistudio) -->
 
-### Case 175: [Berry Splash Cafe Campaign](https://x.com/iamaiistudio/status/2054248552294158350) (by [@iamaiistudio](https://x.com/iamaiistudio))
+### Case 175: [Campagne cafe Berry Splash](https://x.com/iamaiistudio/status/2054248552294158350) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -752,9 +752,9 @@ Prompt 2:
 Create a dynamic food product advertisement for "Berry Loud" mixed berry blend. Feature an acai smoothie bowl overflowing with strawberries, raspberries, blueberries, blackberries, banana slices, and granola. Surround it with dramatic berry juice splashes and floating fruit frozen midair. Place a branded jar next to the bowl. Use a vivid hot pink background and large retro cream typography that says "NEW DROP BERRY LOUD". Keep the lighting glossy, the composition energetic, the colors vibrant, the textures ultra detailed, and the overall look like a polished studio-shot commercial poster with hyper-realistic food photography and splash-effect motion. Format: vertical 9:16. Quality: 4k.
 ```
 
-<!-- Case 176: Fast Food Hero Poster (by @ShamsAmin56) -->
+<!-- Case 176: Affiche heros fast-food (by @ShamsAmin56) -->
 
-### Case 176: [Fast Food Hero Poster](https://x.com/ShamsAmin56/status/2054238324198625780) (by [@ShamsAmin56](https://x.com/ShamsAmin56))
+### Case 176: [Affiche heros fast-food](https://x.com/ShamsAmin56/status/2054238324198625780) (by [@ShamsAmin56](https://x.com/ShamsAmin56))
 
 | Output |
 | :----: |
@@ -771,9 +771,9 @@ TYPOGRAPHY: Integration of ultra-bold, distressed sans-serif typeface overlappin
 TECHNICAL: 4k resolution, macro photography style, shallow depth of field, neon-noir color grading (deep blacks, warm ambers, and subtle teal highlights).
 ```
 
-<!-- Case 177: Matcha Granola Ad Poster (by @Sairah_0) -->
+<!-- Case 177: Affiche pub granola matcha (by @Sairah_0) -->
 
-### Case 177: [Matcha Granola Ad Poster](https://x.com/Sairah_0/status/2054111354202779672) (by [@Sairah_0](https://x.com/Sairah_0))
+### Case 177: [Affiche pub granola matcha](https://x.com/Sairah_0/status/2054111354202779672) (by [@Sairah_0](https://x.com/Sairah_0))
 
 | Output |
 | :----: |
@@ -795,9 +795,9 @@ Prompt : (Chocolate Protein Muesli Ad)
 Premium protein breakfast food advertisement poster featuring centered pouch package labeled “Chocolate Protein Muesli”, rich brown monochrome theme, surrounded by dark chocolate chunks, almonds, oats, banana slices, milk jug, muesli bowls, scattered ingredients, dramatic warm studio lighting, bold modern headline typography “HIGH PROTEIN BREAKFAST FUEL”, handwritten annotation arrows highlighting benefits, luxury fitness breakfast branding, realistic textures, symmetrical flat lay composition, high-end commercial food photography, strong contrast, healthy energy concept, clean packaging mockup design, ultra-realistic 8k advertising render, cinematic food styling.
 ```
 
-<!-- Case 178: Tropical Product Ad Poster (by @AIwithAliya) -->
+<!-- Case 178: Affiche pub produit tropical (by @AIwithAliya) -->
 
-### Case 178: [Tropical Product Ad Poster](https://x.com/AIwithAliya/status/2054553101236080714) (by [@AIwithAliya](https://x.com/AIwithAliya))
+### Case 178: [Affiche pub produit tropical](https://x.com/AIwithAliya/status/2054553101236080714) (by [@AIwithAliya](https://x.com/AIwithAliya))
 
 | Output |
 | :----: |
@@ -809,8 +809,8 @@ Premium protein breakfast food advertisement poster featuring centered pouch pac
 GPT Image 2 Prompt Create a creative commercial advertising poster for [PRODUCT NAME], a [PRODUCT TYPE], inspired by vibrant tropical product campaigns. Place the product as a large hero object on the center-right with realistic glossy reflections, sharp label details, and premium lighting. Add a stylish model sitting beside or slightly in front of the product, naturally interacting with it by [MODEL ACTION]. The model should look [MOOD], wearing [OUTFIT STYLE], and should not cover the product label.
 ```
 
-<!-- Case 179: Foam Clogs Ad Poster (by @Shinning1010) -->
-### Case 179: [Foam Clogs Ad Poster](https://x.com/Shinning1010/status/2055688162333401470) (by [@Shinning1010](https://x.com/Shinning1010))
+<!-- Case 179: Affiche pub sabots mousse (by @Shinning1010) -->
+### Case 179: [Affiche pub sabots mousse](https://x.com/Shinning1010/status/2055688162333401470) (by [@Shinning1010](https://x.com/Shinning1010))
 
 | Output |
 | :----: |
@@ -825,8 +825,8 @@ Negative Prompt:
 watermark, random text, misspelled headline, garbled letters, logo distortion, low quality, blurry, plastic skin, extra fingers, deformed hands, bad anatomy, overexposed highlights, unrealistic lighting, oversmoothed skin, cheap e-commerce look, AI-generated look, warped clog holes, incorrect shoe structure, melted foam texture, distorted heel strap, mismatched pair, hidden product, product cropped out, cluttered background
 ```
 
-<!-- Case 180: Energy Drink Stadium Ad (by @Shorelyn_) -->
-### Case 180: [Energy Drink Stadium Ad](https://x.com/Shorelyn_/status/2055570197973799376) (by [@Shorelyn_](https://x.com/Shorelyn_))
+<!-- Case 180: Pub stade boisson energetique (by @Shorelyn_) -->
+### Case 180: [Pub stade boisson energetique](https://x.com/Shorelyn_/status/2055570197973799376) (by [@Shorelyn_](https://x.com/Shorelyn_))
 
 | Output |
 | :----: |
@@ -1141,8 +1141,8 @@ Sharp on face and earbuds, gentle depth blur on foreground and background
 Clean Apple/Nike premium ad aesthetic, strong negative space
 ```
 
-<!-- Case 190: Scène Kinder Joy avec fauteuil balançoire (by @iamaiistudio) -->
-### Case 190: [Scène Kinder Joy avec fauteuil balançoire](https://x.com/iamaiistudio/status/2066312771978092587) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 190: Scene balancelle Kinder Joy (by @iamaiistudio) -->
+### Case 190: [Scene balancelle Kinder Joy](https://x.com/iamaiistudio/status/2066312771978092587) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1160,8 +1160,8 @@ On a polished wooden table to the left foreground: another gigantic fully wrappe
 Soft warm directional lighting from the left casts subtle shadows, highlighting the detailed egg wrapper textures, clothing, and wooden surface. Background is a softly blurred warm-toned interior wall with pleasing bokeh. Standard lens, shot from mid-height.
 ```
 
-<!-- Case 191: Publicité pour crème solaire Invisible Shield (by @iamrealsnow) -->
-### Case 191: [Publicité pour crème solaire Invisible Shield](https://x.com/iamrealsnow/status/2066200217347854445) (by [@iamrealsnow](https://x.com/iamrealsnow))
+<!-- Case 191: Pub creme solaire bouclier invisible (by @iamrealsnow) -->
+### Case 191: [Pub creme solaire bouclier invisible](https://x.com/iamrealsnow/status/2066200217347854445) (by [@iamrealsnow](https://x.com/iamrealsnow))
 
 <table>
 <tr><td width="50%"><a href="../images/ad-creative_case191/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case191/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Publicité pour crème solaire Invisible Shield"></a></td><td width="50%"><a href="../images/ad-creative_case191/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case191/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Publicité pour crème solaire Invisible Shield"></a></td></tr>
@@ -1181,8 +1181,8 @@ Tagline:
 “Protect Every Ray. Reveal Every Glow.
 ```
 
-<!-- Case 192: Illusion de paysage au logo caché (by @iamaiistudio) -->
-### Case 192: [Illusion de paysage au logo caché](https://x.com/iamaiistudio/status/2066191259354689714) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 192: Illusion paysage logo cache (by @iamaiistudio) -->
+### Case 192: [Illusion paysage logo cache](https://x.com/iamaiistudio/status/2066191259354689714) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/ad-creative_case192/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case192/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Illusion de paysage au logo caché"></a></td><td width="50%"><a href="../images/ad-creative_case192/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case192/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Illusion de paysage au logo caché"></a></td></tr>
@@ -1208,8 +1208,8 @@ Mood: cinematic, majestic, subtly surreal.
 Output: 1:1 square, photorealistic, National Geographic aerial photography aesthetic.
 ```
 
-<!-- Case 193: Affiche de mode SPLASH au logo liquide (by @iamaiistudio) -->
-### Case 193: [Affiche de mode SPLASH au logo liquide](https://x.com/iamaiistudio/status/2065979523229975021) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 193: Affiche mode logo liquide SPLASH (by @iamaiistudio) -->
+### Case 193: [Affiche mode logo liquide SPLASH](https://x.com/iamaiistudio/status/2065979523229975021) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1231,8 +1231,8 @@ Style: luxury fashion campaign aesthetic (Zara / H&M), polished clean environmen
 Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, photorealistic.
 ```
 
-<!-- Case 194: Campagne de marque café OBSIDIAN (by @iamaiistudio) -->
-### Case 194: [Campagne de marque café OBSIDIAN](https://x.com/iamaiistudio/status/2066523210808484228) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 194: Campagne marque cafe OBSIDIAN (by @iamaiistudio) -->
+### Case 194: [Campagne marque cafe OBSIDIAN](https://x.com/iamaiistudio/status/2066523210808484228) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1244,8 +1244,8 @@ Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, p
 Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display — steam rising, beans scattered. Shot 2: Full product range — coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
 ```
 
-<!-- Case 195: Coconut Paradise Skincare Ad (by @Strength04_X) -->
-### Case 195: [Publicite skincare "Coconut Paradise"](https://x.com/Strength04_X/status/2067445760325734734) (by [@Strength04_X](https://x.com/Strength04_X))
+<!-- Case 195: Pub soin peau paradis noix coco (by @Strength04_X) -->
+### Case 195: [Pub soin peau paradis noix coco](https://x.com/Strength04_X/status/2067445760325734734) (by [@Strength04_X](https://x.com/Strength04_X))
 
 | Output |
 | :----: |
@@ -1257,8 +1257,8 @@ Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee 
 Minimal white bottle with golden pump surrounded by cracked coconuts, coconut milk splash and foam clouds, tropical luxury spa atmosphere, creamy textures, realistic bubbles floating in background, premium skincare commercial, soft warm lighting, ultra detailed 8K.
 ```
 
-<!-- Case 196: Reverse-Assembly Product VFX (by @iamaiistudio) -->
-### Case 196: [VFX produit en assemblage inverse](https://x.com/iamaiistudio/status/2067399156596175345) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 196: VFX produit assemblage inverse (by @iamaiistudio) -->
+### Case 196: [VFX produit assemblage inverse](https://x.com/iamaiistudio/status/2067399156596175345) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/ad-creative_case196/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX produit en assemblage inverse"></a></td><td width="50%"><a href="../images/ad-creative_case196/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX produit en assemblage inverse"></a></td></tr>
@@ -1271,8 +1271,8 @@ Minimal white bottle with golden pump surrounded by cracked coconuts, coconut mi
 [PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
 ```
 
-<!-- Case 197: Photo produit de canette avec revelation de raisins (by @iamaiistudio) -->
-### Case 197: [Photo produit de canette avec revelation de raisins](https://x.com/iamaiistudio/status/2067750180724855280) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 197: Prise produit canette raisin (by @iamaiistudio) -->
+### Case 197: [Prise produit canette raisin](https://x.com/iamaiistudio/status/2067750180724855280) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1284,8 +1284,8 @@ Minimal white bottle with golden pump surrounded by cracked coconuts, coconut mi
 Product shot of a 330ml aluminum can called "VINE GLOW – Natural Extract" placed center-frame against a clean light grey studio background. The can is adorned with refined purple vine line illustrations. A dramatic horizontal torn paper reveal slices across the can and background, exposing glistening red and purple grapes inside, covered in water droplets with a glossy wet texture. Soft studio lighting, ultra-sharp focus, photorealistic commercial packaging photography, symmetrical layout, 8K resolution.
 ```
 
-<!-- Case 198: Publicité Ray-Ban Aviator géante (by @MrDasOnX) -->
-### Case 198: [Publicité Ray-Ban Aviator géante](https://x.com/MrDasOnX/status/2068024611074367579) (by [@MrDasOnX](https://x.com/MrDasOnX))
+<!-- Case 198: Pub Ray-Ban aviateur geant (by @MrDasOnX) -->
+### Case 198: [Pub Ray-Ban aviateur geant](https://x.com/MrDasOnX/status/2068024611074367579) (by [@MrDasOnX](https://x.com/MrDasOnX))
 
 <table>
 <tr><td width="50%"><a href="../images/ad-creative_case198/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case198/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Publicité Ray-Ban Aviator géante"></a></td><td width="50%"><a href="../images/ad-creative_case198/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case198/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Publicité Ray-Ban Aviator géante"></a></td></tr>
@@ -1297,8 +1297,8 @@ Product shot of a 330ml aluminum can called "VINE GLOW – Natural Extract" plac
 Minimalist commercial ad featuring oversized Ray-Ban Aviator sunglasses, ultra-clean design. A young woman in all-white outfit leans casually against the giant sunglasses, relaxed confident pose, eyes closed, also holding a regular-sized pair in her hand. Soft gradient golden background with large bold white “RAY-BAN” text behind. Glossy reflective floor, soft studio lighting, modern high-end product photography. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Iconic vision, every look.”
 ```
 
-<!-- Case 199: Publicité de parfum Noir Elixir (by @iamaiistudio) -->
-### Case 199: [Publicité de parfum Noir Elixir](https://x.com/iamaiistudio/status/2069238367792112016) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 199: Pub parfum elixir Noir (by @iamaiistudio) -->
+### Case 199: [Pub parfum elixir Noir](https://x.com/iamaiistudio/status/2069238367792112016) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/ad-creative_case199/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case199/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Publicité de parfum Noir Elixir"></a></td><td width="50%"><a href="../images/ad-creative_case199/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case199/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Publicité de parfum Noir Elixir"></a></td></tr>
@@ -1317,8 +1317,8 @@ Color palette: obsidian black, smoked charcoal, deep amber with metallic gold an
 
 Macro cinema prime lens, shallow depth of field isolating product from background, smooth cinematic bokeh from reflective particles, extreme micro-detail clarity. 8K ultra high definition, hyper-realistic luxury commercial render, accurate glass refraction and internal reflections, physically accurate fluid dynamics, ultra-detailed crystal, metal, mist, and micro-droplet textures. Vertical 4:5 aspect ratio.
 ```
-<!-- Case 200: Visuel logo en mousse fluorescente (by @iamaiistudio) -->
-### Case 200: [Visuel logo en mousse fluorescente](https://x.com/iamaiistudio/status/2069135898265125326) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 200: Heros logo mousse fluorescent (by @iamaiistudio) -->
+### Case 200: [Heros logo mousse fluorescent](https://x.com/iamaiistudio/status/2069135898265125326) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1356,8 +1356,8 @@ Houdini FLIP fluid simulation + Redshift/Octane or equivalent photorealistic CGI
 
 FINAL CHECK: (1) Does the fluid silhouette exactly match the [BRAND NAME] logo? (2) Is it inside a container? If yes, regenerate. (3) Any fluid outside the boundary? If yes, regenerate. (4) Both foam and liquid states visible? If no, regenerate.
 ```
-<!-- Case 201: Collage d'univers de marque Glossier (by @iamaiistudio) -->
-### Case 201: [Collage d'univers de marque Glossier](https://x.com/iamaiistudio/status/2069120574287392978) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 201: Collage monde marque Glossier (by @iamaiistudio) -->
+### Case 201: [Collage monde marque Glossier](https://x.com/iamaiistudio/status/2069120574287392978) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1430,8 +1430,8 @@ FINAL FEEL:
 This must look like a creative direction board for a global campaign. Not a clean layout, not a grid, not minimal. It must feel alive, layered, and brand-heavy, a visual identity snapshot that is highly shareable and scroll-stopping.
 ```
 
-<!-- Case 202: Publicité STARKIDZ pour un télescope cosmique (by @Strength04_X) -->
-### Case 202: [Publicité STARKIDZ pour un télescope cosmique](https://x.com/Strength04_X/status/2069448983651787177) (by [@Strength04_X](https://x.com/Strength04_X))
+<!-- Case 202: Pub telescope cosmique STARKIDZ (by @Strength04_X) -->
+### Case 202: [Pub telescope cosmique STARKIDZ](https://x.com/Strength04_X/status/2069448983651787177) (by [@Strength04_X](https://x.com/Strength04_X))
 
 | Output |
 | :----: |
@@ -1444,8 +1444,8 @@ A magical science advertisement poster. A curious young boy age 10 in a NASA tsh
 ```
 
 
-<!-- Case 203: Publicité mode avec garde-temps monumental (by @iamaiistudio) -->
-### Case 203: [Publicité mode avec garde-temps monumental](https://x.com/iamaiistudio/status/2069387162425205211) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 203: Pub mode montre monumentale (by @iamaiistudio) -->
+### Case 203: [Pub mode montre monumentale](https://x.com/iamaiistudio/status/2069387162425205211) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |

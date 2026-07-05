@@ -1,37 +1,14 @@
-# Python
+# Script output / working dirs
+tmp/
+script/
 __pycache__/
-*.py[cod]
-*$py.class
-.venv/
-venv/
-env/
-*.egg-info/
-.eggs/
 build/
 dist/
 
-# macOS
-.DS_Store
-
-# IDE / editors
-.vscode/
-.idea/
-*.swp
-
-# OS
-Thumbs.db
-
-# py
-build_readme.py
-
-# Local prompt update artifacts
-
-# Local change log (not pushed to remote)
-CHANGES_LOCAL.md
+# Local
 AGENTS.md
-gpt_image_2_prompt.json
-gpt_image2_prompt.json
-merge_prompt_sources.py
-integrate_categorized_cases.py
+PromptEditor/
 .env
 .skill/
+server.bat
+server.py

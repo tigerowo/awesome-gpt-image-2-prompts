@@ -220,6 +220,33 @@ A character promotional poster titled “INPUT NAME,” designed in a unified ve
 
 
 ---
+### Case 16: [Anime wallpaper for foldable phone — colorful aesthetic](https://github.com/tigerowo/awesome-gpt-image-2-prompts/issues/18) (by [@THX-night](https://x.com/THX-night))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case16/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case16/output.jpg" width="300" alt="Output image"></a> |
+
+**Guías de envío:**
+
+```
+请为我生成一个适用于折叠屏手机（Oppo find N6，内屏2480 × 2248 像素，外屏2616 × 1140 像素，比例适配即可，不需要完全对齐一样的像素大小）的4k壁纸，壁纸主体为动漫，风格中性壁纸适用于男性使用，但是动漫角色是女生，女生略为阳光且内敛，这个女生不能有太多的媚态。风格建议：唯美风。整个图片的色调偏向色彩多样化鲜艳方向，注意头发线条整洁，不要过于杂乱和生硬。直接做一个可以两屏适配的横纵可裁切大图。
+```
+
+### Case 17: [Anime wallpaper for foldable phone — dark cool style](https://github.com/tigerowo/awesome-gpt-image-2-prompts/issues/19) (by [@THX-night](https://x.com/THX-night))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case17/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case17/output.jpg" width="300" alt="Output image"></a> |
+
+**Guías de envío:**
+
+```
+请为我生成一个适用于折叠屏手机（Oppo find N6，内屏2480 × 2248 像素，外屏2616 × 1140 像素，比例适配即可，不需要完全对齐一样的像素大小）的4k壁纸，壁纸主体为动漫，风格中性壁纸适用于男性使用，但是动漫角色是女生，短发。风格建议：酷、耍帅风格，但是不要像那种二次元手游一样，可以带一些未来元素。整个图片的色调适合黑色折叠屏手机风格，注意头发线条整洁，不要过于杂乱和生硬。这个图片人物占比不要太大，否则放到手机上效果不好。
+```
+
+
+---
+
 ### Case 18: Stylized 3D Skater Character
 
 **Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2062038112398954712)
@@ -716,8 +743,8 @@ Use this tri-fold layout:
 Ensure complete character and costume consistency across all sections. The Hero Spotlight must visually anchor the sheet, offering a clean, open, and professional layout that avoids dense, repetitive, or cluttered grids.
 ```
 
-<!-- Case 28: Personaje héroe banana estilo Pixar (by @iamaiistudio) -->
-### Case 28: [Personaje héroe banana estilo Pixar](https://x.com/iamaiistudio/status/2068003049600380972) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 28: Personaje heroe platano Pixar (by @iamaiistudio) -->
+### Case 28: [Personaje heroe platano Pixar](https://x.com/iamaiistudio/status/2068003049600380972) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -729,8 +756,8 @@ Ensure complete character and costume consistency across all sections. The Hero 
 Pixar-style 3D animated banana character, single fruit brought to life. A charismatic male figure with bold confident eyes, thick expressive brows, and a wide grin full of gleaming white teeth with sparkle accents. Smooth, slightly glossy yellow peel with soft highlights. Stubby cartoon arms and legs, posed upright with arms crossed in a heroic stance. Background features a blurred bunch of bananas. Standing on a wooden dining table beside a sun-filled window in a cozy modern home interior. Rich vibrant colors, cinematic lighting, soft natural shadows, ultra-detailed high-fidelity textures.
 ```
 
-<!-- Case 29: Pastel Kawaii Animal Companions (by @Taaruk_) -->
-### Case 29: [Companeros animales kawaii en tonos pastel](https://x.com/Taaruk_/status/2068351521016955098) (by [@Taaruk_](https://x.com/Taaruk_))
+<!-- Case 29: Acompanantes animales kawaii pastel (by @Taaruk_) -->
+### Case 29: [Acompanantes animales kawaii pastel](https://x.com/Taaruk_/status/2068351521016955098) (by [@Taaruk_](https://x.com/Taaruk_))
 
 | Output |
 | :----: |
@@ -742,8 +769,8 @@ Pixar-style 3D animated banana character, single fruit brought to life. A charis
 Cute minimalist pastel doodle illustration, kawaii character standing side-by-side with their adorable animal companion, inspired by modern Japanese stationery art and children's picture books, clean vector linework, soft cream background, muted pastel color palette (pink, blue, mint, lavender, yellow), simple geometric shapes, tiny confetti dots and floating decorative elements, rounded character design with oversized sweater, wide pants, sneakers, glasses, calm expression, animal companion variations including llama, bear, axolotl, rabbit, cat, fox, turtle or fantasy creature, cozy scenic background with seaside boardwalk, lakeside village, mountain town or whimsical nature landscape, flat design, thick outlines, charming and playful aesthetic, symmetrical composition, full body pose, cute friendship theme, highly detailed vector illustration, sticker-like appearance, children's book art style, soft shadows, clean negative space, vibrant yet gentle colors, trending on Pinterest, adorable wholesome atmosphere, 4k, masterpiece.
 ```
 
-<!-- Case 30: LEGO Football Collectible Figure (by @ChillaiKalan__) -->
-### Case 30: [Figura coleccionable LEGO de fútbol](https://x.com/ChillaiKalan__/status/2068717001145778630) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
+<!-- Case 30: Figura coleccionable futbol LEGO (by @ChillaiKalan__) -->
+### Case 30: [Figura coleccionable futbol LEGO](https://x.com/ChillaiKalan__/status/2068717001145778630) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
 
 <table>
 <tr><td width="50%"><a href="../images/character_case30/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Figura coleccionable LEGO de fútbol"></a></td><td width="50%"><a href="../images/character_case30/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case30/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Figura coleccionable LEGO de fútbol"></a></td></tr>
@@ -755,4 +782,3 @@ Cute minimalist pastel doodle illustration, kawaii character standing side-by-si
 ```
 A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
 ```
-

@@ -798,8 +798,104 @@ A bright, polished anime-style promotional thumbnail with a summer romance atmos
 A cinematic anime-inspired digital illustration set at night inside a cozy artist's room with large window panes and a warm city glow outside. On the left, a young male artist with {argument name="hair color" default="dark brown"} messy hair sits at a cluttered desk in side profile, leaning forward with one hand near his mouth and the other drawing with a pen on a tablet or sketchbook. The desk is covered with exactly 1 pen cup filled with pencils, 1 coffee mug, 1 open laptop or pen-display showing a sunset landscape, 1 spiral sketchbook with manga-style character drawings, 2 additional drawing books or pads, 1 small stack of about 4 books, and many scattered art cards and printed illustrations. On the right, a luminous ethereal anime girl made of blue-white light appears life-sized, facing the artist with both hands gently extended toward him. Her form is translucent, delicate, and composed of glowing contour lines, starry particles, and flowing strands of light, with long windblown hair and a soft dress-like silhouette. Between them, a magical stream of golden and white light spirals upward from the artist's desk into the air, connecting creator and creation. Inside this swirling ribbon are exactly 12 to 16 floating image fragments and sketch pages: monochrome character sketches, scenic sunset paintings, small photo-like panels, and tiny icon-like cards, all orbiting in a curved arc from lower center to upper left and upper center. Around the upper half of the image, dozens of glowing musical notes float through the air, mixed with sparkling particles, creating the feeling that inspiration has become visible sound and memory. The palette is rich warm gold and amber on the artist's side, contrasted with cool electric blue and white on the spirit girl's side, with dramatic rim light, volumetric glow, intricate particles, and a dreamy emotional atmosphere. Composition is vertical, highly detailed, intimate, and poetic, evoking the relationship between {argument name="person one" default="you"} and {argument name="person two" default="me"} as artist and imagined muse, where drawings, music, memories, and fantasy physically manifest in the room. Add a small handwritten note card on the desk with {argument name="note text" default="二人だけの物語"}, and display one prominent artwork on the desk and one floating scenic panel using {argument name="scene theme" default="sunset sky over a distant city"}.
 ```
 
-<!-- Case 125: Brand Collage Social Template (by @aiistudiocom) -->
-### Case 125: [Brand Collage Social Template](https://x.com/aiistudiocom/status/2051241633921049024) (by [@aiistudiocom](https://x.com/aiistudiocom))
+### Case 121: [Hand-Drawn Storyboard Sheet](https://x.com/saniaspeaks_/status/2050465100973191219) (by [@saniaspeaks_](https://x.com/saniaspeaks_))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case121/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case121/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+This Storyboard sheet use for this video created with GPT image 2 Storyboard sheet prompt: A professional hand drawn sketch storyboard sheet, pencil and ink illustration style, rough artistic linework, cross-hatching for shadows, loose expressive strokes, monochrome black and white on aged cream/off-white paper texture background, 2x2 grid layout with four equal storyboard panels bordered by thick hand-drawn black ink frames. Top-left panel sketch: abandoned rusted cargo ship at dock, heavy hatching for rust texture, broken railings, algae, seagulls, no humans, dark moody pencil shading, handwritten label below: "SCENE 01 — ABANDONED STATE | Static wide dock shot | Overcast | No humans". Top-right panel sketch: same ship with workers using pressure washers, dynamic water spray motion lines, figures in safety gear, debris piles, handwritten label: "SCENE 02 — CLEANING & STRIP-DOWN | Pressure wash + debris clear | Cloudy daylight". Bottom-left panel sketch: welding sparks as burst star lines, scaffolding structure, worker figures grinding and painting, primer sections with hatching, handwritten label: "SCENE 03 — REPAIR & REBUILD | Welding sparks + scaffolding | Primer applied". Bottom-right panel sketch: fully restored ship, clean hull, workers standing back, golden hour rays as radiating diagonal lines, handwritten label: "SCENE 04 — FULL RESTORATION | Final paint + golden hour | Completion". Bold hand-lettered title at top: "SEA HARVEST VALLETTA — RESTORATION STORYBOARD". Handwritten production notes at bottom: "Cam: Static Wide-Angle Dock | Lens: Wide | Progression: Linear | Style: Photorealistic". Pencil graphite texture, ink pen outlines, rough paper feel, professional film storyboard aesthetic.
+```
+
+### Case 121: [Hand-Drawn Storyboard Sheet](https://x.com/saniaspeaks_/status/2050465100973191219) (by [@saniaspeaks_](https://x.com/saniaspeaks_))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case121/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case121/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+This Storyboard sheet use for this video created with GPT image 2 Storyboard sheet prompt: A professional hand drawn sketch storyboard sheet, pencil and ink illustration style, rough artistic linework, cross-hatching for shadows, loose expressive strokes, monochrome black and white on aged cream/off-white paper texture background, 2x2 grid layout with four equal storyboard panels bordered by thick hand-drawn black ink frames. Top-left panel sketch: abandoned rusted cargo ship at dock, heavy hatching for rust texture, broken railings, algae, seagulls, no humans, dark moody pencil shading, handwritten label below: "SCENE 01 — ABANDONED STATE | Static wide dock shot | Overcast | No humans". Top-right panel sketch: same ship with workers using pressure washers, dynamic water spray motion lines, figures in safety gear, debris piles, handwritten label: "SCENE 02 — CLEANING & STRIP-DOWN | Pressure wash + debris clear | Cloudy daylight". Bottom-left panel sketch: welding sparks as burst star lines, scaffolding structure, worker figures grinding and painting, primer sections with hatching, handwritten label: "SCENE 03 — REPAIR & REBUILD | Welding sparks + scaffolding | Primer applied". Bottom-right panel sketch: fully restored ship, clean hull, workers standing back, golden hour rays as radiating diagonal lines, handwritten label: "SCENE 04 — FULL RESTORATION | Final paint + golden hour | Completion". Bold hand-lettered title at top: "SEA HARVEST VALLETTA — RESTORATION STORYBOARD". Handwritten production notes at bottom: "Cam: Static Wide-Angle Dock | Lens: Wide | Progression: Linear | Style: Photorealistic". Pencil graphite texture, ink pen outlines, rough paper feel, professional film storyboard aesthetic.
+```
+
+### Case 122: [前后端数据库 SaaS 信息图](https://x.com/alantech_/status/2050462324486783060) (by [@alantech_](https://x.com/alantech_))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+gpt image 2生图能力真的恐怖啊，这是我的提示词： 01 前端（用户看到的部分） 是什么：前端就是界面，是用户能看见、能点、能操作的部分。 在哪里：网页、小程序、App 的界面。 用什么做：HTML（结构）、CSS（样式）、JavaScript（交互）。 02 后端（背后处理的部分） 是什么：后端就是幕后大脑，负责逻辑和运算。 在哪里：服务器上，用户看不见。 作用： 处理登录注册 计算价格、推荐商品 接收前端请求、返回数据 常用的编程语言：Java、Python、Go、JavaScript（Node.js） 03 数据库（记忆的部分） 是什么：数据库就是用来存储和管理数据的。 存什么：账号、密码、订单、库存… 常见的数据库： MySQL、PostgreSQL（关系型，像表格一样） MongoDB（文档型，像文件夹一样） 04 SaaS（软件即服务） 是什么：SaaS = Software as a Service（软件即服务）。 核心特点： 打开网页/小程序/APP就能用 按月或按年订阅 常见形式：网站、移动 App、小程序都可以是 SaaS。 05 总结 前端：用户看到和操作的界面 后端：背后运行的逻辑和计算 数据库：存放和管理数据的地方 SaaS：把软件做成服务，用户随时通过网络使用 前端展示 → 后端处理 → 数据库存储 → SaaS 是交付方式 帮我针对上面的内容画一张易于理解的图
+```
+
+### Case 122: [前后端数据库 SaaS 信息图](https://x.com/alantech_/status/2050462324486783060) (by [@alantech_](https://x.com/alantech_))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+gpt image 2生图能力真的恐怖啊，这是我的提示词： 01 前端（用户看到的部分） 是什么：前端就是界面，是用户能看见、能点、能操作的部分。 在哪里：网页、小程序、App 的界面。 用什么做：HTML（结构）、CSS（样式）、JavaScript（交互）。 02 后端（背后处理的部分） 是什么：后端就是幕后大脑，负责逻辑和运算。 在哪里：服务器上，用户看不见。 作用： 处理登录注册 计算价格、推荐商品 接收前端请求、返回数据 常用的编程语言：Java、Python、Go、JavaScript（Node.js） 03 数据库（记忆的部分） 是什么：数据库就是用来存储和管理数据的。 存什么：账号、密码、订单、库存… 常见的数据库： MySQL、PostgreSQL（关系型，像表格一样） MongoDB（文档型，像文件夹一样） 04 SaaS（软件即服务） 是什么：SaaS = Software as a Service（软件即服务）。 核心特点： 打开网页/小程序/APP就能用 按月或按年订阅 常见形式：网站、移动 App、小程序都可以是 SaaS。 05 总结 前端：用户看到和操作的界面 后端：背后运行的逻辑和计算 数据库：存放和管理数据的地方 SaaS：把软件做成服务，用户随时通过网络使用 前端展示 → 后端处理 → 数据库存储 → SaaS 是交付方式 帮我针对上面的内容画一张易于理解的图
+```
+
+### Case 123: [个人形象分析图卡](https://x.com/you1873118/status/2050446427105759269) (by [@you1873118](https://x.com/you1873118))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case123/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case123/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+GPT-Image-2的一个妙用形象 这个提示词是一个老哥发我的 我试了下，效果也太强了 如果放在一年前 你可能三天三夜的ComfyUI工作流 才能做出来 提示词： 请根据我上传的人像照片，做一套个人形象分析图卡，包含发型、妆容、色彩和珠宝。要求：保留五官脸型肤色，不要过度修图，所有变化在同一张脸真实展示，风格干净高级。发型：长短、卷直、刘海，对比最适合/ 普通/不建议（显脸小、显老）妆容：眉眼鼻唇分析，标签（自然、提气色、柔和）色彩：不同颜色上身，对比推荐/普通/不适合（显白、显老）珠宝：珍珠、翡翠、红蓝宝、钻石、黄金，对比推荐/普通/不建议 整体：视觉为主，文字简短，4:5比例
+```
+
+### Case 123: [个人形象分析图卡](https://x.com/you1873118/status/2050446427105759269) (by [@you1873118](https://x.com/you1873118))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case123/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case123/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+GPT-Image-2的一个妙用形象 这个提示词是一个老哥发我的 我试了下，效果也太强了 如果放在一年前 你可能三天三夜的ComfyUI工作流 才能做出来 提示词： 请根据我上传的人像照片，做一套个人形象分析图卡，包含发型、妆容、色彩和珠宝。要求：保留五官脸型肤色，不要过度修图，所有变化在同一张脸真实展示，风格干净高级。发型：长短、卷直、刘海，对比最适合/ 普通/不建议（显脸小、显老）妆容：眉眼鼻唇分析，标签（自然、提气色、柔和）色彩：不同颜色上身，对比推荐/普通/不适合（显白、显老）珠宝：珍珠、翡翠、红蓝宝、钻石、黄金，对比推荐/普通/不建议 整体：视觉为主，文字简短，4:5比例
+```
+
+### Case 124: [12-Panel Storyboard Poster](https://x.com/bmx_ai13/status/2050432594647642414) (by [@bmx_ai13](https://x.com/bmx_ai13))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case124/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case124/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+A super simple workflow: 2 character images → GPT Image 2.0 storyboard → Seedance 2.0 animation. Just upload two character images and use the prompt below in GPT Image 2.0 to generate a full storyboard on a single page. Prompt: Create a clean, colorful storyboard poster in a 3x4 grid layout with 12 panels on a single page. Title at the top: "[MAIN TITLE]" Each panel must include: a scene number in a small circle, a short scene title, a colorful illustrated image, a 1–2 line description under the image. Main characters must remain visually consistent across all 12 panels: Character 1: [describe main character in detail] Character 2: [describe second character in detail] Theme/story: [overall story theme] Scene breakdown: [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] Design style: cute 3D animated storybook style, warm emotional lighting, bright colors, soft shadows, child-friendly, clean panel borders, readable typography, neat poster composition, high detail. Important: Keep all 12 panels inside one single image. Make the layout clean and balanced. Keep the characters consistent in face, outfit, and colors. Make the text readable and properly placed. No cropped panels. No extra characters unless mentioned. Then upload that storyboard to Seedance 2.0 and use this prompt: Prompt: Generate a scene using the shots in the uploaded film storyboard. No text on screen. That’s it.
+```
+
+### Case 124: [12-Panel Storyboard Poster](https://x.com/bmx_ai13/status/2050432594647642414) (by [@bmx_ai13](https://x.com/bmx_ai13))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case124/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case124/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+A super simple workflow: 2 character images → GPT Image 2.0 storyboard → Seedance 2.0 animation. Just upload two character images and use the prompt below in GPT Image 2.0 to generate a full storyboard on a single page. Prompt: Create a clean, colorful storyboard poster in a 3x4 grid layout with 12 panels on a single page. Title at the top: "[MAIN TITLE]" Each panel must include: a scene number in a small circle, a short scene title, a colorful illustrated image, a 1–2 line description under the image. Main characters must remain visually consistent across all 12 panels: Character 1: [describe main character in detail] Character 2: [describe second character in detail] Theme/story: [overall story theme] Scene breakdown: [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] Design style: cute 3D animated storybook style, warm emotional lighting, bright colors, soft shadows, child-friendly, clean panel borders, readable typography, neat poster composition, high detail. Important: Keep all 12 panels inside one single image. Make the layout clean and balanced. Keep the characters consistent in face, outfit, and colors. Make the text readable and properly placed. No cropped panels. No extra characters unless mentioned. Then upload that storyboard to Seedance 2.0 and use this prompt: Prompt: Generate a scene using the shots in the uploaded film storyboard. No text on screen. That’s it.
+```
+
+<!-- Case 125: ブランドコラージュソーシャルテンプレート (by @aiistudiocom) -->
+### Case 125: [ブランドコラージュソーシャルテンプレート](https://x.com/aiistudiocom/status/2051241633921049024) (by [@aiistudiocom](https://x.com/aiistudiocom))
 
 | Output |
 | :----: |
@@ -812,8 +908,8 @@ A cinematic anime-inspired digital illustration set at night inside a cozy artis
 Act as a Social Media Art Director and Digital Collage Artist specializing in bold, youth-oriented brand content for Instagram and digital campaigns. PHASE 1: CONCEPTUAL FRAMEWORK Create a dynamic digital collage that merges fashion photography with graphic design chaos. This is controlled rebellion – a composition that feels spontaneous and energetic while maintaining brand coherence. The aesthetic is anti-polished: torn edges, layered textures, hand-drawn elements, and bold color blocking that screams confidence and movement. PHASE 2: MODEL & PHOTOGRAPHY - Subject: One model (diverse casting, age 18-30) in a dynamic, confident pose - Pose Energy: 80% attitude, 20% natural – sitting, jumping, mid-motion, or power stance (avoid static standing) - Outfit: Street style/athleisure that aligns with [BRAND NAME] aesthetic – casual but styled - Hero Product: Feature 1 signature [BRAND NAME] product prominently (sneakers, bag, apparel) – this is the visual anchor - Photography Style: Editorial fashion cutout – model extracted from background with clean edges - Camera Angle: Slight low angle to empower subject (hero perspective) - Crop: Full body or 3/4 body showing hero product clearly - Background Removal: Model cut out cleanly for layering over collage elements PHASE 3: COLOR BLOCKING FOUNDATION - Primary Color Blob: Large organic shape (40-60% of composition) in bold, saturated brand color behind/around model - Shape Style: Irregular, hand-painted aesthetic – think Photoshop brush strokes or torn paper texture (NOT perfect geometric shapes) - Color Selection (Autonomous): Choose 1 hero color from [BRAND NAME] palette: - Texture: Visible brush strokes, grain, or subtle noise (15-25% opacity) – avoid flat digital fills - Placement: Blob positioned to frame model without obscuring key product details PHASE 4: GRAPHIC ELEMENTS LAYER Add 3-5 abstract graphic elements scattered across composition: - Element Types: - Color Palette: Use 2-3 accent colors total (main blob color + 1-2 contrasting tones from brand palette) - Placement: Asymmetric scatter – top-left and bottom-right zones primarily (avoid center crowding) - Scale: Mix small (5% of canvas) and medium (15% of canvas) elements – nothing overpowering - Aesthetic: Analog/handmade feel – imperfect circles, rough edges, visible texture PHASE 5: TYPOGRAPHY INTEGRATION - Brand Logo: Clean [BRAND NAME] logo placed in upper-left or upper-right quadrant (10-15% of width) - Slogan/Tagline: If [BRAND NAME] has an iconic slogan, integrate it using: - Supporting Copy: Optional 1-line descriptor (e.g., "A MOMENT OF YOUR STYLE") in smaller uppercase sans-serif - Type Treatment: Mix of aligned and slightly rotated text (2-5° angles) for dynamic energy - Hierarchy: Logo largest → Slogan medium → Copy smallest PHASE 6: TEXTURE & BACKGROUND - Base Layer: Off-white or light gray textured background (NOT pure white) - Texture Options (Autonomous selection): - Color: RGB 245-250 (near-white with warmth) – maintains brightness while adding depth - Treatment: Texture should be felt, not seen – enhances tactility without competing with foreground PHASE 7: COMPOSITION RULES - Layout: Asymmetric balance – model off-center, graphic elements counter-balance - Breathing Room: 15-20% negative space (textured background visible) to prevent claustrophobia - Layering Order: Background texture → Color blob → Graphic elements → Model (cutout) → Typography top layer - Focal Point: Model + hero product = primary focus (60% visual weight), graphics support (40%) - Movement: Diagonal lines and angled elements create directional flow (top-left to bottom-right or vice versa) PHASE 8: BRAND INTELLIGENCE (AUTONOMOUS) Autonomously adapt composition based on [BRAND NAME] personality: - Streetwear/Sportswear (Nike, Adidas, Supreme): - Luxury Streetwear (Balenciaga, Off-White, Gucci): - Beauty/Lifestyle (Glossier, Fenty, Skims): - Tech/Modern (Apple, Tesla, Beats): PHASE 9: SOCIAL MEDIA FOOTER (OPTIONAL) - Bottom Strip: Clean white or light gray bar at bottom 8-10% of frame - Content: Social media handles (Instagram, Facebook, Twitter) in small sans-serif - Layout: Three-column grid with platform icons or text handles - Aesthetic: Minimal and professional – contrast with chaotic collage above TECHNICAL SPECS: - Aspect Ratio: 4:5 (Instagram feed) or 1:1 (square social post) - Resolution: 2400x3000px minimum (high-quality for zoom and detail) - Color Mode: sRGB, vibrant saturation (Instagram-optimized) - File Aesthetic: Digital collage that mimics analog craft (Photoshop + hand-drawn hybrid) - Model Photography: 85mm lens, f/2.8, shallow depth of field on original shoot (before cutout) - Style Reference: Nike social campaigns, Spotify wrapped graphics, Gen Z Instagram aesthetics, Hypebeast x streetwear collabs - Mood: Confident, energetic, youthful, authentic chaos, anti-corporate polish
 ```
 
-<!-- Case 126: Outfit Breakdown Chart (by @Shinning1010) -->
-### Case 126: [Outfit Breakdown Chart](https://x.com/Shinning1010/status/2051230882069901713) (by [@Shinning1010](https://x.com/Shinning1010))
+<!-- Case 126: コーディネート内訳チャート (by @Shinning1010) -->
+### Case 126: [コーディネート内訳チャート](https://x.com/Shinning1010/status/2051230882069901713) (by [@Shinning1010](https://x.com/Shinning1010))
 
 | Output |
 | :----: |
@@ -833,8 +929,8 @@ Negative Prompt:
 Chinese text, long text, messy layout, old parchment background, yellow aged paper, blurry details, distorted face, changed identity, extra limbs, bad hands, duplicated body, unrealistic fabric, cartoon style, anime style, 3D render, watermark, logo, unreadable typography, overcrowded design, harsh colors, low resolution.
 ```
 
-<!-- Case 127: Recipe Infographic Layout (by @aiistudiocom) -->
-### Case 127: [Recipe Infographic Layout](https://x.com/aiistudiocom/status/2051060312351342957) (by [@aiistudiocom](https://x.com/aiistudiocom))
+<!-- Case 127: レシピインフォグラフィックレイアウト (by @aiistudiocom) -->
+### Case 127: [レシピインフォグラフィックレイアウト](https://x.com/aiistudiocom/status/2051060312351342957) (by [@aiistudiocom](https://x.com/aiistudiocom))
 
 | Output |
 | :----: |
@@ -846,8 +942,8 @@ Chinese text, long text, messy layout, old parchment background, yellow aged pap
 Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-down view, minimal style on white background, ingredient photos labeled: "200g spaghetti", "150g mushrooms", "3 garlic cloves", "200ml cream", "1 tbsp olive oil", "parmesan", "parsley", dotted lines showing process steps with icons (boiling pot, sauté pan, mixing), final plated pasta shot at the bottom
 ```
 
-<!-- Case 128: Personal Color Analysis Graphic Board (by @ZaraIrahh) -->
-### Case 128: [Personal Color Analysis Graphic Board](https://x.com/ZaraIrahh/status/2049730770474877234) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+<!-- Case 128: パーソナルカラー分析グラフィックボード (by @ZaraIrahh) -->
+### Case 128: [パーソナルカラー分析グラフィックボード](https://x.com/ZaraIrahh/status/2049730770474877234) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
 
 | Output |
 | :----: |
@@ -859,8 +955,8 @@ Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-dow
 Create a personal color analysis graphic using this portrait. Point out which season colour suits the subject best. Show side-by-side clothing color comparisons to highlight which colors suit the subject best. List out what texture/accessories/hairstyle suit the subject best. Make it visual-first, with short labels only and no paragraphs.
 ```
 
-<!-- Case 129: Futuristic Hall Fashion Shot Sequence (by @weiinberg) -->
-### Case 129: [Futuristic Hall Fashion Shot Sequence](https://x.com/weiinberg/status/2049730563393884265) (by [@weiinberg](https://x.com/weiinberg))
+<!-- Case 129: 未来的ホールファッションショットシークエンス (by @weiinberg) -->
+### Case 129: [未来的ホールファッションショットシークエンス](https://x.com/weiinberg/status/2049730563393884265) (by [@weiinberg](https://x.com/weiinberg))
 
 | Output |
 | :----: |
@@ -888,8 +984,8 @@ no text, no watermark, no low quality, no cartoonish style
 Aspect Ratio: 3:4
 ```
 
-<!-- Case 130: Annotated Coffee Table Mood Board (by @Ciri_ai) -->
-### Case 130: [Annotated Coffee Table Mood Board](https://x.com/Ciri_ai/status/2049721047696732550) (by [@Ciri_ai](https://x.com/Ciri_ai))
+<!-- Case 130: 注釈付きコーヒーテーブルムードボード (by @Ciri_ai) -->
+### Case 130: [注釈付きコーヒーテーブルムードボード](https://x.com/Ciri_ai/status/2049721047696732550) (by [@Ciri_ai](https://x.com/Ciri_ai))
 
 | Output |
 | :----: |
@@ -925,8 +1021,8 @@ Maintain a clean, spacious layout with an Instagram story or magazine memo-like 
 The final result should look like an emotionally styled version of the original photo, without forcing in any elements that don’t naturally belong to it
 ```
 
-<!-- Case 131: High-Fashion Beverage Campaign Board (by @SPEEDAI07) -->
-### Case 131: [High-Fashion Beverage Campaign Board](https://x.com/SPEEDAI07/status/2049713995851202786) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+<!-- Case 131: ハイファッションビバレッジキャンペーンボード (by @SPEEDAI07) -->
+### Case 131: [ハイファッションビバレッジキャンペーンボード](https://x.com/SPEEDAI07/status/2049713995851202786) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
 
 | Output |
 | :----: |
@@ -1032,6 +1128,250 @@ Style: premium but bold, modern campaign aesthetic, slightly experimental layout
 Aspect ratio: vertical (9:16 preferred)
 ```
 
+
+### Case 132: 全网百万关注挑战UI设计
+
+**Source**: [@cellinlab](https://x.com/cellinlab/status/2051865803855630375)
+
+**Prompt**:
+```
+想做一个 全网百万关注 挑战计划，准备做个页面来展示我全平台的 关注人数和 目标人数🎯，目前平台包括 X/推特、youtube、小红书、抖音、微信视频号、微信公众号、B站 等，帮我想办法设计下这个页面，做一套UI效果图，支持 Web 和 mobile，另外设计个小组件，方便在 OBS 直播中叠加
+
+效果👉
+```
+
+**Output**:
+
+<img src="../images/ui_case132/output.jpg" width="500">
+
+---
+
+### Case 132: 全网百万关注挑战UI设计
+
+**Source**: [@cellinlab](https://x.com/cellinlab/status/2051865803855630375)
+
+**Prompt**:
+```
+想做一个 全网百万关注 挑战计划，准备做个页面来展示我全平台的 关注人数和 目标人数🎯，目前平台包括 X/推特、youtube、小红书、抖音、微信视频号、微信公众号、B站 等，帮我想办法设计下这个页面，做一套UI效果图，支持 Web 和 mobile，另外设计个小组件，方便在 OBS 直播中叠加
+
+效果👉
+```
+
+**Output**:
+
+<img src="../images/ui_case132/output.jpg" width="500">
+
+---
+
+### Case 133: Cozy Sunrise Desk Flatlay
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2052422212423196925)
+
+**Prompt**:
+```
+Sunrise Desk Flatlay
+Top-down cozy desk flatlay near a sunrise window, wooden table filled with coffee, camera, headphones, notebooks, fruit bowl, cassette player, glasses and phone playing music, warm sunrise reflections, nostalgic morning atmosphere, handwritten doodle annotations around every object, pastel sketch overlays, cute arrows, stars and handwritten motivational phrases, realistic lifestyle photography mixed with diary aesthetics, soft golden lighting, cinematic composition, vintage indie mood, highly detailed textures, warm creamy tones, relaxing morning ritual vibe, 8k.
+
+Prompt 2:
+ Cozy Study Desk Setup
+Ultra cozy study desk scene during early morning golden hour, cluttered but aesthetic workspace filled with open books, sticky notes, warm desk lamp, coffee mug, laptop, pens and stationery, calming productivity atmosphere, soft sunlight through the window, vintage academic vibe, handwritten doodle overlays with “focus mode on”, hearts, arrows, stars and tiny notes, realistic cinematic lighting, visual diary aesthetic, warm earthy colors, dreamy slice-of-life mood, indie room decor, highly detailed cozy textures, film grain, 8k.
+```
+
+**Output**:
+
+<img src="../images/ui_case133/output.jpg" width="500">
+
+---
+
+### Case 133: Cozy Sunrise Desk Flatlay
+
+**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2052422212423196925)
+
+**Prompt**:
+```
+Sunrise Desk Flatlay
+Top-down cozy desk flatlay near a sunrise window, wooden table filled with coffee, camera, headphones, notebooks, fruit bowl, cassette player, glasses and phone playing music, warm sunrise reflections, nostalgic morning atmosphere, handwritten doodle annotations around every object, pastel sketch overlays, cute arrows, stars and handwritten motivational phrases, realistic lifestyle photography mixed with diary aesthetics, soft golden lighting, cinematic composition, vintage indie mood, highly detailed textures, warm creamy tones, relaxing morning ritual vibe, 8k.
+
+Prompt 2:
+ Cozy Study Desk Setup
+Ultra cozy study desk scene during early morning golden hour, cluttered but aesthetic workspace filled with open books, sticky notes, warm desk lamp, coffee mug, laptop, pens and stationery, calming productivity atmosphere, soft sunlight through the window, vintage academic vibe, handwritten doodle overlays with “focus mode on”, hearts, arrows, stars and tiny notes, realistic cinematic lighting, visual diary aesthetic, warm earthy colors, dreamy slice-of-life mood, indie room decor, highly detailed cozy textures, film grain, 8k.
+```
+
+**Output**:
+
+<img src="../images/ui_case133/output.jpg" width="500">
+
+---
+
+### Case 134: Custom Car Blueprint Sketch Render
+
+**Source**: [@ShamiWeb3](https://x.com/ShamiWeb3/status/2052398818533220652)
+
+**Prompt**:
+```
+“Highly detailed technical blueprint sketch and realistic 3D–render fusion of a custom modified car 2027 BMW iM3.
+Transform the car into a tuned concept blueprint with an aggressive lowered stance, wide-body aesthetic (adapted to match the real car’s form), and bold racing stripe accents matching or enhancing the original photo colors.
+Add large aftermarket-style wheels inspired by the car in the photo (accurate spoke design & size), sharp LED-like lighting details, and sporty aerodynamic additions such as front spoiler, side skirts, rear diffuser, and small spoiler — all adjusted realistically to the BMW iM3’s geometry.
+Surround the main render with precise engineering-style blueprint elements: multiple orthographic views (front, rear, side, top) derived from the reference photo, construction lines, mm-dimensions, exploded-view details for wheels, suspension, and body kit components.
+Art style combines pencil/ink drafting with fine cross-hatching, clean annotations, and a photorealistic shaded center render.
+Blueprint background in soft light-blue or sepia technical-paper texture, ultra-detailed, professional automotive concept-design composition.
+--ar 9:16 --stylize 300 --v 6 --q 2”
+```
+
+**Output**:
+
+<img src="../images/ui_case134/output.jpg" width="500">
+
+---
+
+### Case 134: Custom Car Blueprint Sketch Render
+
+**Source**: [@ShamiWeb3](https://x.com/ShamiWeb3/status/2052398818533220652)
+
+**Prompt**:
+```
+“Highly detailed technical blueprint sketch and realistic 3D–render fusion of a custom modified car 2027 BMW iM3.
+Transform the car into a tuned concept blueprint with an aggressive lowered stance, wide-body aesthetic (adapted to match the real car’s form), and bold racing stripe accents matching or enhancing the original photo colors.
+Add large aftermarket-style wheels inspired by the car in the photo (accurate spoke design & size), sharp LED-like lighting details, and sporty aerodynamic additions such as front spoiler, side skirts, rear diffuser, and small spoiler — all adjusted realistically to the BMW iM3’s geometry.
+Surround the main render with precise engineering-style blueprint elements: multiple orthographic views (front, rear, side, top) derived from the reference photo, construction lines, mm-dimensions, exploded-view details for wheels, suspension, and body kit components.
+Art style combines pencil/ink drafting with fine cross-hatching, clean annotations, and a photorealistic shaded center render.
+Blueprint background in soft light-blue or sepia technical-paper texture, ultra-detailed, professional automotive concept-design composition.
+--ar 9:16 --stylize 300 --v 6 --q 2”
+```
+
+**Output**:
+
+<img src="../images/ui_case134/output.jpg" width="500">
+
+---
+
+### Case 135: Flavors of Moscow Food Infographic
+
+**Source**: [@AIwithAliya](https://x.com/AIwithAliya/status/2052412558678905255)
+
+**Prompt**:
+```
+Cool PROMPT for GPT Image 2 Creating stylish infographics. Prompt below:
+
+Minimal high-end infographic titled "FLAVORS OF MOSCOW", soft off-white background, detailed 3D map of Moscow centered with clean nano gemini layout. Surround with aesthetic food elements like borscht, pelmeni, blini, and black bread, along with birch tree motifs and minimal cultural icons. Highlight regions: KREMLIN DISTRICT (Kvass, historic skyline) ARBAT (Street food, Shashlik) ZAMOSKVORECHYE (Traditional cuisine, Syrniki) PATRIARCH'S PONDS (Cafés, Medovik cake) Side text blocks:
+```
+
+**Output**:
+
+<img src="../images/ui_case135/output.jpg" width="500">
+
+---
+
+### Case 135: Flavors of Moscow Food Infographic
+
+**Source**: [@AIwithAliya](https://x.com/AIwithAliya/status/2052412558678905255)
+
+**Prompt**:
+```
+Cool PROMPT for GPT Image 2 Creating stylish infographics. Prompt below:
+
+Minimal high-end infographic titled "FLAVORS OF MOSCOW", soft off-white background, detailed 3D map of Moscow centered with clean nano gemini layout. Surround with aesthetic food elements like borscht, pelmeni, blini, and black bread, along with birch tree motifs and minimal cultural icons. Highlight regions: KREMLIN DISTRICT (Kvass, historic skyline) ARBAT (Street food, Shashlik) ZAMOSKVORECHYE (Traditional cuisine, Syrniki) PATRIARCH'S PONDS (Cafés, Medovik cake) Side text blocks:
+```
+
+**Output**:
+
+<img src="../images/ui_case135/output.jpg" width="500">
+
+---
+
+### Case 136: Football Kit Chibi Figurine
+
+**Source**: [@mehvishs25](https://x.com/mehvishs25/status/2052558799647703180)
+
+**Prompt**:
+```
+;
+
+3D rendered caricature figurine of a stylish young woman, big head chibi style, designed to closely match the reference girl’s facial features, hairstyle, and overall vibe. She is wearing a trendy yellow and blue sporty streetwear outfit inspired by a professional football kit, fitted crop jersey with matching shorts, subtle number 7 detail on the shorts, captain’s armband on left arm, white wristband, confident arms-crossed pose, long dark silky hair with soft waves, small diamond stud earrings, white sporty sneakers with blue accents, knee-high yellow athletic socks, standing in a powerful confident stance, full body shot, bold red background, ultra detailed realistic 3D render, cinematic studio lighting, sharp shadows, premium collector toy aesthetic, glossy vinyl figure finish, high-end designer collectible style
+```
+
+**Output**:
+
+<img src="../images/ui_case136/output.jpg" width="500">
+
+---
+
+### Case 136: Football Kit Chibi Figurine
+
+**Source**: [@mehvishs25](https://x.com/mehvishs25/status/2052558799647703180)
+
+**Prompt**:
+```
+;
+
+3D rendered caricature figurine of a stylish young woman, big head chibi style, designed to closely match the reference girl’s facial features, hairstyle, and overall vibe. She is wearing a trendy yellow and blue sporty streetwear outfit inspired by a professional football kit, fitted crop jersey with matching shorts, subtle number 7 detail on the shorts, captain’s armband on left arm, white wristband, confident arms-crossed pose, long dark silky hair with soft waves, small diamond stud earrings, white sporty sneakers with blue accents, knee-high yellow athletic socks, standing in a powerful confident stance, full body shot, bold red background, ultra detailed realistic 3D render, cinematic studio lighting, sharp shadows, premium collector toy aesthetic, glossy vinyl figure finish, high-end designer collectible style
+```
+
+**Output**:
+
+<img src="../images/ui_case136/output.jpg" width="500">
+
+---
+
+### Case 137: Exploded Museum Assembly Diagram
+
+**Source**: [@Gdgtify](https://x.com/Gdgtify/status/2052498708521259162)
+
+**Prompt**:
+```
+16:9 2x2 grid, do this for cybertruck, reaper drone, james webb telescope, and another complex machine: do this for cybertruck: { "exhibit_type": "physical exploded assembly", "subject": "$complex_invention", // e.g., "an enigma machine", "a mechanical chronometer" "physical_constraints": { "state": "the machine is pulled apart into its 50 primary components along a horizontal axis.", "support_system": "no magical floating. every single floating gear and casing is physically held in the air by taut, thin, steel suspension wires and heavy brass museum clamps.", "background": "a flat, neutral-grey museum wall." }, "lighting_and_shadows": { "setup": "hard spotlighting from the top left.", "shadow_effect": "critical: the floating, separated components and their suspension wires must cast a highly complex, overlapping, beautiful shadow pattern directly onto the grey wall behind them." } }
+```
+
+**Output**:
+
+<img src="../images/ui_case137/output.jpg" width="500">
+
+---
+
+### Case 137: Exploded Museum Assembly Diagram
+
+**Source**: [@Gdgtify](https://x.com/Gdgtify/status/2052498708521259162)
+
+**Prompt**:
+```
+16:9 2x2 grid, do this for cybertruck, reaper drone, james webb telescope, and another complex machine: do this for cybertruck: { "exhibit_type": "physical exploded assembly", "subject": "$complex_invention", // e.g., "an enigma machine", "a mechanical chronometer" "physical_constraints": { "state": "the machine is pulled apart into its 50 primary components along a horizontal axis.", "support_system": "no magical floating. every single floating gear and casing is physically held in the air by taut, thin, steel suspension wires and heavy brass museum clamps.", "background": "a flat, neutral-grey museum wall." }, "lighting_and_shadows": { "setup": "hard spotlighting from the top left.", "shadow_effect": "critical: the floating, separated components and their suspension wires must cast a highly complex, overlapping, beautiful shadow pattern directly onto the grey wall behind them." } }
+```
+
+**Output**:
+
+<img src="../images/ui_case137/output.jpg" width="500">
+
+---
+
+### Case 138: X Profile Card Cutout Girl
+
+**Source**: [@you1873118](https://x.com/you1873118/status/2052549593100136583)
+
+**Prompt**:
+```
+一只手中握着一张X / Twitter 风格个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和下柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，推特风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学
+```
+
+**Output**:
+
+<img src="../images/ui_case138/output.jpg" width="500">
+
+---
+
+### Case 138: X Profile Card Cutout Girl
+
+**Source**: [@you1873118](https://x.com/you1873118/status/2052549593100136583)
+
+**Prompt**:
+```
+一只手中握着一张X / Twitter 风格个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和下柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，推特风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学
+```
+
+**Output**:
+
+<img src="../images/ui_case138/output.jpg" width="500">
+
+---
 
 ### Case 139: Smartphone Screen Breakthrough Ad
 
@@ -1146,9 +1486,9 @@ A screenshot from a live Wimbledon TV broadcast during a packed Centre Court mat
 
 ---
 
-<!-- Case 143: Handwritten Study Infographic Poster (by @YaZoraiz) -->
+<!-- Case 143: 手書き学習インフォグラフィックポスター (by @YaZoraiz) -->
 
-### Case 143: [Handwritten Study Infographic Poster](https://x.com/YaZoraiz/status/2054264025178079718) (by [@YaZoraiz](https://x.com/YaZoraiz))
+### Case 143: [手書き学習インフォグラフィックポスター](https://x.com/YaZoraiz/status/2054264025178079718) (by [@YaZoraiz](https://x.com/YaZoraiz))
 
 | Output |
 | :----: |
@@ -1167,9 +1507,9 @@ The composition feels cozy, aesthetic, and highly organized—like a Pinterest v
 Ultra-detailed, 4K resolution, top-down flat lay perspective, modern stationery aesthetic, soft depth of field, realistic paper texture, high-end digital illustration style.
 ```
 
-<!-- Case 144: Brand Identity Moodboard System (by @SaasJunctionHQ) -->
+<!-- Case 144: ブランドアイデンティティムードボードシステム (by @SaasJunctionHQ) -->
 
-### Case 144: [Brand Identity Moodboard System](https://x.com/SaasJunctionHQ/status/2054666436698845299) (by [@SaasJunctionHQ](https://x.com/SaasJunctionHQ))
+### Case 144: [ブランドアイデンティティムードボードシステム](https://x.com/SaasJunctionHQ/status/2054666436698845299) (by [@SaasJunctionHQ](https://x.com/SaasJunctionHQ))
 
 | Output |
 | :----: |
@@ -1181,9 +1521,9 @@ Ultra-detailed, 4K resolution, top-down flat lay perspective, modern stationery 
 Full-blown brand identity system [BRAND NAME] — Brand Identity Moodboard STEP 1 — DECODE THE BRAND Extract from real brand guidelines only: - Colors: full official palette (primary, secondary, neutrals, accents) — exact, no approximations - Type: weight, width, tracking, capitalization character — applied identically across all cards - Copy: real slogans, campaigns, product names, manifesto phrases — zero invented text - World: the domain (sport / tech / fashion / music / etc.) — all imagery stays inside it STEP 2 — OUTPUT Single 16:9 flat image. Black (#000–#0A0A0A) background. 8 cards in an asymmetric 3-column grid. Uniform 8–12px gaps. Rounded corners 8–12px. Every card uses only Step 1 colors, type, and copy. CARDS — in order: 1. LOGO LOCKUP (wide, top-left) — brand color BG, official logo/wordmark, oversized cropped logo mark as structural graphic. No photo. 2. EDITORIAL PHOTO (mid-left) — dark photo from brand world, manifesto headline in brand type over image, wordmark small at bottom. 3. CAMPAIGN BANNER (wide, bottom-left) — flat accent color BG, real event/campaign headline bold-condensed left side, action photo cropped into right side. 4. STORY FORMAT (tall, center full-height) — full-bleed photo, oversized display type partially cropped by edges, date/location detail top. Mobile story proportions. 5. TYPOGRAPHIC POSTER (upper center-right) — vivid accent BG, campaign headline with one letter replaced by a real brand-world object, edition tag below. 6. COLOR PALETTE (center-right) — vertical equal stripes, one per brand color, color name labeled bottom each stripe. No photo. Zero decoration. 7. PRODUCT MOCKUP (upper right) — studio photo of real brand product or branded device/interface, neutral BG, accurate logo/color/type placement. 8. TYPE PATTERN (lower right) — brand name/slogan repeated as all-over pattern at varied sizes/angles, editorial photo overlaid and color-treated to integrate. RULE: A person who knows this brand must immediately confirm every card belongs to it. Output quality: Behance brand identity case study / agency pitch deck.
 ```
 
-<!-- Case 145: Landscape Architecture Board (by @iamaiistudio) -->
+<!-- Case 145: ランドスケープアーキテクチャーボード (by @iamaiistudio) -->
 
-### Case 145: [Landscape Architecture Board](https://x.com/iamaiistudio/status/2054654236705845670) (by [@iamaiistudio](https://x.com/iamaiistudio))
+### Case 145: [ランドスケープアーキテクチャーボード](https://x.com/iamaiistudio/status/2054654236705845670) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -1195,9 +1535,9 @@ Full-blown brand identity system [BRAND NAME] — Brand Identity Moodboard STEP 
 Generate a 3:4 vertical, competition-grade landscape architecture presentation board. The board blends photorealistic aerial rendering with refined architectural diagram language, in the style of a high-end international landscape competition submission. Mood: calm, atmospheric, regenerative, ecological, scientific yet poetic. Layout (three stacked zones): 1. Top zone: analytical ecological diagrams and mapping overlays. 2. Middle zone: a large aerial landscape rendering as the primary focal image. 3. Bottom zone: a continuous sectional cut through the ecological landscape system. Top analytical zone: • Simplified ecological maps with soft, transparent color overlays. • Ultra-thin linework in white and pale gray. • Diagrams of water flow, circulation systems, ecological networks, habitat zones, and landscape connectivity. • Dashed lines for movement and flow. • Minimal annotations and soft ecological icons. • Floating overlay effect sitting above the rendering. • Very light pastel tones, high transparency, clean spacing, no dense clutter. Middle aerial rendering: • Bird's-eye view of an ecological restoration landscape. • Wetlands, ponds, flowing water systems, vegetation patches, bioswales, regenerative terrain. • Soft, slightly desaturated palette of greens, browns, and muted water blues. • Atmospheric depth with subtle haze in the distance. • Gentle human and ecological activity: walking paths, birds, small environmental interactions. • Wide landscape depth, smooth terrain transitions, calm cinematic environmental lighting. • Soft paper-texture finish integrated into the rendering. Bottom sectional cut: • Continuous section through terrain and ecological systems. • Soil layers, hydrology, groundwater movement, vegetation roots, ecological restoration processes, water filtration systems. • Thin white or pale linework, muted tones, minimal color. • Arrows indicating water movement and ecological flow. • Elegant architectural drafting quality, seamlessly merged into the board. Diagram language: extremely thin and precise linework, slightly softened edges (no harsh vector look), minimal labels, clean scientific notation, soft ecological symbols, balanced between scientific clarity and poetic visualization. Color system: • Base: desaturated greens, earthy browns, muted blue water tones. • Overlay: pale green, soft cyan, light beige, translucent pastel layers. • Avoid saturated accents, harsh contrast, bright reds, or overly graphic colors. Texture and atmosphere: soft atmospheric rendering, slight environmental haze, diffused lighting, subtle paper-grain or printed board texture, refined competition-board aesthetic. Format: 3:4 vertical architectural competition board composition. #AIart #GPTImage2
 ```
 
-<!-- Case 146: Graphic Design Portfolio Mockup (by @abs_uiux) -->
+<!-- Case 146: グラフィックデザインポートフォリオモックアップ (by @abs_uiux) -->
 
-### Case 146: [Graphic Design Portfolio Mockup](https://x.com/abs_uiux/status/2054594512983310572) (by [@abs_uiux](https://x.com/abs_uiux))
+### Case 146: [グラフィックデザインポートフォリオモックアップ](https://x.com/abs_uiux/status/2054594512983310572) (by [@abs_uiux](https://x.com/abs_uiux))
 
 | Output |
 | :----: |
@@ -1209,9 +1549,9 @@ Generate a 3:4 vertical, competition-grade landscape architecture presentation b
 Create a premium graphic design portfolio mockup in a professional creative studio style. Show a clean, elegant workspace presentation featuring multiple graphic design project cards arranged in a refined grid layout, a modern laptop screen displaying a portfolio homepage, and several printed posters laid out neatly on the desk and mounted on the wall. Use a polished creative-director aesthetic with soft shadows, subtle depth, realistic materials, and a high-end studio atmosphere. Include sleek typography placeholders, branding samples, editorial-style poster designs, business cards, stationery, notebook, pen, coffee cup, desk lamp, and small plant for a realistic studio setup. The design should have a clean grid layout, balanced spacing, soft realistic shadows, premium lighting, and neutral luxury tones such as black, white, warm beige, gray, champagne, and cream. Make the laptop screen show a minimal portfolio interface with project thumbnails, navigation menu, and bold hero text. Add multiple portfolio project cards such as logo design, brand identity, poster design, packaging design, social media design, UI/UX design, and advertising campaign mockups. Arrange everything professionally with a modern minimalist style, sharp details, clean typography, elegant composition, and a premium creative agency presentation look. Style: high-end graphic design portfolio, modern creative studio, luxury branding mockup, clean desk setup, realistic shadows, editorial layout, minimalist premium design, professional presentation, 4K, ultra-detailed.
 ```
 
-<!-- Case 147: Neo-Noir Character Design Board (by @Mind_Boticni) -->
+<!-- Case 147: ネオノワールキャラクターデザインボード (by @Mind_Boticni) -->
 
-### Case 147: [Neo-Noir Character Design Board](https://x.com/Mind_Boticni/status/2054542152781431075) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+### Case 147: [ネオノワールキャラクターデザインボード](https://x.com/Mind_Boticni/status/2054542152781431075) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
 
 | Output |
 | :----: |
@@ -1223,8 +1563,8 @@ Create a premium graphic design portfolio mockup in a professional creative stud
 Create a cinematic realistic character design board for a high-budget neo-noir film production set in a rain-soaked futuristic city. Use a dark charcoal and electric cyan color palette with neon reflections in the background. Avoid generic grids or symmetrical layouts; composition should feel like a stylized director’s pitch board. Design a grounded human character with realistic anatomy, subtle imperfections, and strong emotional presence. Include full-body turnarounds, expressive head angles, cinematic portrait, wardrobe breakdown, fabric texture detail, and production notes. Background: blurred cyberpunk city lights, wet glass reflections, moody atmosphere, soft neon glow. Style: semi-realistic cinematic realism, high contrast lighting, shallow depth of field, film grain, emotional intensity.
 ```
 
-<!-- Case 148: Heliotropic Architecture Board (by @Gdgtify) -->
-### Case 148: [Heliotropic Architecture Board](https://x.com/Gdgtify/status/2055773537257034007) (by [@Gdgtify](https://x.com/Gdgtify))
+<!-- Case 148: ヘリオトロピックアーキテクチャーボード (by @Gdgtify) -->
+### Case 148: [ヘリオトロピックアーキテクチャーボード](https://x.com/Gdgtify/status/2055773537257034007) (by [@Gdgtify](https://x.com/Gdgtify))
 
 | Output |
 | :----: |
@@ -1236,8 +1576,8 @@ Create a cinematic realistic character design board for a high-budget neo-noir f
 16:9 autonomous kinetic architecture, the heliotropic tracking mechanics of [aerospace/solar tracking array] shaping an adaptive, luxury [outdoor architectural structure], sequence from [astronomical/solar path diagrams] to [robotic kinematic wireframes] to a programmable louvre abstraction to the final architectural installation, ai to infer smart-motor integration and weather-responsive materials utilizing [material 1] and [material 2], featuring time-lapse shadow projection diagrams, [aesthetic style] aesthetic, presentation layout: solar path charts at the top, robotic hinge details in the margins, stunning photorealistic architectural render below, [lighting style].  input: [deep space network satellite dish array], [smart kinetic patio pergola], [equatorial solar trajectory mapping], [multi-axis pivoting joint schematics], [photovoltaic-coated tinted glass], [extruded matte bronze aluminum], [contemporary silicon valley billionaire estate], [golden hour sunlight casting intricate geometric shadows]
 ```
 
-<!-- Case 149: Brand Identity Guideline Board (by @Shorelyn_) -->
-### Case 149: [Brand Identity Guideline Board](https://x.com/Shorelyn_/status/2055681687284293991) (by [@Shorelyn_](https://x.com/Shorelyn_))
+<!-- Case 149: ブランドアイデンティティガイドラインボード (by @Shorelyn_) -->
+### Case 149: [ブランドアイデンティティガイドラインボード](https://x.com/Shorelyn_/status/2055681687284293991) (by [@Shorelyn_](https://x.com/Shorelyn_))
 
 | Output |
 | :----: |
@@ -1351,8 +1691,8 @@ agency presentation-ready
 visually consistent and detailed
 ```
 
-<!-- Case 150: Illustrated 2027 Desktop Calendar (by @Mind_Boticni) -->
-### Case 150: [Illustrated 2027 Desktop Calendar](https://x.com/Mind_Boticni/status/2055663029195575396) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
+<!-- Case 150: イラスト入り2027デスクトップカレンダー (by @Mind_Boticni) -->
+### Case 150: [イラスト入り2027デスクトップカレンダー](https://x.com/Mind_Boticni/status/2055663029195575396) (by [@Mind_Boticni](https://x.com/Mind_Boticni))
 
 | Output |
 | :----: |
@@ -2604,8 +2944,8 @@ Scatter handwritten marker-style notes, introductions, personal thoughts, and li
 Maintain an anti-grid editorial layout with intentionally imperfect spacing and playful placement. Mix tiny system fonts, handwritten script, and casual notebook-style annotations. Keep the portrait entirely monochrome while reserving color only for the logo, navigation stickers, and a few small graphic accents.
 ```
 
-<!-- Case 184: 色鉛筆風フォト変換 (by @AIwithSynthia) -->
-### Case 184: [色鉛筆風フォト変換](https://x.com/AIwithSynthia/status/2066154697828782245) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
+<!-- Case 184: 色鉛筆写真変換 (by @AIwithSynthia) -->
+### Case 184: [色鉛筆写真変換](https://x.com/AIwithSynthia/status/2066154697828782245) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
 
 | Output |
 | :----: |
@@ -2632,7 +2972,7 @@ Highly detailed, colored pencil illustration, crayon art style, hand-sketched te
 
 **プロンプト:**
 
-```json
+```
 {
   "type": "18-section complete brand identity and mascot design sheet",
   "brand": {
@@ -2936,8 +3276,8 @@ No dialogue, no commentary. Reverent, charged, slightly supernatural sound desig
 Negatives: no player, face, likeness, body, or silhouette; no Messi depiction; no crown before Shot 07; no clean-prop or medieval crown; the fourth jewel must not blaze like the first three; one field and one net only, never three nets; the number 10 only as organic half-found field geometry, never an overlay; no logos, crests, brand marks, trophy replicas, or readable text; no match-recap energy; no identity drift, no jitter or temporal flicker, no warped geometry, no floating objects, no watermarks; no movement arrows, camera notes, panel numbers, captions, labels, borders, or storyboard markings in the video.
 ```
 
-<!-- Case 188: Douyinライブ配信スクリーンショット (by @iamaiistudio) -->
-### Case 188: [Douyinライブ配信スクリーンショット](https://x.com/iamaiistudio/status/2068123767994523857) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 188: 抖音ライブ配信スクリーンショット (by @iamaiistudio) -->
+### Case 188: [抖音ライブ配信スクリーンショット](https://x.com/iamaiistudio/status/2068123767994523857) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -2949,8 +3289,8 @@ Negatives: no player, face, likeness, body, or silhouette; no Messi depiction; n
 Vertical 9:16 aspect ratio. Create a realistic Douyin (TikTok China) live broadcast screenshot. The scene shows Liu Yifei hosting a live stream, holding up a sign that reads: "Streaming live tonight, join the chat with Yifei!" Capture the authentic look of a Chinese mobile livestreaming interface.
 ```
 
-<!-- Case 189: AR食料品売り場オーバーレイPOV (by @iamaiistudio) -->
-### Case 189: [AR食料品売り場オーバーレイPOV](https://x.com/iamaiistudio/status/2067987931651068364) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 189: AR食料品オーバーレイPOV (by @iamaiistudio) -->
+### Case 189: [AR食料品オーバーレイPOV](https://x.com/iamaiistudio/status/2067987931651068364) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |
@@ -2965,8 +3305,8 @@ Full prompt:
 A first-person point-of-view (POV) shot inside a modern supermarket aisle. The viewer's hands are holding a mixed fruit jam jar with colorful branding, showing a blend of strawberry, blueberry, and orange flavors. Floating around the jar are sleek, semi-transparent Augmented Reality (AR) digital interfaces and holographic HUDs. The overlays display "Flavor Mix" with fruit icons, "Nutrition Info," and a glowing "Freshness Meter" reading 9/10. A digital shopping list with checkmarks for bread and butter appears beside the jar, along with small recipe suggestions like breakfast toast, pancakes, and desserts. The background shelves are slightly blurred with other products and shoppers, creating realistic depth of field. Bright, clean lighting with a futuristic retail atmosphere, ultra-realistic, cinematic look, high-tech AR glasses perspective, vertical composition.
 ```
 
-<!-- Case 190: Chinese Wildlife Infographic (by @iamaiistudio) -->
-### Case 190: [中国の野生動物インフォグラフィック](https://x.com/iamaiistudio/status/2068852226844664044) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 190: 中国野生動物インフォグラフィック (by @iamaiistudio) -->
+### Case 190: [中国野生動物インフォグラフィック](https://x.com/iamaiistudio/status/2068852226844664044) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/ui_case190/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case190/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 中国の野生動物インフォグラフィック"></a></td><td width="50%"><a href="../images/ui_case190/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case190/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 中国の野生動物インフォグラフィック"></a></td></tr>
@@ -2978,8 +3318,8 @@ A first-person point-of-view (POV) shot inside a modern supermarket aisle. The v
 Design a visually rich infographic about an endangered animal using Chinese text. Feature a photorealistic animal as the main focal point, surrounded by annotated diagrams, structured callouts, and concise labels covering its habitat, diet, and distinctive traits. Blend photorealism with bold graphic design elements including color blocking, icons, and layered shapes on a clean background. Make it dense with information, tactile in feel, and professionally crafted.
 ```
 
-<!-- Case 191: 北欧クックブック レシピレイアウト (by @iamaiistudio) -->
-### Case 191: [北欧クックブック レシピレイアウト](https://x.com/iamaiistudio/status/2069197657147638241) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 191: スカンジナビア料理レシピ見開き (by @iamaiistudio) -->
+### Case 191: [スカンジナビア料理レシピ見開き](https://x.com/iamaiistudio/status/2069197657147638241) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/ui_case191/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case191/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 北欧クックブック レシピレイアウト"></a></td><td width="50%"><a href="../images/ui_case191/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case191/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 北欧クックブック レシピレイアウト"></a></td></tr>
@@ -3089,8 +3429,8 @@ Design a visually rich infographic about an endangered animal using Chinese text
   ]
 }
 ```
-<!-- Case 192: モジュラー ブランドアイコン システム (by @iamaiistudio) -->
-### Case 192: [モジュラー ブランドアイコン システム](https://x.com/iamaiistudio/status/2069150843430215859) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 192: モジュラーブランドアイコンシステム (by @iamaiistudio) -->
+### Case 192: [モジュラーブランドアイコンシステム](https://x.com/iamaiistudio/status/2069150843430215859) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/ui_case192/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case192/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - モジュラー ブランドアイコン システム"></a></td><td width="50%"><a href="../images/ui_case192/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case192/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - モジュラー ブランドアイコン システム"></a></td></tr>
@@ -3102,8 +3442,8 @@ Design a visually rich infographic about an endangered animal using Chinese text
 ```
 Design a unified set of charming, expressive icons for [BRAND NAME], a [BRAND TYPE/INDUSTRY] company. The visual style should be [STYLE KEYWORDS: e.g., rounded, 3D, flat, hand-drawn, minimal] paired with a [COLOR STYLE: vibrant, pastel, gradient, monochrome] color scheme. Apply [DESIGN TRAITS: soft shadows, bold outlines, subtle textures, glow, etc.] to achieve a warm and contemporary look. Keep a consistent visual system across all icons using shared grids, proportions, and design language. The icon set should cover [LIST OF FEATURES/FUNCTIONS]. Prioritize sharp legibility, well-balanced spacing, and scalability across UI, apps, and branding contexts.
 ```
-<!-- Case 193: 遠征計画コマンドボード (by @iamaiistudio) -->
-### Case 193: [遠征計画コマンドボード](https://x.com/iamaiistudio/status/2069104692098130014) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 193: 探検計画コマンドボード (by @iamaiistudio) -->
+### Case 193: [探検計画コマンドボード](https://x.com/iamaiistudio/status/2069104692098130014) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/ui_case193/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case193/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 遠征計画コマンドボード"></a></td><td width="50%"><a href="../images/ui_case193/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case193/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 遠征計画コマンドボード"></a></td></tr>
@@ -3115,8 +3455,8 @@ Design a unified set of charming, expressive icons for [BRAND NAME], a [BRAND TY
 ```
 A strategic command board for an expedition leader planning [JOURNEY / MISSION] to [DESTINATION / ERA]. Left panel: detailed topographic route map with labeled waypoints, annotated danger zones, and a timeline running along the edge. Center panel: overhead flat lay of every piece of kit in neat organized rows, each item tagged by weight and function, redundancies flagged, nothing unnecessary included. Right panel: the expedition in motion or the destination reached, small human figures against a vast landscape, scale unmistakable. Visual language shifts from cartographic precision through functional inventory documentation to sweeping epic environmental photography. Title block reads: "[EXPEDITION NAME] — [ROUTE], [DATE], [OBJECTIVE]".
 ```
-<!-- Case 194: ライブコマース UI モックアップ (by @iamaiistudio) -->
-### Case 194: [ライブコマース UI モックアップ](https://x.com/iamaiistudio/status/2069090579355668501) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 194: ライブ配信コマースUIモックアップ (by @iamaiistudio) -->
+### Case 194: [ライブ配信コマースUIモックアップ](https://x.com/iamaiistudio/status/2069090579355668501) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 | Output |
 | :----: |

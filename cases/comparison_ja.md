@@ -711,6 +711,42 @@ Use dramatic, saturated lighting, crisp detail, realistic clothing folds, authen
 Given a story concept, generate a complete Miyazaki-style animated short film: write a 30-shot script → generate watercolor storyboard images (gpt-image-1) → plan SOFT/HARD transitions → produce video clips with Seedance 2.0 using first/last-frame binding → synthesize the original ambient piano score → stitch everything into a final MP4 with music.
 ```
 
+### Case 77: [Printable Paint by Numbers](https://x.com/TheRoaringToady/status/2050469389720314030) (by [@TheRoaringToady](https://x.com/TheRoaringToady))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case77/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case77/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+🎨 This GPT Image 2 prompt turns any image into a printable paint-by-numbers page. For best results, use ChatGPT in Thinking mode. I think we should call it numberfying. The intellectuals can call it Colorbookification. 😂 I tried it with a few TurboToadToken images and the results are wild. 🐸💛 Create it. Print it. Paint it. For kids, adults, and anyone who wants an easy creative activity. Try it and post your results in the comments. Prompt below 👇 Create a professional high-resolution paint-by-numbers template from the provided image as a single PNG only. Use an A4 portrait ratio canvas at 300 DPI with a pure white background. The main artwork must be a clean black-and-white line drawing containing only black outlines, black numbers, and white unfilled paintable areas. Do not create a PDF, document, mockup, multi-page layout, or colored version. Do not use color, gray, shading, texture, gradients, transparency, or pre-filled areas in the main artwork. Analyze the original image and choose the number of colors adaptively based on image complexity, from 1 to a maximum of 14 colors. If the image has only 1–2 important colors, use only 1–2 colors; for simple images use 3–6 colors; for medium complexity use 7–10 colors; for complex, photographic, or highly detailed images use 11–14 colors. Do not force unnecessary colors. Assign each selected color one unique number and merge similar shades unless separation is essential for recognition. Convert the image into simplified, fully closed, easy-to-paint regions while preserving the recognizable composition, main objects, characters, text, logos, foreground, background, and key details. Every paintable white region must contain the correct black number, centered clearly inside the matching area, readable, upright, and not touching outlines. Large black or dark areas from the original must remain white paintable regions with the correct number, not filled black. Only tiny permanent black line details, such as mouth lines, nostrils, pupils, eyelashes, seams, or small decorative strokes, may remain unnumbered. At the bottom of the same PNG, add a neat legend section with the heading “Instructions”, the sentence “Paint the areas with the matching colors.”, and a list of every used number with a small color swatch and the English color name. Color swatches may appear only in the legend. Ensure the numbering exactly matches the legend, every paintable area is numbered, all regions are closed, and the final result is clean, professional, print-ready, and recognizable as the original image.
+```
+
+### Case 78: [Modern Mafia Boss Portrait](https://x.com/john_my07/status/2050455807851147461) (by [@john_my07](https://x.com/john_my07))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case78/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case78/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+GPT Image 2.0 on ChatGPT vs Google Nano Banana 2 on Gemini. PROMPT: Create a hyper-realistic, cinematic portrait of me (use uploaded face) as a modern mafia boss. I’m sitting in a luxury black car, wearing a black suit and tinted aviator sunglasses, smoking a thick cigar. Cold, fearless expression. Background: moody sky + blurred city/street for noir feel. Cool tones, high contrast. Sharp details on face & smoke. Style: 8K, movie-poster quality, shallow depth of field 1:1
+```
+
+### Case 79: [Cozy Scrapbook Mini Alter Egos](https://x.com/gold_force_guri/status/2050433982756721029) (by [@gold_force_guri](https://x.com/gold_force_guri))
+
+| Output |
+| :----: |
+| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case79/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case79/output.jpg" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+GPT IMAGE 2 on ChatGpt Prompt: Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background. Add multiple small “mini version” characters of the same person (chibi / doll-like style), placed naturally around the scene (on objects, table, shoulder, etc.). These mini figures must match the subject’s face, hairstyle, outfit, and vibe consistently, styled as cute 3D collectible figurines. Show them doing different activities (reading, posing, taking photos, relaxing). Overlay handwritten-style doodles and annotations across the image: arrows, hearts, stars, sparkles, icons, and playful captions connected to elements in the scene. Use a soft pastel color palette (white base with pink, peach, blue accents). Keep the frame visually rich and filled but balanced and clean. Style: warm, cozy lighting, dreamy Instagram scrapbook aesthetic, soft depth of field, highly detailed, polished but playful. The final result must look like the SAME original image enhanced with mini alter-egos and aesthetic annotations — not a recreated or different scene
+```
+
 <!-- Case 80: 视觉品牌拆解图 (by @X7649158034321) -->
 ### Case 80: [视觉品牌拆解图](https://x.com/X7649158034321/status/2049721847001047274) (by [@X7649158034321](https://x.com/X7649158034321))
 
@@ -724,8 +760,8 @@ Given a story concept, generate a complete Miyazaki-style animated short film: w
 请帮我生成一张视觉品牌拆解图，稍后我需要用来生成讲解的视频。
 ```
 
-<!-- Case 81: Apartment Drama Animation Storyboard Sheet (by @CurieuxExplorer) -->
-### Case 81: [Apartment Drama Animation Storyboard Sheet](https://x.com/CurieuxExplorer/status/2049709975040401601) (by [@CurieuxExplorer](https://x.com/CurieuxExplorer))
+<!-- Case 81: アパートドラマアニメーションストーリーボード (by @CurieuxExplorer) -->
+### Case 81: [アパートドラマアニメーションストーリーボード](https://x.com/CurieuxExplorer/status/2049709975040401601) (by [@CurieuxExplorer](https://x.com/CurieuxExplorer))
 
 | Output |
 | :----: |
@@ -737,8 +773,8 @@ Given a story concept, generate a complete Miyazaki-style animated short film: w
 Create a new animation sheet, but this time it's a storyboard between an Indian man and an Indian woman in a dramatic scene inside an apartment. Ensure the elements of the apartment are in the scene, and include dialogue boxes, this is for 15 seconds so be careful of the cadence (sentences not too long), when a character speaks they should be the only one in frame.
 ```
 
-<!-- Case 82: Whimsical Folk Doodle Transformation (by @oggii_0) -->
-### Case 82: [Whimsical Folk Doodle Transformation](https://x.com/oggii_0/status/2052792243845779811) (by [@oggii_0](https://x.com/oggii_0/status/2052792243845779811))
+<!-- Case 82: 気まぐれフォークドゥードゥル変身 (by @oggii_0) -->
+### Case 82: [気まぐれフォークドゥードゥル変身](https://x.com/oggii_0/status/2052792243845779811) (by [@oggii_0](https://x.com/oggii_0/status/2052792243845779811))
 
 | Output |
 | :----: |
@@ -750,8 +786,8 @@ Create a new animation sheet, but this time it's a storyboard between an Indian 
 Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical.
 ```
 
-<!-- Case 83: Interior Design Mood Board Generator (by @GeekCatX) -->
-### Case 83: [Interior Design Mood Board Generator](https://x.com/GeekCatX/status/2052949583563784620) (by [@GeekCatX](https://x.com/GeekCatX/status/2052949583563784620))
+<!-- Case 83: インテリアデザインムードボードジェネレーター (by @GeekCatX) -->
+### Case 83: [インテリアデザインムードボードジェネレーター](https://x.com/GeekCatX/status/2052949583563784620) (by [@GeekCatX](https://x.com/GeekCatX/status/2052949583563784620))
 
 | Output |
 | :----: |
@@ -816,9 +852,9 @@ GPT Image 2 室内设计情绪板生成器
 避免杂乱拼贴、避免廉价海报风、避免材质与空间不匹配、避免错误透视、避免低质字体、避免装饰元素过多、避免卡通感、避免过饱和色彩、避免信息层
 ```
 
-<!-- Case 84: Donut Heist Storyboard Sheet (by @MayorKingAI) -->
+<!-- Case 84: ドーナツ強盗ストーリーボード (by @MayorKingAI) -->
 
-### Case 84: [Donut Heist Storyboard Sheet](https://x.com/MayorKingAI/status/2054266888428105947) (by [@MayorKingAI](https://x.com/MayorKingAI))
+### Case 84: [ドーナツ強盗ストーリーボード](https://x.com/MayorKingAI/status/2054266888428105947) (by [@MayorKingAI](https://x.com/MayorKingAI))
 
 | Output |
 | :----: |
@@ -851,9 +887,9 @@ Each panel: timecode, shot type, camera move, short action note.
 Right side: character sheet + palette: sunny park, green grass, raccoon grey-brown, squirrel orange-brown, pink icing.
 ```
 
-<!-- Case 85: Sourdough Baker Storyboard (by @TechieBySA) -->
+<!-- Case 85: サワードウパン職人ストーリーボード (by @TechieBySA) -->
 
-### Case 85: [Sourdough Baker Storyboard](https://x.com/TechieBySA/status/2054609590332129596) (by [@TechieBySA](https://x.com/TechieBySA))
+### Case 85: [サワードウパン職人ストーリーボード](https://x.com/TechieBySA/status/2054609590332129596) (by [@TechieBySA](https://x.com/TechieBySA))
 
 | Output |
 | :----: |
@@ -865,8 +901,8 @@ Right side: character sheet + palette: sunny park, green grass, raccoon grey-bro
 “Create a crisp, clean infographic storyboard poster for THE SOURDOUGH BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright warm colors — creamy dough whites, golden crust browns, warm flour dust, rich amber kitchen light, pops of green from herbs on the windowsill. Top header: THE SOURDOUGH BAKER TOTAL VIDEO TIME: 12 SECONDS 8 SHOTS · WARM · SLOW · BAKED WITH LOVE Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT Same Pixar-style young male baker throughout — flour-dusted white apron, warm rustic kitchen, wooden counter, morning light streaming through the window. And one recurring character — a fluffy orange cat who takes the craft extremely seriously and is present in every single panel. 8 panels: Panel 1 — THE OPENER: Wide shot. Baker walks into his kitchen at dawn carrying a large flour bag under one arm. He drops it onto the wooden counter sending a dramatic puff of white flour into the warm morning light — flour cloud catching the golden sunlight beautifully. The orange cat is already sitting on the counter waiting, completely unbothered by the flour cloud, staring directly at the baker. They look at each other. The day begins. You know exactly what's about to happen. Panel 2 — THE MIX: Overhead locked shot. Baker's hands mixing flour, water and sourdough starter together in a large ceramic bowl — shaggy dough forming, the transformation beginning. The orange cat sits at the edge of the counter, head tilted, watching the bowl with complete concentration. Panel 3 — THE KNEAD: The hero comedy panel. Baker steps aside. The orange cat is on the counter, both front paws pressing and kneading the dough exactly like cats do in real life — slow rhythmic biscuit-making motion, eyes half closed in pure contentment. Baker watches from the side with a resigned smile. The cat is completely unbothered and deeply committed to the process. Panel 4 — THE FOLD: Side angle. Baker performs the stretch and fold — pulling the dough up and folding it over itself, the dough becoming smooth and elastic. Close-up on hands and dough. The orange cat watches from beside the bowl, one paw resting on the counter edge, supervising every movement. Panel 5 — THE SCORE: Close-up dramatic shot. Baker holds a razor lame above the risen dough, scoring a deep curved line across the surface — the blade catching the light. The orange cat sits in the background perfectly framed, watching with complete intensity as if this is the most important moment of the day. It is. Panel 6 — THE OVEN: Wide shot. Baker slides the dough inside the cast iron dutch oven, closes the heavy lid, slides it into the glowing oven. The orange cat sits directly in front of the oven door, staring at it, waiting. Will not move. Will never move. Panel 7 — THE REVEAL: The hero frame. Baker lifts the dutch oven lid — an enormous cloud of steam erupts upward, and beneath it the most perfect golden sourdough loaf, deeply scored crust cracked open, caramelized and blistered. The orange cat stands up on its hind legs trying to see over the counter edge, eyes wide, completely losing its composure for the first time. Panel 8 — THE SLICE: Wide warm shot. Baker slices through the loaf — perfect open crumb revealed inside, steam still rising, golden crust crackling. Butter placed on the warm slice, melting instantly. The orange cat sits beside the cutting board, one paw raised toward the bread. Baker looks at the cat. Cat looks at the bread. Baker smiles. Perfect ending. Footer: VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. Flour drop to first slice. CAMERA TIPS: wide on opener with flour cloud, overhead on the mix, wide medium on the knead with cat in full view, side angle on the fold, close-up on the score, wide on the oven with cat guarding, hero wide shot on the steam reveal, warm wide on the final slice LIGHT & STYLE: warm golden morning light, creamy dough whites, deep golden crust.”
 ```
 
-<!-- Case 86: Storyboard Grid Template (by @EricoolWong) -->
-### Case 86: [Storyboard Grid Template](https://x.com/EricoolWong/status/2055788309511917880) (by [@EricoolWong](https://x.com/EricoolWong))
+<!-- Case 86: ストーリーボードグリッドテンプレート (by @EricoolWong) -->
+### Case 86: [ストーリーボードグリッドテンプレート](https://x.com/EricoolWong/status/2055788309511917880) (by [@EricoolWong](https://x.com/EricoolWong))
 
 | Output |
 | :----: |
@@ -901,8 +937,8 @@ Technical specifications
 #AIArt #AIFilm #AIStoryboard
 ```
 
-<!-- Case 87: Pancake Dad Storyboard (by @TechieBySA) -->
-### Case 87: [Pancake Dad Storyboard](https://x.com/TechieBySA/status/2055695974085927240) (by [@TechieBySA](https://x.com/TechieBySA))
+<!-- Case 87: パンケーキパパストーリーボード (by @TechieBySA) -->
+### Case 87: [パンケーキパパストーリーボード](https://x.com/TechieBySA/status/2055695974085927240) (by [@TechieBySA](https://x.com/TechieBySA))
 
 | Output |
 | :----: |
@@ -1869,8 +1905,8 @@ Construction lines, dimensions and handwritten notes visible. Wooden posts and c
 Finished Pergola: Fully built wooden pergola in a real garden, matching the exact structure and proportions from the sketch. Viewed from a low front corner perspective at eye level, showing depth and the full beam structure instead of a flat elevation. Natural wood texture with realistic joints and connections. Installed on grass with surrounding plants. Soft daylight with grounded shadows. Photorealistic architectural visualization.
 ```
 
-<!-- Case 108: Weightless Morning Storyboard (by @DrSadek_) -->
-### Case 108: [無重力の朝のストーリーボード](https://x.com/DrSadek_/status/2068438789236699582) (by [@DrSadek_](https://x.com/DrSadek_))
+<!-- Case 108: 無重力の朝ストーリーボード (by @DrSadek_) -->
+### Case 108: [無重力の朝ストーリーボード](https://x.com/DrSadek_/status/2068438789236699582) (by [@DrSadek_](https://x.com/DrSadek_))
 
 | Output |
 | :----: |
@@ -1882,8 +1918,8 @@ Finished Pergola: Fully built wooden pergola in a real garden, matching the exac
 A cinematic 6-panel storyboard sheet on a clean dark charcoal background, arranged in a 3-column by 2-row grid of widescreen 16:9 panels with thin neutral gray borders and a small white number label in the top-left corner of each panel. Photorealistic film stills, naturalistic dawn lighting, shallow depth of field, natural skin texture with subtle imperfections, candid composition, muted naturalistic color grade. Unifying concept: an ordinary morning where gravity has quietly stopped working — everyday objects and people drifting weightlessly. Panel 1: a bedroom at dawn, soft blue light, a sleeping person and their duvet drifting an inch above the mattress, dust motes hanging perfectly still in the air. Panel 2: a kitchen close-up, dark coffee pouring upward out of a white mug in a slow liquid ribbon, steam curling downward toward the counter. Panel 3: a bathroom, a toothbrush hovering mid-air with a pearl-like blob of toothpaste suspended beside it, scattered water droplets frozen around a reaching hand. Panel 4: a breakfast table, cereal pieces and milk orbiting a bowl in a lazy floating halo, a single spoon chasing one drifting cereal O. Panel 5: an entryway, keys, coins and a wallet frozen in a constellation above a doormat, a hand sweeping slowly through them. Panel 6: a front door swinging open onto an ordinary busy street below, a person floating out unbothered while sipping from an upside-down coffee cup. Each panel a distinct camera framing, photoreal textures. Small white label text — EXACT TEXT: '1','2','3','4','5','6' — one number per panel, no extra text, no duplicate text.
 ```
 
-<!-- Case 109: 犬骨から宇宙船への変形 (by @iamaiistudio) -->
-### Case 109: [犬骨から宇宙船への変形](https://x.com/iamaiistudio/status/2068969150949843373) (by [@iamaiistudio](https://x.com/iamaiistudio))
+<!-- Case 109: 犬の骨宇宙船変形 (by @iamaiistudio) -->
+### Case 109: [犬の骨宇宙船変形](https://x.com/iamaiistudio/status/2068969150949843373) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
 <tr><td width="50%"><a href="../images/comparison_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case109/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 犬骨から宇宙船への変形"></a></td><td width="50%"><a href="../images/comparison_case109/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case109/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 犬骨から宇宙船への変形"></a></td></tr>
@@ -1896,8 +1932,8 @@ A cinematic 6-panel storyboard sheet on a clean dark charcoal background, arrang
 A photorealistic split-frame composition divided precisely down the center. Left half: a detailed dog bone resting against the dividing edge, set against a bright blue sky with soft clouds. Right half: the bone organically morphs into a breathtaking futuristic spacecraft, its silhouette and form continuing the exact contours of the bone into a deep starfield. The transition across the centerline is seamless, making the organic structure flow naturally into the mechanical, set against a clean neutral backdrop to draw full focus to both subjects.
 ```
 
-<!-- Case 110: 鉛筆削りくずのジオラマ・グリッド (by @Gdgtify) -->
-### Case 110: [鉛筆削りくずのジオラマ・グリッド](https://x.com/Gdgtify/status/2069543521045143580) (by [@Gdgtify](https://x.com/Gdgtify))
+<!-- Case 110: 鉛筆の削りくずジオラマグリッド (by @Gdgtify) -->
+### Case 110: [鉛筆の削りくずジオラマグリッド](https://x.com/Gdgtify/status/2069543521045143580) (by [@Gdgtify](https://x.com/Gdgtify))
 
 | Output |
 | :----: |
