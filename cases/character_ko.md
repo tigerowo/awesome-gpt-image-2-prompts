@@ -6,7 +6,7 @@
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case1/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case1/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -17,7 +17,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case2/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case2/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case2/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case2/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -32,7 +32,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case3/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case3/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case3/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case3/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -55,7 +55,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case5/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case5/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case5/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case5/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -74,7 +74,7 @@ Show me the attached image as a snapshot from an actual anime
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case7/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case7/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case7/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case7/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -86,7 +86,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case8/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case8/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case8/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case8/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -98,7 +98,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case9/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case9/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case9/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case9/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -144,7 +144,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case10/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case10/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case10/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case10/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -156,7 +156,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case11/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case11/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case11/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case11/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -168,7 +168,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case12/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case12/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case12/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case12/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -180,7 +180,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case13/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case13/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case13/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case13/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -193,7 +193,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case14/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case14/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case14/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case14/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -206,7 +206,7 @@ A character promotional poster titled “INPUT NAME,” designed in a unified ve
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case15/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case15/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="../images/character_case15/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case15/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트：**
 
@@ -224,7 +224,7 @@ A character promotional poster titled “INPUT NAME,” designed in a unified ve
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case16/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case16/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/character_case16/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case16/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -236,7 +236,7 @@ A character promotional poster titled “INPUT NAME,” designed in a unified ve
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case17/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case17/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/character_case17/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case17/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 

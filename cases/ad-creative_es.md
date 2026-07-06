@@ -6,7 +6,7 @@
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case90/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case90/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/ui_case90/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case90/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -113,7 +113,7 @@
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case107/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case107/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -210,7 +210,7 @@
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case108/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case108/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -289,7 +289,7 @@
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case109/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case109/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -335,7 +335,7 @@
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case112/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case112/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -395,7 +395,7 @@
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case131/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case131/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case131/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case131/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -407,7 +407,7 @@ High-impact parody e-commerce infographic for “{argument name="product" defaul
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case143/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case143/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case143/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case143/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -426,7 +426,7 @@ Tilt-shift depth of field, greenhouse morning light, the packet as the garden it
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case144/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case144/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case144/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case144/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -438,7 +438,7 @@ A dramatic luxury product advertising image for a motorsport-inspired chronograp
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case145/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case145/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case145/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case145/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -450,7 +450,7 @@ A high-energy vertical Nike fashion campaign poster featuring a single athletic 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case146/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case146/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case146/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case146/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -462,7 +462,7 @@ Create a bold streetwear poster advertisement for {argument name="brand name" de
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case147/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case147/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case147/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case147/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -474,7 +474,7 @@ A clean editorial fashion advertisement poster on a pale powder-blue studio back
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case148/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case148/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case148/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case148/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -486,7 +486,7 @@ A high-end editorial product photograph of a single luxury perfume bottle center
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case149/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case149/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case149/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case149/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -498,7 +498,7 @@ A luxurious editorial product photograph of a single perfume bottle nestled into
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case150/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case150/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case150/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case150/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -510,7 +510,7 @@ A hyper-detailed cinematic isometric miniature city model of {argument name="lan
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case166/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case166/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case166/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case166/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -536,7 +536,7 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case167/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case167/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case167/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case167/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -548,7 +548,7 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case168/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case168/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case168/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case168/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -574,7 +574,7 @@ Texture of cheap paper printing. Includes fold marks. Precision that could be mi
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case169/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case169/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -586,7 +586,7 @@ Create a premium, square (1:1) product advertisement for a fictional luxury choc
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case170/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case170/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -600,7 +600,7 @@ Create a premium modern beverage advertisement poster in a vertical 3:4 format f
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad_case171/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad_case171/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ad_case171/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad_case171/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -612,7 +612,7 @@ Create a hyper-detailed luxury advertising poster in a cinematic miniature-world
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad_case172/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad_case172/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ad_case172/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad_case172/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -704,7 +704,7 @@ Ultra-realistic beverage photography, premium advertising composition, Behance-q
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad_case173/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ad_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad_case173/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -720,7 +720,7 @@ Prompt 2: Dynamic food product advertisement for "Berry Loud" mixed berry blend,
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case174/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Fragrance Campaign Portrait"></a> |
+| <a href="../images/ad-creative_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case174/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Fragrance Campaign Portrait"></a> |
 
 **Prompt:**
 
@@ -740,7 +740,7 @@ The overall mood should feel seductive, mysterious, powerful, feminine, cinemati
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case175/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Berry Splash Cafe Campaign"></a> |
+| <a href="../images/ad-creative_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case175/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Berry Splash Cafe Campaign"></a> |
 
 **Prompt:**
 
@@ -758,7 +758,7 @@ Create a dynamic food product advertisement for "Berry Loud" mixed berry blend. 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case176/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fast Food Hero Poster"></a> |
+| <a href="../images/ad-creative_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case176/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fast Food Hero Poster"></a> |
 
 **Prompt:**
 
@@ -777,7 +777,7 @@ TECHNICAL: 4k resolution, macro photography style, shallow depth of field, neon-
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case177/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Matcha Granola Ad Poster"></a> |
+| <a href="../images/ad-creative_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case177/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Matcha Granola Ad Poster"></a> |
 
 **Prompt:**
 
@@ -801,7 +801,7 @@ Premium protein breakfast food advertisement poster featuring centered pouch pac
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case178/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Tropical Product Ad Poster"></a> |
+| <a href="../images/ad-creative_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case178/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Tropical Product Ad Poster"></a> |
 
 **Prompt:**
 
@@ -814,7 +814,7 @@ GPT Image 2 Prompt Create a creative commercial advertising poster for [PRODUCT 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case179/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ad-creative_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case179/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -830,7 +830,7 @@ watermark, random text, misspelled headline, garbled letters, logo distortion, l
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case180/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ad-creative_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case180/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -848,7 +848,7 @@ Composition centered and symmetrical, low angle hero shot, shallow depth of fiel
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case181/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case181/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ad-creative_case181/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case181/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -875,7 +875,7 @@ The final result should feel like a real photo transformed into a creative scrap
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case182/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case182/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ad-creative_case182/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case182/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1243,31 +1243,6 @@ Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, p
 ```
 Generate four cohesive high-end realistic editorial visuals for OBSIDIAN coffee brand. Cinematic, dark, mature aesthetic inspired by luxury sportswear and premium coffee advertising. Studio lighting that's dramatic yet controlled, photorealistic textures, clean compositional layout. Shot 1: Hero brand poster featuring 'OBSIDIAN' lettering with an artful coffee display — steam rising, beans scattered. Shot 2: Full product range — coffee bags, cans, and capsules arranged together. Shot 3: Tight packaging detail with tagline 'Coffee for grown-ups who chase flavor.' Shot 4: Lifestyle close-up of a steaming cup. Ultra-polished finish, crisp realistic materials, unified brand identity, no fantastical or surreal elements
 ```
-<!-- Case 195: Anuncio cuidado piel paraiso coco (by @Strength04_X) -->
-### Case 195: [Anuncio cuidado piel paraiso coco](https://x.com/Strength04_X/status/2067445760325734734) (by [@Strength04_X](https://x.com/Strength04_X))
-
-| Resultado |
-| :----: |
-| <a href="../images/ad-creative_case195/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case195/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anuncio de skincare Coconut Paradise"></a> |
-
-**Prompt:**
-
-```
-Minimal white bottle with golden pump surrounded by cracked coconuts, coconut milk splash and foam clouds, tropical luxury spa atmosphere, creamy textures, realistic bubbles floating in background, premium skincare commercial, soft warm lighting, ultra detailed 8K.
-```
-
-<!-- Case 195: Anuncio cuidado piel paraiso coco (by @Strength04_X) -->
-### Case 195: [Anuncio cuidado piel paraiso coco](https://x.com/Strength04_X/status/2067445760325734734) (by [@Strength04_X](https://x.com/Strength04_X))
-
-| Output |
-| :----: |
-| <a href="../images/ad-creative_case195/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case195/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anuncio skincare Coconut Paradise"></a> |
-
-**Prompt:**
-
-```
-Minimal white bottle with golden pump surrounded by cracked coconuts, coconut milk splash and foam clouds, tropical luxury spa atmosphere, creamy textures, realistic bubbles floating in background, premium skincare commercial, soft warm lighting, ultra detailed 8K.
-```
 
 <!-- Case 195: Anuncio cuidado piel paraiso coco (by @Strength04_X) -->
 ### Case 195: [Anuncio cuidado piel paraiso coco](https://x.com/Strength04_X/status/2067445760325734734) (by [@Strength04_X](https://x.com/Strength04_X))
@@ -1280,34 +1255,6 @@ Minimal white bottle with golden pump surrounded by cracked coconuts, coconut mi
 
 ```
 Minimal white bottle with golden pump surrounded by cracked coconuts, coconut milk splash and foam clouds, tropical luxury spa atmosphere, creamy textures, realistic bubbles floating in background, premium skincare commercial, soft warm lighting, ultra detailed 8K.
-```
-
-<!-- Case 196: VFX producto ensamblaje inverso (by @iamaiistudio) -->
-### Case 196: [VFX producto ensamblaje inverso](https://x.com/iamaiistudio/status/2067399156596175345) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-<table>
-<tr><td width="50%"><a href="../images/ad-creative_case196/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX de producto en ensamblaje inverso"></a></td><td width="50%"><a href="../images/ad-creative_case196/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX de producto en ensamblaje inverso"></a></td></tr>
-<tr><td width="50%"><a href="../images/ad-creative_case196/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX de producto en ensamblaje inverso"></a></td><td width="50%"><a href="../images/ad-creative_case196/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX de producto en ensamblaje inverso"></a></td></tr>
-</table>
-
-**Prompt:**
-
-```
-[PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
-```
-
-<!-- Case 196: VFX producto ensamblaje inverso (by @iamaiistudio) -->
-### Case 196: [VFX producto ensamblaje inverso](https://x.com/iamaiistudio/status/2067399156596175345) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-<table>
-<tr><td width="50%"><a href="../images/ad-creative_case196/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX de producto en reensamblaje inverso"></a></td><td width="50%"><a href="../images/ad-creative_case196/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX de producto en reensamblaje inverso"></a></td></tr>
-<tr><td width="50%"><a href="../images/ad-creative_case196/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX de producto en reensamblaje inverso"></a></td><td width="50%"><a href="../images/ad-creative_case196/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case196/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - VFX de producto en reensamblaje inverso"></a></td></tr>
-</table>
-
-**Prompt:**
-
-```
-[PRODUCT] reassembling in midair from scattered pieces, reverse-disintegration effect, mechanical precision, each component suspended at a different depth, dark void background, high-concept product advertising, cinematic VFX.
 ```
 
 <!-- Case 196: VFX producto ensamblaje inverso (by @iamaiistudio) -->

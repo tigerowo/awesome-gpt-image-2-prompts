@@ -1,5 +1,6 @@
 # Script output / working dirs
 tmp/
+result/
 script/
 __pycache__/
 build/
@@ -12,3 +13,4 @@ PromptEditor/
 .skill/
 server.bat
 server.py
+index.html

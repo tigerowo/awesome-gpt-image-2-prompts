@@ -6,7 +6,7 @@
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/ui_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case89/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -64,7 +64,7 @@
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case113/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case113/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -76,7 +76,7 @@ A luxurious cinematic product photograph of a classic rectangular perfume bottle
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case114/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case114/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case114/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case114/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -88,7 +88,7 @@ A soft {argument name="bottle color" default="cream-colored"} bottle with a {arg
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case115/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case115/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case115/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case115/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -100,7 +100,7 @@ Create a vibrant tropical commercial poster for a citrus soda bottle, in a brigh
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case116/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case116/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case116/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case116/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -124,7 +124,7 @@ Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave design
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case117/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case117/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -136,7 +136,7 @@ A warm, editorial-style lifestyle product photo shot indoors from a low close-up
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case118/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case118/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case118/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case118/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -148,7 +148,7 @@ A luxury e-commerce advertising photo of a premium perfume bottle on a polished 
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case151/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case151/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case151/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case151/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -160,7 +160,7 @@ A hyper-realistic miniature diorama product advertisement featuring an oversized
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case152/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case152/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case152/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case152/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -174,7 +174,7 @@ A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with 
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case153/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case153/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case153/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case153/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -186,7 +186,7 @@ A high-end enthusiast ATX gaming motherboard product photo on a dark studio back
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case154/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case154/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case154/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case154/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -198,7 +198,7 @@ A high-end enthusiast ATX gaming motherboard product photo on a dark studio back
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case155/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case155/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case155/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case155/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -231,7 +231,7 @@ Style: Ultra-realistic, commercial product photography, 8k resolution, sharp foc
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case156/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case156/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case156/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case156/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -243,7 +243,7 @@ A premium eco-conscious fashion advertisement, shot as a refined editorial produ
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case157/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case157/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case157/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case157/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -255,7 +255,7 @@ An image in a {argument name="reference style" default="similar style"}, a produ
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case158/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case158/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case158/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case158/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -277,7 +277,7 @@ Style: ultra clean, editorial minimal, high-end branding, 8K.
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case159/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case159/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case159/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case159/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -289,7 +289,7 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case160/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case160/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case160/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case160/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -301,7 +301,7 @@ Using the provided reference image, transform the single casual product photo in
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case161/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case161/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -313,7 +313,7 @@ Create a premium product studio image of a [PRODUCT] for [BRAND], designed in li
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/poster_case162/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case162/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -326,7 +326,7 @@ Create a square [ASPECT RATIO] premium food photography image of a steaming [FOO
 
 | Результат |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case163/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case163/output.jpg" width="300" alt="Результирующее изображение"></a> |
+| <a href="../images/ecommerce_case163/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case163/output.jpg" width="300" alt="Результирующее изображение"></a> |
 
 **Промпт：**
 
@@ -502,7 +502,7 @@ Avoid repeated concepts, repeated props, repeated backgrounds, flat lighting, we
 
 ### Case 171: [Miniature Brand Universe Shoe](https://x.com/AIwithAliya/status/2064034557352202253) (by [@AIwithAliya](https://x.com/AIwithAliya))
 
-![Miniature Brand Universe Shoe](../../images/ecommerce_case171/output.jpg)
+![Miniature Brand Universe Shoe](../images/ecommerce_case171/output.jpg)
 
 **Промпт:**
 ```

@@ -6,7 +6,7 @@
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case1/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case1/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -17,7 +17,7 @@
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case2/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case2/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case2/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case2/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -28,7 +28,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case3/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case3/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case3/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case3/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -39,7 +39,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case4/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case4/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case4/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case4/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -50,7 +50,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case5/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case5/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case5/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case5/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -65,7 +65,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case7/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case7/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case7/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case7/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -76,7 +76,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case8/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case8/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case8/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case8/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -88,7 +88,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case9/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case9/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case9/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case9/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -100,7 +100,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case10/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case10/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case10/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case10/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -112,7 +112,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case25/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case25/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case25/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case25/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -139,7 +139,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case32/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case32/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case32/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case32/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -153,7 +153,7 @@ GPT-image-2でこの手相を診断して詳細な鑑定書を作って
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case33/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case33/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case33/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case33/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -165,7 +165,7 @@ GPT-image-2でこの手相を診断して詳細な鑑定書を作って
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case34/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case34/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case34/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case34/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -177,7 +177,7 @@ GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポッ�
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case35/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case35/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case35/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case35/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -189,7 +189,7 @@ GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポッ�
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case36/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case36/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case36/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case36/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -209,7 +209,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case37/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case37/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case37/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case37/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -221,7 +221,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case38/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case38/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case38/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case38/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -233,7 +233,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case39/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case39/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case39/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case39/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -248,7 +248,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case40/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case40/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case40/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case40/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -263,7 +263,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case63/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case63/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case63/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case63/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -275,7 +275,7 @@ based on the generated character help me generate a screenshot of screenshot of 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case64/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case64/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case64/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case64/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -287,7 +287,7 @@ Create a landing page using this image as a reference for style and color gradin
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case88/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case88/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case88/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case88/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -300,7 +300,7 @@ Create a landing page using this image as a reference for style and color gradin
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case44/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case44/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case44/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case44/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -404,7 +404,7 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case45/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case45/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case45/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case45/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -417,7 +417,7 @@ High-impact e-commerce infographic for "Apple Pods Pro 3" wireless earbuds.
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case46/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case46/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case46/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case46/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -430,7 +430,7 @@ A high-resolution commercial marketing photograph features a young woman with sl
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case47/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case47/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case47/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case47/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -442,7 +442,7 @@ generate screenshots from a AAA video game based off what The Sims Castaways seq
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case91/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case91/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case91/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case91/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -454,7 +454,7 @@ A vertical 9:16 TikTok-style GRWM beauty thumbnail set in a warm, sunlit Mediter
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case92/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case92/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case92/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case92/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -466,7 +466,7 @@ A cinematic photorealistic action scene in a rainy downtown city street canyon, 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case93/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case93/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case93/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case93/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -478,7 +478,7 @@ A vibrant anime-style YouTube thumbnail for a livestream gaming broadcast, in a 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case94/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case94/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case94/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case94/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -490,7 +490,7 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case95/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case95/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case95/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case95/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -502,7 +502,7 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case96/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case96/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case96/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case96/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -514,7 +514,7 @@ A highly polished anime banner illustration in a warm golden classroom-literatur
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case97/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case97/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case97/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case97/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -526,7 +526,7 @@ A polished anime-style banner illustration in a dreamy violet palette, wide cine
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case98/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case98/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case98/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case98/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -538,7 +538,7 @@ A glossy pastel pink anime banner in a wide cinematic layout, themed around cute
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case99/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case99/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case99/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case99/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -550,7 +550,7 @@ A wide anime banner illustration of {argument name="character name" default="Say
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case100/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case100/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case100/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case100/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -562,7 +562,7 @@ A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a d
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case101/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case101/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case101/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case101/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -574,7 +574,7 @@ A cinematic anime movie poster for a fictional film titled {argument name="headl
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case102/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case102/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case102/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case102/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -586,7 +586,7 @@ Create a dramatic Japanese anime-style promotional thumbnail poster for an event
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case103/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case103/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case103/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case103/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -598,7 +598,7 @@ A vibrant pixel-art style mosaic of a tropical parrot perched on a small brown b
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case104/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case104/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case104/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case104/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -610,7 +610,7 @@ A cinematic vertical photo of a hand holding up a large balloon wine glass fille
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case105/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case105/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case105/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case105/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -622,7 +622,7 @@ Create a {argument name="grid layout" default="4x3"} borderless grid where each 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case106/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case106/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -634,7 +634,7 @@ Create a highly realistic image of a handwritten letter containing a ({argument 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case107/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case107/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -646,7 +646,7 @@ A dramatic anime concert illustration seen from behind the performers onstage, s
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case108/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case108/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -658,7 +658,7 @@ A 4x4 photo collage of 16 warm, cinematic lifestyle snapshots featuring a real a
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case109/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case109/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -670,7 +670,7 @@ A stylish young woman with {argument name="hair style" default="long wavy blonde
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case110/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case110/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case110/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case110/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -682,7 +682,7 @@ A cozy anime-style interior of a traditional Japanese soba restaurant, viewed fr
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case111/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case111/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case111/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case111/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -694,7 +694,7 @@ A cinematic dark fantasy anime illustration in a ruined gothic cathedral, vertic
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case112/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case112/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -706,7 +706,7 @@ Based on the shape of the {argument name="subject" default="clouds"} in the imag
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case113/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case113/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -718,7 +718,7 @@ A cinematic anime-style illustration of a quiet rural Japanese train station in 
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case114/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case114/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case114/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case114/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -730,7 +730,7 @@ A candid indoor restaurant photo in a realistic anime-inspired style, showing tw
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case115/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case115/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case115/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case115/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -742,7 +742,7 @@ A cozy winter camping scene inside a large beige canvas tent, rendered as a semi
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case116/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case116/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case116/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case116/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -754,7 +754,7 @@ Create a 4:5 vertical social poster in ultra high resolution, 8K print quality s
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case117/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case117/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -766,7 +766,7 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case118/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case118/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case118/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case118/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -778,7 +778,7 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case119/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case119/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case119/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case119/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -790,7 +790,7 @@ A bright, polished anime-style promotional thumbnail with a summer romance atmos
 
 | 輸出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case120/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case120/output.jpg" width="300" alt="輸出圖像"></a> |
+| <a href="../images/ui_case120/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case120/output.jpg" width="300" alt="輸出圖像"></a> |
 
 **提示詞：**
 
@@ -802,19 +802,7 @@ A cinematic anime-inspired digital illustration set at night inside a cozy artis
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case121/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case121/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞：**
-
-```
-This Storyboard sheet use for this video created with GPT image 2 Storyboard sheet prompt: A professional hand drawn sketch storyboard sheet, pencil and ink illustration style, rough artistic linework, cross-hatching for shadows, loose expressive strokes, monochrome black and white on aged cream/off-white paper texture background, 2x2 grid layout with four equal storyboard panels bordered by thick hand-drawn black ink frames. Top-left panel sketch: abandoned rusted cargo ship at dock, heavy hatching for rust texture, broken railings, algae, seagulls, no humans, dark moody pencil shading, handwritten label below: "SCENE 01 — ABANDONED STATE | Static wide dock shot | Overcast | No humans". Top-right panel sketch: same ship with workers using pressure washers, dynamic water spray motion lines, figures in safety gear, debris piles, handwritten label: "SCENE 02 — CLEANING & STRIP-DOWN | Pressure wash + debris clear | Cloudy daylight". Bottom-left panel sketch: welding sparks as burst star lines, scaffolding structure, worker figures grinding and painting, primer sections with hatching, handwritten label: "SCENE 03 — REPAIR & REBUILD | Welding sparks + scaffolding | Primer applied". Bottom-right panel sketch: fully restored ship, clean hull, workers standing back, golden hour rays as radiating diagonal lines, handwritten label: "SCENE 04 — FULL RESTORATION | Final paint + golden hour | Completion". Bold hand-lettered title at top: "SEA HARVEST VALLETTA — RESTORATION STORYBOARD". Handwritten production notes at bottom: "Cam: Static Wide-Angle Dock | Lens: Wide | Progression: Linear | Style: Photorealistic". Pencil graphite texture, ink pen outlines, rough paper feel, professional film storyboard aesthetic.
-```
-
-### Case 121: [Hand-Drawn Storyboard Sheet](https://x.com/saniaspeaks_/status/2050465100973191219) (by [@saniaspeaks_](https://x.com/saniaspeaks_))
-
-| Output |
-| :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case121/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case121/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case121/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case121/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞：**
 
@@ -826,19 +814,7 @@ This Storyboard sheet use for this video created with GPT image 2 Storyboard she
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞：**
-
-```
-gpt image 2生图能力真的恐怖啊，这是我的提示词： 01 前端（用户看到的部分） 是什么：前端就是界面，是用户能看见、能点、能操作的部分。 在哪里：网页、小程序、App 的界面。 用什么做：HTML（结构）、CSS（样式）、JavaScript（交互）。 02 后端（背后处理的部分） 是什么：后端就是幕后大脑，负责逻辑和运算。 在哪里：服务器上，用户看不见。 作用： 处理登录注册 计算价格、推荐商品 接收前端请求、返回数据 常用的编程语言：Java、Python、Go、JavaScript（Node.js） 03 数据库（记忆的部分） 是什么：数据库就是用来存储和管理数据的。 存什么：账号、密码、订单、库存… 常见的数据库： MySQL、PostgreSQL（关系型，像表格一样） MongoDB（文档型，像文件夹一样） 04 SaaS（软件即服务） 是什么：SaaS = Software as a Service（软件即服务）。 核心特点： 打开网页/小程序/APP就能用 按月或按年订阅 常见形式：网站、移动 App、小程序都可以是 SaaS。 05 总结 前端：用户看到和操作的界面 后端：背后运行的逻辑和计算 数据库：存放和管理数据的地方 SaaS：把软件做成服务，用户随时通过网络使用 前端展示 → 后端处理 → 数据库存储 → SaaS 是交付方式 帮我针对上面的内容画一张易于理解的图
-```
-
-### Case 122: [前后端数据库 SaaS 信息图](https://x.com/alantech_/status/2050462324486783060) (by [@alantech_](https://x.com/alantech_))
-
-| Output |
-| :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case122/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case122/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞：**
 
@@ -850,19 +826,7 @@ gpt image 2生图能力真的恐怖啊，这是我的提示词： 01 前端（�
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case123/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case123/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞：**
-
-```
-GPT-Image-2的一个妙用形象 这个提示词是一个老哥发我的 我试了下，效果也太强了 如果放在一年前 你可能三天三夜的ComfyUI工作流 才能做出来 提示词： 请根据我上传的人像照片，做一套个人形象分析图卡，包含发型、妆容、色彩和珠宝。要求：保留五官脸型肤色，不要过度修图，所有变化在同一张脸真实展示，风格干净高级。发型：长短、卷直、刘海，对比最适合/ 普通/不建议（显脸小、显老）妆容：眉眼鼻唇分析，标签（自然、提气色、柔和）色彩：不同颜色上身，对比推荐/普通/不适合（显白、显老）珠宝：珍珠、翡翠、红蓝宝、钻石、黄金，对比推荐/普通/不建议 整体：视觉为主，文字简短，4:5比例
-```
-
-### Case 123: [个人形象分析图卡](https://x.com/you1873118/status/2050446427105759269) (by [@you1873118](https://x.com/you1873118))
-
-| Output |
-| :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case123/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case123/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case123/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case123/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞：**
 
@@ -874,19 +838,7 @@ GPT-Image-2的一个妙用形象 这个提示词是一个老哥发我的 我试�
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case124/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case124/output.jpg" width="300" alt="Output image"></a> |
-
-**提示詞：**
-
-```
-A super simple workflow: 2 character images → GPT Image 2.0 storyboard → Seedance 2.0 animation. Just upload two character images and use the prompt below in GPT Image 2.0 to generate a full storyboard on a single page. Prompt: Create a clean, colorful storyboard poster in a 3x4 grid layout with 12 panels on a single page. Title at the top: "[MAIN TITLE]" Each panel must include: a scene number in a small circle, a short scene title, a colorful illustrated image, a 1–2 line description under the image. Main characters must remain visually consistent across all 12 panels: Character 1: [describe main character in detail] Character 2: [describe second character in detail] Theme/story: [overall story theme] Scene breakdown: [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] [Scene title] – [what happens] Design style: cute 3D animated storybook style, warm emotional lighting, bright colors, soft shadows, child-friendly, clean panel borders, readable typography, neat poster composition, high detail. Important: Keep all 12 panels inside one single image. Make the layout clean and balanced. Keep the characters consistent in face, outfit, and colors. Make the text readable and properly placed. No cropped panels. No extra characters unless mentioned. Then upload that storyboard to Seedance 2.0 and use this prompt: Prompt: Generate a scene using the shots in the uploaded film storyboard. No text on screen. That’s it.
-```
-
-### Case 124: [12-Panel Storyboard Poster](https://x.com/bmx_ai13/status/2050432594647642414) (by [@bmx_ai13](https://x.com/bmx_ai13))
-
-| Output |
-| :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case124/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case124/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case124/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case124/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞：**
 
@@ -899,7 +851,7 @@ A super simple workflow: 2 character images → GPT Image 2.0 storyboard → See
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case125/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case125/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case125/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case125/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -913,7 +865,7 @@ Act as a Social Media Art Director and Digital Collage Artist specializing in bo
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case126/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case126/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case126/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case126/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -934,7 +886,7 @@ Chinese text, long text, messy layout, old parchment background, yellow aged pap
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case127/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case127/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case127/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case127/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -947,7 +899,7 @@ Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-dow
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case128/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case128/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case128/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case128/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -960,7 +912,7 @@ Create a personal color analysis graphic using this portrait. Point out which se
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case129/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case129/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case129/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case129/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -989,7 +941,7 @@ Aspect Ratio: 3:4
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case130/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case130/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case130/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case130/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1026,7 +978,7 @@ The final result should look like an emotionally styled version of the original 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case131/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case131/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case131/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case131/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1146,43 +1098,6 @@ Aspect ratio: vertical (9:16 preferred)
 
 ---
 
-### Case 132: 全网百万关注挑战UI设计
-
-**Source**: [@cellinlab](https://x.com/cellinlab/status/2051865803855630375)
-
-**Prompt**:
-```
-想做一个 全网百万关注 挑战计划，准备做个页面来展示我全平台的 关注人数和 目标人数🎯，目前平台包括 X/推特、youtube、小红书、抖音、微信视频号、微信公众号、B站 等，帮我想办法设计下这个页面，做一套UI效果图，支持 Web 和 mobile，另外设计个小组件，方便在 OBS 直播中叠加
-
-效果👉
-```
-
-**Output**:
-
-<img src="../images/ui_case132/output.jpg" width="500">
-
----
-
-### Case 133: Cozy Sunrise Desk Flatlay
-
-**Source**: [@Taaruk_](https://x.com/Taaruk_/status/2052422212423196925)
-
-**Prompt**:
-```
-Sunrise Desk Flatlay
-Top-down cozy desk flatlay near a sunrise window, wooden table filled with coffee, camera, headphones, notebooks, fruit bowl, cassette player, glasses and phone playing music, warm sunrise reflections, nostalgic morning atmosphere, handwritten doodle annotations around every object, pastel sketch overlays, cute arrows, stars and handwritten motivational phrases, realistic lifestyle photography mixed with diary aesthetics, soft golden lighting, cinematic composition, vintage indie mood, highly detailed textures, warm creamy tones, relaxing morning ritual vibe, 8k.
-
-Prompt 2:
- Cozy Study Desk Setup
-Ultra cozy study desk scene during early morning golden hour, cluttered but aesthetic workspace filled with open books, sticky notes, warm desk lamp, coffee mug, laptop, pens and stationery, calming productivity atmosphere, soft sunlight through the window, vintage academic vibe, handwritten doodle overlays with “focus mode on”, hearts, arrows, stars and tiny notes, realistic cinematic lighting, visual diary aesthetic, warm earthy colors, dreamy slice-of-life mood, indie room decor, highly detailed cozy textures, film grain, 8k.
-```
-
-**Output**:
-
-<img src="../images/ui_case133/output.jpg" width="500">
-
----
-
 ### Case 133: Cozy Sunrise Desk Flatlay
 
 **Source**: [@Taaruk_](https://x.com/Taaruk_/status/2052422212423196925)
@@ -1224,44 +1139,6 @@ Blueprint background in soft light-blue or sepia technical-paper texture, ultra-
 
 ---
 
-### Case 134: Custom Car Blueprint Sketch Render
-
-**Source**: [@ShamiWeb3](https://x.com/ShamiWeb3/status/2052398818533220652)
-
-**Prompt**:
-```
-“Highly detailed technical blueprint sketch and realistic 3D–render fusion of a custom modified car 2027 BMW iM3.
-Transform the car into a tuned concept blueprint with an aggressive lowered stance, wide-body aesthetic (adapted to match the real car’s form), and bold racing stripe accents matching or enhancing the original photo colors.
-Add large aftermarket-style wheels inspired by the car in the photo (accurate spoke design & size), sharp LED-like lighting details, and sporty aerodynamic additions such as front spoiler, side skirts, rear diffuser, and small spoiler — all adjusted realistically to the BMW iM3’s geometry.
-Surround the main render with precise engineering-style blueprint elements: multiple orthographic views (front, rear, side, top) derived from the reference photo, construction lines, mm-dimensions, exploded-view details for wheels, suspension, and body kit components.
-Art style combines pencil/ink drafting with fine cross-hatching, clean annotations, and a photorealistic shaded center render.
-Blueprint background in soft light-blue or sepia technical-paper texture, ultra-detailed, professional automotive concept-design composition.
---ar 9:16 --stylize 300 --v 6 --q 2”
-```
-
-**Output**:
-
-<img src="../images/ui_case134/output.jpg" width="500">
-
----
-
-### Case 135: Flavors of Moscow Food Infographic
-
-**Source**: [@AIwithAliya](https://x.com/AIwithAliya/status/2052412558678905255)
-
-**Prompt**:
-```
-Cool PROMPT for GPT Image 2 Creating stylish infographics. Prompt below:
-
-Minimal high-end infographic titled "FLAVORS OF MOSCOW", soft off-white background, detailed 3D map of Moscow centered with clean nano gemini layout. Surround with aesthetic food elements like borscht, pelmeni, blini, and black bread, along with birch tree motifs and minimal cultural icons. Highlight regions: KREMLIN DISTRICT (Kvass, historic skyline) ARBAT (Street food, Shashlik) ZAMOSKVORECHYE (Traditional cuisine, Syrniki) PATRIARCH'S PONDS (Cafés, Medovik cake) Side text blocks:
-```
-
-**Output**:
-
-<img src="../images/ui_case135/output.jpg" width="500">
-
----
-
 ### Case 135: Flavors of Moscow Food Infographic
 
 **Source**: [@AIwithAliya](https://x.com/AIwithAliya/status/2052412558678905255)
@@ -1296,23 +1173,6 @@ Minimal high-end infographic titled "FLAVORS OF MOSCOW", soft off-white backgrou
 
 ---
 
-### Case 136: Football Kit Chibi Figurine
-
-**Source**: [@mehvishs25](https://x.com/mehvishs25/status/2052558799647703180)
-
-**Prompt**:
-```
-;
-
-3D rendered caricature figurine of a stylish young woman, big head chibi style, designed to closely match the reference girl’s facial features, hairstyle, and overall vibe. She is wearing a trendy yellow and blue sporty streetwear outfit inspired by a professional football kit, fitted crop jersey with matching shorts, subtle number 7 detail on the shorts, captain’s armband on left arm, white wristband, confident arms-crossed pose, long dark silky hair with soft waves, small diamond stud earrings, white sporty sneakers with blue accents, knee-high yellow athletic socks, standing in a powerful confident stance, full body shot, bold red background, ultra detailed realistic 3D render, cinematic studio lighting, sharp shadows, premium collector toy aesthetic, glossy vinyl figure finish, high-end designer collectible style
-```
-
-**Output**:
-
-<img src="../images/ui_case136/output.jpg" width="500">
-
----
-
 ### Case 137: Exploded Museum Assembly Diagram
 
 **Source**: [@Gdgtify](https://x.com/Gdgtify/status/2052498708521259162)
@@ -1325,36 +1185,6 @@ Minimal high-end infographic titled "FLAVORS OF MOSCOW", soft off-white backgrou
 **Output**:
 
 <img src="../images/ui_case137/output.jpg" width="500">
-
----
-
-### Case 137: Exploded Museum Assembly Diagram
-
-**Source**: [@Gdgtify](https://x.com/Gdgtify/status/2052498708521259162)
-
-**Prompt**:
-```
-16:9 2x2 grid, do this for cybertruck, reaper drone, james webb telescope, and another complex machine: do this for cybertruck: { "exhibit_type": "physical exploded assembly", "subject": "$complex_invention", // e.g., "an enigma machine", "a mechanical chronometer" "physical_constraints": { "state": "the machine is pulled apart into its 50 primary components along a horizontal axis.", "support_system": "no magical floating. every single floating gear and casing is physically held in the air by taut, thin, steel suspension wires and heavy brass museum clamps.", "background": "a flat, neutral-grey museum wall." }, "lighting_and_shadows": { "setup": "hard spotlighting from the top left.", "shadow_effect": "critical: the floating, separated components and their suspension wires must cast a highly complex, overlapping, beautiful shadow pattern directly onto the grey wall behind them." } }
-```
-
-**Output**:
-
-<img src="../images/ui_case137/output.jpg" width="500">
-
----
-
-### Case 138: X Profile Card Cutout Girl
-
-**Source**: [@you1873118](https://x.com/you1873118/status/2052549593100136583)
-
-**Prompt**:
-```
-一只手中握着一张X / Twitter 风格个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和下柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，推特风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学
-```
-
-**Output**:
-
-<img src="../images/ui_case138/output.jpg" width="500">
 
 ---
 
@@ -1492,7 +1322,7 @@ A screenshot from a live Wimbledon TV broadcast during a packed Centre Court mat
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case143/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case143/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Handwritten Study Infographic Poster"></a> |
+| <a href="../images/ui_case143/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case143/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Handwritten Study Infographic Poster"></a> |
 
 **提示詞:**
 
@@ -1513,7 +1343,7 @@ Ultra-detailed, 4K resolution, top-down flat lay perspective, modern stationery 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case144/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case144/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Moodboard System"></a> |
+| <a href="../images/ui_case144/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case144/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Moodboard System"></a> |
 
 **提示詞:**
 
@@ -1527,7 +1357,7 @@ Full-blown brand identity system [BRAND NAME] — Brand Identity Moodboard STEP 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case145/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case145/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Landscape Architecture Board"></a> |
+| <a href="../images/ui_case145/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case145/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Landscape Architecture Board"></a> |
 
 **提示詞:**
 
@@ -1541,7 +1371,7 @@ Generate a 3:4 vertical, competition-grade landscape architecture presentation b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case146/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case146/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Graphic Design Portfolio Mockup"></a> |
+| <a href="../images/ui_case146/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case146/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Graphic Design Portfolio Mockup"></a> |
 
 **提示詞:**
 
@@ -1555,7 +1385,7 @@ Create a premium graphic design portfolio mockup in a professional creative stud
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case147/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case147/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neo-Noir Character Design Board"></a> |
+| <a href="../images/ui_case147/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case147/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neo-Noir Character Design Board"></a> |
 
 **提示詞:**
 
@@ -1568,7 +1398,7 @@ Create a cinematic realistic character design board for a high-budget neo-noir f
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case148/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case148/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case148/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case148/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1581,7 +1411,7 @@ Create a cinematic realistic character design board for a high-budget neo-noir f
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case149/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case149/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case149/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case149/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1696,7 +1526,7 @@ visually consistent and detailed
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case150/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case150/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case150/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case150/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1708,7 +1538,7 @@ use this reference photo to create a desktop calendar for January-December 2027.
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case151/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case151/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case151/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case151/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1726,7 +1556,7 @@ Prompt⤵️
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case152/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case152/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case152/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case152/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1739,7 +1569,7 @@ Create an ultra detailed exploded view of the iconic [vehicle name].
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case153/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case153/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case153/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case153/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1899,7 +1729,7 @@ QUALITY:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case154/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case154/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case154/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case154/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -1915,7 +1745,7 @@ Create a premium 1:1 luxury fashion collage featuring the same stylish Japanese 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case155/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case155/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case155/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case155/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2013,7 +1843,7 @@ The final result should resemble a professionally published photography-equipmen
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case156/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case156/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case156/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case156/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2025,7 +1855,7 @@ Create a visual-first, editorial-style infographic auditing the desk setup in th
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case157/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case157/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case157/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case157/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2069,7 +1899,7 @@ Design rules:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case158/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case158/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case158/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case158/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2081,7 +1911,7 @@ Transform the uploaded image into a premium die-cut sticker illustration while k
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case159/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case159/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case159/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case159/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 
@@ -2092,7 +1922,7 @@ Create a Tarot card based on what you know about me, in the classic style of Rid
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case161/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case161/output.jpg" width="300" alt="Output image"></a> |
 
 **提示詞:**
 

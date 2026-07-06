@@ -6,7 +6,7 @@
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case5/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case5/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case5/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case5/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -19,7 +19,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case10/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case10/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case10/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case10/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -42,7 +42,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case16/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case16/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case16/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case16/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -55,7 +55,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case23/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case23/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case23/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case23/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -77,7 +77,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case29/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case29/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case29/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case29/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -89,7 +89,7 @@ A wooden bookshelf consisting of three shelves: On the top shelf, there should b
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case30/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case30/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case30/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case30/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -101,7 +101,7 @@ counter strike in game screenshot, mixed with Terraria
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case31/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case31/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case31/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case31/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -113,7 +113,7 @@ counter strike in game screenshot, mixed with Terraria
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case32/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case32/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case32/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case32/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -125,7 +125,7 @@ counter strike in game screenshot, mixed with Terraria
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case33/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case33/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case33/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case33/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -140,7 +140,7 @@ counter strike in game screenshot, mixed with Terraria
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case34/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case34/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case34/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case34/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -152,7 +152,7 @@ an ingame screenshot of rust
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case35/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case35/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case35/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case35/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -166,7 +166,7 @@ Edit prompt: Remove the background make it transparent
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case36/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case36/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case36/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case36/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -178,7 +178,7 @@ AmongUsの精密な実際のゲーム画像を生成して
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case37/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case37/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case37/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case37/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -190,7 +190,7 @@ AmongUsの精密な実際のゲーム画像を生成して
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case38/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case38/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case38/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case38/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -202,7 +202,7 @@ A dusk shindig  with multiple fake imagination projections all aligned in the 14
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case39/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case39/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case39/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case39/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -215,7 +215,7 @@ A dusk shindig  with multiple fake imagination projections all aligned in the 14
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case61/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case61/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case61/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case61/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -227,7 +227,7 @@ Based on the video content and this current frame, use GPT to generate a YouTube
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case65/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case65/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case65/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case65/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -239,7 +239,7 @@ Generate an image of the most significant event of 2020
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case66/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case66/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case66/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case66/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -251,7 +251,7 @@ Edit this image so that total amount changes to 244.5 baht. You can change the q
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case67/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case67/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case67/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case67/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -263,7 +263,7 @@ Generate an image of the most significant event of 2001
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case83/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case83/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case83/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case83/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -275,7 +275,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case84/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case84/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case84/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case84/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -287,7 +287,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case86/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case86/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case86/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case86/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -299,7 +299,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case91/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case91/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case91/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case91/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -311,7 +311,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case92/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case92/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case92/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case92/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -323,7 +323,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case93/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case93/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case93/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case93/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -359,7 +359,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case94/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case94/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case94/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case94/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -371,7 +371,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case95/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case95/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case95/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case95/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -383,7 +383,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case96/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case96/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case96/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case96/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -397,7 +397,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case97/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case97/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case97/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case97/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -409,7 +409,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case98/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case98/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case98/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case98/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -421,7 +421,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case99/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case99/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case99/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case99/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -433,7 +433,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case100/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case100/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case100/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case100/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -445,7 +445,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case101/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case101/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case101/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case101/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -457,7 +457,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case102/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case102/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case102/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case102/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -469,7 +469,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case107/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case107/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -481,7 +481,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case108/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case108/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -493,7 +493,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case109/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case109/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -515,7 +515,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case110/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case110/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case110/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case110/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -535,7 +535,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case111/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case111/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case111/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case111/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -549,7 +549,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case112/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case112/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -606,7 +606,7 @@ Research LIME Drug Design and make a detailed infographic about it
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case113/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/case_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/case_case113/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -621,7 +621,7 @@ GPT Image-2で生成したやつ→
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case70/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case70/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case70/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case70/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -633,7 +633,7 @@ A side-by-side comparison graphic on a black background demonstrating a camera-a
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case71/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case71/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case71/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case71/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -645,7 +645,7 @@ A side-by-side comparison graphic on a black background demonstrating a camera-a
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case72/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case72/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case72/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case72/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -657,7 +657,7 @@ Create a dramatic Japanese YouTube thumbnail in a futuristic neon cyberpunk styl
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case73/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case73/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case73/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case73/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -669,7 +669,7 @@ A futuristic Japanese tech comparison poster in a dark cyberpunk control-room se
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case74/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case74/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case74/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case74/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -681,7 +681,7 @@ A bold Japanese YouTube thumbnail about the AI competition era, 16:9 widescreen,
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case75/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case75/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case75/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case75/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -703,7 +703,7 @@ Use dramatic, saturated lighting, crisp detail, realistic clothing folds, authen
 
 | Ergebnis |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case76/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case76/output.jpg" width="300" alt="Ergebnisbild"></a> |
+| <a href="../images/comparison_case76/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case76/output.jpg" width="300" alt="Ergebnisbild"></a> |
 
 **Prompt：**
 
@@ -715,7 +715,7 @@ Given a story concept, generate a complete Miyazaki-style animated short film: w
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case77/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case77/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/comparison_case77/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case77/output.jpg" width="300" alt="Output image"></a> |
 
 **Einreichungsrichtlinien：**
 
@@ -727,7 +727,7 @@ Given a story concept, generate a complete Miyazaki-style animated short film: w
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case78/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case78/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/comparison_case78/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case78/output.jpg" width="300" alt="Output image"></a> |
 
 **Einreichungsrichtlinien：**
 
@@ -739,7 +739,7 @@ GPT Image 2.0 on ChatGPT vs Google Nano Banana 2 on Gemini. PROMPT: Create a hyp
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case79/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case79/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/comparison_case79/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case79/output.jpg" width="300" alt="Output image"></a> |
 
 **Einreichungsrichtlinien：**
 
@@ -752,7 +752,7 @@ GPT IMAGE 2 on ChatGpt Prompt: Transform the provided reference image into a coz
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case80/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case80/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/comparison_case80/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case80/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -765,7 +765,7 @@ GPT IMAGE 2 on ChatGpt Prompt: Transform the provided reference image into a coz
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case81/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case81/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/comparison_case81/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case81/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -778,7 +778,7 @@ Create a new animation sheet, but this time it's a storyboard between an Indian 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case82/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case82/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/comparison_case82/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case82/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -791,7 +791,7 @@ Simplify all details into clean, flat shapes with a handmade, slightly imperfect
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case83/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case83/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/comparison_case83/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case83/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -858,7 +858,7 @@ GPT Image 2 室内设计情绪板生成器
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case84/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case84/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Donut Heist Storyboard Sheet"></a> |
+| <a href="../images/comparison_case84/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case84/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Donut Heist Storyboard Sheet"></a> |
 
 **Prompt:**
 
@@ -893,7 +893,7 @@ Right side: character sheet + palette: sunny park, green grass, raccoon grey-bro
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case85/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case85/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sourdough Baker Storyboard"></a> |
+| <a href="../images/comparison_case85/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case85/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sourdough Baker Storyboard"></a> |
 
 **Prompt:**
 
@@ -906,7 +906,7 @@ Right side: character sheet + palette: sunny park, green grass, raccoon grey-bro
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case86/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case86/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/comparison_case86/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case86/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -942,7 +942,7 @@ Technical specifications
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case87/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case87/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/comparison_case87/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case87/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -974,7 +974,7 @@ Footer:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case88/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case88/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/comparison_case88/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case88/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -987,7 +987,7 @@ As the players emerge, they interact with the fans in a euphoric post-goal momen
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case89/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/comparison_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/comparison_case89/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1680,7 +1680,7 @@ KEY INSTRUCTIONS:
 
 ### Case 100: [Action Storyboard Sheet](https://x.com/neural_aperture/status/2064048487583424581) (by [@neural_aperture](https://x.com/neural_aperture))
 
-![Action Storyboard Sheet](../../images/comparison_case100/output.jpg)
+![Action Storyboard Sheet](../images/comparison_case100/output.jpg)
 
 **Prompt:**
 ```
@@ -1702,7 +1702,7 @@ LOCATION: open Japanese mountain field at blue hour, ankle-high wind-blown grass
 
 ### Case 101: [Churro Maker Storyboard Poster](https://x.com/TechieBySA/status/2064032022830502202) (by [@TechieBySA](https://x.com/TechieBySA))
 
-![Churro Maker Storyboard Poster](../../images/comparison_case101/output.jpg)
+![Churro Maker Storyboard Poster](../images/comparison_case101/output.jpg)
 
 **Prompt:**
 ```
@@ -1745,7 +1745,7 @@ Footer:
 
 ### Case 102: [Food Anime Storyboard Generator](https://x.com/tanabe_fragm/status/2064510342328353143) (by [@tanabe_fragm](https://x.com/tanabe_fragm))
 
-![Food Anime Storyboard Generator](../../images/comparison_case102/output.jpg)
+![Food Anime Storyboard Generator](../images/comparison_case102/output.jpg)
 
 **Prompt:**
 ```

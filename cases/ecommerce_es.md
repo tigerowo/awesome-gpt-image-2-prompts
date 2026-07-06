@@ -6,7 +6,7 @@
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/ui_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case89/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -64,7 +64,7 @@
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case113/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case113/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -76,7 +76,7 @@ A luxurious cinematic product photograph of a classic rectangular perfume bottle
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case114/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case114/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case114/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case114/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -88,7 +88,7 @@ A soft {argument name="bottle color" default="cream-colored"} bottle with a {arg
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case115/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case115/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case115/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case115/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -100,7 +100,7 @@ Create a vibrant tropical commercial poster for a citrus soda bottle, in a brigh
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case116/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case116/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case116/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case116/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -124,7 +124,7 @@ Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave design
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case117/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case117/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -136,7 +136,7 @@ A warm, editorial-style lifestyle product photo shot indoors from a low close-up
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case118/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case118/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case118/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case118/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -148,7 +148,7 @@ A luxury e-commerce advertising photo of a premium perfume bottle on a polished 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case151/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case151/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case151/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case151/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -160,7 +160,7 @@ A hyper-realistic miniature diorama product advertisement featuring an oversized
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case152/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case152/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case152/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case152/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -174,7 +174,7 @@ A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case153/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case153/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case153/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case153/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -186,7 +186,7 @@ A high-end enthusiast ATX gaming motherboard product photo on a dark studio back
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case154/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case154/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case154/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case154/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -198,7 +198,7 @@ A high-end enthusiast ATX gaming motherboard product photo on a dark studio back
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case155/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case155/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case155/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case155/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -231,7 +231,7 @@ Style: Ultra-realistic, commercial product photography, 8k resolution, sharp foc
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case156/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case156/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case156/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case156/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -243,7 +243,7 @@ A premium eco-conscious fashion advertisement, shot as a refined editorial produ
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case157/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case157/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case157/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case157/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -255,7 +255,7 @@ An image in a {argument name="reference style" default="similar style"}, a produ
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case158/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case158/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case158/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case158/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -277,7 +277,7 @@ Style: ultra clean, editorial minimal, high-end branding, 8K.
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case159/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case159/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case159/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case159/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -289,7 +289,7 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case160/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case160/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case160/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case160/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -301,7 +301,7 @@ Using the provided reference image, transform the single casual product photo in
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case161/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case161/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -313,7 +313,7 @@ Create a premium product studio image of a [PRODUCT] for [BRAND], designed in li
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case162/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case162/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -326,7 +326,7 @@ Create a square [ASPECT RATIO] premium food photography image of a steaming [FOO
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case163/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case163/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/ecommerce_case163/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case163/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -502,7 +502,7 @@ Avoid repeated concepts, repeated props, repeated backgrounds, flat lighting, we
 
 ### Case 171: [Miniature Brand Universe Shoe](https://x.com/AIwithAliya/status/2064034557352202253) (by [@AIwithAliya](https://x.com/AIwithAliya))
 
-![Miniature Brand Universe Shoe](../../images/ecommerce_case171/output.jpg)
+![Miniature Brand Universe Shoe](../images/ecommerce_case171/output.jpg)
 
 **Prompt:**
 ```
@@ -554,22 +554,6 @@ Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic re
 <table>
 <tr><td width="50%"><a href="../images/ecommerce_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Fotografía de producto de sérum floral"></a></td><td width="50%"><a href="../images/ecommerce_case173/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Fotografía de producto de sérum floral"></a></td></tr>
 <tr><td width="50%"><a href="../images/ecommerce_case173/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Fotografía de producto de sérum floral"></a></td><td width="50%"><a href="../images/ecommerce_case173/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Fotografía de producto de sérum floral"></a></td></tr>
-</table>
-
-**Prompt:**
-
-```
-Minimalist studio product photography, a small transparent glass facial oil dropper bottle with a black rubber pipette cap, containing pale pink serum with suspended dried pink floral elements, centered on a natural raw wooden block with visible grain and split texture. Tall matte white skincare box on the left labeled "HUILE ÉCLAT VISAGE" with clean black typography and subtle logo near the bottom. Clear cylindrical glass vase on the right filled with water and thin stems of dried pink gypsophila extending upward. Composition rests on a smooth matte pastel pink surface against a matching seamless pink studio background. Strong directional soft light from the left casts long natural-style shadows of the flowers onto the background, with gentle highlights on the glass, subtle reflections on the serum bottle, and soft texture on the wooden block. Straight-on tabletop camera angle, all objects in sharp focus. Color palette: blush pink, soft rose, warm light wood, clean white, transparent glass. Premium Scandinavian minimalist skincare aesthetic, ultra-realistic, studio-grade.
-
-full prompt:
-```
-
-<!-- Case 173: Foto de producto de sérum floral (by @iamaiistudio) -->
-### Case 173: [Foto de producto de sérum floral](https://x.com/iamaiistudio/status/2067413876564795743) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-<table>
-<tr><td width="50%"><a href="../images/ecommerce_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Foto de producto de sérum floral"></a></td><td width="50%"><a href="../images/ecommerce_case173/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Foto de producto de sérum floral"></a></td></tr>
-<tr><td width="50%"><a href="../images/ecommerce_case173/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Foto de producto de sérum floral"></a></td><td width="50%"><a href="../images/ecommerce_case173/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Foto de producto de sérum floral"></a></td></tr>
 </table>
 
 **Prompt:**
@@ -705,20 +689,6 @@ full prompt:
 ### Case 175: [Toma de producto de chutney de chili picante](https://x.com/iamaiistudio/status/2068032837610356989) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="../images/ecommerce_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Foto de producto de chutney de chile picante"></a></td><td width="50%"><a href="../images/ecommerce_case175/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Foto de producto de chutney de chile picante"></a></td></tr>
-<tr><td width="50%"><a href="../images/ecommerce_case175/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Foto de producto de chutney de chile picante"></a></td></tr>
-</table>
-
-**Prompt:**
-
-```
-Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surface, surrounded by whole red tomatoes, tomato halves, fresh red chili peppers, black peppercorns, and a small wooden bowl with chutney and a spoon. Warm earthy backdrop, soft directional light, deep rich shadows, high contrast, clean minimal styling, commercial product photography, ultra-detailed, 4K.
-```
-
-<!-- Case 175: Toma de producto de chutney de chili picante (by @iamaiistudio) -->
-### Case 175: [Toma de producto de chutney de chili picante](https://x.com/iamaiistudio/status/2068032837610356989) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-<table>
 <tr><td width="50%"><a href="../images/ecommerce_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Spicy Chili Chutney Product Shot"></a></td><td width="50%"><a href="../images/ecommerce_case175/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Spicy Chili Chutney Product Shot"></a></td></tr>
 <tr><td width="50%"><a href="../images/ecommerce_case175/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Spicy Chili Chutney Product Shot"></a></td></tr>
 </table>
@@ -727,51 +697,6 @@ Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surfa
 
 ```
 Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surface, surrounded by whole red tomatoes, tomato halves, fresh red chili peppers, black peppercorns, and a small wooden bowl with chutney and a spoon. Warm earthy backdrop, soft directional light, deep rich shadows, high contrast, clean minimal styling, commercial product photography, ultra-detailed, 4K.
-```
-
----
-
-<!-- Case 175: Toma de producto de chutney de chili picante (by @iamaiistudio) -->
-### Case 175: [Toma de producto de chutney de chili picante](https://x.com/iamaiistudio/status/2068032837610356989) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-<table>
-<tr><td width="50%"><a href="../images/ecommerce_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Spicy Chili Chutney Product Shot"></a></td><td width="50%"><a href="../images/ecommerce_case175/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Spicy Chili Chutney Product Shot"></a></td></tr>
-<tr><td width="50%"><a href="../images/ecommerce_case175/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case175/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Spicy Chili Chutney Product Shot"></a></td></tr>
-</table>
-
-**Guías de envío:**
-
-```
-Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surface, surrounded by whole red tomatoes, tomato halves, fresh red chili peppers, black peppercorns, and a small wooden bowl with chutney and a spoon. Warm earthy backdrop, soft directional light, deep rich shadows, high contrast, clean minimal styling, commercial product photography, ultra-detailed, 4K.
-```
-
----
-
-<!-- Case 176: Fotografia de comida levitando (by @iamaiistudio) -->
-### Case 176: [Fotografia de comida levitando](https://x.com/iamaiistudio/status/2067851560168931394) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-<table>
-<tr><td width="50%"><a href="../images/ecommerce_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case176/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Set de fotografía gastronómica en levitación"></a></td><td width="50%"><a href="../images/ecommerce_case176/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case176/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Set de fotografía gastronómica en levitación"></a></td></tr>
-<tr><td width="50%"><a href="../images/ecommerce_case176/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case176/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Set de fotografía gastronómica en levitación"></a></td></tr>
-</table>
-
-**Prompt:**
-
-```
-A professional studio food photography series showcasing deconstructed dishes captured mid-air in dramatic high-speed levitation. Set against a seamless dusty pink backdrop with soft, even studio lighting, the ingredients burst and float in dynamic formations. Featured dishes include a suspended tiramisu with its components (scoops of gelato, ladyfingers, mascarpone cream, and coffee beans) hovering in the air, borscht elements (beets, rye bread slices, fresh herbs) floating above a ceramic bowl of soup resting on a wooden board, and a sourdough toast topped with mashed avocado and a runny poached egg caught mid-split. Fine details like flying crumbs, spice particles, scattered herbs, and liquid droplets should be razor-sharp with a shallow depth of field. Soft shadows fall beneath the main suspended elements.
-```
-<!-- Case 176: Fotografia de comida levitando (by @iamaiistudio) -->
-### Case 176: [Fotografia de comida levitando](https://x.com/iamaiistudio/status/2067851560168931394) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-<table>
-<tr><td width="50%"><a href="../images/ecommerce_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case176/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Levitating Food Photography Set"></a></td><td width="50%"><a href="../images/ecommerce_case176/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case176/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Levitating Food Photography Set"></a></td></tr>
-<tr><td width="50%"><a href="../images/ecommerce_case176/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case176/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Levitating Food Photography Set"></a></td></tr>
-</table>
-
-**Guías de envío:**
-
-```
-A professional studio food photography series showcasing deconstructed dishes captured mid-air in dramatic high-speed levitation. Set against a seamless dusty pink backdrop with soft, even studio lighting, the ingredients burst and float in dynamic formations. Featured dishes include a suspended tiramisu with its components (scoops of gelato, ladyfingers, mascarpone cream, and coffee beans) hovering in the air, borscht elements (beets, rye bread slices, fresh herbs) floating above a ceramic bowl of soup resting on a wooden board, and a sourdough toast topped with mashed avocado and a runny poached egg caught mid-split. Fine details like flying crumbs, spice particles, scattered herbs, and liquid droplets should be razor-sharp with a shallow depth of field. Soft shadows fall beneath the main suspended elements.
 ```
 
 <!-- Case 176: Fotografia de comida levitando (by @iamaiistudio) -->

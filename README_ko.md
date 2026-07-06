@@ -5,7 +5,7 @@
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![936 Curated Prompts](https://img.shields.io/badge/Prompts-936_Curated_Cases-111111)](README.md)
 [![🎬 GPT-Image-2 × Seedance 2.0 - Cinematic Workflow](https://img.shields.io/badge/🎬_GPT--Image--2_×_Seedance_2.0-Cinematic_Workflow-blueviolet)](https://github.com/EvoLinkAI/GPT-Image-2-Seedance2-Workflow)
-[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
+[![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-View-111111)](README_en.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
 [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md)
 [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md)
@@ -14,7 +14,7 @@
 [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md)
 [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md)
 [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md)
-[![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md)
+[![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-默认源-ef476f)](README.md)
 [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
 </div>
@@ -131,7 +131,7 @@ OpenAI 표준 API 형식(`/v1/images/generations`)과 호환
 
 |                                                                                                                                                                                                                 Output                                                                                                                                                                                                                 |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case151/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case151/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - E-commerce Main Image - Miniature Diorama Skincare Advertisement"></a> |
+| <a href="images/poster_case151/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case151/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - E-commerce Main Image - Miniature Diorama Skincare Advertisement"></a> |
 
 **프롬프트:**
 
@@ -144,7 +144,7 @@ A hyper-realistic miniature diorama product advertisement featuring an oversized
 
 |                                                                                                                                                                                                            Output                                                                                                                                                                                                            |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case160/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case160/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - E-commerce Main Image - 9-Panel Product TVC Storyboard"></a> |
+| <a href="images/poster_case160/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case160/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - E-commerce Main Image - 9-Panel Product TVC Storyboard"></a> |
 
 **프롬프트:**
 
@@ -157,7 +157,7 @@ Using the provided reference image, transform the single casual product photo in
 
 |                                                                                                                                                                                                        Output                                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case163/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case163/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Burger hero image plus 9-cell ad storyboard"></a> |
+| <a href="images/ecommerce_case163/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case163/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Burger hero image plus 9-cell ad storyboard"></a> |
 
 **프롬프트:**
 
@@ -174,7 +174,7 @@ Prompt 2: Create a 9-cell hybrid keyframe-to-transition storyboard sheet for a 1
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case164/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case164/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ecommerce_case164/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case164/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -203,7 +203,7 @@ Global: controlled studio lighting emphasizing meat texture and char marks, shal
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case165/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case165/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ecommerce_case165/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case165/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -217,8 +217,8 @@ Full prompt:
 ### Case 166: [Ancient Palace Perfume Ad](https://x.com/iamaiistudio/status/2063187221730185227) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case166/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case166/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case166/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case166/output2.jpg" width="100%" alt="Output image"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case166/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case166/output3.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/ecommerce_case166/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case166/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/ecommerce_case166/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case166/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/ecommerce_case166/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case166/output3.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -233,8 +233,8 @@ Ancient Chinese palace perfume advertisement inspired by the legendary dancer Zh
 ### Case 167: [Plush Soda Can Product Shot](https://x.com/iamaiistudio/status/2063261665207239055) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case167/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case167/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case167/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case167/output2.jpg" width="100%" alt="Output image"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case167/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case167/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case167/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case167/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/ecommerce_case167/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case167/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/ecommerce_case167/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case167/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/ecommerce_case167/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case167/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/ecommerce_case167/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case167/output4.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -256,7 +256,7 @@ Razor-sharp focus, vivid color saturation, clean shadows, sleek commercial produ
 ### Case 168: [VOLT Goal Celebration Ad](https://x.com/RuzainaMeer/status/2063513621754491039) (by [@RuzainaMeer](https://x.com/RuzainaMeer))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case168/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case168/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case168/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case168/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/ecommerce_case168/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case168/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/ecommerce_case168/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case168/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -273,7 +273,7 @@ A beautiful young woman in a green and white football jersey is sitting in a pac
 ### Case 169: [Lightning Storm Supercar Ad](https://x.com/iamrealsnow/status/2063649073819959502) (by [@iamrealsnow](https://x.com/iamrealsnow))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case169/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case169/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case169/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case169/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/ecommerce_case169/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case169/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/ecommerce_case169/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case169/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -288,7 +288,7 @@ Prompt: Supercar emerging from a storm cloud, body formed entirely from blue lig
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case170/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ecommerce_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case170/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -318,7 +318,7 @@ Avoid repeated concepts, repeated props, repeated backgrounds, flat lighting, we
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case171/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case171/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ecommerce_case171/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case171/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -331,8 +331,8 @@ A high-performance running shoe transformed into a miniature brand universe. The
 ### Case 172: [Romantic Smartphone Couple Scene Product Shot](https://x.com/hmontilla_/status/2065072437398589669) (by [@hmontilla_](https://x.com/hmontilla_))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case172/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case172/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Romantic Smartphone Couple Scene Product Shot"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case172/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case172/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Romantic Smartphone Couple Scene Product Shot"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case172/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case172/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Romantic Smartphone Couple Scene Product Shot"></a></td></tr>
+<tr><td width="50%"><a href="images/ecommerce_case172/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case172/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Romantic Smartphone Couple Scene Product Shot"></a></td><td width="50%"><a href="images/ecommerce_case172/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case172/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Romantic Smartphone Couple Scene Product Shot"></a></td></tr>
+<tr><td width="50%"><a href="images/ecommerce_case172/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ecommerce_case172/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Romantic Smartphone Couple Scene Product Shot"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -500,7 +500,7 @@ A professional studio food photography series showcasing deconstructed dishes ca
 
 |                                                                                                                                                                                               Output                                                                                                                                                                                              |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case144/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case144/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Chronograph Watch Ad"></a> |
+| <a href="images/poster_case144/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case144/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Chronograph Watch Ad"></a> |
 
 **프롬프트:**
 
@@ -513,7 +513,7 @@ A dramatic luxury product advertising image for a motorsport-inspired chronograp
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                 |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury chocolate campaign system"></a> |
+| <a href="images/poster_case169/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case169/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury chocolate campaign system"></a> |
 
 **프롬프트:**
 
@@ -526,7 +526,7 @@ Create a premium, square (1:1) product advertisement for a fictional luxury choc
 
 |                                                                                                                                                                                            Output                                                                                                                                                                                            |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad_case170/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Surreal Brand World Poster"></a> |
+| <a href="images/ad_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad_case170/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Surreal Brand World Poster"></a> |
 
 **프롬프트:**
 
@@ -559,7 +559,7 @@ QUALITY: Unreal Engine render quality, octane lighting, macro lens bokeh on back
 
 |                                                                                                                                                                                                     Output                                                                                                                                                                                                    |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case174/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Fragrance Campaign Portrait"></a> |
+| <a href="images/ad-creative_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case174/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Fragrance Campaign Portrait"></a> |
 
 **프롬프트:**
 
@@ -579,7 +579,7 @@ The overall mood should feel seductive, mysterious, powerful, feminine, cinemati
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case175/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Berry Splash Cafe Campaign"></a> |
+| <a href="images/ad-creative_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case175/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Berry Splash Cafe Campaign"></a> |
 
 **프롬프트:**
 
@@ -597,7 +597,7 @@ Create a dynamic food product advertisement for "Berry Loud" mixed berry blend. 
 
 |                                                                                                                                                                                              Output                                                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case176/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fast Food Hero Poster"></a> |
+| <a href="images/ad-creative_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case176/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fast Food Hero Poster"></a> |
 
 **프롬프트:**
 
@@ -616,7 +616,7 @@ TECHNICAL: 4k resolution, macro photography style, shallow depth of field, neon-
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                               |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case177/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Matcha Granola Ad Poster"></a> |
+| <a href="images/ad-creative_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case177/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Matcha Granola Ad Poster"></a> |
 
 **프롬프트:**
 
@@ -640,7 +640,7 @@ Premium protein breakfast food advertisement poster featuring centered pouch pac
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case178/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Tropical Product Ad Poster"></a> |
+| <a href="images/ad-creative_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case178/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Tropical Product Ad Poster"></a> |
 
 **프롬프트:**
 
@@ -655,7 +655,7 @@ GPT Image 2 Prompt Create a creative commercial advertising poster for [PRODUCT 
 
 |                                                                                                                                                                                              Output                                                                                                                                                                                             |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case179/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Foam Clogs Ad Poster"></a> |
+| <a href="images/ad-creative_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case179/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Foam Clogs Ad Poster"></a> |
 
 **프롬프트:**
 
@@ -671,7 +671,7 @@ watermark, random text, misspelled headline, garbled letters, logo distortion, l
 
 |                                                                                                                                                                                               Output                                                                                                                                                                                               |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case180/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Energy Drink Stadium Ad"></a> |
+| <a href="images/ad-creative_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case180/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Energy Drink Stadium Ad"></a> |
 
 **프롬프트:**
 
@@ -690,7 +690,7 @@ Composition centered and symmetrical, low angle hero shot, shallow depth of fiel
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case183/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case183/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Showroom Still Life Merch Drop"></a> |
+| <a href="images/ad-creative_case183/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case183/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Showroom Still Life Merch Drop"></a> |
 
 **프롬프트:**
 
@@ -734,7 +734,7 @@ Left-aligned composition:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case184/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case184/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Adidas Futuristic Drop Ad Poster 9:16"></a> |
+| <a href="images/ad-creative_case184/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case184/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Adidas Futuristic Drop Ad Poster 9:16"></a> |
 
 **프롬프트:**
 
@@ -775,7 +775,7 @@ Style: Ultra-detailed hyper-realistic product photography, cinematic studio ligh
 ### Case 189: [Luxury Linen Texture Editorial Poster](https://x.com/ZephyraLeigh/status/2065123985713700925) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case185/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case185/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Luxury Linen Texture Editorial Poster"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case185/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case185/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Luxury Linen Texture Editorial Poster"></a></td></tr>
+<tr><td width="50%"><a href="images/ad-creative_case185/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case185/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Luxury Linen Texture Editorial Poster"></a></td><td width="50%"><a href="images/ad-creative_case185/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case185/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Luxury Linen Texture Editorial Poster"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -806,7 +806,7 @@ Technical: Ultra-photorealistic rendering, 8K detail sharpness, professional com
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case186/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Watch Dramatic Beam Product Shot"></a> |
+| <a href="images/ad-creative_case186/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Watch Dramatic Beam Product Shot"></a> |
 
 **프롬프트:**
 
@@ -818,8 +818,8 @@ A luxury watch emerges from darkness. Extreme macro shot of ticking gears and mo
 ### Case 191: [可口可乐百事雪碧品牌 KV 对比](https://x.com/liyue_ai/status/2065039304175538382) (by [@liyue_ai](https://x.com/liyue_ai))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case187/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case187/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case187/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case187/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case187/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case187/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td></tr>
+<tr><td width="50%"><a href="images/ad-creative_case187/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case187/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td><td width="50%"><a href="images/ad-creative_case187/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case187/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td></tr>
+<tr><td width="50%"><a href="images/ad-creative_case187/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case187/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 可口可乐百事雪碧品牌 KV 对比"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -834,7 +834,7 @@ A luxury watch emerges from darkness. Extreme macro shot of ticking gears and mo
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case188/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case188/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+| <a href="images/ad-creative_case188/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case188/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
 **프롬프트:**
 
@@ -869,7 +869,7 @@ Row 3, Surrealism:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case189/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case189/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+| <a href="images/ad-creative_case189/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case189/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
 **프롬프트:**
 
@@ -913,7 +913,7 @@ Clean Apple/Nike premium ad aesthetic, strong negative space
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case190/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case190/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Kinder Joy 스윙 체어 장면"></a> |
+| <a href="images/ad-creative_case190/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case190/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Kinder Joy 스윙 체어 장면"></a> |
 
 **제출 가이드라인:**
 
@@ -931,7 +931,7 @@ Soft warm directional lighting from the left casts subtle shadows, highlighting 
 ### Case 195: [인비저블 실드 선스크린 광고](https://x.com/iamrealsnow/status/2066200217347854445) (by [@iamrealsnow](https://x.com/iamrealsnow))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case191/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case191/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 인비저블 실드 선스크린 광고"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case191/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case191/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 인비저블 실드 선스크린 광고"></a></td></tr>
+<tr><td width="50%"><a href="images/ad-creative_case191/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case191/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 인비저블 실드 선스크린 광고"></a></td><td width="50%"><a href="images/ad-creative_case191/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case191/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 인비저블 실드 선스크린 광고"></a></td></tr>
 </table>
 
 **제출 가이드라인:**
@@ -952,7 +952,7 @@ Tagline:
 ### Case 196: [숨은 로고 풍경 착시](https://x.com/iamaiistudio/status/2066191259354689714) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case192/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case192/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 숨은 로고 풍경 착시"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case192/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case192/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 숨은 로고 풍경 착시"></a></td></tr>
+<tr><td width="50%"><a href="images/ad-creative_case192/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case192/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 숨은 로고 풍경 착시"></a></td><td width="50%"><a href="images/ad-creative_case192/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case192/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 숨은 로고 풍경 착시"></a></td></tr>
 </table>
 
 **제출 가이드라인:**
@@ -980,7 +980,7 @@ Output: 1:1 square, photorealistic, National Geographic aerial photography aesth
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case193/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case193/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - SPLASH 리퀴드 로고 패션 포스터"></a> |
+| <a href="images/ad-creative_case193/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case193/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - SPLASH 리퀴드 로고 패션 포스터"></a> |
 
 **제출 가이드라인:**
 
@@ -1003,7 +1003,7 @@ Shot with an 85mm lens, shallow depth of field, 8K resolution, ultra-detailed, p
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case194/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ad-creative_case194/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - OBSIDIAN 커피 브랜드 캠페인"></a> |
+| <a href="images/ad-creative_case194/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case194/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - OBSIDIAN 커피 브랜드 캠페인"></a> |
 
 **프롬프트:**
 
@@ -1228,7 +1228,7 @@ Oversized luxury wristwatch as a modern sculpture centerpiece, fashion model lea
 ### Case 208: [럭셔리 미니어처 두바이 도시 모델](https://x.com/silentempiredev/status/2048086378383384773) (by [@silentempiredev](https://x.com/silentempiredev))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case150/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case150/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case150/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case150/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -1245,7 +1245,7 @@ A hyper-detailed cinematic isometric miniature city model of {argument name="lan
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case1/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Convenience Store Neon Portrait"></a> |
+| <a href="images/portrait_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case1/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Convenience Store Neon Portrait"></a> |
 
 **프롬프트:**
 
@@ -1258,7 +1258,7 @@ A hyper-detailed cinematic isometric miniature city model of {argument name="lan
 
 |                                                                                                                                                                                               Output                                                                                                                                                                                              |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case84/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case84/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ink-Etched Family Portrait"></a> |
+| <a href="images/portrait_case84/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case84/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ink-Etched Family Portrait"></a> |
 
 **프롬프트:**
 
@@ -1271,7 +1271,7 @@ A black-and-white hand-drawn family portrait in the style of detailed pen-and-in
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case117/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Chibi 3D Mini Me Photo Effect"></a> |
+| <a href="images/portrait_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case117/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Chibi 3D Mini Me Photo Effect"></a> |
 
 **프롬프트:**
 
@@ -1285,7 +1285,7 @@ Mini "chibi 3D" versions of the same person appear around the original photo - s
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                 |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case170/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Wimbledon Broadcast Crowd Shot"></a> |
+| <a href="images/portrait_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case170/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Wimbledon Broadcast Crowd Shot"></a> |
 
 **프롬프트:**
 
@@ -1299,7 +1299,7 @@ A screenshot from a live Wimbledon TV broadcast during a packed Centre Court mat
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case171/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case171/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Rainy Street Golden Portrait"></a> |
+| <a href="images/portrait_case171/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case171/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Rainy Street Golden Portrait"></a> |
 
 **프롬프트:**
 
@@ -1319,7 +1319,7 @@ Shot on Sony A7R IV, 35mm lens, f/1.8, shallow depth of field, HDR photography, 
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case172/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case172/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cozy Cafe Editorial Portrait"></a> |
+| <a href="images/portrait_case172/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case172/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cozy Cafe Editorial Portrait"></a> |
 
 **프롬프트:**
 
@@ -1339,7 +1339,7 @@ Color palette should focus on [color theme] tones. Style inspired by viral Pinte
 
 |                                                                                                                                                                                               Output                                                                                                                                                                                              |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case173/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Watercolor Fashion Sketch"></a> |
+| <a href="images/portrait_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case173/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Watercolor Fashion Sketch"></a> |
 
 **프롬프트:**
 
@@ -1353,7 +1353,7 @@ Transform the uploaded photo into a full-body watercolor fashion illustration in
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case174/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Retro Newsstand Fashion Scene"></a> |
+| <a href="images/portrait_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case174/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Retro Newsstand Fashion Scene"></a> |
 
 **프롬프트:**
 
@@ -1367,7 +1367,7 @@ A cinematic fashion editorial scene of 8 diverse young adults gathered around a 
 
 |                                                                                                                                                                                               Output                                                                                                                                                                                               |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case175/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Early 1990s Flash Portrait"></a> |
+| <a href="images/portrait_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case175/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Early 1990s Flash Portrait"></a> |
 
 **프롬프트:**
 
@@ -1382,7 +1382,7 @@ Early 1990s Flash Camera Portrait GPT image 2 on ChatGPT Prompt Template. Use th
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case176/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Origami Portrait Illustration"></a> |
+| <a href="images/portrait_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case176/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Origami Portrait Illustration"></a> |
 
 **프롬프트:**
 
@@ -1395,7 +1395,7 @@ Ultra-detailed origami paper art portrait of given picture, entirely crafted fro
 
 |                                                                                                                                                                                                    Output                                                                                                                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case177/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Portrait With Tiny Alter Ego"></a> |
+| <a href="images/portrait_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case177/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Portrait With Tiny Alter Ego"></a> |
 
 **프롬프트:**
 
@@ -1417,7 +1417,7 @@ Generate image using uploaded image as reference
 
 |                                                                                                                                                                                           Output                                                                                                                                                                                           |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case178/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ink Glyph Portrait"></a> |
+| <a href="images/portrait_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case178/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ink Glyph Portrait"></a> |
 
 **프롬프트:**
 
@@ -1430,7 +1430,7 @@ Use the uploaded photo as the main face reference. Preserve the exact facial str
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case179/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Cyber-Pop Editorial Shot"></a> |
+| <a href="images/portrait_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case179/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Cyber-Pop Editorial Shot"></a> |
 
 **프롬프트:**
 
@@ -1443,7 +1443,7 @@ Don’t alter my facial feature. Create me a wide editorial shot of a girl leani
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                               |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case180/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cozy Doodle Lifestyle Photo"></a> |
+| <a href="images/portrait_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case180/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cozy Doodle Lifestyle Photo"></a> |
 
 **프롬프트:**
 
@@ -1463,7 +1463,7 @@ Warm cozy morning aesthetic near a window, open book being read beside a cup of 
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case185/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case185/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Street-Art Editorial Poster"></a> |
+| <a href="images/portrait_case185/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case185/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Street-Art Editorial Poster"></a> |
 
 **프롬프트:**
 
@@ -1476,7 +1476,7 @@ hair instructions, controlling hairstyle, changing hairstyle, young female, youn
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case186/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - LEGO Miniature City Editorial"></a> |
+| <a href="images/portrait_case186/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - LEGO Miniature City Editorial"></a> |
 
 **프롬프트:**
 
@@ -1491,7 +1491,7 @@ Only the character remains organic and natural. Everything else must be built en
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case187/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case187/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fashion Collage Multi-Style Portrait"></a> |
+| <a href="images/portrait_case187/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case187/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fashion Collage Multi-Style Portrait"></a> |
 
 **프롬프트:**
 
@@ -1504,7 +1504,7 @@ Create a premium 1:1 ultra-stylish fashion collage advertisement featuring the s
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case188/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case188/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Busan Travel Journal Illustration"></a> |
+| <a href="images/portrait_case188/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case188/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Busan Travel Journal Illustration"></a> |
 
 **프롬프트:**
 
@@ -1517,7 +1517,7 @@ Dreamy Busan Korea travel journal illustration, cozy vintage scrapbook aesthetic
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case189/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case189/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Volleyball Sports Portrait"></a> |
+| <a href="images/portrait_case189/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case189/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Volleyball Sports Portrait"></a> |
 
 **프롬프트:**
 
@@ -1530,7 +1530,7 @@ Ultra-realistic cinematic sports portrait of a young athletic woman playing voll
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case190/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case190/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Designer-Toy Portrait"></a> |
+| <a href="images/portrait_case190/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case190/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Designer-Toy Portrait"></a> |
 
 **프롬프트:**
 
@@ -1543,7 +1543,7 @@ Stylized 3D designer-toy portrait, centered symmetrical close-up composition, ma
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case191/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case191/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dark Silhouette Rim-Light Portrait"></a> |
+| <a href="images/portrait_case191/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case191/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dark Silhouette Rim-Light Portrait"></a> |
 
 **프롬프트:**
 
@@ -1557,7 +1557,7 @@ Stylized 3D designer-toy portrait, centered symmetrical close-up composition, ma
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case192/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case192/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cozy Bedroom Korean Girl Portrait"></a> |
+| <a href="images/portrait_case192/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case192/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cozy Bedroom Korean Girl Portrait"></a> |
 
 **프롬프트:**
 
@@ -1571,7 +1571,7 @@ She is lying comfortably on her stomach across a soft cream-colored bed in her c
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case193/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case193/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime Brand Campaign Portrait"></a> |
+| <a href="images/portrait_case193/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case193/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime Brand Campaign Portrait"></a> |
 
 **프롬프트:**
 
@@ -1584,7 +1584,7 @@ Semi-realistic anime style young Korean woman in the uploaded image, ORBIT brand
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case194/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case194/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Woman in Crystal Perfume Bottle"></a> |
+| <a href="images/portrait_case194/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case194/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Woman in Crystal Perfume Bottle"></a> |
 
 **프롬프트:**
 
@@ -1597,7 +1597,7 @@ Ultra-realistic surreal conceptual portrait of a distressed middle-aged woman tr
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case195/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case195/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Summer Campus Tesla Lifestyle Poster"></a> |
+| <a href="images/portrait_case195/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case195/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Summer Campus Tesla Lifestyle Poster"></a> |
 
 **프롬프트:**
 
@@ -1610,7 +1610,7 @@ Create a premium summer campus lifestyle Tesla poster focused mainly on an adult
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case196/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case196/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bubble-Tea Shop Action Portrait"></a> |
+| <a href="images/portrait_case196/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case196/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bubble-Tea Shop Action Portrait"></a> |
 
 **프롬프트:**
 
@@ -1626,7 +1626,7 @@ Scene/backdrop: a bright modern bubble-tea counter interior with stainless steel
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case197/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case197/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Night Outdoor Portrait"></a> |
+| <a href="images/portrait_case197/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case197/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Night Outdoor Portrait"></a> |
 
 **프롬프트:**
 
@@ -1639,7 +1639,7 @@ A medium-shot photograph of a young woman with wavy, light brown hair and soft, 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case198/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case198/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fashion Blueprint Editorial Sheet"></a> |
+| <a href="images/portrait_case198/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case198/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Fashion Blueprint Editorial Sheet"></a> |
 
 **프롬프트:**
 
@@ -1654,7 +1654,7 @@ Surrounding the model are fashion infographic elements, jewelry breakdowns, fabr
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case199/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case199/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Joyful Street Portrait with Drink"></a> |
+| <a href="images/portrait_case199/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case199/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Joyful Street Portrait with Drink"></a> |
 
 **프롬프트:**
 
@@ -1667,7 +1667,7 @@ A medium low-angle shot of a joyful young woman with dark hair and straight bang
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case200/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case200/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Portrait Collage Film Strip Poster"></a> |
+| <a href="images/portrait_case200/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case200/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Portrait Collage Film Strip Poster"></a> |
 
 **프롬프트:**
 
@@ -1680,7 +1680,7 @@ High-end portrait collage poster in vertical format. The background contains fou
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case201/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case201/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Reference-Based Portrait Consistency"></a> |
+| <a href="images/portrait_case201/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case201/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Reference-Based Portrait Consistency"></a> |
 
 **프롬프트:**
 
@@ -1699,7 +1699,7 @@ Calm slice-of-life atmosphere, minimalist Korean school aesthetic, candid model 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case202/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case202/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - London Fashion Street Portrait"></a> |
+| <a href="images/portrait_case202/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case202/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - London Fashion Street Portrait"></a> |
 
 **프롬프트:**
 
@@ -1715,7 +1715,7 @@ Bright natural sunlight, shallow depth of field, smooth gimbal movement, luxury 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case203/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case203/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Selfie Portrait Reference"></a> |
+| <a href="images/portrait_case203/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case203/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Selfie Portrait Reference"></a> |
 
 **프롬프트:**
 
@@ -1742,7 +1742,7 @@ watermark, logo, text, caption, signature, AI label, brand mark, extra fingers, 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case204/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case204/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ultra-Realistic Phone-Style Portrait"></a> |
+| <a href="images/portrait_case204/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case204/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ultra-Realistic Phone-Style Portrait"></a> |
 
 **프롬프트:**
 
@@ -1791,7 +1791,7 @@ The overall result should resemble a genuine smartphone portrait captured casual
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case205/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case205/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Woodcut Engraving Portrait Style"></a> |
+| <a href="images/portrait_case205/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case205/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Woodcut Engraving Portrait Style"></a> |
 
 **프롬프트:**
 
@@ -1810,7 +1810,7 @@ color, watercolor, soft shading, blurred lines, low contrast, realistic photogra
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case206/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case206/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Character Design Sheet"></a> |
+| <a href="images/portrait_case206/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case206/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Character Design Sheet"></a> |
 
 **프롬프트:**
 
@@ -1852,7 +1852,7 @@ STYLE NOTES: Pixar 3D vivid rendering. Clean white background on both character 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case207/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case207/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Matcha Goddess Beauty Portrait"></a> |
+| <a href="images/portrait_case207/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case207/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Matcha Goddess Beauty Portrait"></a> |
 
 **프롬프트:**
 
@@ -1867,7 +1867,7 @@ ultra realistic surreal beauty editorial portrait, matcha goddess aesthetic, eth
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case208/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case208/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Camera LCD Screen Shot"></a> |
+| <a href="images/portrait_case208/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case208/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Camera LCD Screen Shot"></a> |
 
 **프롬프트:**
 
@@ -1891,7 +1891,7 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case209/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case209/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 写实感人物竖版照片"></a> |
+| <a href="images/portrait_case209/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case209/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 写实感人物竖版照片"></a> |
 
 **프롬프트:**
 
@@ -1917,7 +1917,7 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case210/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case210/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Japanese Street Editorial Poster"></a> |
+| <a href="images/portrait_case210/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case210/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Japanese Street Editorial Poster"></a> |
 
 **프롬프트:**
 
@@ -1930,7 +1930,7 @@ Create a bold Y2K Japanese street-editorial collage poster with a clean high-fas
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case211/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case211/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Editorial Male Portrait"></a> |
+| <a href="images/portrait_case211/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case211/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Editorial Male Portrait"></a> |
 
 **프롬프트:**
 
@@ -1943,7 +1943,7 @@ Ultra-realistic 8K editorial male portrait of the uploaded man, using his exact 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case212/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case212/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Avant-Garde Tokyo Fashion Zine Poster"></a> |
+| <a href="images/portrait_case212/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case212/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Avant-Garde Tokyo Fashion Zine Poster"></a> |
 
 **프롬프트:**
 
@@ -1960,7 +1960,7 @@ Overall mood: clean but rebellious, premium Japanese street-editorial energy, ci
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case213/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case213/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miki Style Line Art Portrait"></a> |
+| <a href="images/portrait_case213/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case213/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miki Style Line Art Portrait"></a> |
 
 **프롬프트:**
 
@@ -1977,7 +1977,7 @@ Composition: Profile chest-up bust shot portrait, composed cleanly, with a calm,
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case214/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case214/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Ultra-Realistic Portrait"></a> |
+| <a href="images/portrait_case214/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case214/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Ultra-Realistic Portrait"></a> |
 
 **프롬프트:**
 
@@ -1990,7 +1990,7 @@ low quality, blurry, distorted anatomy, extra fingers, bad hands, unrealistic sm
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case215/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case215/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic B&W Portrait"></a> |
+| <a href="images/portrait_case215/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case215/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic B&W Portrait"></a> |
 
 **프롬프트:**
 
@@ -2003,7 +2003,7 @@ A hyper-realistic, cinematic black-and-white portrait of a woman caught in mid-m
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case216/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case216/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Artistic Sketch Portrait Young Man"></a> |
+| <a href="images/portrait_case216/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case216/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Artistic Sketch Portrait Young Man"></a> |
 
 **프롬프트:**
 
@@ -2016,7 +2016,7 @@ Create a unique artistic sketch-style portrait of a modern young man wearing bla
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case217/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case217/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - NBA Legend Mid-Air Action Poster"></a> |
+| <a href="images/portrait_case217/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case217/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - NBA Legend Mid-Air Action Poster"></a> |
 
 **프롬프트:**
 
@@ -2029,7 +2029,7 @@ Dynamic NBA legend poster design, iconic basketball superstar in mid-air action 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case218/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case218/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Fashion Portrait"></a> |
+| <a href="images/portrait_case218/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case218/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Fashion Portrait"></a> |
 
 **프롬프트:**
 
@@ -2042,7 +2042,7 @@ Create a high-quality “chibi sticker diary portrait” based on the uploaded r
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case219/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case219/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Football Portrait Poster"></a> |
+| <a href="images/portrait_case219/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case219/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Football Portrait Poster"></a> |
 
 **프롬프트:**
 
@@ -2055,7 +2055,7 @@ Ultra realistic cinematic football poster of a stylish young South Asian male fo
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case220/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case220/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Switzerland Watercolor Travel Poster"></a> |
+| <a href="images/portrait_case220/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case220/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Switzerland Watercolor Travel Poster"></a> |
 
 **프롬프트:**
 
@@ -2068,7 +2068,7 @@ Ultra realistic cinematic football poster of a stylish young South Asian male fo
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case221/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case221/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Lifestyle Outdoor Portrait"></a> |
+| <a href="images/portrait_case221/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case221/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Lifestyle Outdoor Portrait"></a> |
 
 **프롬프트:**
 
@@ -2081,7 +2081,7 @@ Cinematic lifestyle portrait of a cheerful young woman sitting on a rustic woode
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case222/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case222/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Cycling Storyboard Poster"></a> |
+| <a href="images/portrait_case222/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case222/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Cycling Storyboard Poster"></a> |
 
 **프롬프트:**
 
@@ -2094,7 +2094,7 @@ Cinematic lifestyle portrait of a cheerful young woman sitting on a rustic woode
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case223/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case223/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Japanese Street Collage Poster"></a> |
+| <a href="images/portrait_case223/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case223/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Y2K Japanese Street Collage Poster"></a> |
 
 **프롬프트:**
 
@@ -2107,7 +2107,7 @@ Create a bold Y2K Japanese street-editorial collage poster with a clean high-fas
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case224/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case224/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cosmic Garden Fantasy Portrait"></a> |
+| <a href="images/portrait_case224/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case224/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cosmic Garden Fantasy Portrait"></a> |
 
 **프롬프트:**
 
@@ -2120,7 +2120,7 @@ Ultra-realistic cinematic fantasy-science portrait of a beautiful young female s
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case225/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case225/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Streetwear Magazine Cover Portrait"></a> |
+| <a href="images/portrait_case225/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case225/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Streetwear Magazine Cover Portrait"></a> |
 
 **프롬프트:**
 
@@ -2134,7 +2134,7 @@ snippets, and grunge borders, creating a cohesive Japanese street-culture aesthe
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case226/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case226/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cat-Eye Glasses Fashion Portrait"></a> |
+| <a href="images/portrait_case226/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case226/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cat-Eye Glasses Fashion Portrait"></a> |
 
 **프롬프트:**
 
@@ -2147,7 +2147,7 @@ A young woman with long, dark hair and striking cat-eye glasses is captured in a
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case227/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case227/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bold Monochrome Identity Portrait"></a> |
+| <a href="images/portrait_case227/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case227/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bold Monochrome Identity Portrait"></a> |
 
 **프롬프트:**
 
@@ -2160,7 +2160,7 @@ Use my uploaded image as the face reference.
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case228/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case228/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Clean Tech Advertisement Poster"></a> |
+| <a href="images/portrait_case228/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case228/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Clean Tech Advertisement Poster"></a> |
 
 **프롬프트:**
 
@@ -2173,7 +2173,7 @@ Use my uploaded image as the face reference.
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case229/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case229/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Flat Vector Editorial Pattern Illustration"></a> |
+| <a href="images/portrait_case229/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case229/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Flat Vector Editorial Pattern Illustration"></a> |
 
 **프롬프트:**
 
@@ -2186,7 +2186,7 @@ Create a sophisticated flat-vector editorial pattern illustration of [Chicago bu
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case230/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case230/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Identity Portrait"></a> |
+| <a href="images/portrait_case230/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case230/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Beauty Identity Portrait"></a> |
 
 **프롬프트:**
 
@@ -2199,7 +2199,7 @@ Using the provided reference image, create an ultra-realistic Korean street-fash
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case231/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case231/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hollywood Luxury Anime Fashion Portrait"></a> |
+| <a href="images/portrait_case231/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case231/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hollywood Luxury Anime Fashion Portrait"></a> |
 
 **프롬프트:**
 
@@ -2212,7 +2212,7 @@ Create a premium 1:1 Hollywood-style luxury anime fashion editorial collage feat
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case232/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case232/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Identity Reference Beauty Portrait"></a> |
+| <a href="images/portrait_case232/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case232/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Identity Reference Beauty Portrait"></a> |
 
 **프롬프트:**
 
@@ -2225,7 +2225,7 @@ Use only my uploaded portrait photo as the identity reference. Accurately preser
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case233/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case233/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixel Art Character Portrait"></a> |
+| <a href="images/portrait_case233/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case233/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixel Art Character Portrait"></a> |
 
 **프롬프트:**
 
@@ -2238,7 +2238,7 @@ Create a cute and stylish pixel-art illustration based on the uploaded image in 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case234/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case234/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Negative Prompt Portrait Template"></a> |
+| <a href="images/portrait_case234/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case234/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Negative Prompt Portrait Template"></a> |
 
 **프롬프트:**
 
@@ -2251,7 +2251,7 @@ low quality, blurry, distorted face, extra fingers, bad hands, duplicate facial 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case235/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case235/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Identity Reference Fashion Portrait"></a> |
+| <a href="images/portrait_case235/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case235/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Identity Reference Fashion Portrait"></a> |
 
 **프롬프트:**
 
@@ -2270,7 +2270,7 @@ Avoid: pastel colors, kawaii styling, cartoon elements, bubbles, exaggerated neo
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case236/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case236/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Character Design Sheet"></a> |
+| <a href="images/portrait_case236/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case236/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Character Design Sheet"></a> |
 
 **프롬프트:**
 
@@ -2283,7 +2283,7 @@ Avoid: pastel colors, kawaii styling, cartoon elements, bubbles, exaggerated neo
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case237/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case237/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Automotive Design Deconstruction Poster"></a> |
+| <a href="images/portrait_case237/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case237/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Automotive Design Deconstruction Poster"></a> |
 
 **프롬프트:**
 
@@ -2296,7 +2296,7 @@ You are an AI automotive designer that deconstructs any object's aerodynamic phi
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case238/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case238/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait Poster"></a> |
+| <a href="images/portrait_case238/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case238/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait Poster"></a> |
 
 **프롬프트:**
 
@@ -2309,7 +2309,7 @@ Create a high-detail portrait poster in a bold Japanese graffiti-inspired art st
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case239/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case239/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Portrait"></a> |
+| <a href="images/portrait_case239/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case239/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Portrait"></a> |
 
 **프롬프트:**
 
@@ -2322,7 +2322,7 @@ Use my uploaded portrait photo as the only identity reference. Preserve only the
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case240/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case240/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Outdoor Lifestyle Open Sky Portrait"></a> |
+| <a href="images/portrait_case240/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case240/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Outdoor Lifestyle Open Sky Portrait"></a> |
 
 **프롬프트:**
 
@@ -2335,7 +2335,7 @@ Vibe: outdoor lifestyle · introspective · open sky
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case241/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case241/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 高级男性魅力人像"></a> |
+| <a href="images/portrait_case241/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case241/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 高级男性魅力人像"></a> |
 
 **프롬프트:**
 
@@ -2354,7 +2354,7 @@ Vibe: outdoor lifestyle · introspective · open sky
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case242/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case242/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 沙滩场景丰腴人物写真"></a> |
+| <a href="images/portrait_case242/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case242/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 沙滩场景丰腴人物写真"></a> |
 
 **프롬프트:**
 
@@ -2367,7 +2367,7 @@ Vibe: outdoor lifestyle · introspective · open sky
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case243/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case243/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Photorealistic Editorial Seated Portrait"></a> |
+| <a href="images/portrait_case243/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case243/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Photorealistic Editorial Seated Portrait"></a> |
 
 **프롬프트:**
 
@@ -2380,7 +2380,7 @@ Photorealistic editorial portrait of a relaxed young man seated on minimalist wh
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case244/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case244/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Soft Aesthetic Fashion Magazine Cover"></a> |
+| <a href="images/portrait_case244/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case244/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Soft Aesthetic Fashion Magazine Cover"></a> |
 
 **프롬프트:**
 
@@ -2393,7 +2393,7 @@ Ultra-realistic soft aesthetic fashion magazine cover portrait of a young East A
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case245/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case245/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pakistan Miniature World Map Poster"></a> |
+| <a href="images/portrait_case245/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case245/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pakistan Miniature World Map Poster"></a> |
 
 **프롬프트:**
 
@@ -2406,7 +2406,7 @@ Create an ultra-detailed hyper-realistic 9:16 cinematic miniature world map of P
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case246/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case246/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Film Aesthetic Airport Portrait"></a> |
+| <a href="images/portrait_case246/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case246/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Film Aesthetic Airport Portrait"></a> |
 
 **프롬프트:**
 
@@ -2489,7 +2489,7 @@ Vibrant contemporary aesthetic with neon pink, sky blue, and warm yellow highlig
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case262/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case262/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Boho Stone-Wall Portrait"></a> |
+| <a href="images/portrait_case262/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case262/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Boho Stone-Wall Portrait"></a> |
 
 **프롬프트:**
 
@@ -2507,7 +2507,7 @@ Use soft diffused natural daylight with even front illumination and gentle shado
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case263/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case263/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ink Manuscript Side Portrait"></a> |
+| <a href="images/portrait_case263/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case263/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ink Manuscript Side Portrait"></a> |
 
 **프롬프트:**
 
@@ -2525,7 +2525,7 @@ Use a pale aged-parchment background with subtle grain, faded paper texture, del
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case264/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case264/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Window-Light Cinematic Portrait"></a> |
+| <a href="images/portrait_case264/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case264/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Window-Light Cinematic Portrait"></a> |
 
 **프롬프트:**
 
@@ -2538,7 +2538,7 @@ Use the exact same face from the reference image and generate a Ultra realistic 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case265/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case265/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Futuristic Martial Arts Heroine Portrait"></a> |
+| <a href="images/portrait_case265/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case265/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Futuristic Martial Arts Heroine Portrait"></a> |
 
 **프롬프트:**
 
@@ -2563,7 +2563,7 @@ Hyper-detailed skin rendering, subsurface scattering, realistic global illuminat
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case266/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case266/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Under-Glass Worms-Eye Crowd Shot"></a> |
+| <a href="images/portrait_case266/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case266/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Under-Glass Worms-Eye Crowd Shot"></a> |
 
 **프롬프트:**
 
@@ -2577,7 +2577,7 @@ Camera placed directly beneath a completely transparent glass floor, pointing st
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case267/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case267/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case267/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case267/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2619,8 +2619,8 @@ Final processing should feature a rich monochrome conversion with smooth tonal t
 ### Case 268: [Plush Mascot Companion Portrait](https://x.com/doctorwasif/status/2063304967218475072) (by [@doctorwasif](https://x.com/doctorwasif))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case268/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case268/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case268/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case268/output2.jpg" width="100%" alt="Output image"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case268/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case268/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case268/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case268/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case268/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case268/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/portrait_case268/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case268/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case268/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case268/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/portrait_case268/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case268/output4.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -2635,7 +2635,7 @@ Use the uploaded portrait as the identity reference and preserve the person's re
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case269/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case269/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case269/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case269/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2648,7 +2648,7 @@ A vertical collage of three YZK photos. Using the uploaded selfie as the ONLY an
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case270/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case270/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case270/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case270/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2663,7 +2663,7 @@ Shots include: 1. tight cheek + neck close-up with blurred finger foreground (85
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case271/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case271/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case271/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case271/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2706,7 +2706,7 @@ Final processing should feature a rich monochrome conversion with smooth tonal t
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case272/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case272/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case272/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case272/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2735,7 +2735,7 @@ Pinterest aesthetic, Instagram nightlife photography, candid fashion editorial, 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case273/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case273/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case273/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case273/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2752,7 +2752,7 @@ Follow : @AiwithZohaib
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case274/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case274/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case274/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case274/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2766,7 +2766,7 @@ Black-and-white fashion casting contact sheet of [HUMAN] with [HAIR], arranged i
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case275/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case275/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case275/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case275/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2853,7 +2853,7 @@ Negative prompt:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case276/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case276/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case276/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case276/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2874,7 +2874,7 @@ Foto ini memiliki atmosfer yang sangat melankolis, artistik, dan sinematik. Komp
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case277/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case277/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case277/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case277/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2890,7 +2890,7 @@ The background is solid seamless black. Use strong directional studio lighting w
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case278/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case278/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case278/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case278/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2903,7 +2903,7 @@ Create a photorealistic editorial portrait of one 20-year-old Japanese or Korean
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case279/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case279/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case279/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case279/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2922,7 +2922,7 @@ Set against a pure black background, emphasizing strong contrast and visual impa
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case280/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case280/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case280/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case280/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -2950,7 +2950,7 @@ Thin silver metal-frame eyeglasses with minimalist design. Luxury wristwatch fea
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case281/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case281/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case281/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case281/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -3015,7 +3015,7 @@ Aspect ratio: 4:5
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case282/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case282/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case282/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case282/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -3034,7 +3034,7 @@ Cinematic winter portrait of a young pale-skinned woman with long dark snow-dust
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case283/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case283/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case283/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case283/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -3047,7 +3047,7 @@ A full shot of a man sitting on a white chair with his legs crossed, wearing a d
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case284/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case284/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/portrait_case284/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case284/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -3065,7 +3065,7 @@ A full shot of a man sitting on a white chair with his legs crossed, wearing a d
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case285/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case285/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime-Inspired Pastel Hoodie Portrait"></a> |
+| <a href="images/portrait_case285/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case285/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime-Inspired Pastel Hoodie Portrait"></a> |
 
 **프롬프트:**
 
@@ -3078,7 +3078,7 @@ Semi-realistic anime-inspired portrait of a stylish man, delicate round-frame gl
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case286/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case286/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Italian Summer Afternoon Portrait"></a> |
+| <a href="images/portrait_case286/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case286/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Italian Summer Afternoon Portrait"></a> |
 
 **프롬프트:**
 
@@ -3095,7 +3095,7 @@ Ultra photorealistic portrait of a young woman with long straight dark brown hai
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case287/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case287/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Rainy Night Cinematic Portrait"></a> |
+| <a href="images/portrait_case287/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case287/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Rainy Night Cinematic Portrait"></a> |
 
 **프롬프트:**
 
@@ -3112,7 +3112,7 @@ Photorealistic cinematic close-up of a young woman in her early 30s, standing in
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case288/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case288/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 7-Panel Emotion Grid Portrait"></a> |
+| <a href="images/portrait_case288/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case288/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 7-Panel Emotion Grid Portrait"></a> |
 
 **프롬프트:**
 
@@ -3136,8 +3136,8 @@ Panel 7: Melancholy (Gray). Gray gradient. Eyes angled slightly downward. Inner 
 ### Case 289: [Cozy Pastel Morning Overhead Lifestyle](https://x.com/iamaiistudio/status/2065149291099021650) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case289/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case289/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case289/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case289/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case289/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case289/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case289/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case289/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td><td width="50%"><a href="images/portrait_case289/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case289/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case289/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case289/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Cozy Pastel Morning Overhead Lifestyle"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -3155,7 +3155,7 @@ Overhead lifestyle photo shot from a slightly tilted high angle, looking down at
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case290/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case290/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Stylish Woman Outside Cozy Café Portrait"></a> |
+| <a href="images/portrait_case290/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case290/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Stylish Woman Outside Cozy Café Portrait"></a> |
 
 **프롬프트:**
 
@@ -3168,7 +3168,7 @@ An ultra-realistic lifestyle portrait of a stylish young woman standing outside 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case291/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case291/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Streetwear Chrome Chair Portrait"></a> |
+| <a href="images/portrait_case291/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case291/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Streetwear Chrome Chair Portrait"></a> |
 
 **프롬프트:**
 
@@ -3202,7 +3202,7 @@ Poster design quality: luxury fashion campaign level.
 ### Case 292: [South Korea Graffiti Street Art Portrait](https://x.com/Kashberg_0/status/2065112085269504508) (by [@Kashberg_0](https://x.com/Kashberg_0))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case292/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case292/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - South Korea Graffiti Street Art Portrait"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case292/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case292/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - South Korea Graffiti Street Art Portrait"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case292/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case292/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - South Korea Graffiti Street Art Portrait"></a></td><td width="50%"><a href="images/portrait_case292/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case292/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - South Korea Graffiti Street Art Portrait"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -3227,7 +3227,7 @@ thelifeafptfiti b--'ground,TikTok
 ### Case 293: [Korean Webtoon Couple Selfie](https://x.com/Taaruk_/status/2065105428862886301) (by [@Taaruk_](https://x.com/Taaruk_))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case293/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case293/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Korean Webtoon Couple Selfie"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case293/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case293/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Korean Webtoon Couple Selfie"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case293/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case293/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Korean Webtoon Couple Selfie"></a></td><td width="50%"><a href="images/portrait_case293/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case293/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Korean Webtoon Couple Selfie"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -3241,7 +3241,7 @@ Transform the uploaded photo into a cute hand-painted Korean webtoon illustratio
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case294/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case294/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Non-Existent 1870s Vintage Photograph"></a> |
+| <a href="images/portrait_case294/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case294/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Non-Existent 1870s Vintage Photograph"></a> |
 
 **프롬프트:**
 
@@ -3262,7 +3262,7 @@ Greatly increase the wear of the photo, including small tears, missing corners, 
 ### Case 295: [Doll-ification Concept Portrait](https://x.com/iamaiistudio/status/2065104023011868884) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case295/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case295/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Doll-ification Concept Portrait"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case295/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case295/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Doll-ification Concept Portrait"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case295/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case295/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Doll-ification Concept Portrait"></a></td><td width="50%"><a href="images/portrait_case295/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case295/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Doll-ification Concept Portrait"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -3284,7 +3284,7 @@ Bold blue-and-orange color palette with dramatic lighting throughout. Cyberpunk 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case296/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case296/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neon Doodle Gallery Snapshot Template"></a> |
+| <a href="images/portrait_case296/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case296/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neon Doodle Gallery Snapshot Template"></a> |
 
 **프롬프트:**
 
@@ -3330,8 +3330,8 @@ watermark, username, creator ID, platform logo, app mark, QR code, clean vector 
 ### Case 297: [Face-Reference Consistent Portrait](https://x.com/john_my07/status/2065092295092051994) (by [@john_my07](https://x.com/john_my07))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case297/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case297/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case297/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case297/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case297/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case297/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case297/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case297/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td><td width="50%"><a href="images/portrait_case297/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case297/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case297/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case297/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Reference Consistent Portrait"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -3350,7 +3350,7 @@ Photographed in the style of an international fashion magazine cover, with warm 
 ### Case 298: [日本コンビニ店員 昼夜対比写真](https://x.com/johnAGI168/status/2065080792548618431) (by [@johnAGI168](https://x.com/johnAGI168))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case298/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case298/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 日本コンビニ店員 昼夜対比写真"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case298/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case298/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 日本コンビニ店員 昼夜対比写真"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case298/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case298/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 日本コンビニ店員 昼夜対比写真"></a></td><td width="50%"><a href="images/portrait_case298/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case298/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 日本コンビニ店員 昼夜対比写真"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -3375,7 +3375,7 @@ Style: realistic live-action Japanese drama still, 3:4 vertical portrait, waist-
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case299/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dreamlike Cloud Face Portrait"></a> |
+| <a href="images/portrait_case299/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dreamlike Cloud Face Portrait"></a> |
 
 **프롬프트:**
 
@@ -3400,7 +3400,7 @@ Ultra-realistic cloud texture, high resolution, seamless blending, no watermarks
 ### Case 300: [Face-Preserved Ultra-Realistic Portrait](https://x.com/Rainlanded/status/2065071103316484451) (by [@Rainlanded](https://x.com/Rainlanded))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case300/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case300/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Preserved Ultra-Realistic Portrait"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case300/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case300/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Preserved Ultra-Realistic Portrait"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case300/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case300/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Preserved Ultra-Realistic Portrait"></a></td><td width="50%"><a href="images/portrait_case300/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case300/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Face-Preserved Ultra-Realistic Portrait"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -3414,7 +3414,7 @@ low quality, blurry, distorted face, bad anatomy, extra limbs, stiff pose, unnat
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case301/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sharp Digital Portrait Illustration"></a> |
+| <a href="images/portrait_case301/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sharp Digital Portrait Illustration"></a> |
 
 **프롬프트:**
 
@@ -3433,7 +3433,7 @@ Ultra-detailed digital portrait illustration of a confident young man with sharp
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case302/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 파리 가로등 기댄 감성 전신 포즈"></a> |
+| <a href="images/portrait_case302/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 파리 가로등 기댄 감성 전신 포즈"></a> |
 
 **프롬프트:**
 
@@ -3445,8 +3445,8 @@ Ultra-detailed digital portrait illustration of a confident young man with sharp
 ### Case 303: [深夜调酒师暗红酒吧封面写真](https://x.com/liyue_ai/status/2064965712406556931) (by [@liyue_ai](https://x.com/liyue_ai))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case303/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case303/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case303/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case303/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case303/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case303/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case303/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case303/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td><td width="50%"><a href="images/portrait_case303/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case303/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case303/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case303/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 深夜调酒师暗红酒吧封面写真"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -3460,7 +3460,7 @@ Ultra-detailed digital portrait illustration of a confident young man with sharp
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case304/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case304/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 양모 펠트 미니어처"></a> |
+| <a href="images/portrait_case304/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case304/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 양모 펠트 미니어처"></a> |
 
 **제출 가이드라인:**
 
@@ -3477,7 +3477,7 @@ Camera: macro photography, close-up shot. Soft studio lighting with warm highlig
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case305/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 화사한 일본풍 창가 인물 사진"></a> |
+| <a href="images/portrait_case305/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 화사한 일본풍 창가 인물 사진"></a> |
 
 **프롬프트:**
 
@@ -3726,7 +3726,7 @@ Negative prompt: plastic skin, over retouched, heavy glamour lighting, extra exp
 ### Case 108: [반투명 물고기와 몽환적인 수중 여성](https://x.com/kotobukigraphic/status/2047967522453123255) (by [@kotobukigraphic](https://x.com/kotobukigraphic))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case99/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case99/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/portrait_case99/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case99/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -3738,7 +3738,7 @@ A dreamy surreal portrait of a {argument name="subject" default="young woman"} s
 ### Case 111: [모노크롬 글리치 프로필 초상](https://x.com/Goodmanprotocol/status/2049733639651385759) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case100/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case100/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/portrait_case100/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case100/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -3766,7 +3766,7 @@ Aspect ratio is 9:16
 ### Case 112: [농구 소년 모션 시퀀스](https://x.com/Taaruk_/status/2049702491768684839) (by [@Taaruk_](https://x.com/Taaruk_))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case101/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case101/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/portrait_case101/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case101/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -3778,7 +3778,7 @@ A photorealistic video sequence captures a young boy with messy orange hair and 
 ### Case 113: [골든아워 거리 측면 프로필 초상](https://x.com/Professor_134/status/2049701241287311561) (by [@Professor_134](https://x.com/Professor_134))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case102/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case102/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/portrait_case102/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case102/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -3805,7 +3805,7 @@ Generate image using uploaded image as reference
 ### Case 114: [선택 색상 선글라스 초상](https://x.com/aiistudiocom/status/2050745987443081437) (by [@aiistudiocom](https://x.com/aiistudiocom))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case110/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case110/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/portrait_case110/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case110/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -3817,7 +3817,7 @@ A studio-style close-up editorial portrait of a person with strong, well-defined
 ### Case 115: [재미있는 낙서 사진 편집](https://x.com/Ciri_ai/status/2050625732448235817) (by [@Ciri_ai](https://x.com/Ciri_ai))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case111/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case111/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/portrait_case111/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case111/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -3829,7 +3829,7 @@ Analyze the uploaded image and preserve the original subject, composition, and l
 ### Case 116: [비 오는 밤 버스 창가 초상](https://x.com/john_my07/status/2050608887397789997) (by [@john_my07](https://x.com/john_my07))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case112/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/portrait_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case112/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -3841,7 +3841,7 @@ Ultra-realistic cinematic portrait of a young woman sitting by a rain-covered bu
 ### Case 117: [2x2 편집 인물 그리드](https://x.com/Taaruk_/status/2050429694890389779) (by [@Taaruk_](https://x.com/Taaruk_))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case109/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/portrait_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case109/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -3853,7 +3853,7 @@ GPT IMAGE 2 ON CHATGPT Prompt: Editorial portrait photography arranged in a 2x2 
 ### Case 118: [사이버펑크 패션 초상](https://x.com/ChillaiKalan__/status/2050453739430195320) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case106/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/portrait_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case106/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -3865,7 +3865,7 @@ GPT Image 2 on @SocialSight Prompt: Futuristic portrait of a young woman facing 
 ### Case 119: [일본식 네거티브 필름 옥상 초상](https://x.com/BubbleBrain/status/2050449020645216532) (by [@BubbleBrain](https://x.com/BubbleBrain))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case107/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/portrait_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case107/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -3877,7 +3877,7 @@ Today's Portrait by gpt image 2 ---prompt--- Japanese negative film aesthetic, r
 ### Case 120: [파리 카페 라이프스타일 초상](https://x.com/Sairah_0/status/2050432730962530809) (by [@Sairah_0](https://x.com/Sairah_0))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/portrait_case108/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/portrait_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case108/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -4536,7 +4536,7 @@ Negative prompt: screen overlay, lock screen overlay, status bar, timestamp, flo
 
 |                                                                                                                                                                                                        Output                                                                                                                                                                                                        |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case79/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case79/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Peacock Botanical Vintage Symmetrical Art Print"></a> |
+| <a href="images/poster_case79/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case79/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Peacock Botanical Vintage Symmetrical Art Print"></a> |
 
 **프롬프트:**
 
@@ -4549,7 +4549,7 @@ symmetrical design featuring two elegant blue peacocks with detailed feather pat
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case193/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case193/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Brand Ad Campaign Poster"></a> |
+| <a href="images/poster_case193/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case193/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Brand Ad Campaign Poster"></a> |
 
 **프롬프트:**
 
@@ -4562,7 +4562,7 @@ A world-class luxury advertising campaign poster, 4:5 ratio, for [BRAND/PRODUCT]
 
 |                                                                                                                                                                                                     Output                                                                                                                                                                                                    |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case191/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case191/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Food Photography with Doodle Characters"></a> |
+| <a href="images/poster_case191/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case191/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Food Photography with Doodle Characters"></a> |
 
 **Prompt 1 (Beach café + cute doodle characters):**
 
@@ -4588,7 +4588,7 @@ Warm cozy coffee scene on a rustic wooden table with a cup of latte art on a yel
 
 |                                                                                                                                                                                               Output                                                                                                                                                                                              |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case250/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case250/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hand-Torn Editorial Collage"></a> |
+| <a href="images/poster_case250/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case250/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hand-Torn Editorial Collage"></a> |
 
 **프롬프트:**
 
@@ -4602,7 +4602,7 @@ Transform the attached image into a collage artwork. Make it appear as if hand-t
 
 |                                                                                                                                                                                                   Output                                                                                                                                                                                                  |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case251/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case251/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glowing Sailboat Night Illustration"></a> |
+| <a href="images/poster_case251/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case251/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glowing Sailboat Night Illustration"></a> |
 
 **프롬프트:**
 
@@ -4616,7 +4616,7 @@ A luminous sailboat, outlined in glowing golden light, floats serenely on dark, 
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case252/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case252/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Istanbul Line-Art Travel Poster"></a> |
+| <a href="images/poster_case252/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case252/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Istanbul Line-Art Travel Poster"></a> |
 
 **프롬프트:**
 
@@ -4720,7 +4720,7 @@ Museum-quality graphic design composition
 
 |                                                                                                                                                                                              Output                                                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case253/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case253/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dark Western Outlaw Poster"></a> |
+| <a href="images/poster_case253/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case253/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dark Western Outlaw Poster"></a> |
 
 **프롬프트:**
 
@@ -4742,7 +4742,7 @@ Museum-quality graphic design composition
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case254/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case254/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime Streetwear Mascot Poster"></a> |
+| <a href="images/poster_case254/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case254/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime Streetwear Mascot Poster"></a> |
 
 **프롬프트:**
 
@@ -4756,7 +4756,7 @@ Stylized anime streetwear brand poster of a fast-food mascot character, full-bod
 
 |                                                                                                                                                                                                    Output                                                                                                                                                                                                   |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case255/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case255/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Wildlife Infographic Reference Poster"></a> |
+| <a href="images/poster_case255/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case255/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Wildlife Infographic Reference Poster"></a> |
 
 **프롬프트:**
 
@@ -4799,7 +4799,7 @@ Ultra-realistic, 8K, cinematic infographic masterpiece, insanely detailed, premi
 
 |                                                                                                                                                                                                    Output                                                                                                                                                                                                    |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case256/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case256/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ancient Civilization Miniature Diorama"></a> |
+| <a href="images/poster_case256/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case256/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ancient Civilization Miniature Diorama"></a> |
 
 **프롬프트:**
 
@@ -4815,7 +4815,7 @@ Soft cinematic lighting with warm natural sunlight from a nearby window, shallow
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case257/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case257/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Fashion Collage Poster"></a> |
+| <a href="images/poster_case257/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case257/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Fashion Collage Poster"></a> |
 
 **프롬프트:**
 
@@ -4829,7 +4829,7 @@ Cinematic vertical collage featuring a Japanese woman in elegant fashion capture
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case258/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case258/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bangkok Swiss Typography Poster"></a> |
+| <a href="images/poster_case258/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case258/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bangkok Swiss Typography Poster"></a> |
 
 **프롬프트:**
 
@@ -4955,7 +4955,7 @@ Ultra-detailed 8K vector-style rendering, ultra sharp print-ready quality, high-
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                               |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case259/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case259/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miniature Travel World Poster"></a> |
+| <a href="images/poster_case259/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case259/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miniature Travel World Poster"></a> |
 
 **프롬프트:**
 
@@ -4969,7 +4969,7 @@ A cinematic hyper-detailed miniature travel diorama resting inside an open human
 
 |                                                                                                                                                                                              Output                                                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case260/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case260/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait"></a> |
+| <a href="images/poster_case260/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case260/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait"></a> |
 
 **프롬프트:**
 
@@ -4983,7 +4983,7 @@ Design a high-detail portrait poster in a bold Japanese graffiti-inspired art st
 
 |                                                                                                                                                                                              Output                                                                                                                                                                                             |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case261/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case261/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Playlist Mood Album Cover"></a> |
+| <a href="images/poster_case261/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case261/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Playlist Mood Album Cover"></a> |
 
 **프롬프트:**
 
@@ -4997,7 +4997,7 @@ Create an album cover inspired by this playlist: [playlist], translating its moo
 
 |                                                                                                                                                                                             Output                                                                                                                                                                                            |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case262/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case262/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Play-Doh City Editorial"></a> |
+| <a href="images/poster_case262/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case262/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Play-Doh City Editorial"></a> |
 
 **프롬프트:**
 
@@ -5011,7 +5011,7 @@ Create an ultra-charming 3:4 editorial illustration of a five-year-old child sit
 
 |                                                                                                                                                                                           Output                                                                                                                                                                                           |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case263/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case263/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Liquid Art Poster"></a> |
+| <a href="images/poster_case263/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case263/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Liquid Art Poster"></a> |
 
 **프롬프트:**
 
@@ -5025,7 +5025,7 @@ A mesmerizing and explosively colorful vertical poster featuring giant 3D liquid
 
 |                                                                                                                                                                                             Output                                                                                                                                                                                            |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case264/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case264/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Isometric Travel Poster"></a> |
+| <a href="images/poster_case264/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case264/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Isometric Travel Poster"></a> |
 
 **프롬프트:**
 
@@ -5039,7 +5039,7 @@ Design a vertical retro mid-century travel poster of [CITY NAME] showcasing [LAN
 
 |                                                                                                                                                                                               Output                                                                                                                                                                                               |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case265/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case265/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Travel Postage Stamp"></a> |
+| <a href="images/poster_case265/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case265/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Travel Postage Stamp"></a> |
 
 **프롬프트:**
 
@@ -5053,7 +5053,7 @@ Vintage travel postage stamp design featuring [CITY / COUNTRY], ultra-detailed i
 
 |                                                                                                                                                                                              Output                                                                                                                                                                                             |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case266/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case266/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Paper Collage Set"></a> |
+| <a href="images/poster_case266/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case266/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Paper Collage Set"></a> |
 
 **프롬프트:**
 
@@ -5067,7 +5067,7 @@ Aesthetic vintage paper collage portrait of a stylish woman taking a mirror self
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                               |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case267/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case267/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cubist Kawaii Vector Portrait"></a> |
+| <a href="images/poster_case267/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case267/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cubist Kawaii Vector Portrait"></a> |
 
 **프롬프트:**
 
@@ -5081,7 +5081,7 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case268/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case268/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Trash Polka Headphones Portrait"></a> |
+| <a href="images/poster_case268/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case268/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Trash Polka Headphones Portrait"></a> |
 
 **프롬프트:**
 
@@ -5095,7 +5095,7 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 
 |                                                                                                                                                                                               Output                                                                                                                                                                                              |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case269/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case269/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Typography Travel Poster"></a> |
+| <a href="images/poster_case269/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case269/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Typography Travel Poster"></a> |
 
 **프롬프트:**
 
@@ -5110,7 +5110,7 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 
 |                                                                                                                                                                                      Output                                                                                                                                                                                     |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case270/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case270/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 泳装时尚杂志四宫格"></a> |
+| <a href="images/poster_case270/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case270/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 泳装时尚杂志四宫格"></a> |
 
 **프롬프트:**
 
@@ -5123,7 +5123,7 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 
 |                                                                                                                                                                                                   Output                                                                                                                                                                                                   |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case271/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case271/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Monochrome Caricature Portrait Sheet"></a> |
+| <a href="images/poster_case271/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case271/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Monochrome Caricature Portrait Sheet"></a> |
 
 **프롬프트:**
 
@@ -5142,7 +5142,7 @@ Minimal shading, thin crosshatching, clean line art, monochrome aesthetic, white
 
 |                                                                                                                                                                                        Output                                                                                                                                                                                       |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case272/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case272/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 星河入梦 3D CG 插画"></a> |
+| <a href="images/poster_case272/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case272/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 星河入梦 3D CG 插画"></a> |
 
 **프롬프트:**
 
@@ -5177,7 +5177,7 @@ dreamy fantasy girl, celestial goddess, galaxy dress, holographic starlight, sof
 
 |                                                                                                                                                                                             Output                                                                                                                                                                                            |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case273/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case273/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Character Profile Sheet"></a> |
+| <a href="images/poster_case273/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case273/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Character Profile Sheet"></a> |
 
 **프롬프트:**
 
@@ -5194,7 +5194,7 @@ Modern concept art meets fashion illustration, dynamic ink strokes, expressive l
 
 |                                                                                                                                                                                                  Output                                                                                                                                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case274/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case274/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Editorial Fashion Moodboard"></a> |
+| <a href="images/poster_case274/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case274/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Korean Editorial Fashion Moodboard"></a> |
 
 **프롬프트:**
 
@@ -5248,7 +5248,7 @@ Overall aesthetic: warm, feminine, luxurious, ultra detailed, realistic photogra
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case285/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case285/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Floating Island Travel Poster"></a> |
+| <a href="images/poster_case285/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case285/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Floating Island Travel Poster"></a> |
 
 **프롬프트:**
 
@@ -5261,7 +5261,7 @@ Create a premium 9:16 hyper-realistic travel-poster of [COUNTRY NAME] in the sam
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case286/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case286/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Monochrome City Travel Poster"></a> |
+| <a href="images/poster_case286/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case286/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Monochrome City Travel Poster"></a> |
 
 **프롬프트:**
 
@@ -5274,7 +5274,7 @@ Vintage monochrome city travel poster illustration, detailed urban sketch aesthe
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case287/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case287/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Flat-Vector City Lifestyle Collage"></a> |
+| <a href="images/poster_case287/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case287/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Flat-Vector City Lifestyle Collage"></a> |
 
 **프롬프트:**
 
@@ -5287,7 +5287,7 @@ Create a sophisticated flat-vector editorial pattern illustration of [Melbourne]
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case288/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case288/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sci-Fi Character Concept Sheet"></a> |
+| <a href="images/poster_case288/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case288/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sci-Fi Character Concept Sheet"></a> |
 
 **프롬프트:**
 
@@ -5300,7 +5300,7 @@ Create a 16:9 character concept sheet for a celestial voyager in an epic cinemat
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case289/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case289/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Character Design Sheet"></a> |
+| <a href="images/poster_case289/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case289/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Character Design Sheet"></a> |
 
 **프롬프트:**
 
@@ -5316,7 +5316,7 @@ Hero portrait — Chad isolated on clean white. No background. Pixar 3D man, lat
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case290/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case290/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Travel Collage Poster"></a> |
+| <a href="images/poster_case290/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case290/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Travel Collage Poster"></a> |
 
 **프롬프트:**
 
@@ -5329,7 +5329,7 @@ Vintage mixed-media travel collage poster, portrait orientation, themed around [
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case291/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case291/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Premium Travel Infographic Poster"></a> |
+| <a href="images/poster_case291/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case291/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Premium Travel Infographic Poster"></a> |
 
 **프롬프트:**
 
@@ -5342,7 +5342,7 @@ Create an ultra-premium editorial travel infographic poster about FRANCE in a cl
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case292/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case292/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 9-Frame Cinematic Storyboard Grid"></a> |
+| <a href="images/poster_case292/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case292/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 9-Frame Cinematic Storyboard Grid"></a> |
 
 **프롬프트:**
 
@@ -5356,7 +5356,7 @@ Create a single image storyboard with 9 cinematic frames arranged in a  3×3 gri
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case293/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case293/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage 1960s Beer Ad Poster"></a> |
+| <a href="images/poster_case293/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case293/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage 1960s Beer Ad Poster"></a> |
 
 **프롬프트:**
 
@@ -5369,7 +5369,7 @@ Authentic 1960s American advertising poster for [BREW], vintage mid-century comm
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case294/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case294/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Director's Pitch Board"></a> |
+| <a href="images/poster_case294/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case294/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Director's Pitch Board"></a> |
 
 **프롬프트:**
 
@@ -5382,7 +5382,7 @@ A premium director’s pitch presentation board for a high-budget cinematic prod
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case295/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case295/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Viral Food Infographic Poster"></a> |
+| <a href="images/poster_case295/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case295/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Viral Food Infographic Poster"></a> |
 
 **프롬프트:**
 
@@ -5452,7 +5452,7 @@ Aspect ratio 4:5 or 9:16
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case296/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case296/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 2x2 Luxury 3D Sculptural Poster"></a> |
+| <a href="images/poster_case296/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case296/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 2x2 Luxury 3D Sculptural Poster"></a> |
 
 **프롬프트:**
 
@@ -5465,7 +5465,7 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case297/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case297/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Physics Infographic Code Prompt"></a> |
+| <a href="images/poster_case297/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case297/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Physics Infographic Code Prompt"></a> |
 
 **프롬프트:**
 
@@ -5479,7 +5479,7 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case298/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case298/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Football Player Dynamic Poster"></a> |
+| <a href="images/poster_case298/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case298/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Football Player Dynamic Poster"></a> |
 
 **프롬프트:**
 
@@ -5492,7 +5492,7 @@ A dynamic mixed-media football poster featuring James Rodríguez in Colombia’s
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case299/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Food Advertisement Poster"></a> |
+| <a href="images/poster_case299/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Food Advertisement Poster"></a> |
 
 **프롬프트:**
 
@@ -5505,7 +5505,7 @@ Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vert
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case300/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case300/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Watercolor Travel Poster"></a> |
+| <a href="images/poster_case300/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case300/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Watercolor Travel Poster"></a> |
 
 **프롬프트:**
 
@@ -5519,7 +5519,7 @@ Scene variations: • London  rainy streets, red double-decker bus, black taxi, 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case301/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Retro Cafe Scrapbook Poster"></a> |
+| <a href="images/poster_case301/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Retro Cafe Scrapbook Poster"></a> |
 
 **프롬프트:**
 
@@ -5532,7 +5532,7 @@ Whimsical retro cafe scrapbook poster, dreamy pistachio rose latte aesthetic, la
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case302/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Blueberry Lavender Soda Scrapbook Poster"></a> |
+| <a href="images/poster_case302/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Blueberry Lavender Soda Scrapbook Poster"></a> |
 
 **프롬프트:**
 
@@ -5545,7 +5545,7 @@ Vintage-inspired blueberry lavender soda scrapbook poster, dreamy artisanal cafe
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case303/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case303/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Scientific Concept Anchor Poster"></a> |
+| <a href="images/poster_case303/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case303/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Scientific Concept Anchor Poster"></a> |
 
 **프롬프트:**
 
@@ -5558,7 +5558,7 @@ Anchor: The word "[SCIENTIFIC CONCEPT (e.g.,  CARBON / DNA / GRAVITY)]" :: where
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case304/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case304/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Editorial Fashion Poster"></a> |
+| <a href="images/poster_case304/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case304/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Editorial Fashion Poster"></a> |
 
 **프롬프트:**
 
@@ -5571,7 +5571,7 @@ Editorial fashion poster featuring a full-body, stylish male model leaning casua
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case305/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - High Fashion Editorial Infographic Poster"></a> |
+| <a href="images/poster_case305/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - High Fashion Editorial Infographic Poster"></a> |
 
 **프롬프트:**
 
@@ -5584,7 +5584,7 @@ A high-fashion editorial infographic poster featuring a stunning female fashion 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case306/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case306/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Basketball Poster Design"></a> |
+| <a href="images/poster_case306/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case306/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Basketball Poster Design"></a> |
 
 **프롬프트:**
 
@@ -5597,7 +5597,7 @@ Create a high-impact professional basketball poster design for a fictional live 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case307/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case307/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 角色卡三视图生成"></a> |
+| <a href="images/poster_case307/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case307/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 角色卡三视图生成"></a> |
 
 **프롬프트:**
 
@@ -5834,7 +5834,7 @@ Soft moody lighting, introspective atmosphere, luxury fashion campaign style, su
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case322/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case322/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Chibi Fashion Infographic"></a> |
+| <a href="images/poster_case322/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case322/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Chibi Fashion Infographic"></a> |
 
 **프롬프트:**
 
@@ -5852,7 +5852,7 @@ Show a full-body main pose in the center, surrounded by editorial callouts: outf
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case323/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case323/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Character Editorial Quartet"></a> |
+| <a href="images/poster_case323/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case323/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Character Editorial Quartet"></a> |
 
 **프롬프트:**
 
@@ -5874,7 +5874,7 @@ Global quality: 8K, ultra-high definition, high-detail 3D render, realistic soft
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case324/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case324/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Torn Soda Can Fruit Ad"></a> |
+| <a href="images/poster_case324/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case324/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Torn Soda Can Fruit Ad"></a> |
 
 **프롬프트:**
 
@@ -5892,7 +5892,7 @@ Use soft cinematic lighting with delicate drop shadows under the torn paper edge
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case325/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case325/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miniature City Travel Card"></a> |
+| <a href="images/poster_case325/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case325/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miniature City Travel Card"></a> |
 
 **프롬프트:**
 
@@ -5931,7 +5931,7 @@ Aspect ratio 4:5
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case326/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case326/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 電子レンジ大明神キャラ設定ポスター"></a> |
+| <a href="images/poster_case326/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case326/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 電子レンジ大明神キャラ設定ポスター"></a> |
 
 **프롬프트:**
 
@@ -5944,7 +5944,7 @@ Aspect ratio 4:5
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case327/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case327/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Avant-Garde 3D Caricature Portrait"></a> |
+| <a href="images/poster_case327/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case327/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Avant-Garde 3D Caricature Portrait"></a> |
 
 **프롬프트:**
 
@@ -5957,7 +5957,7 @@ Generate a highly stylized 3D caricature portrait with deliberate exaggerated de
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case328/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case328/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ink Noir Portrait"></a> |
+| <a href="images/poster_case328/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case328/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ink Noir Portrait"></a> |
 
 **프롬프트:**
 
@@ -5970,7 +5970,7 @@ Dark, high-contrast noir-style portrait of [SUBJECT], drawn entirely with bold b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case329/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case329/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mixed-Media Train Platform Portrait"></a> |
+| <a href="images/poster_case329/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case329/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mixed-Media Train Platform Portrait"></a> |
 
 **프롬프트:**
 
@@ -5989,7 +5989,7 @@ Layered over the whole image: vivid hand-drawn doodle effects, white stroke outl
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case330/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case330/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Oil Painting"></a> |
+| <a href="images/poster_case330/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case330/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Oil Painting"></a> |
 
 **프롬프트:**
 
@@ -6018,7 +6018,7 @@ Contemporary mixed-media pop-art. 8K macro photography highlighting the physical
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case331/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case331/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Berries and Blossoms Infographic Poster"></a> |
+| <a href="images/poster_case331/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case331/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Berries and Blossoms Infographic Poster"></a> |
 
 **프롬프트:**
 
@@ -6031,7 +6031,7 @@ A delightful vertical infographic poster in 9:16 format about berries and forest
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case332/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case332/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mid-Century Editorial Illustration System"></a> |
+| <a href="images/poster_case332/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case332/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mid-Century Editorial Illustration System"></a> |
 
 **프롬프트:**
 
@@ -6060,7 +6060,7 @@ OUTPUT: high-resolution editorial illustration, ultra-clean composition, refined
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case333/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case333/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Graphic-Novel Eyes Banner"></a> |
+| <a href="images/poster_case333/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case333/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Graphic-Novel Eyes Banner"></a> |
 
 **프롬프트:**
 
@@ -6073,7 +6073,7 @@ Cinematic poster art: extreme close-up of a man's eyes filling a narrow horizont
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case334/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case334/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cosmic Campfire Concept Art"></a> |
+| <a href="images/poster_case334/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case334/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cosmic Campfire Concept Art"></a> |
 
 **프롬프트:**
 
@@ -6096,7 +6096,7 @@ The image should communicate human connection, cosmic wonder, the contrast betwe
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case335/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case335/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mixed-Media Editorial Portrait"></a> |
+| <a href="images/poster_case335/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case335/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mixed-Media Editorial Portrait"></a> |
 
 **프롬프트:**
 
@@ -6109,7 +6109,7 @@ A mixed-media portrait of [SUBJECT] showing [EXPRESSION], looking [GAZE DIRECTIO
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case336/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case336/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Landmark Miniature Diorama"></a> |
+| <a href="images/poster_case336/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case336/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Landmark Miniature Diorama"></a> |
 
 **프롬프트:**
 
@@ -6122,7 +6122,7 @@ Isometric miniature diorama of [LANDMARK NAME], capturing its real-world structu
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case337/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case337/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glass Skeleton Study Desk"></a> |
+| <a href="images/poster_case337/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case337/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glass Skeleton Study Desk"></a> |
 
 **프롬프트:**
 
@@ -6135,7 +6135,7 @@ Stylized 3D render of a clear glass skeleton with black-rimmed glasses, seated a
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case338/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case338/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pastel Paper-Collage Travel Poster"></a> |
+| <a href="images/poster_case338/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case338/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pastel Paper-Collage Travel Poster"></a> |
 
 **프롬프트:**
 
@@ -6188,7 +6188,7 @@ Images
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case339/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case339/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sketch Portrait Breaking Paper"></a> |
+| <a href="images/poster_case339/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case339/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sketch Portrait Breaking Paper"></a> |
 
 **프롬프트:**
 
@@ -6211,7 +6211,7 @@ Images
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case340/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case340/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Passport Worlds Atlas Scene"></a> |
+| <a href="images/poster_case340/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case340/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Passport Worlds Atlas Scene"></a> |
 
 **프롬프트:**
 
@@ -6226,8 +6226,8 @@ Dramatic raking light, tilt-shift depth of field, 8K, UE5, cinematic lighting. A
 ### Case 385: [Chaotic Doodle Photo Portrait](https://x.com/Shorelyn_/status/2063235707632533954) (by [@Shorelyn_](https://x.com/Shorelyn_))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case341/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case341/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case341/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case341/output2.jpg" width="100%" alt="Output image"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case341/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case341/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case341/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case341/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case341/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case341/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case341/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case341/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case341/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case341/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case341/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case341/output4.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -6242,7 +6242,7 @@ Create exaggerated facial features with awkward proportions, uneven eyes, oversi
 ### Case 386: [Semi-3D Fashion Editorial Avatar](https://x.com/AIwithSynthia/status/2063299903582003607) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case342/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case342/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case342/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case342/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case342/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case342/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case342/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case342/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -6255,8 +6255,8 @@ Create a premium high-resolution vector-cartoon / semi-3D illustration of the pe
 ### Case 387: [Retro Automotive Travel Poster Template](https://x.com/iamaiistudio/status/2063276384924111329) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case343/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case343/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case343/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case343/output2.jpg" width="100%" alt="Output image"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case343/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case343/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case343/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case343/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case343/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case343/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case343/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case343/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case343/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case343/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case343/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case343/output4.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -6278,7 +6278,7 @@ The composition should feel like a strong mid-century tourism poster: balanced, 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case344/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case344/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case344/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case344/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -6290,8 +6290,8 @@ A stylish family standing together, digital watercolor and ink sketch illustrati
 ### Case 389: [Japanese Fashion Cover Illustration](https://x.com/iamaiistudio/status/2063291615205314737) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case345/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case345/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case345/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case345/output2.jpg" width="100%" alt="Output image"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case345/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case345/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case345/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case345/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case345/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case345/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case345/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case345/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case345/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case345/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case345/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case345/output4.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -6314,7 +6314,7 @@ Avoid text, watermarks, complex backgrounds, photorealistic photography, 3D, hea
 ### Case 390: [Love Bites Cyberpunk Manga Cover](https://x.com/her19845/status/2063310953475678229) (by [@her19845](https://x.com/her19845))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case346/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case346/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case346/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case346/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case346/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case346/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case346/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case346/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -6350,8 +6350,8 @@ Use a 3:4 aspect ratio.
 ### Case 391: [World Cup Hero Poster](https://x.com/Goodmanprotocol/status/2063677927057981650) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case347/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case347/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case347/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case347/output2.jpg" width="100%" alt="Output image"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case347/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case347/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case347/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case347/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case347/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case347/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case347/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case347/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case347/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case347/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case347/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case347/output4.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -6482,7 +6482,7 @@ Always generate the player in the context of the FIFA World Cup 2026, using the 
 ### Case 392: [Destination Diorama Filmstrip](https://x.com/Naiknelofar788/status/2063582448689336690) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case348/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case348/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case348/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case348/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case348/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case348/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case348/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case348/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -6671,7 +6671,7 @@ The final result should feel like a premium travel campaign that is instantly un
 ### Case 393: [Sleep-Deprived Chibi Creator](https://x.com/john_my07/status/2063556594671964302) (by [@john_my07](https://x.com/john_my07))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case349/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case349/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case349/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case349/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case349/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case349/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case349/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case349/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -6745,7 +6745,7 @@ Ultra-premium stylized realism, luxury designer collectible quality, highly deta
 ### Case 394: [Spring Garden Watercolor Couple](https://x.com/NoOneIsHere2603/status/2063599542843723983) (by [@NoOneIsHere2603](https://x.com/NoOneIsHere2603))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case350/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case350/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case350/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case350/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case350/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case350/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case350/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case350/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -6764,8 +6764,8 @@ Flat editorial lighting, refined luxury magazine illustration feel, poetic sprin
 ### Case 395: [Cosmic Anime Villain Poster](https://x.com/Taaruk_/status/2063651919596568876) (by [@Taaruk_](https://x.com/Taaruk_))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case351/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case351/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case351/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case351/output2.jpg" width="100%" alt="Output image"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case351/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case351/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case351/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case351/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case351/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case351/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case351/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case351/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case351/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case351/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case351/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case351/output4.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -6779,7 +6779,7 @@ Ultra-detailed anime villain portrait poster, dark cosmic background, legendary 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case352/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case352/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case352/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case352/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -6870,8 +6870,8 @@ suitable as a reference image for storyboard and AI video generation.
 ### Case 397: [Nordic Literary Editorial Illustration](https://x.com/iamaiistudio/status/2063670695020868046) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case353/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case353/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case353/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case353/output2.jpg" width="100%" alt="Output image"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case353/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case353/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case353/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case353/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case353/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case353/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case353/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case353/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case353/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case353/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/poster_case353/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case353/output4.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -6888,7 +6888,7 @@ A minimalist modern editorial illustration. Style: Nordic lifestyle magazine mee
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case354/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case354/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case354/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case354/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -6908,7 +6908,7 @@ Photorealistic movie poster designed by a professional graphic designer with thi
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case355/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case355/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case355/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case355/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -6952,7 +6952,7 @@ Camera: 35mm lens, medium wide framing, eye level camera angle, 16:9 widescreen.
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case356/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case356/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case356/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case356/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -6976,7 +6976,7 @@ Lighting should be soft and flat like a scanned antique page. The final result m
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case357/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case357/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case357/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case357/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -6990,7 +6990,7 @@ Ultra-detailed crowd mosaic portrait of a legendary football player, created ent
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case358/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case358/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case358/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case358/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7021,7 +7021,7 @@ NEGATIVE: no holograms, no bioluminescent glows, no VR/AR elements, no realistic
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case359/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case359/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case359/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case359/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7035,7 +7035,7 @@ A surrealist historical timeline infographic poster in 16:9 horizontal format in
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case360/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case360/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case360/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case360/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7049,7 +7049,7 @@ Photorealistic 3D travel ticket concept, a close-up human hand holding a large v
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case361/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case361/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case361/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case361/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7062,7 +7062,7 @@ Professional luxury birthday poster, 3:4 ratio. Entire frame filled with a premi
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case362/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case362/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case362/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case362/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7083,7 +7083,7 @@ Camera: 35mm lens, centered full-body framing within the window frame, moderate 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case363/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case363/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case363/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case363/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7096,7 +7096,7 @@ Create a high-end fashion product photo of a modern oversized streetwear T-shirt
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case364/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case364/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case364/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case364/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7133,7 +7133,7 @@ Candid nightlife photograph
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case365/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case365/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case365/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case365/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7151,7 +7151,7 @@ Color palette inspired by [LOCATION'S NATURAL/CULTURAL COLORS].
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case366/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case366/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case366/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case366/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7168,7 +7168,7 @@ Candid photo of a flat open notebook covered in black ballpoint pen handwriting.
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case367/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case367/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case367/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case367/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7181,7 +7181,7 @@ Black and white cinematic image in 1950s-60s French New Wave style. Two people s
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case368/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case368/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case368/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case368/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7194,7 +7194,7 @@ Create a cinematic 16:9 wide image from the audience POV at a nighttime outdoor 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case369/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case369/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case369/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case369/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7224,7 +7224,7 @@ Separate the two sections with a vertical dividing line or subtle split backgrou
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case370/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case370/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case370/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case370/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7261,7 +7261,7 @@ Use this tri-fold layout:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case371/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case371/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case371/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case371/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7280,7 +7280,7 @@ Modern internet visual design excellence, Behance / Dribbble 3D illustration pos
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case372/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case372/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case372/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case372/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7299,7 +7299,7 @@ Minimal personal branding identity mockup for a female entrepreneur or creator, 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case373/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case373/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case373/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case373/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7324,7 +7324,7 @@ Keep the illustrated additions from overwhelming the original photo. Aim for a b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case374/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case374/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case374/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case374/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7390,7 +7390,7 @@ Keep the illustrated additions from overwhelming the original photo. Aim for a b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case375/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case375/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case375/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case375/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7527,7 +7527,7 @@ She carries the weight of champio
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case376/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case376/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case376/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case376/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7546,7 +7546,7 @@ A partially bitten realistic classic [brand] product resting on a plate, exposin
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case377/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case377/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case377/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case377/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7577,7 +7577,7 @@ A partially bitten realistic classic [brand] product resting on a plate, exposin
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case378/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case378/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case378/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case378/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7590,7 +7590,7 @@ An Art Nouveau style historical infographic poster in 16:9 horizontal format abo
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case379/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case379/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case379/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case379/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7621,7 +7621,7 @@ Luxury black gift box
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case380/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case380/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case380/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case380/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7682,7 +7682,7 @@ Epic frontal cinematic shot of massive
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case381/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case381/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/poster_case381/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case381/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -7695,8 +7695,8 @@ A highly realistic, premium 3D product mockup for a [INSERT BUSINESS TYPE HERE, 
 ### Case 426: [Travel Food Postcard Template](https://x.com/Naiknelofar788/status/2065241908327378969) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case382/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case382/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case382/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case382/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case382/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case382/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case382/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case382/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case382/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case382/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td><td width="50%"><a href="images/poster_case382/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case382/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case382/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case382/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td><td width="50%"><a href="images/poster_case382/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case382/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Travel Food Postcard Template"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -7727,7 +7727,7 @@ Style: Hyper-realistic photography, luxury tourism campaign aesthetic, cinematic
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case383/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case383/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Satellite Terrain Letter Typography Map"></a> |
+| <a href="images/poster_case383/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case383/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Satellite Terrain Letter Typography Map"></a> |
 
 **프롬프트:**
 
@@ -7754,7 +7754,7 @@ straight-down satellite perspective, NASA Earth imagery aesthetic, hyper-detaile
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case384/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case384/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Polish PRL Era Magazine Spread"></a> |
+| <a href="images/poster_case384/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case384/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Polish PRL Era Magazine Spread"></a> |
 
 **프롬프트:**
 
@@ -7792,8 +7792,8 @@ Make all visible Polish text as clean and readable as possible.
 ### Case 429: [FIFA World Cup 2026 Throne Poster](https://x.com/SaasJunctionHQ/status/2065181941939531936) (by [@SaasJunctionHQ](https://x.com/SaasJunctionHQ))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case385/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case385/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case385/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case385/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case385/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case385/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case385/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case385/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case385/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case385/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td><td width="50%"><a href="images/poster_case385/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case385/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case385/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case385/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td><td width="50%"><a href="images/poster_case385/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case385/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup 2026 Throne Poster"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -7807,7 +7807,7 @@ FIFA World Cup 2026 hero throne sports artwork. 🧵
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case386/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case386/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Country Stylized Travel Poster Collage"></a> |
+| <a href="images/poster_case386/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case386/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Country Stylized Travel Poster Collage"></a> |
 
 **프롬프트:**
 
@@ -7824,7 +7824,7 @@ Design a stylized travel poster / graphic collage featuring [ALGERIA]. The centr
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case387/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case387/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Risograph Zine Rainforest Infographic"></a> |
+| <a href="images/poster_case387/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case387/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Risograph Zine Rainforest Infographic"></a> |
 
 **프롬프트:**
 
@@ -7836,7 +7836,7 @@ A risograph zine print style infographic poster in 16:9 horizontal format explor
 ### Case 432: [World Cup National Team Fashion Poster](https://x.com/Just_sharon7/status/2065123619844333737) (by [@Just_sharon7](https://x.com/Just_sharon7))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case388/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case388/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - World Cup National Team Fashion Poster"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case388/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case388/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - World Cup National Team Fashion Poster"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case388/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case388/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - World Cup National Team Fashion Poster"></a></td><td width="50%"><a href="images/poster_case388/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case388/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - World Cup National Team Fashion Poster"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -8164,8 +8164,8 @@ Premium fabric highlights.
 ### Case 433: [FIFA World Cup Country Emblem Badge](https://x.com/Goodmanprotocol/status/2065121892550558018) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case389/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case389/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case389/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case389/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case389/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case389/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case389/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case389/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case389/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case389/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td><td width="50%"><a href="images/poster_case389/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case389/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case389/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case389/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td><td width="50%"><a href="images/poster_case389/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case389/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - FIFA World Cup Country Emblem Badge"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -8191,7 +8191,7 @@ Use thick black outlines throughout to separate every section and define the ent
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case390/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case390/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Double Exposure Art Director Poster"></a> |
+| <a href="images/poster_case390/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case390/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Double Exposure Art Director Poster"></a> |
 
 **프롬프트:**
 
@@ -8248,7 +8248,7 @@ TECHNICAL FINISH:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case391/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case391/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Kebab Maker Storyboard Poster"></a> |
+| <a href="images/poster_case391/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case391/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pixar 3D Kebab Maker Storyboard Poster"></a> |
 
 **프롬프트:**
 
@@ -8294,7 +8294,7 @@ Footer:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case392/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case392/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - BMX Rider Streetwear Mixed-Media Collage"></a> |
+| <a href="images/poster_case392/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case392/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - BMX Rider Streetwear Mixed-Media Collage"></a> |
 
 **프롬프트:**
 
@@ -8311,7 +8311,7 @@ Style Keywords: BMX culture, streetwear collage, monochrome poster, ripped paper
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case393/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case393/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Historical Civilization Strategy Card"></a> |
+| <a href="images/poster_case393/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case393/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Historical Civilization Strategy Card"></a> |
 
 **프롬프트:**
 
@@ -8325,7 +8325,7 @@ SYSTEM: Render the input as a luxury historical civilization stratigraphy poster
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case394/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case394/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+| <a href="images/poster_case394/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case394/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
 **프롬프트:**
 
@@ -8339,7 +8339,7 @@ Detailed exploded-view diagram of a Sony A7 mirrorless camera, with all internal
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case395/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case395/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+| <a href="images/poster_case395/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case395/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
 **프롬프트:**
 
@@ -8353,7 +8353,7 @@ Ultra-realistic 3D anatomical human [organ] crafted from semi-translucent froste
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case396/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case396/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+| <a href="images/poster_case396/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case396/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
 **프롬프트:**
 
@@ -8367,7 +8367,7 @@ A 1930s WPA travel poster style infographic poster in 16:9 horizontal format abo
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case397/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case397/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+| <a href="images/poster_case397/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case397/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
 **프롬프트:**
 
@@ -8394,7 +8394,7 @@ Polished composition, top-tier automotive ad aesthetic, collectible poster feel,
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case398/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case398/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+| <a href="images/poster_case398/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case398/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
 **프롬프트:**
 
@@ -8408,7 +8408,7 @@ Top-tier internet marketing visual design, Behance / Dribbble inspired 3D illust
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case399/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case399/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+| <a href="images/poster_case399/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case399/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
 **프롬프트:**
 
@@ -8425,7 +8425,7 @@ As soon as you think of it, you can play with it. AI x browser game-making is ge
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case400/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case400/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+| <a href="images/poster_case400/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case400/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
 **프롬프트:**
 
@@ -8439,7 +8439,7 @@ Cinematic photorealistic action scene on a rain-soaked downtown street canyon. A
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case401/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case401/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+| <a href="images/poster_case401/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case401/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
 **프롬프트:**
 
@@ -8452,8 +8452,8 @@ Cinematic editorial ink illustration of [HUMAN] in [SCENERY], looking back over 
 ### Case 446: [아이소메트릭 랜드마크 디오라마](https://x.com/iamaiistudio/status/2065737739589615987) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case402/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case402/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case402/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case402/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case402/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case402/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case402/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case402/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case402/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case402/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="images/poster_case402/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case402/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case402/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case402/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="images/poster_case402/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case402/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -8471,7 +8471,7 @@ Set the background to solid [BACKGROUND COLOR]. Display [COUNTRY NAME] in bold t
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case403/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case403/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 태엽식 미니어처 월드"></a> |
+| <a href="images/poster_case403/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case403/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 태엽식 미니어처 월드"></a> |
 
 **제출 가이드라인:**
 
@@ -8484,7 +8484,7 @@ create a charming but ultra-refined scene centered on [wind-up toy / mechanical 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case404/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case404/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 사구 위에 떠 있는 해파리 도시"></a> |
+| <a href="images/poster_case404/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case404/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 사구 위에 떠 있는 해파리 도시"></a> |
 
 **제출 가이드라인:**
 
@@ -8509,8 +8509,8 @@ human-like alien, blue-skinned humanoid, generic sci-fi city, skyscrapers, cyber
 ### Case 449: [틸트시프트 도시 지도 여행 포스터](https://x.com/iamaiistudio/status/2066145999266128367) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case405/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case405/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 틸트시프트 도시 지도 여행 포스터"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case405/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case405/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 틸트시프트 도시 지도 여행 포스터"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case405/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case405/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 틸트시프트 도시 지도 여행 포스터"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case405/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case405/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 틸트시프트 도시 지도 여행 포스터"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case405/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case405/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 틸트시프트 도시 지도 여행 포스터"></a></td><td width="50%"><a href="images/poster_case405/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case405/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 틸트시프트 도시 지도 여행 포스터"></a></td></tr>
+<tr><td width="50%"><a href="images/poster_case405/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case405/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 틸트시프트 도시 지도 여행 포스터"></a></td><td width="50%"><a href="images/poster_case405/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case405/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - 틸트시프트 도시 지도 여행 포스터"></a></td></tr>
 </table>
 
 **제출 가이드라인:**
@@ -8534,7 +8534,7 @@ Aspect ratio 1:1.
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case406/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case406/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - AI 뮤직 부트캠프 이벤트 포스터"></a> |
+| <a href="images/poster_case406/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case406/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - AI 뮤직 부트캠프 이벤트 포스터"></a> |
 
 **프롬프트:**
 
@@ -8959,7 +8959,7 @@ The final image should feel like a premium Japanese lifestyle illustration found
 ### Case 3: [청두 음식 지도 일러스트](https://x.com/Panda20230902/status/2045396918965285111) (by [@Panda20230902](https://x.com/Panda20230902))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case3/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case3/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case3/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case3/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -8971,7 +8971,7 @@ The final image should feel like a premium Japanese lifestyle illustration found
 ### Case 466: [두 세기를 가로지르는 뉴욕 시네마틱 포스터](https://x.com/Shinning1010/status/2049460661109879022) (by [@Shinning1010](https://x.com/Shinning1010))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case174/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case174/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -8983,7 +8983,7 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 ### Case 467: [피트니스 복싱 캠페인 콜라주 포스터](https://x.com/AIwithSynthia/status/2049718330353975652) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case175/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case175/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -9003,7 +9003,7 @@ premium fitness brand campaign, dramatic studio lighting, soft shadows, high con
 ### Case 468: [판타지 전투 스토리보드 9분할 그리드](https://x.com/GeorgeWuAI/status/2050749683430244830) (by [@GeorgeWuAI](https://x.com/GeorgeWuAI))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case184/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case184/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case184/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case184/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -9015,7 +9015,7 @@ make an anime 3x3 grid storyboard of a ninja avoiding multiple strikes of a japa
 ### Case 469: [크레용 동심 리드로잉](https://x.com/miratechtool/status/2050621516300026056) (by [@miratechtool](https://x.com/miratechtool))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case185/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case185/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case185/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case185/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -9027,7 +9027,7 @@ Transform the scene into a playful crayon-style illustration, like a 10-year-old
 ### Case 470: [라벤더색 스마트폰 키 비주얼 광고](https://x.com/meng_dagg695/status/2050472802327900342) (by [@meng_dagg695](https://x.com/meng_dagg695))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case177/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case177/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -9039,7 +9039,7 @@ Redmi 17 pro new launch 🔥 Made with Gpt image 2 on Chatgpt Prompt : Ultra-rea
 ### Case 471: [프리미엄 미식 포스터 템플릿](https://x.com/SPEEDAI07/status/2050470348454551902) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case178/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case178/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -9051,7 +9051,7 @@ GPT Image 2 on ChatGPT App Create a hyper-realistic vertical commercial food pho
 ### Case 472: [공기주입식 오렌지 주스 포스터](https://x.com/Goodmanprotocol/status/2050451019746926879) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case179/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case179/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -9063,7 +9063,7 @@ Perfect for the summers GPT Image 2 on ChatGPT Prompt: Design a '4:5' product po
 ### Case 473: [에메랄드 그린 스트리트 패션 포스터](https://x.com/harboriis/status/2050444570345742591) (by [@harboriis](https://x.com/harboriis))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case180/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case180/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -9075,7 +9075,7 @@ GPT Image 2 on ChatGPT Prompt: Create a bold street-fashion poster featuring a h
 ### Case 474: [레트로 롤러스케이트 광고 화보](https://x.com/AIwithSynthia/status/2050430705189191704) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case181/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case181/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case181/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case181/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -9087,7 +9087,7 @@ PixPretty @PixPrettyAI with GPT Image 2 has been quietly setting a new standard 
 ### Case 475: [미래형 스포츠웨어 에디토리얼 포스터](https://x.com/gold_force_guri/status/2050428455360348191) (by [@gold_force_guri](https://x.com/gold_force_guri))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case182/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case182/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case182/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case182/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -9099,7 +9099,7 @@ GPT image 2 on @SocialSight Prompt: High-fashion futuristic sportswear editorial
 ### Case 476: [스트리트 헤드폰 광고 포스터](https://x.com/Strength04_X/status/2050420683482800333) (by [@Strength04_X](https://x.com/Strength04_X))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case183/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case183/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/poster_case183/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/poster_case183/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -9116,7 +9116,7 @@ GPT image 2 on ChatGPT 📱 Prompt: A streetwear advertisement poster. A cool te
 
 |                                                                                                                                                                                                  Output                                                                                                                                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case2/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case2/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Persona5 Character Reference Card"></a> |
+| <a href="images/character_case2/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case2/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Persona5 Character Reference Card"></a> |
 
 **프롬프트:**
 
@@ -9133,7 +9133,7 @@ GPT image 2 on ChatGPT 📱 Prompt: A streetwear advertisement poster. A cool te
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case7/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case7/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mecha Girl Sea-City Key Visual"></a> |
+| <a href="images/character_case7/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case7/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Mecha Girl Sea-City Key Visual"></a> |
 
 **프롬프트:**
 
@@ -9146,7 +9146,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 |                                                                                                                                                                                                  Output                                                                                                                                                                                                  |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case11/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case11/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - GTA 6 in Bangalore Flower Market"></a> |
+| <a href="images/character_case11/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case11/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - GTA 6 in Bangalore Flower Market"></a> |
 
 **프롬프트:**
 
@@ -9161,7 +9161,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case18/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case18/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Stylized 3D Skater Character"></a> |
+| <a href="images/character_case18/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case18/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Stylized 3D Skater Character"></a> |
 
 **프롬프트:**
 
@@ -9200,7 +9200,7 @@ Aspect ratio: 4:5 vertical.
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case19/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case19/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 40K Power Armour Squad Portrait"></a> |
+| <a href="images/character_case19/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case19/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 40K Power Armour Squad Portrait"></a> |
 
 **프롬프트:**
 
@@ -9375,7 +9375,7 @@ Do not use photorealism unless specifically requested.
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case20/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case20/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vertical Character Concept Sheet"></a> |
+| <a href="images/character_case20/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case20/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vertical Character Concept Sheet"></a> |
 
 **프롬프트:**
 
@@ -9428,7 +9428,7 @@ Ultra-detailed, 4K quality, glossy magazine finish, cinematic lighting, sharp fo
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case21/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case21/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Acrobat Jumping Editorial Cartoon"></a> |
+| <a href="images/character_case21/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case21/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Acrobat Jumping Editorial Cartoon"></a> |
 
 **프롬프트:**
 
@@ -9463,7 +9463,7 @@ Rendered in C4D or Blender: stylized soft-sculpture aesthetic, matte clay finish
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case22/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case22/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 雨中灵姬东方幻想 3D CG 角色"></a> |
+| <a href="images/character_case22/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case22/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 雨中灵姬东方幻想 3D CG 角色"></a> |
 
 **프롬프트:**
 
@@ -9490,8 +9490,8 @@ high detail 3D CG render, Unreal Engine quality, Octane render look, cinematic l
 ### Case 23: [초현실 카툰 인물 템플릿](https://x.com/Goodmanprotocol/status/2066048157805629937) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case23/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case23/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case23/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case23/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case23/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case23/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case23/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case23/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+<tr><td width="50%"><a href="images/character_case23/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case23/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="images/character_case23/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case23/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+<tr><td width="50%"><a href="images/character_case23/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case23/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="images/character_case23/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case23/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -9505,7 +9505,7 @@ Vertical bizarre flat cartoon portrait of [SUBJECT from the attached photo] with
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case24/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case24/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 한국 댄스 모션 시트"></a> |
+| <a href="images/character_case24/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case24/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 한국 댄스 모션 시트"></a> |
 
 **프롬프트:**
 
@@ -9545,7 +9545,7 @@ no cluttered backgrounds
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case25/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case25/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 루미넌트 아키비스트 캐릭터 포스터"></a> |
+| <a href="images/character_case25/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case25/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 루미넌트 아키비스트 캐릭터 포스터"></a> |
 
 **프롬프트:**
 
@@ -9561,7 +9561,7 @@ human-like alien, humanoid face, eyes, nose, mouth, jaw, blue-skinned human, elf
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case26/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/character_case26/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 비주얼 노벨 캐릭터 프로필"></a> |
+| <a href="images/character_case26/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case26/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 비주얼 노벨 캐릭터 프로필"></a> |
 
 **프롬프트:**
 
@@ -9668,7 +9668,7 @@ A highly detailed collectible toy figure inspired by a LEGO-style minifigure, st
 
 |                                                                                                                                                                                              Output                                                                                                                                                                                             |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case1/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - One-Prompt UI Design Generation"></a> |
+| <a href="images/ui_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case1/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - One-Prompt UI Design Generation"></a> |
 
 **프롬프트:**
 
@@ -9681,7 +9681,7 @@ A highly detailed collectible toy figure inspired by a LEGO-style minifigure, st
 
 |                                                                                                                                                                                              Output                                                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case38/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case38/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cyberpunk Neon UI Design System"></a> |
+| <a href="images/ui_case38/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case38/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cyberpunk Neon UI Design System"></a> |
 
 **프롬프트:**
 
@@ -9708,7 +9708,7 @@ A super simple workflow: 2 character images → GPT Image 2.0 storyboard → See
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                 |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case143/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case143/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Handwritten Study Infographic Poster"></a> |
+| <a href="images/ui_case143/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case143/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Handwritten Study Infographic Poster"></a> |
 
 **프롬프트:**
 
@@ -9729,7 +9729,7 @@ Ultra-detailed, 4K resolution, top-down flat lay perspective, modern stationery 
 
 |                                                                                                                                                                                               Output                                                                                                                                                                                              |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case144/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case144/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Moodboard System"></a> |
+| <a href="images/ui_case144/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case144/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Moodboard System"></a> |
 
 **프롬프트:**
 
@@ -9743,7 +9743,7 @@ Full-blown brand identity system [BRAND NAME] — Brand Identity Moodboard STEP 
 
 |                                                                                                                                                                                             Output                                                                                                                                                                                             |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case145/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case145/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Landscape Architecture Board"></a> |
+| <a href="images/ui_case145/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case145/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Landscape Architecture Board"></a> |
 
 **프롬프트:**
 
@@ -9757,7 +9757,7 @@ Generate a 3:4 vertical, competition-grade landscape architecture presentation b
 
 |                                                                                                                                                                                               Output                                                                                                                                                                                              |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case146/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case146/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Graphic Design Portfolio Mockup"></a> |
+| <a href="images/ui_case146/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case146/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Graphic Design Portfolio Mockup"></a> |
 
 **프롬프트:**
 
@@ -9771,7 +9771,7 @@ Create a premium graphic design portfolio mockup in a professional creative stud
 
 |                                                                                                                                                                                               Output                                                                                                                                                                                              |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case147/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case147/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neo-Noir Character Design Board"></a> |
+| <a href="images/ui_case147/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case147/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neo-Noir Character Design Board"></a> |
 
 **프롬프트:**
 
@@ -9786,7 +9786,7 @@ Create a cinematic realistic character design board for a high-budget neo-noir f
 
 |                                                                                                                                                                                              Output                                                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case148/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case148/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Heliotropic Architecture Board"></a> |
+| <a href="images/ui_case148/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case148/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Heliotropic Architecture Board"></a> |
 
 **프롬프트:**
 
@@ -9799,7 +9799,7 @@ Create a cinematic realistic character design board for a high-budget neo-noir f
 
 |                                                                                                                                                                                              Output                                                                                                                                                                                              |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case149/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case149/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Guideline Board"></a> |
+| <a href="images/ui_case149/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case149/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Guideline Board"></a> |
 
 **프롬프트:**
 
@@ -9915,7 +9915,7 @@ visually consistent and detailed
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case158/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case158/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Die-Cut Sticker Illustration"></a> |
+| <a href="images/ui_case158/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case158/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Die-Cut Sticker Illustration"></a> |
 
 **프롬프트:**
 
@@ -9928,7 +9928,7 @@ Transform the uploaded image into a premium die-cut sticker illustration while k
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                                |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case159/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case159/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Rider-Waite Tarot Card"></a> |
+| <a href="images/ui_case159/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case159/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Rider-Waite Tarot Card"></a> |
 
 **프롬프트:**
 
@@ -9940,7 +9940,7 @@ Create a Tarot card based on what you know about me, in the classic style of Rid
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case161/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ui_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case161/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -9953,7 +9953,7 @@ Create a professional film production storyboard for a 15-second sitcom intro mo
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case162/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case162/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Guideline Board"></a> |
+| <a href="images/ui_case162/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case162/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Guideline Board"></a> |
 
 **프롬프트:**
 
@@ -9970,7 +9970,7 @@ variations ---  TYPOGRAPHY SYSTEM (MATCH PERSONALITY) Select typography style ba
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case163/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case163/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Collectible Science Encyclopedia Card"></a> |
+| <a href="images/ui_case163/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case163/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Collectible Science Encyclopedia Card"></a> |
 
 **프롬프트:**
 
@@ -9989,7 +9989,7 @@ Use a light clean background, soft coordinated colors, subtle shadows, refined s
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case164/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case164/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pet World Cup Storyboard Sheet"></a> |
+| <a href="images/ui_case164/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case164/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pet World Cup Storyboard Sheet"></a> |
 
 **프롬프트:**
 
@@ -10039,7 +10039,7 @@ No real soccer team logos, no FIFA/Champions League/UEFA/World Cup branding, no 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case165/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case165/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Contact Sheet Generator"></a> |
+| <a href="images/ui_case165/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case165/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cinematic Contact Sheet Generator"></a> |
 
 **프롬프트:**
 
@@ -10079,7 +10079,7 @@ A wide cinematic exterior of the Whitmore estate at dusk in Buckhead, Atlanta. T
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case166/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case166/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Technical Food Annotation Infographic"></a> |
+| <a href="images/ui_case166/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case166/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Technical Food Annotation Infographic"></a> |
 
 **프롬프트:**
 
@@ -10092,7 +10092,7 @@ Generate an infographic image of any food item, combining a realistic photograph
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case167/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case167/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bazaar Heist Storyboard Card"></a> |
+| <a href="images/ui_case167/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case167/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bazaar Heist Storyboard Card"></a> |
 
 **프롬프트:**
 
@@ -10165,7 +10165,7 @@ Grid: 12 panels in a 4x3 storyboard sheet; fast-cut caper montage with a shared 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case168/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case168/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Starter Pack Vision Board"></a> |
+| <a href="images/ui_case168/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case168/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Starter Pack Vision Board"></a> |
 
 **프롬프트:**
 
@@ -10217,7 +10217,7 @@ Quality: hyper-detailed, ultra-realistic materials, photorealistic objects, cine
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case169/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case169/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Embossed Metal Logo Bas-Relief"></a> |
+| <a href="images/ui_case169/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case169/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Embossed Metal Logo Bas-Relief"></a> |
 
 **프롬프트:**
 
@@ -10242,7 +10242,7 @@ Render: Ray tracing enabled for self-shadowing. Full sharpness edge to edge. Uni
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case170/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sculptural Fruit Packaging Design"></a> |
+| <a href="images/ui_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case170/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sculptural Fruit Packaging Design"></a> |
 
 **프롬프트:**
 
@@ -10261,7 +10261,7 @@ Soft diffused studio lighting, gentle drop shadows, set against a solid pastel [
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case171/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case171/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Perfume Infographic Ad"></a> |
+| <a href="images/ui_case171/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case171/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Luxury Perfume Infographic Ad"></a> |
 
 **프롬프트:**
 
@@ -10287,7 +10287,7 @@ Style references: Chanel, Dior, Tom Ford, Maison Francis Kurkdjian, luxury fashi
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case172/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case172/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - AAA Game Loading Screen Portrait"></a> |
+| <a href="images/ui_case172/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case172/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - AAA Game Loading Screen Portrait"></a> |
 
 **프롬프트:**
 
@@ -10361,7 +10361,7 @@ Output
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case173/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ui_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case173/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -10376,7 +10376,7 @@ KLING AI 3.0 PROMPT :- This is a storyboard image containing 6 frames arranged i
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case174/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ui_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case174/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -10425,7 +10425,7 @@ Make this a clean, highly polished, premium-quality anime pre-production board w
 ### Case 503: [Editorial Anatomy Infographic Poster](https://x.com/iamaiistudio/status/2063202176344932732) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case175/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case175/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case175/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/ui_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case175/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/ui_case175/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case175/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -10482,7 +10482,7 @@ High-detail 3D illustration of the human liver, showing the Right Lobe, Left Lob
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case176/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ui_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case176/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -10501,7 +10501,7 @@ Use rough pencil lines, grayscale shading, sketch texture, cinematic storyboard 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case177/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ui_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case177/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -10519,7 +10519,7 @@ Style: ultra-realistic travel vlog collage, Venice street photography, handheld 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case178/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ui_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case178/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -10534,7 +10534,7 @@ Full prompt:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case179/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ui_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case179/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -10610,7 +10610,7 @@ Full prompt:
 ### Case 508: [Industrial Packaging Design Sheet](https://x.com/iamaiistudio/status/2063735848257167383) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case180/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case180/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case180/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/ui_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case180/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/ui_case180/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case180/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -10632,7 +10632,7 @@ Background should resemble clean sketchbook paper, combining realistic rendering
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case181/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case181/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ui_case181/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case181/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -10667,7 +10667,7 @@ Octane Render aesthetic. Ray Tracing: 16+ bounces. Depth of Field: f/11 equivale
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case182/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case182/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/ui_case182/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case182/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -10710,8 +10710,8 @@ watermark, logo, low quality, blurry, bad anatomy, distorted hands, cluttered la
 ### Case 511: [초기 인터넷 스타일 포트폴리오 페이지](https://x.com/Kashberg_0/status/2065992579502747850) (by [@Kashberg_0](https://x.com/Kashberg_0))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case183/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case183/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case183/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case183/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case183/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case183/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+<tr><td width="50%"><a href="images/ui_case183/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case183/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td><td width="50%"><a href="images/ui_case183/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case183/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
+<tr><td width="50%"><a href="images/ui_case183/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case183/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -10756,7 +10756,7 @@ Maintain an anti-grid editorial layout with intentionally imperfect spacing and 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case184/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case184/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 색연필풍 사진 변환"></a> |
+| <a href="images/ui_case184/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case184/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 색연필풍 사진 변환"></a> |
 
 **제출 가이드라인:**
 
@@ -10775,7 +10775,7 @@ Highly detailed, colored pencil illustration, crayon art style, hand-sketched te
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case185/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case185/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 마스코트 브랜드 아이덴티티 시트"></a> |
+| <a href="images/ui_case185/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case185/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 마스코트 브랜드 아이덴티티 시트"></a> |
 
 **프롬프트:**
 
@@ -10873,7 +10873,7 @@ Highly detailed, colored pencil illustration, crayon art style, hand-sketched te
 
 | 결과 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case186/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 건축 제품 카탈로그 페이지"></a> |
+| <a href="images/ui_case186/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case186/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 건축 제품 카탈로그 페이지"></a> |
 
 **프롬프트:**
 
@@ -11325,7 +11325,7 @@ A strategic command board for an expedition leader planning [JOURNEY / MISSION] 
 ### Case 121: [멀티 패널 이미지 보드 템플릿](https://x.com/aimikoda/status/2048183782876778821) (by [@aimikoda](https://x.com/aimikoda))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case105/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case105/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/ui_case105/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case105/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -11337,7 +11337,7 @@ Create a {argument name="grid layout" default="4x3"} borderless grid where each 
 ### Case 122: [퍼스널 컬러 분석 그래픽 보드](https://x.com/ZaraIrahh/status/2049730770474877234) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case106/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/ui_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case106/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -11349,7 +11349,7 @@ Create a personal color analysis graphic using this portrait. Point out which se
 ### Case 123: [미래적인 홀 패션 촬영 시퀀스](https://x.com/weiinberg/status/2049730563393884265) (by [@weiinberg](https://x.com/weiinberg))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case107/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/ui_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case107/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -11377,7 +11377,7 @@ Aspect Ratio: 3:4
 ### Case 523: [하이패션 음료 캠페인 보드](https://x.com/SPEEDAI07/status/2049713995851202786) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case109/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/ui_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case109/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -11483,7 +11483,7 @@ Aspect ratio: vertical (9:16 preferred)
 ### Case 524: [인물 타임라인 인포그래픽](https://x.com/crayon1267/status/2050743383560536427) (by [@crayon1267](https://x.com/crayon1267))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case125/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case125/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/ui_case125/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case125/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -11495,7 +11495,7 @@ Create a 9:16 infographic of [PERSON NAME]. Photorealistic portrait + career tim
 ### Case 525: [파티 버전 GRWM 4x4 그리드](https://x.com/hosein2518/status/2050654683786523007) (by [@hosein2518](https://x.com/hosein2518))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case126/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case126/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/ui_case126/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case126/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -11507,7 +11507,7 @@ Minimalist 4x4 "GET READY WITH ME — party edition", beige aesthetic, same woma
 ### Case 526: [샤오홍슈 낙서 사진 편집](https://x.com/ChillaiKalan__/status/2050614367536939243) (by [@ChillaiKalan__](https://x.com/ChillaiKalan__))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case127/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case127/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/ui_case127/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case127/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -11519,7 +11519,7 @@ Edit this photo into a cute Pinterest/Xiaohongshu-style doodle aesthetic edit wh
 ### Case 527: [손그림 스토리보드 스크립트 페이지](https://x.com/saniaspeaks_/status/2050465100973191219) (by [@saniaspeaks_](https://x.com/saniaspeaks_))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case121/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case121/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/ui_case121/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case121/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -11531,7 +11531,7 @@ This Storyboard sheet use for this video created with GPT image 2 Storyboard she
 ### Case 528: [프런트엔드·백엔드·데이터베이스 SaaS 인포그래픽](https://x.com/alantech_/status/2050462324486783060) (by [@alantech_](https://x.com/alantech_))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/ui_case122/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case122/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -11543,7 +11543,7 @@ gpt image 2生图能力真的恐怖啊，这是我的提示词： 01 前端（�
 ### Case 529: [개인 이미지 분석 카드](https://x.com/you1873118/status/2050446427105759269) (by [@you1873118](https://x.com/you1873118))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case123/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case123/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/ui_case123/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case123/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -11560,7 +11560,7 @@ GPT-Image-2的一个妙用形象 这个提示词是一个老哥发我的 我试�
 
 |                                                                                                                                                                                              Output                                                                                                                                                                                             |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case35/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case35/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sam Altman Bear Selfie"></a> |
+| <a href="images/comparison_case35/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case35/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sam Altman Bear Selfie"></a> |
 
 **프롬프트:**
 
@@ -11575,7 +11575,7 @@ Edit prompt: Remove the background make it transparent
 
 |                                                                                                                                                                                                      Output                                                                                                                                                                                                      |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case112/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Naturalist-Style Food Specimen Cross-Section"></a> |
+| <a href="images/case_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/case_case112/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Naturalist-Style Food Specimen Cross-Section"></a> |
 
 **프롬프트:**
 
@@ -11647,7 +11647,7 @@ Edit prompt: Remove the background make it transparent
 
 |                                                                                                                                                                                                 Output                                                                                                                                                                                                |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case84/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case84/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Donut Heist Storyboard Sheet"></a> |
+| <a href="images/comparison_case84/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case84/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Donut Heist Storyboard Sheet"></a> |
 
 **프롬프트:**
 
@@ -11682,7 +11682,7 @@ Right side: character sheet + palette: sunny park, green grass, raccoon grey-bro
 
 |                                                                                                                                                                                                Output                                                                                                                                                                                               |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case85/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case85/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sourdough Baker Storyboard"></a> |
+| <a href="images/comparison_case85/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case85/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Sourdough Baker Storyboard"></a> |
 
 **프롬프트:**
 
@@ -11697,7 +11697,7 @@ Right side: character sheet + palette: sunny park, green grass, raccoon grey-bro
 
 |                                                                                                                                                                                               Output                                                                                                                                                                                              |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case86/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case86/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Storyboard Grid Template"></a> |
+| <a href="images/comparison_case86/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case86/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Storyboard Grid Template"></a> |
 
 **프롬프트:**
 
@@ -11733,7 +11733,7 @@ Technical specifications
 
 |                                                                                                                                                                                              Output                                                                                                                                                                                             |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case87/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case87/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pancake Dad Storyboard"></a> |
+| <a href="images/comparison_case87/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case87/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Pancake Dad Storyboard"></a> |
 
 **프롬프트:**
 
@@ -11765,7 +11765,7 @@ Footer:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case89/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/comparison_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case89/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -11778,7 +11778,7 @@ Build a full visual worldbuilding kit for a futuristic solar-powered desert civi
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case90/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case90/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Racer Character Model Sheet"></a> |
+| <a href="images/comparison_case90/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case90/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Racer Character Model Sheet"></a> |
 
 **프롬프트:**
 
@@ -11791,7 +11791,7 @@ Build a full visual worldbuilding kit for a futuristic solar-powered desert civi
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case91/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case91/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Era Cube Visualizer Grid"></a> |
+| <a href="images/comparison_case91/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case91/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Era Cube Visualizer Grid"></a> |
 
 **프롬프트:**
 
@@ -11806,7 +11806,7 @@ I love these cube prompts for visualizing different eras. Pretty short but GPT I
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case92/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case92/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Chaotic Kitchen Freeze-Frame"></a> |
+| <a href="images/comparison_case92/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case92/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Chaotic Kitchen Freeze-Frame"></a> |
 
 **프롬프트:**
 
@@ -11819,7 +11819,7 @@ Surreal comedic freeze-frame inside a modern kitchen: a young man arches backwar
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case93/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case93/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Innovation Reliquary Diagram"></a> |
+| <a href="images/comparison_case93/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case93/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Innovation Reliquary Diagram"></a> |
 
 **프롬프트:**
 
@@ -11867,7 +11867,7 @@ Output:
 ### Case 94: [90s Sitcom Fashion Character Lineup](https://x.com/Taaruk_/status/2063300353588879444) (by [@Taaruk_](https://x.com/Taaruk_))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case94/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case94/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case94/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case94/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/comparison_case94/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case94/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/comparison_case94/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case94/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -11881,7 +11881,7 @@ Full-body character lineup showcasing the same person transformed through six ic
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case95/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case95/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/comparison_case95/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case95/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -11895,7 +11895,7 @@ SELECT * FROM Collectible_Toy_Packaging  WHERE layout_format = '2x2_Quadrant_Gri
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case96/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case96/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/comparison_case96/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case96/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -11931,7 +11931,7 @@ SELECT * FROM Collectible_Toy_Packaging  WHERE layout_format = '2x2_Quadrant_Gri
 ### Case 97: [Continuous-Run Glitch Storyboard](https://x.com/aimikoda/status/2063688774324981798) (by [@aimikoda](https://x.com/aimikoda))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case97/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case97/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case97/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case97/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/comparison_case97/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case97/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/comparison_case97/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case97/output2.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -11968,8 +11968,8 @@ I shared the storyboard skill file I use for these prompts with my subscribers.
 ### Case 98: [Match-Day Supporter Transformation Board](https://x.com/ai_gezgini/status/2063677480406511690) (by [@ai_gezgini](https://x.com/ai_gezgini))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case98/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case98/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case98/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case98/output2.jpg" width="100%" alt="Output image"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case98/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case98/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case98/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case98/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/comparison_case98/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case98/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/comparison_case98/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case98/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="images/comparison_case98/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case98/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="images/comparison_case98/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case98/output4.jpg" width="100%" alt="Output image"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -12151,7 +12151,7 @@ A premium 12-frame editorial match-day transformation storyboard showing the upl
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case99/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case99/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/comparison_case99/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case99/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -12442,7 +12442,7 @@ KEY INSTRUCTIONS:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case100/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case100/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/comparison_case100/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case100/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -12468,7 +12468,7 @@ LOCATION: open Japanese mountain field at blue hour, ankle-high wind-blown grass
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case101/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case101/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/comparison_case101/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case101/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -12516,7 +12516,7 @@ Footer:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case102/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case102/output.jpg" width="300" alt="Output image"></a> |
+| <a href="images/comparison_case102/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case102/output.jpg" width="300" alt="Output image"></a> |
 
 **프롬프트:**
 
@@ -12601,8 +12601,8 @@ For unagi nigiri:
 ### Case 103: [Old Footage Restoration with GPT-Image 2](https://x.com/CuriousRefuge/status/2065139340486045905) (by [@CuriousRefuge](https://x.com/CuriousRefuge))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case103/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case103/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case103/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case103/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case103/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case103/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case103/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case103/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td></tr>
+<tr><td width="50%"><a href="images/comparison_case103/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case103/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td><td width="50%"><a href="images/comparison_case103/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case103/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td></tr>
+<tr><td width="50%"><a href="images/comparison_case103/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case103/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td><td width="50%"><a href="images/comparison_case103/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case103/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Old Footage Restoration with GPT-Image 2"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -12618,7 +12618,7 @@ Once GPT-Image 2 gives you the first ultra high quality image, upload the rest o
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case104/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case104/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 4 Architectural Styles 2×2 Grid"></a> |
+| <a href="images/comparison_case104/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case104/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 4 Architectural Styles 2×2 Grid"></a> |
 
 **프롬프트:**
 
@@ -12632,7 +12632,7 @@ Once GPT-Image 2 gives you the first ultra high quality image, upload the rest o
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case105/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case105/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+| <a href="images/comparison_case105/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case105/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
 
 **프롬프트:**
 
@@ -12644,8 +12644,8 @@ Modify this photo so the total adds up to 244.5 baht. Adjust the number of coins
 ### Case 106: [블루프린트와 렌더 분할 오브젝트](https://x.com/iamaiistudio/status/2067202108303311255) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case106/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case106/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case106/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td></tr>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case106/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case106/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case106/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case106/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td></tr>
+<tr><td width="50%"><a href="images/comparison_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case106/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td><td width="50%"><a href="images/comparison_case106/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case106/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td></tr>
+<tr><td width="50%"><a href="images/comparison_case106/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case106/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td><td width="50%"><a href="images/comparison_case106/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case106/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Blueprint vs Render Split Object"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -12658,7 +12658,7 @@ Pick any object and slice it in half vertically, the left side rendered as a det
 ### Case 107: [퍼골라 설계도와 완성본 분할 비교](https://x.com/iamaiistudio/status/2067142493389603170) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
 <table>
-<tr><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case107/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Pergola Blueprint Build Split"></a></td><td width="50%"><a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case107/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case107/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Pergola Blueprint Build Split"></a></td></tr>
+<tr><td width="50%"><a href="images/comparison_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case107/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Pergola Blueprint Build Split"></a></td><td width="50%"><a href="images/comparison_case107/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case107/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Pergola Blueprint Build Split"></a></td></tr>
 </table>
 
 **프롬프트:**
@@ -12703,7 +12703,7 @@ A cinematic 6-panel storyboard sheet on a clean dark charcoal background, arrang
 ### Case 41: [2020년 가장 중요한 사건의 이미지 생성](https://x.com/Rufus87078959/status/2047211900769878234) (by [@Rufus87078959](https://x.com/Rufus87078959))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case65/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/case_case65/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/case_case65/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/case_case65/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -12715,7 +12715,7 @@ Generate an image of the most significant event of 2020
 ### Case 69: [비주얼 브랜드 분석도](https://x.com/X7649158034321/status/2049721847001047274) (by [@X7649158034321](https://x.com/X7649158034321))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case69/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case69/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/comparison_case69/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case69/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -12727,7 +12727,7 @@ Generate an image of the most significant event of 2020
 ### Case 70: [아파트 드라마 애니메이션 스토리보드 시트](https://x.com/CurieuxExplorer/status/2049709975040401601) (by [@CurieuxExplorer](https://x.com/CurieuxExplorer))
 | 출력 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case70/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case70/output.jpg" width="300" alt="출력 이미지"></a> |
+| <a href="images/comparison_case70/output.jpg" target="_blank" rel="noopener noreferrer"><img src="images/comparison_case70/output.jpg" width="300" alt="출력 이미지"></a> |
 
 **프롬프트:**
 
@@ -12739,7 +12739,7 @@ Create a new animation sheet, but this time it's a storyboard between an Indian 
 ### Case 78: [현대 마피아 보스 초상](https://x.com/john_my07/status/2050455807851147461) (by [@john_my07](https://x.com/john_my07))
 | 출력 |
 | :----: |
-| <img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case78/output.jpg" width="300" alt="출력 이미지"> |
+| <img src="images/comparison_case78/output.jpg" width="300" alt="출력 이미지"> |
 
 **프롬프트:**
 
@@ -12751,7 +12751,7 @@ GPT Image 2.0 on ChatGPT vs Google Nano Banana 2 on Gemini. PROMPT: Create a hyp
 ### Case 87: [아늑한 스크랩북 미니 또 다른 자아들](https://x.com/gold_force_guri/status/2050433982756721029) (by [@gold_force_guri](https://x.com/gold_force_guri))
 | 출력 |
 | :----: |
-| <img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/comparison_case79/output.jpg" width="300" alt="출력 이미지"> |
+| <img src="images/comparison_case79/output.jpg" width="300" alt="출력 이미지"> |
 
 **프롬프트:**
 

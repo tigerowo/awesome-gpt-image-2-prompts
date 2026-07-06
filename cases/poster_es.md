@@ -6,7 +6,7 @@
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case1/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case1/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -17,7 +17,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case2/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case2/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case2/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case2/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -28,7 +28,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case3/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case3/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case3/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case3/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -39,7 +39,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case4/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case4/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case4/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case4/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -58,7 +58,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case5/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case5/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case5/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case5/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -75,7 +75,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case7/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case7/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case7/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case7/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -86,7 +86,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case8/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case8/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case8/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case8/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -97,7 +97,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case9/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case9/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case9/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case9/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -108,7 +108,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case10/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case10/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case10/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case10/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -122,7 +122,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case11/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case11/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case11/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case11/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -133,7 +133,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case12/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case12/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case12/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case12/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -144,7 +144,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case13/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case13/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case13/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case13/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -155,7 +155,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case14/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case14/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case14/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case14/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -166,7 +166,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case15/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case15/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case15/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case15/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -177,7 +177,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case24/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case24/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case24/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case24/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -194,7 +194,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case32/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case32/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case32/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case32/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -205,7 +205,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case33/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case33/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case33/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case33/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -216,7 +216,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case34/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case34/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case34/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case34/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -227,7 +227,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case35/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case35/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case35/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case35/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -238,7 +238,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case36/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case36/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case36/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case36/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -249,7 +249,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case38/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case38/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case38/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case38/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -260,7 +260,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case39/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case39/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case39/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case39/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -289,7 +289,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case40/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case40/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case40/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case40/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -300,7 +300,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case41/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case41/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case41/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case41/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -312,7 +312,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case42/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case42/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case42/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case42/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -335,7 +335,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case45/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case45/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case45/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case45/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -346,7 +346,7 @@ Create a Science fiction movie poster
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case46/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case46/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case46/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case46/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -357,7 +357,7 @@ Create a Science fiction movie poster
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case47/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case47/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case47/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case47/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -368,7 +368,7 @@ Create a Science fiction movie poster
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case48/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case48/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case48/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case48/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -389,7 +389,7 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case49/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case49/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case49/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case49/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -400,7 +400,7 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case50/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case50/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case50/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case50/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -495,7 +495,7 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case51/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case51/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case51/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case51/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -506,7 +506,7 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case57/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case57/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case57/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case57/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -520,7 +520,7 @@ Old money Hamptons editorial, tall blonde woman late 20s, serene elegant express
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case58/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case58/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case58/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case58/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -531,7 +531,7 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case59/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case59/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case59/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case59/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -547,7 +547,7 @@ Generate somthing super complex and info dense...
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case55/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case55/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case55/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case55/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -558,7 +558,7 @@ Generate somthing super complex and info dense...
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case56/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case56/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case56/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case56/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -643,7 +643,7 @@ AI 必须依据【主题】自动决定最合适的:
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case54/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case54/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case54/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case54/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -672,7 +672,7 @@ AI 必须依据【主题】自动决定最合适的:
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case60/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case60/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -683,7 +683,7 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case62/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case62/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case62/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case62/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -708,7 +708,7 @@ Commercial product photography, ultra-detailed, 8K.
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case60/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case60/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -721,7 +721,7 @@ Online 360° Panorama Viewer VR
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case82/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case82/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case82/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case82/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -736,7 +736,7 @@ Two children in calm conversation,soft connection forming.
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case85/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case85/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case85/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case85/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -783,7 +783,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case87/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case87/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case87/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case87/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -794,7 +794,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case89/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case89/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -807,7 +807,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case90/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case90/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case90/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case90/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -820,7 +820,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case103/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case103/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case103/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case103/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -833,7 +833,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case104/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case104/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case104/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case104/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -844,7 +844,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case105/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case105/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case105/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case105/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -855,7 +855,7 @@ generate an image of a racing car poster with its spec and pricing
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case106/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case106/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -868,7 +868,7 @@ generate an image of a racing car poster with its spec and pricing
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case70/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case70/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case70/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case70/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -889,7 +889,7 @@ Style should feel modern, minimal, elite, bold, high fashion sports campaign, lu
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case71/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case71/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case71/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case71/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -908,7 +908,7 @@ Composition should feel premium, trendy, clean, commercial, youthful, modern fas
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case72/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case72/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case72/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case72/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -919,7 +919,7 @@ Create an epic poster showcasing the most iconic moments of [Insert Name]'s care
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case73/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case73/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case73/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case73/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -930,7 +930,7 @@ Avant-garde sports fashion advertisement, oversized basketball posed like a monu
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case74/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case74/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case74/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case74/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -941,7 +941,7 @@ Avant-garde sports fashion advertisement, oversized tennis racket positioned lik
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case60/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case60/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case60/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -957,7 +957,7 @@ Establecer la relación de aspecto en 3:4.
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case76/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case76/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case76/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case76/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -969,7 +969,7 @@ Create a premium food preparation poster for
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case77/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case77/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case77/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case77/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -982,7 +982,7 @@ Style should feel premium, modern, cinematic, clean composition, sharp focus, ul
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case78/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case78/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case78/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case78/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -993,7 +993,7 @@ A high-fashion surrealist poster for Rolex. A deep emerald green minimalist stud
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case79/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case79/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case79/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case79/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1004,7 +1004,7 @@ symmetrical design featuring two elegant blue peacocks with detailed feather pat
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case80/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case80/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case80/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case80/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1020,7 +1020,7 @@ Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case81/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case81/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case81/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case81/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1031,7 +1031,7 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case110/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case110/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case110/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case110/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1076,7 +1076,7 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case111/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case111/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case111/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case111/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1127,7 +1127,7 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case119/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case119/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case119/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case119/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1138,7 +1138,7 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case120/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case120/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case120/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case120/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1149,7 +1149,7 @@ A highly detailed vertical Taoist esoteric infographic poster in the style of an
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case121/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case121/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case121/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case121/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1160,7 +1160,7 @@ A highly detailed vertical Taoist esoteric infographic poster in the style of an
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case122/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case122/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case122/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case122/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1171,7 +1171,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case123/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case123/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case123/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case123/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1182,7 +1182,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case124/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case124/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case124/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case124/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1193,7 +1193,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case125/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case125/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case125/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case125/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1214,7 +1214,7 @@ Overall design should feel premium, feminine, mystical, and collectible, like a 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case126/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case126/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case126/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case126/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1225,7 +1225,7 @@ Overall design should feel premium, feminine, mystical, and collectible, like a 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case127/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case127/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case127/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case127/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1236,7 +1236,7 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case128/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case128/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case128/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case128/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1247,7 +1247,7 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case129/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case129/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case129/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case129/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1258,7 +1258,7 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case130/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case130/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case130/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case130/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1296,7 +1296,7 @@ no cluttered backgrounds
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case132/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case132/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case132/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case132/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1307,7 +1307,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case133/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case133/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case133/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case133/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1318,7 +1318,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case134/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case134/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case134/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case134/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1329,7 +1329,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case135/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case135/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case135/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case135/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1340,7 +1340,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case136/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case136/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case136/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case136/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1351,7 +1351,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case137/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case137/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case137/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case137/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1362,7 +1362,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case138/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case138/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case138/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case138/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1373,7 +1373,7 @@ A {argument name="painting style" default="baroque oil painting"} comes to life 
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case139/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case139/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case139/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case139/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1403,7 +1403,7 @@ Generate image using uploaded image as reference
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case140/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case140/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case140/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case140/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1414,7 +1414,7 @@ Using the provided reference image, transform the top-down RPG town map into a p
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case141/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case141/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case141/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case141/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1425,7 +1425,7 @@ A full-body anime girl character design on a plain white background, centered an
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case142/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case142/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case142/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case142/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1436,7 +1436,7 @@ A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-sty
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case161/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case161/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1447,7 +1447,7 @@ A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-sty
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case162/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case162/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1458,7 +1458,7 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case163/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case163/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/ecommerce_case163/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case163/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1469,7 +1469,7 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case164/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case164/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case164/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case164/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1480,7 +1480,7 @@ A dreamy anime-style full-body illustration of a fashionable young woman standin
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case165/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case165/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case165/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case165/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1491,7 +1491,7 @@ A cinematic wide aerial view of a tropical coastal city at sunset during a viole
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case168/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case168/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case168/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case168/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1534,7 +1534,7 @@ Aspect ratio: 1:1 (square collage)
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case169/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case169/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case169/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1557,7 +1557,7 @@ top-down satellite perspective, NASA Earth observation style, hyper-detailed tex
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case170/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case170/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case170/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1587,7 +1587,7 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case171/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case171/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case171/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case171/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1625,7 +1625,7 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case172/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case172/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case172/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case172/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1649,7 +1649,7 @@ Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic,
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case173/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case173/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1660,7 +1660,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case174/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case174/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case174/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1671,7 +1671,7 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case175/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case175/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case175/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1682,7 +1682,7 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case176/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case176/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case176/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -1692,7 +1692,7 @@ infográfico ASCII DENGUE
 ### Case 177: [Anuncio principal de smartphone lavanda](https://x.com/meng_dagg695/status/2050472802327900342) (by [@meng_dagg695](https://x.com/meng_dagg695))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case177/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case177/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case177/output.jpg" width="300" alt="Output image"></a> |
 
 **Guías de envío:**
 
@@ -1702,7 +1702,7 @@ Redmi 17 pro new launch 🔥 Made with Gpt image 2 on Chatgpt Prompt : Ultra-rea
 ### Case 178: [Plantilla de póster gastronómico de lujo](https://x.com/SPEEDAI07/status/2050470348454551902) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case178/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case178/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case178/output.jpg" width="300" alt="Output image"></a> |
 
 **Guías de envío:**
 
@@ -1712,7 +1712,7 @@ GPT Image 2 on ChatGPT App Create a hyper-realistic vertical commercial food pho
 ### Case 179: [Póster de zumo de naranja inflable](https://x.com/Goodmanprotocol/status/2050451019746926879) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case179/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case179/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case179/output.jpg" width="300" alt="Output image"></a> |
 
 **Guías de envío:**
 
@@ -1722,7 +1722,7 @@ Perfect for the summers GPT Image 2 on ChatGPT Prompt: Design a '4:5' product po
 ### Case 180: [Póster de moda urbana verde esmeralda](https://x.com/harboriis/status/2050444570345742591) (by [@harboriis](https://x.com/harboriis))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case180/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case180/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case180/output.jpg" width="300" alt="Output image"></a> |
 
 **Guías de envío:**
 
@@ -1732,7 +1732,7 @@ GPT Image 2 on ChatGPT Prompt: Create a bold street-fashion poster featuring a h
 ### Case 181: [Campaña retro de patinaje sobre ruedas](https://x.com/AIwithSynthia/status/2050430705189191704) (by [@AIwithSynthia](https://x.com/AIwithSynthia))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case181/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case181/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case181/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case181/output.jpg" width="300" alt="Output image"></a> |
 
 **Guías de envío:**
 
@@ -1742,7 +1742,7 @@ PixPretty @PixPrettyAI with GPT Image 2 has been quietly setting a new standard 
 ### Case 182: [Póster editorial de ropa deportiva futurista](https://x.com/gold_force_guri/status/2050428455360348191) (by [@gold_force_guri](https://x.com/gold_force_guri))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case182/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case182/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case182/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case182/output.jpg" width="300" alt="Output image"></a> |
 
 **Guías de envío:**
 
@@ -1752,7 +1752,7 @@ GPT image 2 on @SocialSight Prompt: High-fashion futuristic sportswear editorial
 ### Case 183: [Póster publicitario de auriculares streetwear](https://x.com/Strength04_X/status/2050420683482800333) (by [@Strength04_X](https://x.com/Strength04_X))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case183/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case183/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case183/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case183/output.jpg" width="300" alt="Output image"></a> |
 
 **Guías de envío:**
 
@@ -1764,7 +1764,7 @@ GPT image 2 on ChatGPT 📱 Prompt: A streetwear advertisement poster. A cool te
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case184/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case184/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case184/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case184/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1778,7 +1778,7 @@ GPT Image 2 + Kling = 🔥 This was done for Tokyo.
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case185/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case185/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case185/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case185/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1790,7 +1790,7 @@ A cozy restaurant table filled with a vibrant Taiwanese meal, shot in warm natur
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case186/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case186/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case186/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case186/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1840,7 +1840,7 @@ Output: One high-detail declassified dossier poster as a single finished image.
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case187/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case187/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case187/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case187/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1889,7 +1889,7 @@ Ultra-realistic, 8K food photography, commercial advertising, sharp focus, drama
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case188/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case188/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case188/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case188/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1927,7 +1927,7 @@ elegant serif + modern script combination
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case189/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case189/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case189/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case189/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1946,7 +1946,7 @@ premium fitness brand campaign, dramatic studio lighting, soft shadows, high con
 ### Case 190: [Póster infográfico del Samsung Galaxy S25](https://x.com/bmx_ai13/status/2051692833258852586) (by [@bmx_ai13](https://x.com/bmx_ai13))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case190/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case190/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case190/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case190/output.jpg" width="300" alt="Output image"></a> |
 
 **Guías de envío:**
 
@@ -1979,7 +1979,7 @@ Style: ultra premium Samsung style product advertising, clean futuristic UI desi
 ### Case 191: [Fotografía gastronómica con personajes doodle](https://x.com/Taaruk_/status/2051690647997088110) (by [@Taaruk_](https://x.com/Taaruk_))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case191/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case191/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case191/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case191/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt 1 (Beach café + cute doodle characters):**
 
@@ -2002,7 +2002,7 @@ Warm cozy coffee scene on a rustic wooden table with a cup of latte art on a yel
 ### Case 192: [Póster deportivo dinámico](https://x.com/SPEEDAI07/status/2051679223715365331) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case192/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case192/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case192/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case192/output.jpg" width="300" alt="Output image"></a> |
 
 **Guías de envío:**
 
@@ -2013,7 +2013,7 @@ A dynamic sports poster of a professional football player mid-strike, captured i
 ### Case 193: [Póster de campaña publicitaria de marca de lujo](https://x.com/TechieBySA/status/2051676877794816074) (by [@TechieBySA](https://x.com/TechieBySA))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case193/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case193/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case193/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case193/output.jpg" width="300" alt="Output image"></a> |
 
 **Guías de envío:**
 
@@ -2024,7 +2024,7 @@ A world-class luxury advertising campaign poster, 4:5 ratio, for [BRAND/PRODUCT]
 ### Case 194: [Anuncio de fotografía de producto para zumo](https://x.com/Jawad_Rahman_/status/2051671878608228630) (by [@Jawad_Rahman_](https://x.com/Jawad_Rahman_))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case194/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case194/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case194/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case194/output.jpg" width="300" alt="Output image"></a> |
 
 **Guías de envío:**
 
@@ -3942,7 +3942,7 @@ repetitive placements
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case250/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case250/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hand-Torn Editorial Collage"></a> |
+| <a href="../images/poster_case250/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case250/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hand-Torn Editorial Collage"></a> |
 
 **Prompt:**
 
@@ -3955,7 +3955,7 @@ Transform the attached image into a collage artwork. Make it appear as if hand-t
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case251/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case251/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glowing Sailboat Night Illustration"></a> |
+| <a href="../images/poster_case251/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case251/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glowing Sailboat Night Illustration"></a> |
 
 **Prompt:**
 
@@ -3968,7 +3968,7 @@ A luminous sailboat, outlined in glowing golden light, floats serenely on dark, 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case252/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case252/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Istanbul Line-Art Travel Poster"></a> |
+| <a href="../images/poster_case252/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case252/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Istanbul Line-Art Travel Poster"></a> |
 
 **Prompt:**
 
@@ -4071,7 +4071,7 @@ Museum-quality graphic design composition
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case253/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case253/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dark Western Outlaw Poster"></a> |
+| <a href="../images/poster_case253/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case253/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dark Western Outlaw Poster"></a> |
 
 **Prompt:**
 
@@ -4092,7 +4092,7 @@ Museum-quality graphic design composition
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case254/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case254/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime Streetwear Mascot Poster"></a> |
+| <a href="../images/poster_case254/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case254/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime Streetwear Mascot Poster"></a> |
 
 **Prompt:**
 
@@ -4105,7 +4105,7 @@ Stylized anime streetwear brand poster of a fast-food mascot character, full-bod
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case255/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case255/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Wildlife Infographic Reference Poster"></a> |
+| <a href="../images/poster_case255/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case255/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Wildlife Infographic Reference Poster"></a> |
 
 **Prompt:**
 
@@ -4147,7 +4147,7 @@ Ultra-realistic, 8K, cinematic infographic masterpiece, insanely detailed, premi
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case256/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case256/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ancient Civilization Miniature Diorama"></a> |
+| <a href="../images/poster_case256/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case256/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ancient Civilization Miniature Diorama"></a> |
 
 **Prompt:**
 
@@ -4162,7 +4162,7 @@ Soft cinematic lighting with warm natural sunlight from a nearby window, shallow
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case257/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case257/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Fashion Collage Poster"></a> |
+| <a href="../images/poster_case257/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case257/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Fashion Collage Poster"></a> |
 
 **Prompt:**
 
@@ -4175,7 +4175,7 @@ Cinematic vertical collage featuring a Japanese woman in elegant fashion capture
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case258/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case258/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bangkok Swiss Typography Poster"></a> |
+| <a href="../images/poster_case258/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case258/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bangkok Swiss Typography Poster"></a> |
 
 **Prompt:**
 
@@ -4300,7 +4300,7 @@ Ultra-detailed 8K vector-style rendering, ultra sharp print-ready quality, high-
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case259/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case259/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miniature Travel World Poster"></a> |
+| <a href="../images/poster_case259/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case259/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miniature Travel World Poster"></a> |
 
 **Prompt:**
 
@@ -4313,7 +4313,7 @@ A cinematic hyper-detailed miniature travel diorama resting inside an open human
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case260/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case260/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait"></a> |
+| <a href="../images/poster_case260/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case260/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait"></a> |
 
 **Prompt:**
 
@@ -4326,7 +4326,7 @@ Design a high-detail portrait poster in a bold Japanese graffiti-inspired art st
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case261/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case261/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Playlist Mood Album Cover"></a> |
+| <a href="../images/poster_case261/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case261/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Playlist Mood Album Cover"></a> |
 
 **Prompt:**
 
@@ -4339,7 +4339,7 @@ Create an album cover inspired by this playlist: [playlist], translating its moo
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case262/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case262/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Play-Doh City Editorial"></a> |
+| <a href="../images/poster_case262/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case262/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Play-Doh City Editorial"></a> |
 
 **Prompt:**
 
@@ -4352,7 +4352,7 @@ Create an ultra-charming 3:4 editorial illustration of a five-year-old child sit
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case263/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case263/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Liquid Art Poster"></a> |
+| <a href="../images/poster_case263/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case263/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Liquid Art Poster"></a> |
 
 **Prompt:**
 
@@ -4365,7 +4365,7 @@ A mesmerizing and explosively colorful vertical poster featuring giant 3D liquid
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case264/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case264/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Isometric Travel Poster"></a> |
+| <a href="../images/poster_case264/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case264/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Isometric Travel Poster"></a> |
 
 **Prompt:**
 
@@ -4378,7 +4378,7 @@ Design a vertical retro mid-century travel poster of [CITY NAME] showcasing [LAN
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case265/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case265/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Travel Postage Stamp"></a> |
+| <a href="../images/poster_case265/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case265/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Travel Postage Stamp"></a> |
 
 **Prompt:**
 
@@ -4391,7 +4391,7 @@ Vintage travel postage stamp design featuring [CITY / COUNTRY], ultra-detailed i
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case266/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case266/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Paper Collage Set"></a> |
+| <a href="../images/poster_case266/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case266/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Paper Collage Set"></a> |
 
 **Prompt:**
 
@@ -4404,7 +4404,7 @@ Aesthetic vintage paper collage portrait of a stylish woman taking a mirror self
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case267/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case267/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cubist Kawaii Vector Portrait"></a> |
+| <a href="../images/poster_case267/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case267/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cubist Kawaii Vector Portrait"></a> |
 
 **Prompt:**
 
@@ -4417,7 +4417,7 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case268/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case268/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Trash Polka Headphones Portrait"></a> |
+| <a href="../images/poster_case268/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case268/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Trash Polka Headphones Portrait"></a> |
 
 **Prompt:**
 
@@ -4430,7 +4430,7 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case269/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case269/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Typography Travel Poster"></a> |
+| <a href="../images/poster_case269/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case269/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Typography Travel Poster"></a> |
 
 **Prompt:**
 
@@ -4442,7 +4442,7 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case270/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case270/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case270/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case270/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4454,7 +4454,7 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case271/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case271/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case271/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case271/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4472,7 +4472,7 @@ Minimal shading, thin crosshatching, clean line art, monochrome aesthetic, white
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case272/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case272/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case272/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case272/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4506,7 +4506,7 @@ dreamy fantasy girl, celestial goddess, galaxy dress, holographic starlight, sof
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case273/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case273/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case273/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case273/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4522,7 +4522,7 @@ Modern concept art meets fashion illustration, dynamic ink strokes, expressive l
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case274/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case274/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case274/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case274/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4573,7 +4573,7 @@ Overall aesthetic: warm, feminine, luxurious, ultra detailed, realistic photogra
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case275/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case275/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case275/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case275/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4595,7 +4595,7 @@ COLOR PALETTE: soft ocean blue dusty aqua muted sand beige faded coral warm crea
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case276/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case276/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case276/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case276/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4633,7 +4633,7 @@ Atmosphere: raw industrial power, signal yellow burning against matte black, ste
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case277/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case277/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case277/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case277/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4646,7 +4646,7 @@ Scene Variations:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case278/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case278/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case278/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case278/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4663,7 +4663,7 @@ Bottom center has a palm tree icon with text 'MOROCCO' and small decorative moti
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case279/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case279/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case279/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case279/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4769,7 +4769,7 @@ museum poster quality.
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case280/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case280/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case280/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case280/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4865,7 +4865,7 @@ Creator: @hermes_agent_kr on Threads
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case281/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case281/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case281/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case281/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4934,7 +4934,7 @@ S M T W T F S
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case282/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case282/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case282/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case282/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4990,7 +4990,7 @@ GPT Image 2提示词分享👇
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case283/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case283/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case283/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case283/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -5011,7 +5011,7 @@ GPT Image 2提示词分享👇
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case284/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case284/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case284/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case284/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -5035,7 +5035,7 @@ GPT Image 2提示词分享👇
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case285/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case285/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case285/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case285/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -5046,7 +5046,7 @@ Create a premium 9:16 hyper-realistic travel-poster of [COUNTRY NAME] in the sam
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case286/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case286/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case286/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case286/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -5057,7 +5057,7 @@ Vintage monochrome city travel poster illustration, detailed urban sketch aesthe
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case287/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case287/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case287/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case287/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -5068,7 +5068,7 @@ Create a sophisticated flat-vector editorial pattern illustration of [Melbourne]
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case288/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case288/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case288/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case288/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -5079,7 +5079,7 @@ Create a 16:9 character concept sheet for a celestial voyager in an epic cinemat
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case289/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case289/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case289/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case289/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -5093,7 +5093,7 @@ Hero portrait — Chad isolated on clean white. No background. Pixar 3D man, lat
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case290/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case290/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case290/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case290/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -5104,7 +5104,7 @@ Vintage mixed-media travel collage poster, portrait orientation, themed around [
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case291/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case291/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case291/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case291/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -5115,7 +5115,7 @@ Create an ultra-premium editorial travel infographic poster about FRANCE in a cl
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case292/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case292/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/poster_case292/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case292/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -5128,7 +5128,7 @@ Create a single image storyboard with 9 cinematic frames arranged in a  3×3 gri
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case293/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case293/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case293/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case293/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -5140,7 +5140,7 @@ Authentic 1960s American advertising poster for [BREW], vintage mid-century comm
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case294/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case294/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case294/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case294/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -5152,7 +5152,7 @@ A premium director’s pitch presentation board for a high-budget cinematic prod
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case295/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case295/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case295/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case295/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -5221,7 +5221,7 @@ Aspect ratio 4:5 or 9:16
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case296/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case296/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case296/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case296/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -5233,7 +5233,7 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 
 | Resultado |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case297/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case297/output.jpg" width="300" alt="Imagen de resultado"></a> |
+| <a href="../images/poster_case297/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case297/output.jpg" width="300" alt="Imagen de resultado"></a> |
 
 **Prompt：**
 
@@ -5245,7 +5245,7 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case298/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case298/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Football Player Dynamic Poster"></a> |
+| <a href="../images/poster_case298/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case298/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Football Player Dynamic Poster"></a> |
 
 **Prompt:**
 
@@ -5257,7 +5257,7 @@ A dynamic mixed-media football poster featuring James Rodríguez in Colombia’s
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case299/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Food Advertisement Poster"></a> |
+| <a href="../images/poster_case299/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Food Advertisement Poster"></a> |
 
 **Prompt:**
 
@@ -5269,7 +5269,7 @@ Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vert
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case300/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case300/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Watercolor Travel Poster"></a> |
+| <a href="../images/poster_case300/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case300/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Watercolor Travel Poster"></a> |
 
 **Prompt:**
 
@@ -5282,7 +5282,7 @@ Scene variations: • London  rainy streets, red double-decker bus, black taxi, 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case301/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Retro Cafe Scrapbook Poster"></a> |
+| <a href="../images/poster_case301/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Retro Cafe Scrapbook Poster"></a> |
 
 **Prompt:**
 
@@ -5294,7 +5294,7 @@ Whimsical retro cafe scrapbook poster, dreamy pistachio rose latte aesthetic, la
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case302/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Blueberry Lavender Soda Scrapbook Poster"></a> |
+| <a href="../images/poster_case302/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Blueberry Lavender Soda Scrapbook Poster"></a> |
 
 **Prompt:**
 
@@ -5306,7 +5306,7 @@ Vintage-inspired blueberry lavender soda scrapbook poster, dreamy artisanal cafe
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case303/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case303/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Scientific Concept Anchor Poster"></a> |
+| <a href="../images/poster_case303/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case303/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Scientific Concept Anchor Poster"></a> |
 
 **Prompt:**
 
@@ -5317,7 +5317,7 @@ Anchor: The word "[SCIENTIFIC CONCEPT (e.g.,  CARBON / DNA / GRAVITY)]" :: where
 ### Case 304: [Póster editorial de moda](https://x.com/zulkarnaimx/status/2057500045713506318) (by [@zulkarnaimx](https://x.com/zulkarnaimx))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case304/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case304/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Editorial Fashion Poster"></a> |
+| <a href="../images/poster_case304/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case304/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Editorial Fashion Poster"></a> |
 
 **Guías de envío:**
 
@@ -5328,7 +5328,7 @@ Editorial fashion poster featuring a full-body, stylish male model leaning casua
 ### Case 305: [Póster infográfico editorial de alta moda](https://x.com/Hope_Ai01/status/2057367851905040849) (by [@Hope_Ai01](https://x.com/Hope_Ai01))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case305/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - High Fashion Editorial Infographic Poster"></a> |
+| <a href="../images/poster_case305/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case305/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - High Fashion Editorial Infographic Poster"></a> |
 
 **Guías de envío:**
 
@@ -5339,7 +5339,7 @@ A high-fashion editorial infographic poster featuring a stunning female fashion 
 ### Case 306: [Diseño de póster de baloncesto](https://x.com/abs_uiux/status/2057390002678464986) (by [@abs_uiux](https://x.com/abs_uiux))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case306/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case306/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Basketball Poster Design"></a> |
+| <a href="../images/poster_case306/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case306/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Basketball Poster Design"></a> |
 
 **Guías de envío:**
 
@@ -5350,7 +5350,7 @@ Create a high-impact professional basketball poster design for a fictional live 
 ### Case 307: [Generación de tarjeta de personaje con tres vistas](https://x.com/rionaifantasy/status/2057445381072650545) (by [@rionaifantasy](https://x.com/rionaifantasy))
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case307/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case307/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 角色卡三视图生成"></a> |
+| <a href="../images/poster_case307/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case307/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 角色卡三视图生成"></a> |
 
 **Guías de envío:**
 
@@ -6899,7 +6899,7 @@ A minimalist modern editorial illustration. Style: Nordic lifestyle magazine mee
 ```
 ### Case 354: [World Cup Match Poster](https://x.com/lukmanfebrianto/status/2064159903531544961) (by [@lukmanfebrianto](https://x.com/lukmanfebrianto))
 
-![World Cup Match Poster](../../images/poster_case354/output.jpg)
+![World Cup Match Poster](../images/poster_case354/output.jpg)
 
 **Prompt:**
 ```
@@ -6913,7 +6913,7 @@ Photorealistic movie poster designed by a professional graphic designer with thi
 ```
 ### Case 355: [Cinematography Analysis Frame](https://x.com/bmx_ai13/status/2064109968203362408) (by [@bmx_ai13](https://x.com/bmx_ai13))
 
-![Cinematography Analysis Frame](../../images/poster_case355/output.jpg)
+![Cinematography Analysis Frame](../images/poster_case355/output.jpg)
 
 **Prompt:**
 ```
@@ -6951,7 +6951,7 @@ Camera: 35mm lens, medium wide framing, eye level camera angle, 16:9 widescreen.
 ```
 ### Case 356: [Vintage Anatomic Book Plate](https://x.com/livybabie/status/2064033077123236291) (by [@livybabie](https://x.com/livybabie))
 
-![Vintage Anatomic Book Plate](../../images/poster_case356/output.jpg)
+![Vintage Anatomic Book Plate](../images/poster_case356/output.jpg)
 
 **Prompt:**
 ```
@@ -6969,7 +6969,7 @@ Lighting should be soft and flat like a scanned antique page. The final result m
 ```
 ### Case 357: [Crowd Mosaic Football Portrait](https://x.com/Taaruk_/status/2064032287969481186) (by [@Taaruk_](https://x.com/Taaruk_))
 
-![Crowd Mosaic Football Portrait](../../images/poster_case357/output.jpg)
+![Crowd Mosaic Football Portrait](../images/poster_case357/output.jpg)
 
 **Prompt:**
 ```
@@ -6977,7 +6977,7 @@ Ultra-detailed crowd mosaic portrait of a legendary football player, created ent
 ```
 ### Case 358: [Origami Food Poster](https://x.com/Gdgtify/status/2064020126937039318) (by [@Gdgtify](https://x.com/Gdgtify))
 
-![Origami Food Poster](../../images/poster_case358/output.jpg)
+![Origami Food Poster](../images/poster_case358/output.jpg)
 
 **Prompt:**
 ```
@@ -7002,7 +7002,7 @@ NEGATIVE: no holograms, no bioluminescent glows, no VR/AR elements, no realistic
 ```
 ### Case 359: [Surrealism History Timeline](https://x.com/92digitalartArt/status/2064012013357928462) (by [@92digitalartArt](https://x.com/92digitalartArt))
 
-![Surrealism History Timeline](../../images/poster_case359/output.jpg)
+![Surrealism History Timeline](../images/poster_case359/output.jpg)
 
 **Prompt:**
 ```
@@ -7010,7 +7010,7 @@ A surrealist historical timeline infographic poster in 16:9 horizontal format in
 ```
 ### Case 360: [3D Travel Ticket](https://x.com/AIwithkhan/status/2063963460963270774) (by [@AIwithkhan](https://x.com/AIwithkhan))
 
-![3D Travel Ticket](../../images/poster_case360/output.jpg)
+![3D Travel Ticket](../images/poster_case360/output.jpg)
 
 **Prompt:**
 ```
@@ -7018,7 +7018,7 @@ Photorealistic 3D travel ticket concept, a close-up human hand holding a large v
 ```
 ### Case 361: [Luxury Birthday Poster 3:4](https://x.com/Taaruk_/status/2064548138422263945) (by [@Taaruk_](https://x.com/Taaruk_))
 
-![Luxury Birthday Poster 3:4](../../images/poster_case361/output.jpg)
+![Luxury Birthday Poster 3:4](../images/poster_case361/output.jpg)
 
 **Prompt:**
 ```
@@ -7026,7 +7026,7 @@ Professional luxury birthday poster, 3:4 ratio. Entire frame filled with a premi
 ```
 ### Case 362: [Window Girl Fashion Editorial](https://x.com/iamaiistudio/status/2064545132180074569) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
-![Window Girl Fashion Editorial](../../images/poster_case362/output.jpg)
+![Window Girl Fashion Editorial](../images/poster_case362/output.jpg)
 
 **Prompt:**
 ```
@@ -7042,7 +7042,7 @@ Camera: 35mm lens, centered full-body framing within the window frame, moderate 
 ```
 ### Case 363: [Premium Streetwear Graphic Tee](https://x.com/j_smeaton99/status/2064540729528267108) (by [@j_smeaton99](https://x.com/j_smeaton99))
 
-![Premium Streetwear Graphic Tee](../../images/poster_case363/output.jpg)
+![Premium Streetwear Graphic Tee](../images/poster_case363/output.jpg)
 
 **Prompt:**
 ```
@@ -7050,7 +7050,7 @@ Create a high-end fashion product photo of a modern oversized streetwear T-shirt
 ```
 ### Case 364: [Three-Frame Nightlife Collage](https://x.com/mehvishs25/status/2064539698027258333) (by [@mehvishs25](https://x.com/mehvishs25))
 
-![Three-Frame Nightlife Collage](../../images/poster_case364/output.jpg)
+![Three-Frame Nightlife Collage](../images/poster_case364/output.jpg)
 
 **Prompt:**
 ```
@@ -7082,7 +7082,7 @@ Candid nightlife photograph
 ```
 ### Case 365: [Travel Planning Tabletop Scene](https://x.com/Naiknelofar788/status/2064532259596816668) (by [@Naiknelofar788](https://x.com/Naiknelofar788))
 
-![Travel Planning Tabletop Scene](../../images/poster_case365/output.jpg)
+![Travel Planning Tabletop Scene](../images/poster_case365/output.jpg)
 
 **Prompt:**
 ```
@@ -7095,7 +7095,7 @@ Color palette inspired by [LOCATION'S NATURAL/CULTURAL COLORS].
 ```
 ### Case 366: [iPhone Candid Notebook Photo](https://x.com/iamaiistudio/status/2064530096720150770) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
-![iPhone Candid Notebook Photo](../../images/poster_case366/output.jpg)
+![iPhone Candid Notebook Photo](../images/poster_case366/output.jpg)
 
 **Prompt:**
 ```
@@ -7107,7 +7107,7 @@ Candid photo of a flat open notebook covered in black ballpoint pen handwriting.
 ```
 ### Case 367: [French New Wave Film Still](https://x.com/iamaiistudio/status/2064515035708408119) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
-![French New Wave Film Still](../../images/poster_case367/output.jpg)
+![French New Wave Film Still](../images/poster_case367/output.jpg)
 
 **Prompt:**
 ```
@@ -7115,7 +7115,7 @@ Black and white cinematic image in 1950s-60s French New Wave style. Two people s
 ```
 ### Case 368: [Nighttime Japanese Theater Cinematic](https://x.com/Preda2005/status/2064507889818144850) (by [@Preda2005](https://x.com/Preda2005))
 
-![Nighttime Japanese Theater Cinematic](../../images/poster_case368/output.jpg)
+![Nighttime Japanese Theater Cinematic](../images/poster_case368/output.jpg)
 
 **Prompt:**
 ```
@@ -7123,7 +7123,7 @@ Create a cinematic 16:9 wide image from the audience POV at a nighttime outdoor 
 ```
 ### Case 369: [Furniture Product Sheet Layout](https://x.com/iamaiistudio/status/2064499654725902349) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
-![Furniture Product Sheet Layout](../../images/poster_case369/output.jpg)
+![Furniture Product Sheet Layout](../images/poster_case369/output.jpg)
 
 **Prompt:**
 ```
@@ -7148,7 +7148,7 @@ Separate the two sections with a vertical dividing line or subtle split backgrou
 ```
 ### Case 370: [Anime Character Concept Showcase](https://x.com/itsPixieVerse/status/2064496721431024075) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
 
-![Anime Character Concept Showcase](../../images/poster_case370/output.jpg)
+![Anime Character Concept Showcase](../images/poster_case370/output.jpg)
 
 **Prompt:**
 ```
@@ -7180,7 +7180,7 @@ Use this tri-fold layout:
 ```
 ### Case 371: [Dopamine Burst 3D Poster](https://x.com/iamaiistudio/status/2064485010653225077) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
-![Dopamine Burst 3D Poster](../../images/poster_case371/output.jpg)
+![Dopamine Burst 3D Poster](../images/poster_case371/output.jpg)
 
 **Prompt:**
 ```
@@ -7194,7 +7194,7 @@ Modern internet visual design excellence, Behance / Dribbble 3D illustration pos
 ```
 ### Case 372: [Scandinavian Branding Mockup](https://x.com/iamaiistudio/status/2064469666521829435) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
-![Scandinavian Branding Mockup](../../images/poster_case372/output.jpg)
+![Scandinavian Branding Mockup](../images/poster_case372/output.jpg)
 
 **Prompt:**
 ```
@@ -7208,7 +7208,7 @@ Minimal personal branding identity mockup for a female entrepreneur or creator, 
 ```
 ### Case 373: [Hand-drawn Doodle Art Overlay](https://x.com/iamaiistudio/status/2064454454553051298) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
-![Hand-drawn Doodle Art Overlay](../../images/poster_case373/output.jpg)
+![Hand-drawn Doodle Art Overlay](../images/poster_case373/output.jpg)
 
 **Prompt:**
 ```
@@ -7228,7 +7228,7 @@ Keep the illustrated additions from overwhelming the original photo. Aim for a b
 ```
 ### Case 374: [Japanese Ad Banner 2x2 Grid](https://x.com/iamaiistudio/status/2064440310479176084) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
-![Japanese Ad Banner 2x2 Grid](../../images/poster_case374/output.jpg)
+![Japanese Ad Banner 2x2 Grid](../images/poster_case374/output.jpg)
 
 **Prompt:**
 ```
@@ -7289,7 +7289,7 @@ Keep the illustrated additions from overwhelming the original photo. Aim for a b
 ```
 ### Case 375: [Argentina Football Uniform Promo](https://x.com/AIwithAliya/status/2064424561622634711) (by [@AIwithAliya](https://x.com/AIwithAliya))
 
-![Argentina Football Uniform Promo](../../images/poster_case375/output.jpg)
+![Argentina Football Uniform Promo](../images/poster_case375/output.jpg)
 
 **Prompt:**
 ```
@@ -7421,7 +7421,7 @@ She carries the weight of champio
 ```
 ### Case 376: [Food Ad Layered Dessert](https://x.com/iamaiistudio/status/2064424485328204244) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
-![Food Ad Layered Dessert](../../images/poster_case376/output.jpg)
+![Food Ad Layered Dessert](../images/poster_case376/output.jpg)
 
 **Prompt:**
 ```
@@ -7435,7 +7435,7 @@ A partially bitten realistic classic [brand] product resting on a plate, exposin
 ```
 ### Case 377: [Claymation Teen Girl with Headphones](https://x.com/ZephyraLeigh/status/2064422178683228483) (by [@ZephyraLeigh](https://x.com/ZephyraLeigh))
 
-![Claymation Teen Girl with Headphones](../../images/poster_case377/output.jpg)
+![Claymation Teen Girl with Headphones](../images/poster_case377/output.jpg)
 
 **Prompt:**
 ```
@@ -7461,7 +7461,7 @@ A partially bitten realistic classic [brand] product resting on a plate, exposin
 ```
 ### Case 378: [Greek Mythology Olympian Family Tree](https://x.com/92digitalartArt/status/2064420821922152795) (by [@92digitalartArt](https://x.com/92digitalartArt))
 
-![Greek Mythology Olympian Family Tree](../../images/poster_case378/output.jpg)
+![Greek Mythology Olympian Family Tree](../images/poster_case378/output.jpg)
 
 **Prompt:**
 ```
@@ -7469,7 +7469,7 @@ An Art Nouveau style historical infographic poster in 16:9 horizontal format abo
 ```
 ### Case 379: [Ultra-realistic Trophy Sports Photography](https://x.com/Goodmanprotocol/status/2064399631187059188) (by [@Goodmanprotocol](https://x.com/Goodmanprotocol))
 
-![Ultra-realistic Trophy Sports Photography](../../images/poster_case379/output.jpg)
+![Ultra-realistic Trophy Sports Photography](../images/poster_case379/output.jpg)
 
 **Prompt:**
 ```
@@ -7495,7 +7495,7 @@ Luxury black gift box
 ```
 ### Case 380: [Celestial Fantasy Oracle Storyboard](https://x.com/itsPixieVerse/status/2064396369348239452) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
 
-![Celestial Fantasy Oracle Storyboard](../../images/poster_case380/output.jpg)
+![Celestial Fantasy Oracle Storyboard](../images/poster_case380/output.jpg)
 
 **Prompt:**
 ```
@@ -7551,7 +7551,7 @@ Epic frontal cinematic shot of massive
 ```
 ### Case 381: [3D Product Mockup Smartphone](https://x.com/Samann_ai/status/2064420488445567481) (by [@Samann_ai](https://x.com/Samann_ai))
 
-![3D Product Mockup Smartphone](../../images/poster_case381/output.jpg)
+![3D Product Mockup Smartphone](../images/poster_case381/output.jpg)
 
 **Prompt:**
 ```

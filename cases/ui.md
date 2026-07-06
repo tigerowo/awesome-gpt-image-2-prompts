@@ -6,7 +6,7 @@
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case1/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case1/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case1/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -18,7 +18,7 @@
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case2/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case2/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case2/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case2/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -29,7 +29,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case3/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case3/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case3/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case3/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -40,7 +40,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case4/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case4/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case4/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case4/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -51,7 +51,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case5/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case5/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case5/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case5/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -66,7 +66,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case7/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case7/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case7/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case7/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -77,7 +77,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case8/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case8/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case8/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case8/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -89,7 +89,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case9/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case9/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case9/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case9/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -101,7 +101,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case10/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case10/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case10/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case10/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -113,7 +113,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case25/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case25/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case25/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case25/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -140,7 +140,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case32/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case32/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case32/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case32/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -154,7 +154,7 @@ GPT-image-2でこの手相を診断して詳細な鑑定書を作って
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case33/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case33/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case33/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case33/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -166,7 +166,7 @@ GPT-image-2でこの手相を診断して詳細な鑑定書を作って
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case34/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case34/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case34/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case34/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -178,7 +178,7 @@ GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポッ�
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case35/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case35/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case35/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case35/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -190,7 +190,7 @@ GPT Image 2を使って、OpenClawの情報を調べてドンキの広告ポッ�
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case36/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case36/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case36/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case36/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -210,7 +210,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case37/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case37/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case37/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case37/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -222,7 +222,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case38/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case38/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case38/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case38/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -234,7 +234,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case39/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case39/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case39/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case39/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -249,7 +249,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case40/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case40/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case40/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case40/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -264,7 +264,7 @@ Real mobile phone screen recording screenshot feeling, the live broadcast UI is 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case63/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case63/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case63/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case63/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -276,7 +276,7 @@ based on the generated character help me generate a screenshot of screenshot of 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case64/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case64/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case64/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case64/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -288,7 +288,7 @@ Create a landing page using this image as a reference for style and color gradin
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case88/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case88/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case88/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case88/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -301,7 +301,7 @@ Create a landing page using this image as a reference for style and color gradin
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case44/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case44/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case44/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case44/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -405,7 +405,7 @@ Render Quality: Hyperrealistic, clean ad aesthetic,
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case45/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case45/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case45/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case45/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -418,7 +418,7 @@ High-impact e-commerce infographic for "Apple Pods Pro 3" wireless earbuds.
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case46/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case46/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case46/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case46/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -431,7 +431,7 @@ A high-resolution commercial marketing photograph features a young woman with sl
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case47/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case47/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case47/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case47/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -443,7 +443,7 @@ generate screenshots from a AAA video game based off what The Sims Castaways seq
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case91/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case91/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case91/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case91/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -455,7 +455,7 @@ A vertical 9:16 TikTok-style GRWM beauty thumbnail set in a warm, sunlit Mediter
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case92/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case92/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case92/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case92/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -467,7 +467,7 @@ A cinematic photorealistic action scene in a rainy downtown city street canyon, 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case93/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case93/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case93/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case93/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -479,7 +479,7 @@ A vibrant anime-style YouTube thumbnail for a livestream gaming broadcast, in a 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case94/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case94/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case94/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case94/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -491,7 +491,7 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case95/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case95/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case95/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case95/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -503,7 +503,7 @@ A soft, dreamy anime illustration of a cute young woman doing ASMR in a cozy bed
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case96/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case96/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case96/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case96/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -515,7 +515,7 @@ A highly polished anime banner illustration in a warm golden classroom-literatur
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case97/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case97/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case97/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case97/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -527,7 +527,7 @@ A polished anime-style banner illustration in a dreamy violet palette, wide cine
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case98/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case98/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case98/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case98/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -539,7 +539,7 @@ A glossy pastel pink anime banner in a wide cinematic layout, themed around cute
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case99/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case99/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case99/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case99/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -551,7 +551,7 @@ A wide anime banner illustration of {argument name="character name" default="Say
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case100/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case100/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case100/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case100/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -563,7 +563,7 @@ A dramatic anime-style cyberpunk witch standing on a dark rooftop high above a d
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case101/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case101/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case101/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case101/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -575,7 +575,7 @@ A cinematic anime movie poster for a fictional film titled {argument name="headl
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case102/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case102/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case102/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case102/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -587,7 +587,7 @@ Create a dramatic Japanese anime-style promotional thumbnail poster for an event
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case103/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case103/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case103/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case103/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -599,7 +599,7 @@ A vibrant pixel-art style mosaic of a tropical parrot perched on a small brown b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case104/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case104/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case104/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case104/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -611,7 +611,7 @@ A cinematic vertical photo of a hand holding up a large balloon wine glass fille
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case105/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case105/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case105/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case105/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -623,7 +623,7 @@ Create a {argument name="grid layout" default="4x3"} borderless grid where each 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case106/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case106/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case106/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -635,7 +635,7 @@ Create a highly realistic image of a handwritten letter containing a ({argument 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case107/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case107/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case107/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -647,7 +647,7 @@ A dramatic anime concert illustration seen from behind the performers onstage, s
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case108/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case108/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case108/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -659,7 +659,7 @@ A 4x4 photo collage of 16 warm, cinematic lifestyle snapshots featuring a real a
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case109/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case109/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case109/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -671,7 +671,7 @@ A stylish young woman with {argument name="hair style" default="long wavy blonde
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case110/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case110/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case110/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case110/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -683,7 +683,7 @@ A cozy anime-style interior of a traditional Japanese soba restaurant, viewed fr
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case111/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case111/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case111/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case111/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -695,7 +695,7 @@ A cinematic dark fantasy anime illustration in a ruined gothic cathedral, vertic
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case112/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case112/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case112/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -707,7 +707,7 @@ Based on the shape of the {argument name="subject" default="clouds"} in the imag
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case113/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case113/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -719,7 +719,7 @@ A cinematic anime-style illustration of a quiet rural Japanese train station in 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case114/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case114/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case114/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case114/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -731,7 +731,7 @@ A candid indoor restaurant photo in a realistic anime-inspired style, showing tw
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case115/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case115/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case115/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case115/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -743,7 +743,7 @@ A cozy winter camping scene inside a large beige canvas tent, rendered as a semi
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case116/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case116/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case116/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case116/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -755,7 +755,7 @@ Create a 4:5 vertical social poster in ultra high resolution, 8K print quality s
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case117/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case117/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -767,7 +767,7 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case118/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case118/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case118/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case118/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -779,7 +779,7 @@ A hyper-realistic cinematic street-food advertisement poster for {argument name=
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case119/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case119/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case119/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case119/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -791,7 +791,7 @@ A bright, polished anime-style promotional thumbnail with a summer romance atmos
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case120/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case120/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case120/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case120/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -803,7 +803,7 @@ A cinematic anime-inspired digital illustration set at night inside a cozy artis
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case121/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case121/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case121/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case121/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -815,7 +815,7 @@ This Storyboard sheet use for this video created with GPT image 2 Storyboard she
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case122/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case122/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case122/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -827,7 +827,7 @@ gpt image 2生图能力真的恐怖啊，这是我的提示词： 01 前端（�
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case123/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case123/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case123/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case123/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -839,7 +839,7 @@ GPT-Image-2的一个妙用形象 这个提示词是一个老哥发我的 我试�
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case124/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case124/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case124/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case124/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -852,7 +852,7 @@ A super simple workflow: 2 character images → GPT Image 2.0 storyboard → See
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case125/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case125/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case125/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case125/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -866,7 +866,7 @@ Act as a Social Media Art Director and Digital Collage Artist specializing in bo
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case126/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case126/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case126/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case126/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -887,7 +887,7 @@ Chinese text, long text, messy layout, old parchment background, yellow aged pap
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case127/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case127/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case127/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case127/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -900,7 +900,7 @@ Create step-by-step recipe infographic for creamy garlic mushroom pasta, top-dow
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case128/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case128/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case128/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case128/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -913,7 +913,7 @@ Create a personal color analysis graphic using this portrait. Point out which se
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case129/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case129/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case129/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case129/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -942,7 +942,7 @@ Aspect Ratio: 3:4
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case130/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case130/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case130/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case130/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -979,7 +979,7 @@ The final result should look like an emotionally styled version of the original 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case131/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case131/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case131/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case131/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1323,7 +1323,7 @@ A screenshot from a live Wimbledon TV broadcast during a packed Centre Court mat
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case143/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case143/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Handwritten Study Infographic Poster"></a> |
+| <a href="../images/ui_case143/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case143/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Handwritten Study Infographic Poster"></a> |
 
 **Prompt:**
 
@@ -1344,7 +1344,7 @@ Ultra-detailed, 4K resolution, top-down flat lay perspective, modern stationery 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case144/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case144/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Moodboard System"></a> |
+| <a href="../images/ui_case144/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case144/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Brand Identity Moodboard System"></a> |
 
 **Prompt:**
 
@@ -1358,7 +1358,7 @@ Full-blown brand identity system [BRAND NAME] — Brand Identity Moodboard STEP 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case145/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case145/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Landscape Architecture Board"></a> |
+| <a href="../images/ui_case145/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case145/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Landscape Architecture Board"></a> |
 
 **Prompt:**
 
@@ -1372,7 +1372,7 @@ Generate a 3:4 vertical, competition-grade landscape architecture presentation b
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case146/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case146/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Graphic Design Portfolio Mockup"></a> |
+| <a href="../images/ui_case146/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case146/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Graphic Design Portfolio Mockup"></a> |
 
 **Prompt:**
 
@@ -1386,7 +1386,7 @@ Create a premium graphic design portfolio mockup in a professional creative stud
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case147/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case147/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neo-Noir Character Design Board"></a> |
+| <a href="../images/ui_case147/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case147/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Neo-Noir Character Design Board"></a> |
 
 **Prompt:**
 
@@ -1399,7 +1399,7 @@ Create a cinematic realistic character design board for a high-budget neo-noir f
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case148/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case148/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case148/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case148/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1412,7 +1412,7 @@ Create a cinematic realistic character design board for a high-budget neo-noir f
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case149/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case149/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case149/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case149/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1527,7 +1527,7 @@ visually consistent and detailed
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case150/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case150/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case150/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case150/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1539,7 +1539,7 @@ use this reference photo to create a desktop calendar for January-December 2027.
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case151/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case151/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case151/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case151/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1557,7 +1557,7 @@ Prompt⤵️
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case152/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case152/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case152/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case152/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1570,7 +1570,7 @@ Create an ultra detailed exploded view of the iconic [vehicle name].
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case153/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case153/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case153/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case153/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1730,7 +1730,7 @@ QUALITY:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case154/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case154/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case154/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case154/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1746,7 +1746,7 @@ Create a premium 1:1 luxury fashion collage featuring the same stylish Japanese 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case155/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case155/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case155/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case155/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1844,7 +1844,7 @@ The final result should resemble a professionally published photography-equipmen
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case156/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case156/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case156/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case156/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1856,7 +1856,7 @@ Create a visual-first, editorial-style infographic auditing the desk setup in th
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case157/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case157/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case157/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case157/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1900,7 +1900,7 @@ Design rules:
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case158/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case158/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case158/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case158/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1912,7 +1912,7 @@ Transform the uploaded image into a premium die-cut sticker illustration while k
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case159/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case159/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case159/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case159/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1923,7 +1923,7 @@ Create a Tarot card based on what you know about me, in the classic style of Rid
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case161/output.jpg" width="300" alt="Output image"></a> |
+| <a href="../images/ui_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case161/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -2780,7 +2780,7 @@ Maintain an anti-grid editorial layout with intentionally imperfect spacing and 
 
 | Output |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case184/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case184/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Colored Pencil Photo Transformation"></a> |
+| <a href="../images/ui_case184/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case184/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Colored Pencil Photo Transformation"></a> |
 
 **Prompt:**
 

@@ -6,7 +6,7 @@
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ui_case89/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/ui_case89/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case89/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -64,7 +64,7 @@
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case113/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case113/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case113/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -76,7 +76,7 @@ A luxurious cinematic product photograph of a classic rectangular perfume bottle
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case114/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case114/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case114/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case114/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -88,7 +88,7 @@ A soft {argument name="bottle color" default="cream-colored"} bottle with a {arg
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case115/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case115/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case115/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case115/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -100,7 +100,7 @@ Create a vibrant tropical commercial poster for a citrus soda bottle, in a brigh
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case116/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case116/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case116/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case116/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -124,7 +124,7 @@ Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave design
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case117/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case117/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case117/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -136,7 +136,7 @@ A warm, editorial-style lifestyle product photo shot indoors from a low close-up
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case118/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case118/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case118/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case118/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -148,7 +148,7 @@ A luxury e-commerce advertising photo of a premium perfume bottle on a polished 
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case151/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case151/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case151/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case151/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -160,7 +160,7 @@ A hyper-realistic miniature diorama product advertisement featuring an oversized
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case152/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case152/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case152/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case152/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -174,7 +174,7 @@ A famille rose porcelain vase featuring Lady Yang Guifei enjoying flowers, with 
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case153/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case153/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case153/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case153/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -186,7 +186,7 @@ A high-end enthusiast ATX gaming motherboard product photo on a dark studio back
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case154/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case154/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case154/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case154/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -198,7 +198,7 @@ A high-end enthusiast ATX gaming motherboard product photo on a dark studio back
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case155/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case155/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case155/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case155/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -231,7 +231,7 @@ Style: Ultra-realistic, commercial product photography, 8k resolution, sharp foc
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case156/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case156/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case156/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case156/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -243,7 +243,7 @@ A premium eco-conscious fashion advertisement, shot as a refined editorial produ
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case157/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case157/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case157/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case157/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -255,7 +255,7 @@ An image in a {argument name="reference style" default="similar style"}, a produ
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case158/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case158/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case158/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case158/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -277,7 +277,7 @@ Style: ultra clean, editorial minimal, high-end branding, 8K.
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case159/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case159/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case159/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case159/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -289,7 +289,7 @@ A high-end studio advertising poster for {argument name="brand name" default="cr
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case160/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case160/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case160/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case160/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -301,7 +301,7 @@ Using the provided reference image, transform the single casual product photo in
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case161/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case161/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case161/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -313,7 +313,7 @@ Create a premium product studio image of a [PRODUCT] for [BRAND], designed in li
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/poster_case162/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/poster_case162/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case162/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -326,7 +326,7 @@ Create a square [ASPECT RATIO] premium food photography image of a steaming [FOO
 
 | 输出效果 |
 | :----: |
-| <a href="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case163/output.jpg" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/tigerowo/awesome-gpt-image-2-prompts/main/images/ecommerce_case163/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="../images/ecommerce_case163/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case163/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -502,7 +502,7 @@ Avoid repeated concepts, repeated props, repeated backgrounds, flat lighting, we
 
 ### Case 171: [Miniature Brand Universe Shoe](https://x.com/AIwithAliya/status/2064034557352202253) (by [@AIwithAliya](https://x.com/AIwithAliya))
 
-![Miniature Brand Universe Shoe](../../images/ecommerce_case171/output.jpg)
+![Miniature Brand Universe Shoe](../images/ecommerce_case171/output.jpg)
 
 **提示词:**
 ```
@@ -547,26 +547,6 @@ Negative prompt:
 Distorted hands, extra fingers, broken anatomy, duplicated limbs, unrealistic reflections, blurry faces, messy composition, unreadable UI, fake lighting, harsh shadows, low resolution, overexposed highlights, warped phones, text errors, AI artifacts, plastic skin, unnatural facial expressions.
 ```
 
----
-### Case 173: 花卉精华液产品特写
-
-**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2067413876564795743)
-
-**输出效果**:
-
-<table>
-<tr><td width="50%"><a href="../images/ecommerce_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/ecommerce_case173/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output2.jpg" width="100%" alt="Output image"></a></td></tr>
-<tr><td width="50%"><a href="../images/ecommerce_case173/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/ecommerce_case173/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output4.jpg" width="100%" alt="Output image"></a></td></tr>
-</table>
-
-**提示词:**
-
-```
-Minimalist studio product photography, a small transparent glass facial oil dropper bottle with a black rubber pipette cap, containing pale pink serum with suspended dried pink floral elements, centered on a natural raw wooden block with visible grain and split texture. Tall matte white skincare box on the left labeled "HUILE ÉCLAT VISAGE" with clean black typography and subtle logo near the bottom. Clear cylindrical glass vase on the right filled with water and thin stems of dried pink gypsophila extending upward. Composition rests on a smooth matte pastel pink surface against a matching seamless pink studio background. Strong directional soft light from the left casts long natural-style shadows of the flowers onto the background, with gentle highlights on the glass, subtle reflections on the serum bottle, and soft texture on the wooden block. Straight-on tabletop camera angle, all objects in sharp focus. Color palette: blush pink, soft rose, warm light wood, clean white, transparent glass. Premium Scandinavian minimalist skincare aesthetic, ultra-realistic, studio-grade.
-
-full prompt:
-```
-
 <!-- Case 173: 花卉精华产品大片 (by @iamaiistudio) -->
 ### Case 173: [花卉精华产品大片](https://x.com/iamaiistudio/status/2067413876564795743) (by [@iamaiistudio](https://x.com/iamaiistudio))
 
@@ -576,38 +556,6 @@ full prompt:
 </table>
 
 **提示词:**
-
-```
-Minimalist studio product photography, a small transparent glass facial oil dropper bottle with a black rubber pipette cap, containing pale pink serum with suspended dried pink floral elements, centered on a natural raw wooden block with visible grain and split texture. Tall matte white skincare box on the left labeled "HUILE ÉCLAT VISAGE" with clean black typography and subtle logo near the bottom. Clear cylindrical glass vase on the right filled with water and thin stems of dried pink gypsophila extending upward. Composition rests on a smooth matte pastel pink surface against a matching seamless pink studio background. Strong directional soft light from the left casts long natural-style shadows of the flowers onto the background, with gentle highlights on the glass, subtle reflections on the serum bottle, and soft texture on the wooden block. Straight-on tabletop camera angle, all objects in sharp focus. Color palette: blush pink, soft rose, warm light wood, clean white, transparent glass. Premium Scandinavian minimalist skincare aesthetic, ultra-realistic, studio-grade.
-
-full prompt:
-```
-
-<!-- Case 173: Floral Serum Product Shot (by @iamaiistudio) -->
-### Case 173: [Floral Serum Product Shot](https://x.com/iamaiistudio/status/2067413876564795743) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-<table>
-<tr><td width="50%"><a href="../images/ecommerce_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Floral Serum Product Shot"></a></td><td width="50%"><a href="../images/ecommerce_case173/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Floral Serum Product Shot"></a></td></tr>
-<tr><td width="50%"><a href="../images/ecommerce_case173/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Floral Serum Product Shot"></a></td><td width="50%"><a href="../images/ecommerce_case173/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Floral Serum Product Shot"></a></td></tr>
-</table>
-
-**提示词：**
-
-```
-Minimalist studio product photography, a small transparent glass facial oil dropper bottle with a black rubber pipette cap, containing pale pink serum with suspended dried pink floral elements, centered on a natural raw wooden block with visible grain and split texture. Tall matte white skincare box on the left labeled "HUILE ÉCLAT VISAGE" with clean black typography and subtle logo near the bottom. Clear cylindrical glass vase on the right filled with water and thin stems of dried pink gypsophila extending upward. Composition rests on a smooth matte pastel pink surface against a matching seamless pink studio background. Strong directional soft light from the left casts long natural-style shadows of the flowers onto the background, with gentle highlights on the glass, subtle reflections on the serum bottle, and soft texture on the wooden block. Straight-on tabletop camera angle, all objects in sharp focus. Color palette: blush pink, soft rose, warm light wood, clean white, transparent glass. Premium Scandinavian minimalist skincare aesthetic, ultra-realistic, studio-grade.
-
-full prompt:
-```
-
-<!-- Case 173: Floral Serum Product Shot (by @iamaiistudio) -->
-### Case 173: [Floral Serum Product Shot](https://x.com/iamaiistudio/status/2067413876564795743) (by [@iamaiistudio](https://x.com/iamaiistudio))
-
-<table>
-<tr><td width="50%"><a href="../images/ecommerce_case173/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Floral Serum Product Shot"></a></td><td width="50%"><a href="../images/ecommerce_case173/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output2.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Floral Serum Product Shot"></a></td></tr>
-<tr><td width="50%"><a href="../images/ecommerce_case173/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output3.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Floral Serum Product Shot"></a></td><td width="50%"><a href="../images/ecommerce_case173/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ecommerce_case173/output4.jpg" width="100%" alt="GPT-Image-2 Prompt Example - Floral Serum Product Shot"></a></td></tr>
-</table>
-
-**提示词：**
 
 ```
 Minimalist studio product photography, a small transparent glass facial oil dropper bottle with a black rubber pipette cap, containing pale pink serum with suspended dried pink floral elements, centered on a natural raw wooden block with visible grain and split texture. Tall matte white skincare box on the left labeled "HUILE ÉCLAT VISAGE" with clean black typography and subtle logo near the bottom. Clear cylindrical glass vase on the right filled with water and thin stems of dried pink gypsophila extending upward. Composition rests on a smooth matte pastel pink surface against a matching seamless pink studio background. Strong directional soft light from the left casts long natural-style shadows of the flowers onto the background, with gentle highlights on the glass, subtle reflections on the serum bottle, and soft texture on the wooden block. Straight-on tabletop camera angle, all objects in sharp focus. Color palette: blush pink, soft rose, warm light wood, clean white, transparent glass. Premium Scandinavian minimalist skincare aesthetic, ultra-realistic, studio-grade.
