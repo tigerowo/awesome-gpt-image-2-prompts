@@ -9193,3 +9193,27 @@ SCENE:
 
 The final image should feel like a premium Japanese lifestyle illustration found in an art book, café magazine, design journal, or independent sketchbook collection.
 ```
+<!-- Case 422: 高端概念海报 (by @VoxcatAI) -->
+### Case 422: [高端概念海报](https://x.com/voxcatai/status/2070303665773310258) (by [@VoxcatAI](https://x.com/voxcatai))
+
+<table>
+<tr><td width="50%"><a href="../images/poster_case422/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case422/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/poster_case422/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case422/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**提示词：**
+
+```
+设计一张收藏级高端概念海报，融合"极简时尚封面感 + 高级 editorial 人像 + 独立艺术企划主视觉"。画面唯一核心主体是一位扮演米哈游系游戏角色的 coser，以日常生活服饰重新演绎角色身份：保留明显的米哈游角色辨识度，如发色、头饰、角色象征物、细小幻想饰件，但整体服饰必须是日常生活化、高级时装化的穿搭。
+
+人物不能像普通角色立绘，而要像概念封面人物：有明确的镜头感、精准的头颈肩关系、克制的姿态控制、安静但有视觉支配力。表情呈现痴呆感、发懵感、傻乎乎、迟钝、无辜、不太聪明的空白状态，眼神轻微上抬看向镜头，嘴唇微张，像刚从梦里醒来但仍然没有理解发生了什么。
+
+整体构图采用高机位俯视，角色抬头看向镜头，中近景或接近全身。人物可坐在地面、蹲坐、跪坐、站立抬头，姿态柔软但克制，带有轻微脆弱感与呆萌反差。背景为纯净的浅灰、冷白或淡蓝白空间，留白明显，画面节奏安静，有艺术企划海报感。
+
+服饰可为宽松奶白针织衫、白色背心、浅灰外套、软质开衫、短裙、袜子、玛丽珍鞋或简洁运动鞋，搭配少量幻想饰品、金属挂件、透明水晶吊坠、角色象征性发饰。整体材质强调柔软针织、白色棉质、金属、透明饰品、发丝细节。
+
+排版自动生成少量最契合角色的标题、副标题、编号、短标语、纵向注释，采用高级极简 typography。字体细、字距疏朗、位置克制，像高端杂志封面或独立艺术书封面。可使用中英混排，例如"FROSTBORN WANDERER""KEEP THE DISTANCE""ABOUT FORGETFUL GIRL""梦里什么也没有""记性不太好没关系吧？"等符合角色气质的短句。文字是设计的一部分，不能喧宾夺主。
+
+色彩低饱和、高统一度，冷白、雾蓝、浅灰、淡紫、奶油白为主。光线采用柔和棚拍顶光和轻微轮廓光，突出皮肤、发丝、织物和小配饰质感。左上角加入由 stylized "V" 元素和猫元素组成的图形 logo。衣服上必须有自然垂挂的吊牌，吊牌写"VOXCAT"。角色颈部、肩部或手臂加入小尺寸"VOX CAT"纹身。右下角或底部留白区加入小尺寸签名"voxcat"，精致、干净、高级。
+
+整体效果像一本先锋时尚杂志封面、奢侈品牌概念 campaign 或角色主题艺术企划海报。画面干净清晰，减少无必要噪点与颗粒感，粒子特效克制，手部结构自然准确，手指数量正确，比例正常，姿态合理，整体细节稳定。
+```

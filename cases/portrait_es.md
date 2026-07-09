@@ -6369,3 +6369,76 @@ Negative prompt: screen overlay, lock screen overlay, status bar, timestamp, flo
   ]
 }
 ```
+<!-- Case 325: Belleza del Festival de Fuegos Artificiales Japonés (by @reonkun_sub) -->
+### Case 325: [Belleza del Festival de Fuegos Artificiales Japonés](https://x.com/reonkun_sub/status/2072266484857098584) (by [@reonkun_sub](https://x.com/reonkun_sub))
+
+| Output |
+| :----: |
+| <img src="../images/portrait_case325/output.jpg" width="300" alt="Output image"> |
+
+**Guías de envío:**
+
+```
+竖长3:4手机照片风格。日本夏日祭典·烟花大会之夜，在摊位林立的热闹街道上拍摄的自然抓拍肖像。主体是一位20多岁的美丽成年日本女性。清纯优雅，亲切随和的氛围。自然妆容，透明感的肌肤质感，柔和的棕色瞳孔，自然而温柔的微笑。
+
+她身着淡雅的奶油色上品浴衣。浴衣上饰有浅紫色的精致花纹，营造出柔和清凉的印象。腰带为淡紫色，在背部以大蝴蝶结般蓬松的方式系着。手中拿着浅米色系的小型挎包。
+
+头发是深棕色的盘发向上造型。脸部周围有自然的散落发丝，前额刘海轻轻分开，略微垂在额前。侧发自然垂在脸颊旁，头发侧边点缀着浅紫色和白色的细小花饰。不张扬，却与浴衣相配的上品和风发型。
+
+相机从主体的左侧斜后方近距离拍摄。她微微背对相机站立，从肩头回眸朝这边微笑。脸部位于画面上部中央稍偏右的位置，构图捕捉上半身至腰部左右。背部的大片淡紫色腰带进入画面左下方，手持挎包的手自然置于画面右下方。脸部和上半身为主角，同时可见浴衣的花纹、背部的腰带以及手边的挎包。仿佛被朋友呼唤而自然回首的瞬间。
+
+背景是日本夏日祭典的摊位街。左侧是排列整齐的灯笼祭典灯光，右侧是明亮的摊位、红白相间的摊位布、黄色摊位招牌、暖色调的摊位照明。远处自然融入身着浴衣的来宾和漫步祭典的人群。背景热闹却不抢镜，主角女性清晰突出。摊位的文字作为氛围可见，但不宜过于清晰可读。
+
+夜空呈深蓝色。画面上部散布着粉色、紫色、白色、金色的多朵大型烟花绽放。烟花从女性头顶上方华丽地填满整个画面上部。烟花的光芒与摊位的暖色灯光交织，营造出夏夜般浪漫而绚烂的氛围。
+
+整张照片呈现真实的iPhone拍摄风格。仿佛实际由第三方在夏祭中近距离抓拍的自然感。生成4张。柔和的背景虚化、暖色祭典照明、真实的肌肤质感、浴衣布料的细腻纹理、自然的手持感。不刻意追求电影感，美丽却不过度修饰，抑制AI感，呈现真实高品质的夏祭照片。
+```
+
+<!-- Case 326: Selfie en cuclillas desde ángulo bajo natural (by @0xkyne) -->
+### Case 326: [Selfie en cuclillas desde ángulo bajo natural](https://x.com/0xkyne/status/2070785288331522084) (by [@0xkyne](https://x.com/0xkyne))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case326/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case326/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case326/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case326/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Guías de envío:**
+
+```
+写实电影感手机自拍照片，竖版构图，近距离广角手持自拍视角，整体呈现高级、真实、细腻的职业角色写真质感。
+
+主体为《原神》中的凝光进入现实空乘职业场景后的真人化重释版本。她是一位25岁左右的东亚成年女性，气质冷艳、高贵、从容，带有精致的掌控感和上位者气场。她必须保留凝光最核心的视觉识别点：白金色或银白色长发，发量丰盈顺滑，带凝光式高贵盘束结构与长发垂落；金色或琥珀金色眼睛；精致冷艳的五官；白皙通透的肌肤；黑、金、白、红为核心的细节配色；金色发簪、流苏耳饰、玉石吊坠和中式金纹装饰。
+
+她不是普通空姐，而是凝光被重释为现实世界中的头等舱首席乘务员或高端国际航线空乘形象。妆容精致干净，眼线细致，唇色带自然光泽，表情冷静、自信、从容，带轻微半笑，眼神像始终掌控高端舱服务节奏的精英空乘。
+
+她的身材高挑纤细但曲线非常明显，胸型饱满立体，腰线纤细清晰，臀腿线条圆润流畅，整体体态成熟、优雅、紧致，肩颈、锁骨、腰臀和腿部线条清晰自然，呈现极具视觉冲击力但仍然真实克制的女性曲线美。
+
+人物采取低位蹲姿，双膝并拢，小腿紧贴大腿，身体整体压缩成紧凑而优美的折叠姿态。身体微微侧转，面部以3/4侧脸角度看向镜头。左手轻托下巴，手指自然贴住脸侧，右臂向前下方伸出持机自拍，动作自然放松，但神态保持凝光式的冷艳、自信与掌控感。
+
+镜头使用近距离广角手机自拍构图，由人物右手持机拍摄，镜头下置到接近膝部到小腿高度，从腿部前侧低角度拍向上半身。高跟鞋、脚踝、小腿、大腿构成画面前景，腿部占据画面下半部分并形成自然但强烈的近大远小透视。视觉重点落在修长双腿、凝光式贵气神态、空乘职业造型和夸张但真实的身体曲线上。上半身和脸位于画面中上区域，脸部清晰对焦，背景自然虚化，带真实手机自拍的亲近感。
+
+服装为凝光风格的高级空乘职业重释穿搭：深海军蓝、酒红或黑金配色的修身空姐风迷你连衣裙，带利落翻领、收腰剪裁、精致短袖或修身制服结构，领口、袖口、腰部或裙摆点缀细金边和少量红色细节，整体保留空姐职业的优雅、干练和服务感，同时通过金色发饰、玉石耳饰、黑金白红配色和中式纹样维持凝光辨识度。搭配黑色半透明丝袜与黑色或黑金色尖头细高跟鞋，鞋侧或鞋跟带细金属装饰，进一步强化腿部比例与高端机舱气质。
+
+场景为飞机头等舱区域或高级客舱过道，带头等舱座椅、舷窗、顶柜、柔和地毯、舱内灯光与清晰延伸的机舱纵深，环境整洁、高级、安静。人物真实蹲在机舱过道中，鞋底与地面接触清晰，座椅与过道共同建立空间层次，人物与环境自然融合。
+
+光线采用机舱内柔和暖白顶灯与局部反射光混合照明，脸部、肩颈、手臂和腿部带柔亮高光，金色饰件与玉石细节带细微反光，皮肤保留自然纹理和通透感。整体画面精致、真实，呈现凝光进入现实航空职业世界后的高级写实自拍摄影效果。
+```
+
+<!-- Case 327: Foto en vivo de convención (by @VoxcatAI) -->
+### Case 327: [Foto en vivo de convención](https://x.com/voxcatai/status/2067281160875704783) (by [@VoxcatAI](https://x.com/voxcatai))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case327/output.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case327/output.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case327/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case327/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case327/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case327/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case327/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case327/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Guías de envío:**
+
+```
+漫展现场路人返图风格，一位高完成度二次元 cosplay 女生，蹲坐或缩腿坐在现场，姿势自然随意，带一点不羁感和痞帅气质。她的表情冷淡、平静、略带厌世感或漫不经心的松弛感，眼神直视镜头或微微放空，不甜美，不刻意卖萌，重点是又美又拽的气场。
+
+一只手自然抬起，手指间夹着一根薯条，姿势像在抽烟，但明确是薯条而不是香烟，形成一种慵懒、玩世不恭、带点反差幽默的感觉。人物整体造型精致鲜艳，具有明显二次元 cosplay 特征，例如高饱和发色、夸张头饰、兽耳或角、华丽服装。
+
+背景为漫展现场，只出现少量模糊的半身路人，位于画面边缘和上半部分，路人不需要完整露脸，不需要全身，只保留模糊的上半身、手臂、手机、站姿轮廓，形成围观感和现场抓拍感。背景人物是陪衬，不喧宾夺主，但能强化"在人群中被路人随手拍到"的真实氛围。
+
+竖屏手机摄影构图，近距离拍摄，轻微抓拍感，非棚拍，非官方写真，非干净纯背景。整体像社交平台上的漫展返图，真实、生活化、偶遇感强。画面干净清晰，减少无必要噪点与颗粒感，细节稳定，人物手部自然准确，手指数量正确，比例正常，关节清晰，姿态合理。
+```
