@@ -530,6 +530,54 @@ A professional studio food photography series showcasing deconstructed dishes ca
 
 > **30 curated cases** — [Explore all Ad Creative Prompts →](cases/ad-creative.md)
 
+<!-- Case 542: Anuncio helado y explosivo de gran impacto visual (by @vigocreativeai) -->
+### Case 542: [Anuncio helado y explosivo de gran impacto visual](#) (by @vigocreativeai)
+
+<table>
+<tr><td width="50%"><a href="images/ad-creative_case204/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case204/output1.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/ad-creative_case204/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case204/output2.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+<tr><td width="50%"><a href="images/ad-creative_case204/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case204/output3.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/ad-creative_case204/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ad-creative_case204/output4.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+Use the "Multi-Color Beverage Splash Ad System Style" visual style as the locked visual system.
+
+Create a 16:9 image.
+
+Subject: a fictional bottled low-sugar lemon tea
+Subject action: bursting diagonally through tea splash, lemon mist, and ice shards
+Product or prop: a clear bottle with amber tea liquid, lemon-yellow label bands, and a tiny green freshness seal
+Location: a clean retail poster studio space
+Background elements: giant white extruded letters spelling ZEST as abstract 3D blocks, amber side shadows, lemon slices as splash accents
+Main text: LEMON ZEST
+Secondary text: low sugar / fresh tea / ice cold
+Accent symbol: tiny green leaf seal
+Wardrobe style: no people, bright bottled-tea product styling
+
+Style direction:
+A reusable beverage launch advertising system with four color-varied templates, built from giant
+white 3D typography, a diagonal hero drink pack, frozen liquid motion, dense launch-ad copy, and
+polished commercial product lighting.
+
+Keep visible:
+- Each case uses one strong drink-category color system rather than a generic rainbow palette.
+- Large white extruded block letters remain the main background architecture.
+- The drink pack is the single close-up hero object, angled diagonally and cropped with impact.
+- Splash, foam, ice, bubbles, or condensation are frozen in high-speed product-ad lighting.
+- Typography is bold, condensed, italic, mostly white, and stacked into tight ad-copy blocks.
+
+Avoid:
+Sprite, Coca-Cola, real brand logo, copied Korean text, copied Z E R O layout, exact source
+composition, original green soda can, 355ml label, existing beverage trademark, watermark, QR
+code, platform UI, creator signature, legal microcopy, flat vector art, scrapbook collage, manga
+panel, lifestyle photo, ordinary packshot, messy supermarket aisle, many small products,
+unreadable tiny packaging claims, low-resolution render
+
+Do not copy source content, real logos, watermarks, platform UI, QR codes, or exact
+reference layouts. Keep the visual system, but change the subject, text, and scene.
+```
+
 <!-- Case 177: Luxury Chronograph Watch Ad (by @AlwaveNazca) -->
 ### Case 177: [Luxury Chronograph Watch Ad](https://x.com/AlwaveNazca/status/2048147643809865950) (by [@AlwaveNazca](https://x.com/AlwaveNazca))
 
@@ -1278,6 +1326,97 @@ A hyper-detailed cinematic isometric miniature city model of {argument name="lan
 ## 🍌 Portrait & Photography Cases
 
 > **131 curated cases** — [Explore all Portrait Prompts →](cases/portrait.md)
+
+<!-- Case 543: Cartel impactante de personaje carcelario en negro y rojo (by @0xkyne) -->
+### Case 543: [Cartel impactante de personaje carcelario en negro y rojo](https://x.com/0xkyne/status/2062030505101713425) (by [@0xkyne](https://x.com/0xkyne))
+
+<table>
+<tr><td width="50%"><a href="images/portrait_case328/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case328/output1.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case328/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case328/output2.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case328/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case328/output3.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case328/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case328/output4.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case328/output5.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case328/output5.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+设计一张极具冲击力的黑红监狱题材人物海报，主题为FF7中Tifa Lockhart的真人cosplay版本。海报中的人物是一位20多岁的东亚成年女性，展现出精致的日韩cosplay美感，融合了日式cosplay写真集的优雅气质和韩式偶像般的身材比例。请保留Tifa Lockhart的标志性特征，请将这些特征转化为可信的高端cosplay服饰，而非廉价的cosplay服装。
+
+风格锁定：高饱和度的日式暗黑系游戏角色档案海报，左侧为黑红相间的档案面板，右侧为冷峻的灰白色混凝土监狱墙；动漫写实风格的3D宣传图；高级扭蛋角色卡封面美学；光泽亮丽的CG皮肤，带有细微汗渍；醒目的做旧字体；密集的图形档案面板；超大的SSS级；FF7相关标志；冷白色商业审讯灯光；锐利的动漫美人脸；强烈的前景背景分离；并非普通的写实摄影，并非低饱和度的纪实肖像，也并非低饱和度的嫌犯照。
+
+深度和冲击力锁定：强烈的前景背景分离。Tifa Lockhart必须在视觉上位于左侧档案面板和冷峻的灰白色混凝土身高测量墙的前方，而不是融入背景。左侧的黑色档案面板和右侧的浅色混凝土墙是平坦的背景图形层；Tifa Lockhart是画面前景的主要主体，她更大、更亮、更清晰，也更靠近镜头。黑色的囚犯标牌是距离观众最近的物体，在前景中显得格外醒目，在她身上投下淡淡的阴影。运用清晰的遮挡、景深层次感、视差效果，以及头发、肩膀、手部、珠宝和标牌周围锐利的边缘高光。人物占据海报高度的75%-85%，特写镜头从头部到大腿上部，极具冲击力的海报封面构图。
+
+海报布局：竖版高冲击力囚犯档案海报。左侧是醒目的黑色竖版档案面板，占据画面约25%-30%的面积。面板包含人物相关的徽章、粗糙的白色标题文字“Tifa Lockhart”、小字日文“蒂法·洛克哈特”、囚犯档案、囚犯代码 FF7-0TF、高风险、超大危险等级 SSS、红色机密印章、条形码、警告标签以及逼真的档案字体。文字应给人以密集、图像化、收藏价值高且做旧的感觉，但又不宜包含过多必须清晰阅读的小字。
+
+右侧：特写镜头展现Tifa Lockhart站在一面冰冷的灰白色混凝土监狱身高测量墙前，墙面呈现浅灰白色的水泥纹理，带有黑色身高标记、细微的裂缝、划痕、灰尘、隐约可见的神罗风格图案、背景中融入的神罗风格涂鸦以及高对比度的冷色调阴影。与左侧的黑色档案面板相比，墙面必须显得明亮、冰冷、冷峻，略微过曝，但仍然保留着粗糙的质感。构图从头部延伸至大腿上部，三个强烈的视觉焦点依次呈现：她精致的动漫美人脸庞、超大的黑色囚犯身份牌以及腰腹线条。她双手交叉于上半身，手持一块超大的哑光黑色囚犯身份牌
+
+服装：高级黑色无肩带抹胸比基尼，采用无肩带设计。比基尼上半部分完全被黑色囚犯身份牌遮盖，仅露出肩膀、手臂、腰线、腹部、腿部比例以及低腰比基尼泳裤。绝对没有任何肩带、细带、挂脖带、颈带、胸罩肩带或透明带。红黑拼接露指格斗手套、以及低调的FF7风格配饰。
+
+姿势与表情：女王般的入狱登记姿势，下巴微微抬起，眼睑半垂，目光冷峻而强势，神情平静而轻蔑。双肩放松，身姿挺拔优雅，双手紧握标牌，沉稳自信，仿佛正在接受入狱登记拍照，却依然掌控着整个房间。
+
+黑色标牌是前景的主要视觉元素：哑光表面，粗黑边框，简洁清晰的白色文字“Tifa Lockhart”，边缘略有磨损，手部握持和手指按压的力度真实自然。标牌必须清晰遮盖上半身，并保持构图的克制和锐利：不得露出乳头、不得裸露、不得穿着透明衣物、不得出现性行为、不得裁剪身体的局部。
+
+光线与氛围：冷白色审讯灯光。一束强烈的冷白色商业主光从左上方照射过来，照在人物身上比背景更亮，在脸部、锁骨、腰线、标牌边缘、神罗饰品和混凝土高度标记上投射出干净明亮的亮部和冷色调的阴影。来自右侧边缘的冰冷轮廓光将头发、肩膀、双手、饰品和标牌分隔开来。
+```
+
+<!-- Case 545: Extraña postura al dormir de un personaje ACG (by @drmrzhong) -->
+### Case 545: [Extraña postura al dormir de un personaje ACG](https://x.com/drmrzhong/status/2062196751134847436) (by [@drmrzhong](https://x.com/drmrzhong))
+
+<table>
+<tr><td width="50%"><a href="images/portrait_case329/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case329/output1.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case329/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case329/output2.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+指定角色：流萤
+角色所属世界观：崩壞：星穹鐵道
+
+真实社交平台风格手机快照，凌晨两点。画面主体是 {指定角色} 的真人化版本，一位明确成年的女性角色，不像任何真实明星、网红或名人。她必须保留该角色最核心的可识别特征：发型、发色、脸部气质、代表性色彩、标志性饰品、常用服装元素或身份符号，但整体转译为真实旅行生活中的自然状态。
+
+场景是符合 {指定角色} 所属世界观的旅馆、客房、临时住所或休息舱，而不是默认现代商务酒店。请根据角色原作世界观、时代背景、所属阵营、常驻地区和视觉美术风格自动推导房间环境：如果角色来自海贼或航海世界，房间应像海岛旅馆、船舱客房或港口旅店；如果角色来自魔法世界，房间应有木质旅馆、烛灯、羊皮纸、魔法道具；如果角色来自赛博科幻世界，房间应有合金墙面、霓虹窗光、电子设备、舱室床铺；如果角色来自古风或幻想世界，房间应有屏风、木榻、纱帐、灯笼、传统器物。环境必须明显服务于 {指定角色} 的世界观，而不是普通现代酒店房间。
+
+她在旅行、任务、宴会、战斗或长途移动后疲惫到直接倒在床上睡着，被同行朋友站在床边用手机随手拍下。画面不是写真，不是摆拍，不是广告大片，而是朋友觉得她平时形象强烈、现在睡相反差太大而留下的轻松记录照，真实、自然、有社交平台随手发图感。
+
+她拥有精致韩系脸和高级感五官，大而清透的眼睛，细腻柔和的鼻唇线条，白皙透亮的高级柔光奶油肌，皮肤带轻微高光、自然肌理。
+
+她的身形为成熟丰腴但协调自然的曲线型体态，肩颈线柔和舒展，腰线清晰，腰胯转折自然，腿部比例修长，整体呈现优雅的 S 型轮廓。
+
+人物处于睡熟状态，头发凌乱散开，几缕发丝贴在脸颊、额头或唇边，嘴巴微微张开或表情完全放松，眼睛闭合，睡姿自然随机。她穿着隨機恥力爆表的符合角色世界观的睡衣套装，睡衣扣子全解開，裤子为短款睡裤。颜色和细节参考 {指定角色} 的代表性色彩与服装元素；衣料有自然皱褶和睡乱后的松散感，身体被被子、枕头、披风、外袍或毯子自然遮挡。整体是疲惫、反差、生活化的睡相，而不是性感摆拍。
+
+PBR皮肤质感，真实微汗肌肤，锁骨、肩膀、腹部、腰线和大腿有细小汗珠与冷光高光，强景深分层、边缘光、暗角。微弱暖白灯光从左前上方照射，右侧冰冷轮廓光勾勒发丝、肩颈、手部。
+
+床上可见凌乱枕头、半掀开的被子、皱起的床单，以及符合 {指定角色} 世界观的旅行用品和随身物件。床头或桌面上摆放与角色设定相关的小物：可以是水杯、地图、书卷、航海用品、魔法道具、武器护具、饰品、徽章、通行证、香水瓶、发饰、食物包装、任务文件或阵营标记。所有道具都要贴合角色世界观和身份。
+
+房间背景必须根据 {指定角色} 的世界观变化。墙面、床头、窗帘、灯具、地板、行李、窗外光线和装饰物都应体现角色所处世界的材质与审美：木板、船舱、海风、藤编、金属舱室、霓虹、魔法烛灯、古典屏风、石墙、帐篷、旅店木梁、徽章纹样、阵营标志或地方文化元素。背景要有生活杂乱感，但不能脏乱恶心；要像真实住了一晚的旅途房间。
+
+手机直闪拍摄，混合房间内微弱环境光。部分床单、枕头和皮肤边缘有轻微过曝，背景较暗。画面具有手机 HDR、社交平台压缩感、轻微手震模糊、自然噪点、弱光环境下的生活抓拍质感。
+
+朋友站在床边略高角度拍摄，24mm 手机广角，9:16 竖式构图，相机微微倾斜。人物全身勉强入镜，头顶、手臂或脚尖可以略微被裁切，构图有一点随手感。画面重点是 {指定角色} 真人化后的疲惫睡相、角色标志性特征、符合世界观的旅馆环境、凌乱床铺和朋友视角的真实记录感，而不是刻意展示身体。
+```
+
+<!-- Case 546: Cosplay de criada cocinera con perspectiva cenital gran angular (by @voxcatai) -->
+### Case 546: [Cosplay de criada cocinera con perspectiva cenital gran angular](https://x.com/voxcatai/status/2074780734863429975) (by [@voxcatai](https://x.com/voxcatai))
+
+<table>
+<tr><td width="50%"><a href="images/portrait_case330/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case330/output1.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case330/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case330/output2.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case330/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case330/output3.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+【角色】，成年女性，米哈游角色真人 COS，甜美二次元女仆厨娘风格。黑色短发，齐刘海，柔顺短波波头，发型干净可爱，带轻微二次元娃娃感。
+
+高机位俯拍构图，镜头位于人物头顶前方上方，近距离广角透视。人物抬头看向镜头，形成明显上目线，脸部靠近镜头显得更大，身体、腿部和脚部因透视被压缩变小，呈现头大身小的 Q 版视觉比例。人物位于画面中心，脸部是视觉中心，姿态收敛，双脚靠近站立，身体略微前倾，像在和镜头近距离互动。
+
+服饰根据【角色】自动设计，在女仆厨娘造型基础上进行角色化改造。围裙、头巾、裙摆、袖口、蝴蝶结、花边、刺绣、装饰配件、图案纹样、配色方案与主题元素，全部结合【角色】的核心识别点进行变化。保留【角色】的代表色、标志性符号、世界观元素、性格气质与视觉特征，并转译为甜美、精致、可穿戴的厨娘女仆造型。可使用波点、格纹、蕾丝、缎带、轻纱、褶边、刺绣、小型主题饰品等细节强化角色识别度。整体服装可爱、柔软、甜美，二次元感强，裙摆自然向下展开，形成清晰可爱的视觉轮廓。
+
+妆容固定不变：冷白瓷感底妆，皮肤非常平滑，强磨皮美颜效果。粉色眼影，玫粉色眼下晕染，夸张上挑猫眼眼线，眼尾明显拉长。眼下高位腮红，大面积粉红腮红，鼻尖微微泛红，鼻梁和鼻尖有明显高光。浅粉色 glossy 唇妆，唇部柔和湿润，整体呈现二次元娃娃感与虚拟主播感。
+
+表情为半眯眼、浅浅微笑、无感又甜美。眼睛几乎眯成一条线，嘴角轻微上扬，不露齿，带一点慵懒、空洞、病娇、电子宠物感。整体气质甜腻、梦幻、人工化，cute but slightly eerie，doll-like，pastel atmosphere。
+
+背景为室内地板与柔软床边环境，背景弱化，空间纵深较浅。正面柔光补光，面部明亮，带轻微紫粉色氛围光。整体色调以粉、白、黑为基底，并结合【角色】对应的服饰配色与主题元素变化。高清，细节丰富，柔焦，动漫真人混合质感，cosplay portrait，强滤镜，甜美二次元摄影质感。
+```
 
 <!-- Case 538: Belleza del Festival de Fuegos Artificiales Japonés (by @reonkun_sub) -->
 ### Case 538: [Belleza del Festival de Fuegos Artificiales Japonés](https://x.com/reonkun_sub/status/2072266484857098584) (by [@reonkun_sub](https://x.com/reonkun_sub))
@@ -9249,6 +9388,52 @@ GPT image 2 on ChatGPT 📱 Prompt: A streetwear advertisement poster. A cool te
 
 > **15 casos seleccionados** — [Explora todos los prompts de diseño de personajes →](cases/character.md)
 
+<!-- Case 541: Panel de diseño de personajes cinematográficos (by @MrLarus) -->
+### Case 541: [Panel de diseño de personajes cinematográficos](https://x.com/MrLarus/status/2053327334636208446) (by [@MrLarus](https://x.com/MrLarus))
+
+<table>
+<tr><td width="50%"><a href="images/character_case31/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case31/output1.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/character_case31/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/character_case31/output2.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+请创作一张高完成度的「电影级角色设定板」。
+
+角色名称：【填写名字】
+年龄：【填写】
+身高：【填写】
+体型：【填写】
+风格方向：【电影级风格化写实 / 半写实 / 动画电影感 / 东方角色设计等】
+性格关键词：【填写3—5个】
+外貌特征：【脸型、眼睛、发型、肤色、独特记忆点】
+服装设定：【上装、下装、外层、鞋子、配件、道具】
+场景气质：【角色属于什么环境 / 职业 / 社会身份】
+
+要求生成一张像影视或动画项目开发用的高级角色提案板，而不是普通三视图。
+
+版面结构必须包含：
+1. 一张主视觉角色立像
+2. 一组全身多角度转面图（正面、3/4、侧面、背面、3/4背面）
+3. 一组头部研究图（正面、3/4、侧面、低头、抬头、动态角度）
+4. 一张电影感情绪肖像
+5. 一组服装与配件拆解说明
+6. 少量专业标注信息（角色名、身高刻度、材质备注、性格关键词）
+
+排版要求：
+- 横版大画幅
+- 不要规则网格，不要机械对称
+- 构图要像美术指导设计过，略带不对称感
+- 背景为中性灰或浅灰提案板质感
+- 画面高级、清晰、专业、具备电影提案板气质
+
+表现要求：
+- 角色像真实演员在镜头中被捕捉，而不是摆拍模特
+- 五官、身材比例、发型、服装在所有角度中必须严格一致
+- 皮肤、布料、金属、皮革等材质必须真实
+- 整张图要有电影感、角色感、故事感和高一致性
+```
+
 <!-- Case 2: Persona5 Character Reference Card (by @iamrednightS) -->
 ### Case 2: [Persona5 Character Reference Card](https://x.com/iamrednightS/status/2045075682837836265) (by [@iamrednightS](https://x.com/iamrednightS))
 
@@ -9800,6 +9985,36 @@ A highly detailed collectible toy figure inspired by a LEGO-style minifigure, st
 ## 📱 UI & Social Media Mockup Cases
 
 > **46 curated cases** — [Explore all UI & Mockup Prompts →](cases/ui.md)
+
+<!-- Case 544: Captura del feed de inicio de Douyin (by @iamemily2050) -->
+### Case 544: [Captura del feed de inicio de Douyin](https://x.com/iamemily2050/status/2062007644282626474) (by [@iamemily2050](https://x.com/iamemily2050))
+
+<table>
+<tr><td width="50%"><a href="images/ui_case195/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case195/output1.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/ui_case195/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case195/output2.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+<tr><td width="50%"><a href="images/ui_case195/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/ui_case195/output3.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+Vertical smartphone screenshot from a Chinese short-video app. Front phone camera held high and slightly left of the face, angled downward. Close wide-angle selfie framing. Face fills the upper half of the image. Upper torso pulled into the lower frame by lens distortion. Head appears slightly larger than the body. One shoulder closer to the camera. Cropped casual composition, not centered perfectly.
+
+Low-resolution phone video frame. Soft focus. Motion blur on hair edges. Compression smearing on skin, hair, shirt, and background. Beauty-filter smoothing. No sharp skin pores. No professional retouching look. No clean camera detail.
+
+Adult woman with a soft anime-cosplay face. Pale smooth filtered skin. Rounded cheeks. Small narrow chin. Very small nose with blurred bridge and soft nostrils. Large dark glossy eyes enlarged by beauty filter. Heavy black eyeliner. Thick upper lashes. Smoky shadow around the lower lash line. Faint pink blush under both eyes and across the cheeks. Lips small, soft, lightly glossy, closed with a slight smile. Face turned three-quarters toward the camera. Eyes looking into the phone lens.
+
+Short messy black cosplay wig. Wolf-cut bob shape. Hair reaches the jaw and neck. Thick uneven bangs cover most of the forehead and partly cover one eye. Loose black strands cross the cheeks. Long thin side strands fall past the jaw toward the collarbone. Ends are uneven, wispy, and slightly tangled. Hair looks lightweight and synthetic, not salon styled.
+
+Light gray fitted ribbed button-front top first four button open . Short sleeves. Soft thin cotton. Small buttons down the center. Upper buttons open into a shallow V neckline. Natural wrinkles and fabric pull from the selfie angle. Plain casual homewear. No logo. No jewelry.
+
+Small plain bedroom. Cream walls. White closet door behind the head. Low bed or sofa on the side. Dark bedding. Pale pink plush toy. Loose clothes in the background. Background is out of focus, messy, ordinary, and compressed.
+
+Soft indoor daylight mixed with weak room light. Muted beige, gray, black, and pale pink colors. Low contrast. Slight shadow under the bangs and chin.
+
+Include short-video app screenshot feeling with white interface icons and Chinese UI elements along the edges if the model can handle it. The subject should still be the focus.
+
+Avoid: studio portrait, editorial lighting, cyber fashion, neon colors, freckles, glasses, choker, perfect sharpness, realistic pore detail, glossy magazine look, symmetrical beauty portrait, clean background, fantasy styling.
+```
 
 <!-- Case 477: One-Prompt UI Design Generation (by @austinit) -->
 ### Case 477: [One-Prompt UI Design Generation](https://x.com/austinit/status/2044968740782272596) (by [@austinit](https://x.com/austinit))
@@ -13058,4 +13273,4 @@ Si tienes más casos interesantes de prompts GPT-Image-2 para compartir, no dude
 ## Historial de estrellas
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tigerowo/awesome-gpt-image-2-prompts&type=Date)](https://www.star-history.com/#tigerowo/awesome-gpt-image-2-prompts&Date)
-<!-- synced: ad_creative=208, character=30, comparison=530, ecommerce=176, portrait=540, poster=506, ui=529 -->
+<!-- synced: ad_creative=542, character=541, comparison=530, ecommerce=176, portrait=546, poster=506, ui=544 -->

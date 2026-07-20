@@ -6462,3 +6462,93 @@ Negative prompt: screen overlay, lock screen overlay, status bar, timestamp, flo
 
 竖屏手机摄影构图，近距离拍摄，轻微抓拍感，非棚拍，非官方写真，非干净纯背景。整体像社交平台上的漫展返图，真实、生活化、偶遇感强。画面干净清晰，减少无必要噪点与颗粒感，细节稳定，人物手部自然准确，手指数量正确，比例正常，关节清晰，姿态合理。
 ```
+<!-- Case 328: Eindrucksvolles schwarz-rotes Gefängnis-Charakterposter (by @0xkyne) -->
+### Case 328: [Eindrucksvolles schwarz-rotes Gefängnis-Charakterposter](https://x.com/0xkyne/status/2062030505101713425) (by [@0xkyne](https://x.com/0xkyne))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case328/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case328/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case328/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case328/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case328/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case328/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case328/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case328/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case328/output5.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case328/output5.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Einreichungsrichtlinien：**
+
+```
+设计一张极具冲击力的黑红监狱题材人物海报，主题为FF7中Tifa Lockhart的真人cosplay版本。海报中的人物是一位20多岁的东亚成年女性，展现出精致的日韩cosplay美感，融合了日式cosplay写真集的优雅气质和韩式偶像般的身材比例。请保留Tifa Lockhart的标志性特征，请将这些特征转化为可信的高端cosplay服饰，而非廉价的cosplay服装。
+
+风格锁定：高饱和度的日式暗黑系游戏角色档案海报，左侧为黑红相间的档案面板，右侧为冷峻的灰白色混凝土监狱墙；动漫写实风格的3D宣传图；高级扭蛋角色卡封面美学；光泽亮丽的CG皮肤，带有细微汗渍；醒目的做旧字体；密集的图形档案面板；超大的SSS级；FF7相关标志；冷白色商业审讯灯光；锐利的动漫美人脸；强烈的前景背景分离；并非普通的写实摄影，并非低饱和度的纪实肖像，也并非低饱和度的嫌犯照。
+
+深度和冲击力锁定：强烈的前景背景分离。Tifa Lockhart必须在视觉上位于左侧档案面板和冷峻的灰白色混凝土身高测量墙的前方，而不是融入背景。左侧的黑色档案面板和右侧的浅色混凝土墙是平坦的背景图形层；Tifa Lockhart是画面前景的主要主体，她更大、更亮、更清晰，也更靠近镜头。黑色的囚犯标牌是距离观众最近的物体，在前景中显得格外醒目，在她身上投下淡淡的阴影。运用清晰的遮挡、景深层次感、视差效果，以及头发、肩膀、手部、珠宝和标牌周围锐利的边缘高光。人物占据海报高度的75%-85%，特写镜头从头部到大腿上部，极具冲击力的海报封面构图。
+
+海报布局：竖版高冲击力囚犯档案海报。左侧是醒目的黑色竖版档案面板，占据画面约25%-30%的面积。面板包含人物相关的徽章、粗糙的白色标题文字“Tifa Lockhart”、小字日文“蒂法·洛克哈特”、囚犯档案、囚犯代码 FF7-0TF、高风险、超大危险等级 SSS、红色机密印章、条形码、警告标签以及逼真的档案字体。文字应给人以密集、图像化、收藏价值高且做旧的感觉，但又不宜包含过多必须清晰阅读的小字。
+
+右侧：特写镜头展现Tifa Lockhart站在一面冰冷的灰白色混凝土监狱身高测量墙前，墙面呈现浅灰白色的水泥纹理，带有黑色身高标记、细微的裂缝、划痕、灰尘、隐约可见的神罗风格图案、背景中融入的神罗风格涂鸦以及高对比度的冷色调阴影。与左侧的黑色档案面板相比，墙面必须显得明亮、冰冷、冷峻，略微过曝，但仍然保留着粗糙的质感。构图从头部延伸至大腿上部，三个强烈的视觉焦点依次呈现：她精致的动漫美人脸庞、超大的黑色囚犯身份牌以及腰腹线条。她双手交叉于上半身，手持一块超大的哑光黑色囚犯身份牌
+
+服装：高级黑色无肩带抹胸比基尼，采用无肩带设计。比基尼上半部分完全被黑色囚犯身份牌遮盖，仅露出肩膀、手臂、腰线、腹部、腿部比例以及低腰比基尼泳裤。绝对没有任何肩带、细带、挂脖带、颈带、胸罩肩带或透明带。红黑拼接露指格斗手套、以及低调的FF7风格配饰。
+
+姿势与表情：女王般的入狱登记姿势，下巴微微抬起，眼睑半垂，目光冷峻而强势，神情平静而轻蔑。双肩放松，身姿挺拔优雅，双手紧握标牌，沉稳自信，仿佛正在接受入狱登记拍照，却依然掌控着整个房间。
+
+黑色标牌是前景的主要视觉元素：哑光表面，粗黑边框，简洁清晰的白色文字“Tifa Lockhart”，边缘略有磨损，手部握持和手指按压的力度真实自然。标牌必须清晰遮盖上半身，并保持构图的克制和锐利：不得露出乳头、不得裸露、不得穿着透明衣物、不得出现性行为、不得裁剪身体的局部。
+
+光线与氛围：冷白色审讯灯光。一束强烈的冷白色商业主光从左上方照射过来，照在人物身上比背景更亮，在脸部、锁骨、腰线、标牌边缘、神罗饰品和混凝土高度标记上投射出干净明亮的亮部和冷色调的阴影。来自右侧边缘的冰冷轮廓光将头发、肩膀、双手、饰品和标牌分隔开来。
+```
+
+<!-- Case 329: Skurrile Schlafpose einer ACG-Figur (by @drmrzhong) -->
+### Case 329: [Skurrile Schlafpose einer ACG-Figur](https://x.com/drmrzhong/status/2062196751134847436) (by [@drmrzhong](https://x.com/drmrzhong))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case329/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case329/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case329/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case329/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Einreichungsrichtlinien：**
+
+```
+指定角色：流萤
+角色所属世界观：崩壞：星穹鐵道
+
+真实社交平台风格手机快照，凌晨两点。画面主体是 {指定角色} 的真人化版本，一位明确成年的女性角色，不像任何真实明星、网红或名人。她必须保留该角色最核心的可识别特征：发型、发色、脸部气质、代表性色彩、标志性饰品、常用服装元素或身份符号，但整体转译为真实旅行生活中的自然状态。
+
+场景是符合 {指定角色} 所属世界观的旅馆、客房、临时住所或休息舱，而不是默认现代商务酒店。请根据角色原作世界观、时代背景、所属阵营、常驻地区和视觉美术风格自动推导房间环境：如果角色来自海贼或航海世界，房间应像海岛旅馆、船舱客房或港口旅店；如果角色来自魔法世界，房间应有木质旅馆、烛灯、羊皮纸、魔法道具；如果角色来自赛博科幻世界，房间应有合金墙面、霓虹窗光、电子设备、舱室床铺；如果角色来自古风或幻想世界，房间应有屏风、木榻、纱帐、灯笼、传统器物。环境必须明显服务于 {指定角色} 的世界观，而不是普通现代酒店房间。
+
+她在旅行、任务、宴会、战斗或长途移动后疲惫到直接倒在床上睡着，被同行朋友站在床边用手机随手拍下。画面不是写真，不是摆拍，不是广告大片，而是朋友觉得她平时形象强烈、现在睡相反差太大而留下的轻松记录照，真实、自然、有社交平台随手发图感。
+
+她拥有精致韩系脸和高级感五官，大而清透的眼睛，细腻柔和的鼻唇线条，白皙透亮的高级柔光奶油肌，皮肤带轻微高光、自然肌理。
+
+她的身形为成熟丰腴但协调自然的曲线型体态，肩颈线柔和舒展，腰线清晰，腰胯转折自然，腿部比例修长，整体呈现优雅的 S 型轮廓。
+
+人物处于睡熟状态，头发凌乱散开，几缕发丝贴在脸颊、额头或唇边，嘴巴微微张开或表情完全放松，眼睛闭合，睡姿自然随机。她穿着隨機恥力爆表的符合角色世界观的睡衣套装，睡衣扣子全解開，裤子为短款睡裤。颜色和细节参考 {指定角色} 的代表性色彩与服装元素；衣料有自然皱褶和睡乱后的松散感，身体被被子、枕头、披风、外袍或毯子自然遮挡。整体是疲惫、反差、生活化的睡相，而不是性感摆拍。
+
+PBR皮肤质感，真实微汗肌肤，锁骨、肩膀、腹部、腰线和大腿有细小汗珠与冷光高光，强景深分层、边缘光、暗角。微弱暖白灯光从左前上方照射，右侧冰冷轮廓光勾勒发丝、肩颈、手部。
+
+床上可见凌乱枕头、半掀开的被子、皱起的床单，以及符合 {指定角色} 世界观的旅行用品和随身物件。床头或桌面上摆放与角色设定相关的小物：可以是水杯、地图、书卷、航海用品、魔法道具、武器护具、饰品、徽章、通行证、香水瓶、发饰、食物包装、任务文件或阵营标记。所有道具都要贴合角色世界观和身份。
+
+房间背景必须根据 {指定角色} 的世界观变化。墙面、床头、窗帘、灯具、地板、行李、窗外光线和装饰物都应体现角色所处世界的材质与审美：木板、船舱、海风、藤编、金属舱室、霓虹、魔法烛灯、古典屏风、石墙、帐篷、旅店木梁、徽章纹样、阵营标志或地方文化元素。背景要有生活杂乱感，但不能脏乱恶心；要像真实住了一晚的旅途房间。
+
+手机直闪拍摄，混合房间内微弱环境光。部分床单、枕头和皮肤边缘有轻微过曝，背景较暗。画面具有手机 HDR、社交平台压缩感、轻微手震模糊、自然噪点、弱光环境下的生活抓拍质感。
+
+朋友站在床边略高角度拍摄，24mm 手机广角，9:16 竖式构图，相机微微倾斜。人物全身勉强入镜，头顶、手臂或脚尖可以略微被裁切，构图有一点随手感。画面重点是 {指定角色} 真人化后的疲惫睡相、角色标志性特征、符合世界观的旅馆环境、凌乱床铺和朋友视角的真实记录感，而不是刻意展示身体。
+```
+
+<!-- Case 330: Dienstmädchen-Köchin-Cosplay aus der Weitwinkel-Vogelperspektive (by @voxcatai) -->
+### Case 330: [Dienstmädchen-Köchin-Cosplay aus der Weitwinkel-Vogelperspektive](https://x.com/voxcatai/status/2074780734863429975) (by [@voxcatai](https://x.com/voxcatai))
+
+<table>
+<tr><td width="50%"><a href="../images/portrait_case330/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case330/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/portrait_case330/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case330/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/portrait_case330/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/portrait_case330/output3.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Einreichungsrichtlinien：**
+
+```
+【角色】，成年女性，米哈游角色真人 COS，甜美二次元女仆厨娘风格。黑色短发，齐刘海，柔顺短波波头，发型干净可爱，带轻微二次元娃娃感。
+
+高机位俯拍构图，镜头位于人物头顶前方上方，近距离广角透视。人物抬头看向镜头，形成明显上目线，脸部靠近镜头显得更大，身体、腿部和脚部因透视被压缩变小，呈现头大身小的 Q 版视觉比例。人物位于画面中心，脸部是视觉中心，姿态收敛，双脚靠近站立，身体略微前倾，像在和镜头近距离互动。
+
+服饰根据【角色】自动设计，在女仆厨娘造型基础上进行角色化改造。围裙、头巾、裙摆、袖口、蝴蝶结、花边、刺绣、装饰配件、图案纹样、配色方案与主题元素，全部结合【角色】的核心识别点进行变化。保留【角色】的代表色、标志性符号、世界观元素、性格气质与视觉特征，并转译为甜美、精致、可穿戴的厨娘女仆造型。可使用波点、格纹、蕾丝、缎带、轻纱、褶边、刺绣、小型主题饰品等细节强化角色识别度。整体服装可爱、柔软、甜美，二次元感强，裙摆自然向下展开，形成清晰可爱的视觉轮廓。
+
+妆容固定不变：冷白瓷感底妆，皮肤非常平滑，强磨皮美颜效果。粉色眼影，玫粉色眼下晕染，夸张上挑猫眼眼线，眼尾明显拉长。眼下高位腮红，大面积粉红腮红，鼻尖微微泛红，鼻梁和鼻尖有明显高光。浅粉色 glossy 唇妆，唇部柔和湿润，整体呈现二次元娃娃感与虚拟主播感。
+
+表情为半眯眼、浅浅微笑、无感又甜美。眼睛几乎眯成一条线，嘴角轻微上扬，不露齿，带一点慵懒、空洞、病娇、电子宠物感。整体气质甜腻、梦幻、人工化，cute but slightly eerie，doll-like，pastel atmosphere。
+
+背景为室内地板与柔软床边环境，背景弱化，空间纵深较浅。正面柔光补光，面部明亮，带轻微紫粉色氛围光。整体色调以粉、白、黑为基底，并结合【角色】对应的服饰配色与主题元素变化。高清，细节丰富，柔焦，动漫真人混合质感，cosplay portrait，强滤镜，甜美二次元摄影质感。
+```

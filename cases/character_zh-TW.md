@@ -772,3 +772,48 @@ Cute minimalist pastel doodle illustration, kawaii character standing side-by-si
 ```
 A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
 ```
+<!-- Case 31: 電影人物角色設計板 (by @MrLarus) -->
+### Case 31: [電影人物角色設計板](https://x.com/MrLarus/status/2053327334636208446) (by [@MrLarus](https://x.com/MrLarus))
+
+<table>
+<tr><td width="50%"><a href="../images/character_case31/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case31/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/character_case31/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/character_case31/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**提示詞：**
+
+```
+请创作一张高完成度的「电影级角色设定板」。
+
+角色名称：【填写名字】
+年龄：【填写】
+身高：【填写】
+体型：【填写】
+风格方向：【电影级风格化写实 / 半写实 / 动画电影感 / 东方角色设计等】
+性格关键词：【填写3—5个】
+外貌特征：【脸型、眼睛、发型、肤色、独特记忆点】
+服装设定：【上装、下装、外层、鞋子、配件、道具】
+场景气质：【角色属于什么环境 / 职业 / 社会身份】
+
+要求生成一张像影视或动画项目开发用的高级角色提案板，而不是普通三视图。
+
+版面结构必须包含：
+1. 一张主视觉角色立像
+2. 一组全身多角度转面图（正面、3/4、侧面、背面、3/4背面）
+3. 一组头部研究图（正面、3/4、侧面、低头、抬头、动态角度）
+4. 一张电影感情绪肖像
+5. 一组服装与配件拆解说明
+6. 少量专业标注信息（角色名、身高刻度、材质备注、性格关键词）
+
+排版要求：
+- 横版大画幅
+- 不要规则网格，不要机械对称
+- 构图要像美术指导设计过，略带不对称感
+- 背景为中性灰或浅灰提案板质感
+- 画面高级、清晰、专业、具备电影提案板气质
+
+表现要求：
+- 角色像真实演员在镜头中被捕捉，而不是摆拍模特
+- 五官、身材比例、发型、服装在所有角度中必须严格一致
+- 皮肤、布料、金属、皮革等材质必须真实
+- 整张图要有电影感、角色感、故事感和高一致性
+```

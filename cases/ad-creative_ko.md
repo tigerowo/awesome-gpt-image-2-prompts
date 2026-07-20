@@ -1456,3 +1456,50 @@ A magical science advertisement poster. A curious young boy age 10 in a NASA tsh
 ```
 Oversized luxury wristwatch as a modern sculpture centerpiece, fashion model leaning against the dial face, monumental "TIME" typography looming in the background, deep emerald studio environment, reflective polished floor, Swiss high-end advertising aesthetic, cinematic editorial photography, ultra-clean minimalist composition, 1:1
 ```
+<!-- Case 204: 시원하게 폭발하는 강렬한 비주얼 광고 (by @vigocreativeai) -->
+### Case 204: [시원하게 폭발하는 강렬한 비주얼 광고](#) (by @vigocreativeai)
+
+<table>
+<tr><td width="50%"><a href="../images/ad-creative_case204/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case204/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/ad-creative_case204/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case204/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/ad-creative_case204/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case204/output3.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/ad-creative_case204/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case204/output4.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**프롬프트:**
+
+```
+Use the "Multi-Color Beverage Splash Ad System Style" visual style as the locked visual system.
+
+Create a 16:9 image.
+
+Subject: a fictional bottled low-sugar lemon tea
+Subject action: bursting diagonally through tea splash, lemon mist, and ice shards
+Product or prop: a clear bottle with amber tea liquid, lemon-yellow label bands, and a tiny green freshness seal
+Location: a clean retail poster studio space
+Background elements: giant white extruded letters spelling ZEST as abstract 3D blocks, amber side shadows, lemon slices as splash accents
+Main text: LEMON ZEST
+Secondary text: low sugar / fresh tea / ice cold
+Accent symbol: tiny green leaf seal
+Wardrobe style: no people, bright bottled-tea product styling
+
+Style direction:
+A reusable beverage launch advertising system with four color-varied templates, built from giant
+white 3D typography, a diagonal hero drink pack, frozen liquid motion, dense launch-ad copy, and
+polished commercial product lighting.
+
+Keep visible:
+- Each case uses one strong drink-category color system rather than a generic rainbow palette.
+- Large white extruded block letters remain the main background architecture.
+- The drink pack is the single close-up hero object, angled diagonally and cropped with impact.
+- Splash, foam, ice, bubbles, or condensation are frozen in high-speed product-ad lighting.
+- Typography is bold, condensed, italic, mostly white, and stacked into tight ad-copy blocks.
+
+Avoid:
+Sprite, Coca-Cola, real brand logo, copied Korean text, copied Z E R O layout, exact source
+composition, original green soda can, 355ml label, existing beverage trademark, watermark, QR
+code, platform UI, creator signature, legal microcopy, flat vector art, scrapbook collage, manga
+panel, lifestyle photo, ordinary packshot, messy supermarket aisle, many small products,
+unreadable tiny packaging claims, low-resolution render
+
+Do not copy source content, real logos, watermarks, platform UI, QR codes, or exact
+reference layouts. Keep the visual system, but change the subject, text, and scene.
+```

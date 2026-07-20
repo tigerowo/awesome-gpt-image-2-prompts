@@ -3174,3 +3174,32 @@ A strategic command board for an expedition leader planning [JOURNEY / MISSION] 
   }
 }
 ```
+<!-- Case 195: Screenshot des Douyin-Startseitenfeeds (by @iamemily2050) -->
+### Case 195: [Screenshot des Douyin-Startseitenfeeds](https://x.com/iamemily2050/status/2062007644282626474) (by [@iamemily2050](https://x.com/iamemily2050))
+
+<table>
+<tr><td width="50%"><a href="../images/ui_case195/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case195/output1.jpg" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/ui_case195/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case195/output2.jpg" width="100%" alt="Output image"></a></td></tr>
+<tr><td width="50%"><a href="../images/ui_case195/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="../images/ui_case195/output3.jpg" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**Einreichungsrichtlinien：**
+
+```
+Vertical smartphone screenshot from a Chinese short-video app. Front phone camera held high and slightly left of the face, angled downward. Close wide-angle selfie framing. Face fills the upper half of the image. Upper torso pulled into the lower frame by lens distortion. Head appears slightly larger than the body. One shoulder closer to the camera. Cropped casual composition, not centered perfectly.
+
+Low-resolution phone video frame. Soft focus. Motion blur on hair edges. Compression smearing on skin, hair, shirt, and background. Beauty-filter smoothing. No sharp skin pores. No professional retouching look. No clean camera detail.
+
+Adult woman with a soft anime-cosplay face. Pale smooth filtered skin. Rounded cheeks. Small narrow chin. Very small nose with blurred bridge and soft nostrils. Large dark glossy eyes enlarged by beauty filter. Heavy black eyeliner. Thick upper lashes. Smoky shadow around the lower lash line. Faint pink blush under both eyes and across the cheeks. Lips small, soft, lightly glossy, closed with a slight smile. Face turned three-quarters toward the camera. Eyes looking into the phone lens.
+
+Short messy black cosplay wig. Wolf-cut bob shape. Hair reaches the jaw and neck. Thick uneven bangs cover most of the forehead and partly cover one eye. Loose black strands cross the cheeks. Long thin side strands fall past the jaw toward the collarbone. Ends are uneven, wispy, and slightly tangled. Hair looks lightweight and synthetic, not salon styled.
+
+Light gray fitted ribbed button-front top first four button open . Short sleeves. Soft thin cotton. Small buttons down the center. Upper buttons open into a shallow V neckline. Natural wrinkles and fabric pull from the selfie angle. Plain casual homewear. No logo. No jewelry.
+
+Small plain bedroom. Cream walls. White closet door behind the head. Low bed or sofa on the side. Dark bedding. Pale pink plush toy. Loose clothes in the background. Background is out of focus, messy, ordinary, and compressed.
+
+Soft indoor daylight mixed with weak room light. Muted beige, gray, black, and pale pink colors. Low contrast. Slight shadow under the bangs and chin.
+
+Include short-video app screenshot feeling with white interface icons and Chinese UI elements along the edges if the model can handle it. The subject should still be the focus.
+
+Avoid: studio portrait, editorial lighting, cyber fashion, neon colors, freckles, glasses, choker, perfect sharpness, realistic pore detail, glossy magazine look, symmetrical beauty portrait, clean background, fantasy styling.
+```

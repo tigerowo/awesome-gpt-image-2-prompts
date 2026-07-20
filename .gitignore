@@ -9,8 +9,8 @@ dist/
 # Local
 AGENTS.md
 PromptEditor/
+prompt/
 .env
 .skill/
 server.bat
 server.py
-index.html
