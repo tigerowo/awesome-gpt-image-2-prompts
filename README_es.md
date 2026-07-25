@@ -68,57 +68,12 @@ Funciona con el formato estándar de la API de OpenAI (`/v1/images/generations`)
 
 ## 📰 Novedades
 
-**23 de junio de 2026:** Se añadieron 10 nuevos casos de prompts GPT-Image-2 (3 ad creative, 4 UI, 1 póster, 1 comparación, 1 retrato) del bucle diario de actualización de image-prompt tras revisión semántica y validación de medios
-
-**22 de junio de 2026:** Se añadieron 8 nuevos casos de prompts GPT-Image-2 (5 pósteres, 1 retrato, 1 personaje, 1 UI) desde la rutina diaria de actualización de prompts de imagen, tras la revisión semántica y la validación de medios
-
-**20 de junio de 2026:** Se añadieron 9 nuevos casos de prompts GPT-Image-2 (2 e-commerce, 1 creatividad publicitaria, 3 pósteres, 1 personaje, 2 UI) desde el loop diario de actualización de prompts de imagen tras revisión semántica y validación de medios
-
-**18 de junio de 2026:** se añadieron 8 casos de prompts GPT-Image-2 desde el loop diario de image-prompt (2 retratos, 2 pósteres, 2 anuncios creativos, 1 e-commerce y 1 UI), con revisión semántica y validación de medios
-
-**18 de junio de 2026:** Se añadieron 8 nuevos casos de prompts GPT-Image-2 (2 retratos, 2 pósteres, 2 creatividades publicitarias, 1 e-commerce, 1 UI) desde el loop de actualización de prompts de imagen tras revisión semántica y validación de medios
-
-**15 de junio de 2026:** Se añadieron 9 nuevos casos de prompts GPT-Image-2 (4 creatividades publicitarias, 3 pósteres, 1 retrato, 1 UI) desde el loop de actualización de prompts de imagen tras revisión semántica y validación de medios
-
-**14 de junio de 2026:** Se añadieron 14 nuevos casos de prompts GPT-Image-2 (9 pósteres, 2 creatividades publicitarias, 1 personaje, 1 UI, 1 comparación) desde el loop de actualización de prompts de imagen tras revisión semántica y validación de medios
-
-**12 de junio de 2026:** Se añadieron 42 nuevos casos de prompts GPT-Image-2 (19 retratos, 12 pósteres, 4 creatividades publicitarias, 4 personajes, 2 comparaciones, 1 e-commerce) del lote de curación diaria tras aprobación y validación de medios; se omitieron 2 candidatos aprobados porque la consulta del tweet no devolvió medios utilizables
-
-**10 de junio de 2026:** Se añadieron 31 nuevos casos de prompts GPT-Image-2 (9 retratos, 21 carteles, 1 comparación) del lote de curaduría diaria tras revisión y validación de medios
-
-**9 de junio de 2026:** Se añadieron 12 nuevos casos de prompts de GPT-Image-2 (2 retrato, 7 póster, 2 comparación, 1 e-commerce) del lote de curación diario tras revisión y validación de medios
-
-**8 de junio de 2026:** Se añadieron 24 nuevos casos de prompts GPT-Image-2 (5 retrato, 7 póster, 5 UI, 3 e-commerce, 4 comparativa) del lote diario tras aprobación, recuperación de hilos y validación de medios
-
-**7 de junio de 2026:** Se añadieron 19 nuevos casos de prompts GPT-Image-2 (2 retrato, 6 póster, 5 UI, 4 e-commerce, 2 comparativa) del lote de curación diaria tras revisión y validación de medios
-
-**27 de mayo de 2026:** Se añadieron 6 nuevos casos de prompts GPT-Image-2 (1 retrato, 3 póster, 1 UI, 1 comparación) del lote de curación diaria tras la revisión y validación de medios
-
-**19 de mayo de 2026:** Se añadieron 23 nuevos casos de prompts GPT-Image-2 (13 retrato, 8 póster, 2 UI) del lote de curación diaria
-
-
-- **12 de mayo de 2026:** Se añadieron 12 nuevos casos de prompts GPT-Image-2 (2 retrato, 9 póster, 1 UI) del lote de curación diaria
-
-- **11 de mayo de 2026:** Se añadieron 16 nuevos casos de prompts GPT-Image-2 (5 retrato, 8 póster, 3 creatividad publicitaria) del lote de curación diaria
-
-- **10 de mayo de 2026:** Se añadieron 19 nuevos casos de prompts GPT-Image-2 (4 retrato, 11 póster, 3 UI, 1 comparación) del lote de curación diaria
-
-- **9 de mayo de 2026:** Se añadieron 19 nuevos casos de prompts GPT-Image-2 (6 retrato, 12 póster, 1 comparación) del lote de curación diaria
-
-- **8 de mayo de 2026:** Se añadieron 36 nuevos casos de prompts GPT-Image-2 (24 retrato, 6 póster, 6 UI) del lote de curación diaria
-- **7 de mayo de 2026:** Se añadieron 20 nuevos casos de prompts GPT-Image-2 (10 retrato, 9 póster, 1 UI) del lote de curación diaria
-
-- **6 de mayo de 2026:** Añadidos 7 nuevos casos de prompts GPT-Image-2 (2 retrato, 5 póster)
-- **5 de mayo de 2026:** Añadidos 12 nuevos casos de prompts GPT-Image-2 (4 retrato, 5 póster, 3 UI)
-- **3 de mayo de 2026:** Añadidos 10 nuevos casos de prompts GPT-Image-2 (1 e-commerce, 1 publicidad, 3 retrato, 2 póster, 3 UI)
+**25 de jul de 2026:** Se agregaron 12 nuevos casos de prompts GPT-Image-2 (12 Retratos), revisión semántica y verificación de medios completadas
 
 <details>
 <summary>📜 Actualizaciones anteriores</summary>
 
-- **2 de mayo de 2026:** Añadidos 18 nuevos casos (3 retrato, 7 póster, 4 UI, 4 comparación)
-- **30 de abril de 2026:** Añadidos 9 nuevos casos (3 retrato, 1 póster, 3 UI, 2 comparación)
-- **29 de abril de 2026:** Añadidos 22 nuevos casos (3 e-commerce, 3 publicidad, 4 retrato, 2 personajes, 9 póster, 1 comparación)
-- **18 de abril de 2026:** Primera publicación del repositorio con conjunto curado de casos GPT-Image-2
+- **30 de jun de 2026:** Primera publicación del repositorio, colección curada de casos GPT-Image-2
 
 </details>
 
@@ -1325,7 +1280,523 @@ A hyper-detailed cinematic isometric miniature city model of {argument name="lan
 
 ## 🍌 Portrait & Photography Cases
 
-> **131 curated cases** — [Explore all Portrait Prompts →](cases/portrait.md)
+> **143 curated cases** — [Explore all Portrait Prompts →](cases/portrait.md)
+
+<!-- Case 547: Réplica virtual adorable con estilo de garabato — versión simplificada (by @saniaspeaks_) -->
+### Case 547: [Réplica virtual adorable con estilo de garabato — versión simplificada](https://x.com/saniaspeaks_/status/2080859150620279165) (by [@saniaspeaks_](https://x.com/saniaspeaks_))
+
+<table>
+<tr><td width="50%"><a href="images/portrait_case331/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case331/output1.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case331/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case331/output2.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case331/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case331/output3.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case331/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case331/output4.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+Use the uploaded photo as the exact identity reference. Keep the face, skin tone, hairstyle, accessories, and outfit exactly the same. Create a vertical full-body image of the real person standing beside their ink-twin doodle. The real person should look photorealistic with a playful, slightly embarrassed expression and a natural pose. The ink twin should be a rough black charcoal sketch on a clean white or light gray wall, matching the person's hairstyle, outfit, and pose only as a silhouette, but with exaggerated, chaotic energy. Add a few simple doodle effects like motion lines, stars, or hearts. Use soft natural daylight with a clean minimal background. Do not change the person's appearance or outfit. Do not make the twin a real person, colored cartoon, or flat shadow. Avoid repeated poses, bad hands, extra limbs, clutter, text, or watermarks.
+```
+
+<!-- Case 548: Réplica virtual adorable con estilo de garabato — versión completa (by @Ciri_ai) -->
+### Case 548: [Réplica virtual adorable con estilo de garabato — versión completa](https://x.com/Ciri_ai/status/2080580411487600862) (by [@Ciri_ai](https://x.com/Ciri_ai))
+
+<table>
+<tr><td width="50%"><a href="images/portrait_case332/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case332/output1.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case332/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case332/output2.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case332/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case332/output3.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case332/output4.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case332/output4.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+使用上传的角色参考图像作为严格的身份和服装参考。
+
+保留参考角色的：
+- 面部身份
+- 面部比例
+- 眼睛形状
+- 鼻子
+- 嘴唇
+- 肤色
+- 发型
+- 发色
+- 可见的发饰
+- 整体可识别的氛围
+- 参考图像中展示的服装和造型
+
+不要硬编码上传参考中不存在的任何特定角色特征。
+所有身份、发型、配饰和服装细节必须直接从上传的参考图像中推断。
+
+创建一个高质量的混合风格纵向肖像，展示：
+1. 上传角色/人物的逼真全身版本
+2. 同一角色/人物在旁边的墙上的黑色手绘涂鸦阴影版本
+
+核心概念：
+真实人物和他们的涂鸦阴影一起做出俏皮调皮的姿势。
+真实人物表演一个可爱的逼真版本的姿势，而涂鸦阴影表演同一个姿势想法的更夸张、混乱、卡通化的版本。
+氛围应该感觉可爱、俏皮、调皮、时尚、有趣，并且适合社交媒体。
+
+真实人物：
+- 必须保持逼真且上镜
+- 必须穿着与上传参考图像中相同风格和关键可见细节的服装
+- 不要用无关的时尚替换参考造型
+- 表情应该是可爱的、略带困惑、轻微尴尬、俏皮的，仿佛在想：“为什么我要和我的影子做这个？”
+- 真实人物不应该僵硬地站着
+- 真实人物应该积极参与姿势，但以自然逼真的方式
+
+涂鸦阴影：
+- 必须是同一人物的黑色手绘草图版本，直接画在墙上
+- 不是逼真的第二个人
+- 不是正常的物理阴影
+- 不是全彩动漫角色
+- 仅限黑色草图线稿
+- 通过发型轮廓、配饰、服装轮廓和姿势结构来相似于该人物
+- 涂鸦阴影应该看起来比真实人物更有活力、更傻、更混乱
+- 如果有帮助，可以在涂鸦周围添加类似漫画的运动线、心形、星星、闪光和漫画标记
+
+随机调皮姿势规则：
+姿势不得固定。
+
+对于每次生成，为真实人物和涂鸦阴影发明一个新的俏皮调皮姿势。
+真实人物和涂鸦阴影应该共享相同的总体姿势想法，但不需要完美匹配。
+真实人物表演一个可爱的逼真版本。
+涂鸦阴影表演一个更夸张、混乱、卡通化的版本。
+
+不要反复使用指指姿势。
+不要反复使用手指枪姿势。
+不要反复使用相同的站姿。
+不要总是让两个形象简单地互相指指。
+
+每次创建一个不同的调皮姿势。
+
+可能的姿势方向仅为松散灵感，不是固定菜单：
+- 俏皮偶像姿势
+- 傻乎乎的舞蹈姿势
+- 侧身倾斜，一只手臂弯曲举过头顶
+- 做大心形姿势
+- 厚脸皮眨眼姿势
+- 双手靠近脸颊的可爱挑逗姿势
+- 夸张的“哒哒！”姿势
+- 假装惊讶姿势
+- 俏皮的原地跑步姿势
+- 调皮的踮脚姿势
+- 手臂向相反方向伸展
+- 假装偷偷溜走
+- 可爱捣蛋鬼姿势
+- 戏剧性过度反应姿势
+- 傻乎乎的胜利姿势
+- 俏皮平衡姿势
+- 俏皮躲猫猫姿势
+- 害羞但调皮的姿势
+- 可爱过度自信姿势
+
+最终姿势应该感觉新鲜、可爱、调皮，并且略带混乱。
+真实人物应该看起来像是勉强玩闹着配合。
+涂鸦阴影应该看起来像是玩得太过开心。
+
+构图：
+- 4:5 或 9:16 
+- 以全身或近全身构图展示真实人物
+- 将真实人物放置在画面的一侧
+- 将黑色涂鸦阴影放置在旁边的干净墙上
+- 涂鸦阴影的高度大致相同或略高
+- 在两个形象周围留出足够空间，以便完整姿势可见
+- 真实人物和涂鸦阴影之间的联系必须一目了然
+
+背景：
+- 简单干净的室内摄影棚墙壁或最小化房间角落
+- 白色、奶油色或浅灰色墙壁
+- 干净的地板
+- 允许柔和的自然阳光斑块或温和的墙壁阴影
+- 保持背景整洁无杂物
+
+照明：
+- 柔和的自然摄影棚照明
+- 明亮、干净、精致、俏皮的氛围
+- 保持真实人物的脸部清晰可见
+
+风格质量：
+- 逼真的人类摄影
+- 墙上的黑色手绘涂鸦阴影
+- 匹配的调皮姿势互动
+- 强烈的身份相似度
+- 服装和造型忠实基于上传参考
+- 可爱且时尚的混合媒体肖像
+- 干净的构图
+- 适合社交媒体
+- 无明显 AI 伪影
+
+负面提示：
+与参考无关的服装变化，逼真的第二个人，正常反射，仅正常阴影，纯黑色怪物阴影，恐怖阴影，诡异阴影，全彩插图，卡通人类，动漫人类，弱相似度，无关草图角色，凌乱墙壁，杂乱背景，反复指指姿势，反复手指枪姿势，每次相同姿势，固定姿势，无聊镜像姿势，僵硬姿势，相同姿势重复，真实人物不匹配阴影姿势，文本，水印，标志，扭曲身体，多余肢体，多余手指，坏手
+```
+
+<!-- Case 549: Instantánea cinematográfica juvenil en el aire (by @graynotelab) -->
+### Case 549: [Instantánea cinematográfica juvenil en el aire](https://x.com/graynotelab/status/2080652913815220731) (by [@graynotelab](https://x.com/graynotelab))
+
+<table>
+<tr><td width="50%"><a href="images/portrait_case333/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case333/output1.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case333/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case333/output2.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+9:16 竖构图，超写实电影级摄影，青春电影感人像，高级时尚杂志 Editorial 风格，自然生活纪实摄影，夏日海边氛围，高速抓拍摄影，真实运动瞬间，电影静帧，中画幅摄影，超高分辨率，真实摄影作品，而非插画。
+
+一位约23岁的亚洲女性，鹅蛋脸，五官精致自然，白皙细腻肌肤，真实皮肤纹理，浅棕色自然眼妆，清澈明亮的双眼，嘴唇自然微张，整体流露轻松、自由、青春洋溢的气质。
+
+黑色长发自然披散，发丝在人物腾空瞬间因惯性完全扬起，形成丰富而自然的动态弧线，几缕碎发自由飞舞，发间点缀一条醒目的红色缎带，随着动作在空气中自然飘扬，形成充满节奏感的视觉引导线。
+
+身穿简洁干净的学院风夏季穿搭：白色短袖针织上衣，浅灰色格纹百褶短裙，黑色乐福鞋，白色短袜，服装剪裁自然利落，无品牌 Logo，无文字元素，整体强调青春校园与生活方式摄影风格。
+
+人物处于腾空最高点，全身完全离开地面，一条腿自然向后弯曲，另一条腿轻轻向下伸展，双臂因跳跃惯性自然向前舒展，身体略微前倾，头部随着动作自然低垂，发丝完全遮挡部分面部，整体动作充满真实爆发力，没有刻意摆拍痕迹，呈现高速抓拍才能记录下来的自然瞬间。
+
+拍摄地点位于海边步道，远处是平静海面与朦胧天际线，岸边草地、岩石与少量树木作为环境点缀，大面积天空形成纯净背景，整体环境简洁通透，富有夏日空气感与电影叙事氛围。
+
+自然日间阳光作为主光源，从人物侧前方柔和照射，天空形成均匀漫射环境光，人物受光自然，高光柔和不过曝，阴影细腻通透，发丝边缘形成轻微轮廓光，整体光线干净透明，具有真实户外摄影空气感，不使用夸张补光，不产生 HDR 效果。
+
+整体采用低饱和电影色彩，天空呈淡蓝与暖白渐变，海面带有轻微银蓝色反光，肤色自然柔和，服装保持干净中性色调，红色缎带成为画面的唯一高饱和彩色点缀，形成视觉焦点，同时保持整体色彩克制统一。
+
+采用70-200mm 长焦镜头约120mm焦段，高速快门 1/2500s 凝固人物腾空瞬间，F2.8 大光圈，背景自然虚化，中画幅 RAW 摄影，自然胶片颗粒，真实镜头压缩感，真实空气透视，真实布料纹理，真实发丝细节，真实皮肤细节，高动态范围，电影级摄影品质。
+
+构图采用低机位仰拍，大面积天空作为留白背景，人物位于画面黄金分割区域，身体形成优雅对角线，发丝、四肢与红色飘带共同形成丰富的动态引导线，整体画面充满速度感、自由感与青春生命力，犹如日本青春电影中的经典瞬间。
+
+反向提示词（Negative Prompt）：低质量、低分辨率、模糊、运动拖影、塑料皮肤、过度磨皮、动漫风、插画风、CG 感、HDR 光晕、曝光过度、曝光不足、畸形四肢、多余手指、多余肢体、人物比例异常、背景杂乱、现代广告牌、Logo、文字、水印、AI 痕迹明显。
+```
+
+<!-- Case 550: Retrato de inspiración japonesa en estilo editorial de alta moda (by @graynotelab) -->
+### Case 550: [Retrato de inspiración japonesa en estilo editorial de alta moda](https://x.com/graynotelab/status/2080667348558872682) (by [@graynotelab](https://x.com/graynotelab))
+
+<table>
+<tr><td width="50%"><a href="images/portrait_case334/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case334/output1.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case334/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case334/output2.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case334/output3.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case334/output3.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+9:16 竖构图，超写实电影级摄影，和风幻想角色人像，高级时尚杂志 Editorial 风格，自然叙事摄影，室内日光与阴影交织，电影静帧质感，中画幅摄影，超高分辨率，真实摄影作品而非插画。
+
+一位约23岁的东方女性，鹅蛋脸，五官精致柔和，肌肤白皙通透，真实皮肤纹理，自然淡妆，眼神清澈安静，目光直视镜头，表情克制、从容、带一点神秘感，整体气质冷艳而优雅，带有东方幻想角色的沉浸感。
+
+黑色长发自然垂落，发顶佩戴夸张但精致的黑色毛绒狐耳发饰，耳部轮廓清晰，发间点缀少量红金色和金属花饰，几缕碎发被光线轻轻勾亮，发丝层次丰富，整体造型保留角色感但不过度戏剧化。
+
+身穿黑色和风角色造型连体服，外层为更厚实的黑色绸缎与提花面料，内层为高包裹度抹胸式结构，肩颈线条干净利落，腰部加入金属花纹腰封与红色流苏装饰，服装整体强调材质高级感与角色设定感，避免过度暴露，整体风格偏艺术摄影而非性感展示。搭配半透明黑色长袜与同色系鞋履，腿部线条自然延伸，但不刻意强调身体局部。
+
+人物以侧坐姿态停留在榻榻米或和风室内地台上，上半身轻轻后仰，一条腿自然向前延伸，另一条腿收拢形成优雅斜线，左手自然抬起停在面侧附近，右手轻扶身旁低矮家具边缘，身体重心放松，姿势舒展而安静，动作像被镜头定格的瞬间，没有刻意摆拍感。
+
+场景为日式传统室内空间，木质梁柱、纸拉门、榻榻米、低矮桌面与室内摆件共同组成背景，环境层次清晰但不过分复杂，整体空间有东方生活气息，背景轻微虚化，保留木材纹理与和风建筑结构，不出现现代电器、现代家具、广告牌或文字元素。
+
+光线是整张图最重要的部分：强烈自然日光从画面左上方斜切进入，形成明显的高光与阴影分界，人物面部、肩部、发丝边缘和衣料表面被阳光照亮，出现细腻而柔和的高光溢出；暗部保留丰富层次，室内边缘处形成深色包围感，整体呈现“高反差自然补光 + 侧逆光轮廓光”的电影质感。光线在发丝与衣料上形成轻微 Bloom 柔光晕，让主体在明亮背景中依然清晰可读。
+
+整体采用高亮度、低饱和、冷暖对比明显的电影色彩，背景偏浅白与灰米色，衣料偏黑与深灰，肤色干净通透，少量红金饰品成为画面中的暖色点缀，整体色彩统一克制，具有高级时装摄影与东方角色摄影的融合感。
+
+85mm 中长焦镜头视角，F2.0 大光圈，浅景深，低机位仰拍，构图略带对角线倾斜感，主体位于画面中部偏右，前景与背景形成自然空间层次，真实镜头压缩感，中画幅 RAW 原片质感，轻微胶片颗粒，真实布料纹理，真实皮肤细节，真实发丝反光，电影级动态范围，整体画面华丽、冷静、干净、具有强烈视觉冲击力。
+
+反向提示词（Negative Prompt）：低质量、低分辨率、模糊、塑料皮肤、过度磨皮、动漫风、插画风、CG感、HDR 光晕、曝光过度、曝光不足、颜色过饱和、锐化过强、畸形手部、多余手指、多余肢体、人物比例异常、背景杂乱、现代元素、文字、水印、Logo、服装穿模、过度暴露、过度性感化姿势、AI痕迹明显。
+```
+
+<!-- Case 551: Serie de retratos para revista de moda de alta gama (by @TIGER) -->
+### Case 551: [Serie de retratos para revista de moda de alta gama](#) (by @TIGER)
+
+<table>
+<tr><td width="50%"><a href="images/portrait_case335/output1.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case335/output1.jpg" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case335/output2.jpg" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case335/output2.jpg" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+使用上传人物作为唯一身份参考，保持五官、脸型、发型和身材比例一致，生成一组高端时尚杂志人像写真。成年东亚女性，黑色微乱低盘发，少量碎发自然垂落，妆容干净高级，眼神温柔又带一点神秘感。
+
+人物穿白色羽毛塑身上衣、黑色高腰短裤、黑色蕾丝长手套与蕾丝腿环，搭配黑色细带高跟鞋。部分画面佩戴黑色蕾丝眼罩，整体性感但克制，不低俗、不暴露。
+
+摄影棚内拍摄，深灰至暖米色渐变背景，强烈金色逆光从人物后方照射，形成柔和轮廓光和发丝光，空气中有轻微烟雾与漂浮的白色羽毛。电影级暖色调，柔和高光，真实皮肤质感，浅景深，细腻颗粒，复古胶片氛围，高级时装广告摄影。
+
+分别生成不同构图和动作：
+
+蕾丝眼罩近景肖像，双臂自然抬起，神情安静神秘。
+全身背身站立，微微回头看镜头，姿态自然优雅。
+半身侧脸，佩戴蕾丝眼罩，烟雾环绕，强烈金色逆光。
+坐在铺满羽毛的地面，身体侧坐，微笑看向镜头。
+正面站立，一只手轻扶后脑，羽毛从空中飘落。
+
+加入极简高级杂志排版，使用超大英文衬线字体与轻微横向故障效果，可出现：
+
+VEIL / BACKLIGHT / MUSE / ECHO / PLUME
+
+画面边缘加入少量英文说明、期刊编号、系列名称和摄影棚标识，排版留白自然，不遮挡人物面部。竖版海报构图，3:4比例，每张单独生成，不拼图。
+
+负面要求：
+不要过度磨皮，不要塑料皮肤，不要夸张身材，不要畸形手脚，不要僵硬姿势，不要过度暴露，不要廉价影楼感，不要杂乱文字，不要人物变脸，不要多余肢体
+```
+
+<!-- Case 552: Retrato surrealista con elementos visuales (by @hexmethod) -->
+### Case 552: [Retrato surrealista con elementos visuales](https://x.com/hexmethod/status/2079786690215068108) (by [@hexmethod](https://x.com/hexmethod))
+
+<table>
+<tr><td width="50%"><a href="images/portrait_case336/output1.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case336/output1.webp" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case336/output2.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case336/output2.webp" width="100%" alt="Imagen de resultado"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case336/output3.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case336/output3.webp" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case336/output4.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case336/output4.webp" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+Use the supplied image as the absolute authority for the central character’s identity, species, anatomy, facial structure, natural body proportions, silhouette, hairstyle or head shape, expression language, distinctive features, color palette, material cues, symbolic motifs, and overall visual presence. Preserve clear recognizability.
+
+Do not copy the supplied pose, background, camera angle, composition, or clothing. Clothing in the supplied image may influence only abstract colors, materials, textures, ornamentation, motifs, and cultural design language. Any newly generated garment must use entirely different construction, silhouette, coverage, layering, and draping.
+
+The character must be clearly adult. Preserve the established gender presentation, species logic, anatomy, non-human traits, skin markings, scars, tattoos, pigmentation, prosthetics, cybernetics, horns, ears, antennae, tails, wings, fins, claws, integrated armor, jewelry, masks, helmets, visors, hoods, eyepatches, headpieces, and all other identity-defining features. Do not humanize, simplify, relocate, exaggerate, minimize, replace, or remove them.
+
+Eyes and Facial Coverings
+
+Preserve the original eye state exactly. Closed eyes remain closed. Hidden, masked, shadowed, hair-covered, or otherwise concealed eyes remain concealed. Do not reveal, invent, open, duplicate, enlarge, or reposition them.
+
+If eyes are visible, preserve their shape, size, placement, sclera, iris pattern, pupil shape, color, markings, glow, reflections, asymmetry, heterochromia, and other distinctive details.
+
+Never remove permanent masks, helmets, visors, hoods, eyepatches, facial coverings, or integrated headpieces.
+
+Photoreal Translation
+
+Render convincing live-action photorealism with realistic adult facial anatomy, natural skin texture, visible pores, plausible eyes, individually resolved hair strands, accurate materials, and photographic lighting.
+
+Translate anime, manga, cel-shaded, illustrated, or painted features into believable real-world anatomy while preserving identity and design. Do not reproduce anime faces, oversized illustrated eyes, simplified facial structure, doll-like proportions, cel shading, drawn features, or glossy artificial skin.
+
+Preserve non-human anatomy and translate it into physically plausible biological, mechanical, mineral, crystalline, chitinous, synthetic, spectral, aquatic, or otherwise appropriate forms.
+
+Inherited Design Language
+
+Carry the supplied image’s dominant and secondary colors, materials, shapes, ornamentation, symbolic motifs, and overall aesthetic language into the garment, lighting, architecture, atmosphere, and environmental details.
+
+Inherit the visual language rather than literal clothing, props, or scenery. Do not introduce unrelated colors, motifs, fabrics, symbols, technology, architecture, or decorative themes.
+
+Surreal Coverage of Sensitive Areas
+
+Any sensitive area that would otherwise be exposed must be fully concealed by surreal visual elements inspired by the supplied image. These coverage elements must feel native to the character’s design language and environment, not generic censorship and not ordinary clothing.
+
+Use source-inspired surreal forms such as shadow masses, smoke plumes, floating ribbons, veils of light, crystal growths, liquid shapes, petals, tendrils, feathers, fur plumes, chitin forms, biomechanical structures, drifting debris, magical sigils, vapor, branches, energy arcs, architectural fragments, wings, tails, jewelry-like structures, or other abstract forms derived from the supplied image’s materials, motifs, and symbolism.
+
+These surreal elements must:
+
+fully conceal the genital region and any other sensitive lower-body area in a tasteful, non-revealing way,
+remain visually integrated with the character and setting,
+read as surreal design elements rather than underwear, bottoms, or literal garments,
+avoid transparency over concealed areas,
+avoid revealing contours that make the covered area explicit,
+support an elegant, editorial, non-explicit presentation.
+
+Coverage may be created by overlap, depth, silhouette, source-inspired environmental forms, or attached/integrated surreal elements, but the final result must remain completely non-explicit in every interpretation.
+
+Feminine Presentation
+
+Use a face-led composition.
+
+Generate exactly one newly designed compact strapless top covering the chest.
+
+Construct it from lightweight sheer fabric derived from the supplied image’s palette, materials, ornamentation, and motifs. Use overlapping layers and gathered folds so it remains visibly translucent while still providing complete, non-revealing visual coverage.
+
+The top must remain closely contained around the upper torso and end at the upper ribcage. Keep the shoulders, arms, midriff, and waist unobstructed.
+
+Do not create sleeves, shoulder drapes, hanging panels, trains, gowns, robes, dresses, tunics, corsets, long tops, or fabric extending down the torso. The result should read as a concise editorial fashion top, not a gown or lingerie ensemble.
+
+Do not generate ordinary bottoms. The lower sensitive area must instead be concealed by the surreal source-inspired coverage elements described above.
+
+Masculine Presentation
+
+Keep the upper torso unobstructed.
+
+Do not generate ordinary bottoms. The lower sensitive area must instead be concealed by the surreal source-inspired coverage elements described above.
+
+One thigh may angle naturally across the foreground if useful, but the pose must remain relaxed, anatomically coherent, and non-suggestive. The concealed region must remain completely outside direct view in every interpretation.
+
+Do not make the lower body the focal point. Do not use a frontal stance, spread-leg pose, upward crotch-facing camera axis, or transparent material over the concealed region.
+
+Ambiguous or Non-Human Presentation
+
+Apply the feminine styling rule when the established presentation is predominantly feminine.
+
+Apply the masculine styling rule when the established presentation is predominantly masculine.
+
+For genuinely ambiguous anatomy or presentation, choose the single treatment that best matches the supplied character’s design language. Preserve integrated armor, masks, cybernetics, prosthetics, jewelry, markings, and species-specific structures.
+
+In all cases, use the surreal source-inspired coverage system for any sensitive lower-body area.
+
+Character-Specific Environment
+
+Create a pitch-black cinematic noir environment designed specifically for the supplied character. Do not use a generic bedroom, motel, studio, alley, or domestic interior.
+
+Build one coherent setting from the character’s palette, shapes, materials, symbolism, culture, abilities, technology, mythology, species, and emotional tone. It may resemble a shrine, ruin, biomechanical chamber, submerged structure, alien sanctuary, cavern, temple, observatory, futuristic installation, forest aperture, monumental machine, or another source-appropriate environment.
+
+Place the character leaning confidently against a tall structural threshold naturally integrated into the setting, such as an arch, portal, pillar, mechanical rib, cavern edge, crystalline opening, tree-like frame, or armored bulkhead.
+
+A powerful source-colored backlight pours through the opening, producing a strong silhouette and sharp rim light around the head, face, shoulders, torso, limbs, garment where applicable, armor, horns, wings, tail, or other visible structures.
+
+Keep the environment near-black and only partially readable through silhouettes, faint reflections, atmospheric depth, restrained particles, and edge lighting. The background must support the character rather than compete with them.
+
+Lighting and Camera
+
+Keep the face or visible eye region sharp and softly readable while most of the figure remains silhouetted.
+
+The backlight must remain dominant. Use faint source-colored reflected light to reveal limited facial structure, collarbones or equivalent anatomy, upper torso, markings, materials, and translucent fabric detail where applicable. Do not use broad frontal lighting.
+
+Use a dramatic low-angle portrait with coherent foreshortening, pronounced tilt-shift depth of field, a controlled Dutch angle, and a 9:21 vertical composition.
+
+Aim the optical axis toward the face and upper torso rather than upward through the lower body. Keep the lower center of the composition fully obscured by the surreal coverage elements, supporting pose overlap, silhouette, or integrated architecture.
+
+Use realistic photographic optics, near-black shadows, subtle atmospheric haze, accurate translucent fabric behavior, natural skin and material response, fine analog grain, restrained bloom, deep tonal separation, and high-end live-action noir cinematography.
+
+Hard Constraints
+
+Maintain a tasteful, non-explicit editorial presentation throughout.
+
+Do not include:
+
+copied source clothing,
+gown-like upper garments,
+fabric extending below the upper ribcage on feminine-presenting characters,
+ordinary bottoms or underwear,
+lower-body focal emphasis,
+provocative stance,
+revealing camera angle,
+explicit anatomy,
+transparent coverage over sensitive regions,
+anime rendering,
+cartoon anatomy,
+glossy plastic skin,
+generic interiors,
+extra people,
+unrelated lights,
+text,
+signage,
+unrelated motifs,
+unrelated props,
+unrelated colors.
+
+The final image must read as dark surreal editorial noir, with the sensitive area concealed by surreal source-inspired forms, not by conventional clothing and not by accidental cropping alone.
+```
+
+<!-- Case 553: Invitación de boda con una atmósfera especial (by @TIGER) -->
+### Case 553: [Invitación de boda con una atmósfera especial](#) (by @TIGER)
+
+<table>
+<tr><td width="50%"><a href="images/portrait_case337/output1.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case337/output1.webp" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case337/output2.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case337/output2.webp" width="100%" alt="Imagen de resultado"></a></td></tr>
+<tr><td width="50%"><a href="images/portrait_case337/output3.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case337/output3.webp" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case337/output4.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case337/output4.webp" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+围绕具体主题内容生成，把主题的真实场景、对象或人物关系放进一张带轻微运动瞬间感的实拍照片底层：主体位于画面中下部，不要占满全幅，保留上方宽阔浅亮空间和中部深色环境带，让大号白色手写刷字先被读到，再把视线带回主体互动。最高层使用粗粝干刷感的手写英文或短句作为情绪标题，笔画粗细忽大忽小，边缘有断墨、擦痕、露底和不规则飞白，字距松散，基线自然起伏，像直接写在照片上而不是排版字体；底部放较小的手写日期、地点或主题信息，保持同样的白色干墨质感但更紧凑。围绕主体与空白处散布少量手绘线条图案、星点、简笔花形和一条自由弯曲的长线，线宽不均，位置像随手标注情绪，不要形成整齐边框；可加入沿弧线排列的小字，让信息顺着主体旁边的空间流动。颜色由主题派生，但保持角色关系：大面积背景低饱和、偏柔和、带自然明度层次；中景用较深的环境色承托白色笔迹；主体保留温暖肤色、布料或材质本色；小面积主题色只作为花束、道具、局部服饰或标记的轻微点亮。整体明度不追求洁白通透，而是日落或柔光下的胶片照片质感，暗部轻压、亮部不过曝，颗粒细密均匀，边缘略软，色彩有轻微褪色和扫描感；白色涂鸦保持最亮、最干净的可读层，但不要变成矢量贴纸。成品应像私人纪念照片被手写涂鸦重新编辑，亲密、松弛、带现场感；失败表现是文字过于标准、图案装饰太满、照片过分清晰商业化，或颜色脱离主题只剩固定绿白配色。
+
+
+——————
+主题：草地婚礼请帖，突出新人在户外仪式前的温柔纪念感
+补充：出现 3 个相关信息点，保留少量婚礼邀请文字
+画幅：竖版 9:10
+```
+
+<!-- Case 554: Invitación de boda elegante (by @TIGER) -->
+### Case 554: [Invitación de boda elegante](#) (by @TIGER)
+
+<table>
+<tr><td width="50%"><a href="images/portrait_case338/output1.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case338/output1.webp" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case338/output2.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case338/output2.webp" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+围绕具体主题内容组织成洁白仪式感邀请视觉，画面以大面积近白纸面展开，版心保持细长的垂直阅读秩序，顶部用小号辅助文字分置两侧作为轻声引导，中上部放置高对比衬线大标题，字形窄长、笔画粗细反差明显，行距紧、重心稳定，下接一行较大的中文标题形成正式宣告感。中段嵌入一块边界干净的方形影像区域，主题核心以近距离低快门模糊呈现，黑白灰为主，暗部集中在影像下方和交叠处，亮部带轻微冷调雾白，使情绪像被瞬间捕捉而非清晰摆拍；影像底部压入超大黑色衬线词，字脚被画框裁切，既像欢迎标语又像影像重量的底座。下方信息按居中轴线分成数个安静段落：短英文小标题、主题名称、日期数字锁定、邀请语、地点图标与地址文字，字号逐层缩小，字距克制，段与段之间留出宽阔呼吸。颜色由主题派生但必须遵循近白大底、少量冷淡浅灰承托影像、深黑文字建立秩序的角色关系；整体明度高、饱和度低、洁净而克制，纸面带极淡的丝绸纹理和弧线暗纹，只在空白区若隐若现，不增加污渍或复古脏感。所有文字与影像共享同一条垂直中轴，信息密度集中在标题、影像和日期三处，其余空间保持安静，形成庄重、私密、被见证的邀请氛围。
+
+
+——————
+主题：婚礼请柬视觉，突出一场安静而庄重的婚礼邀约
+补充：保留少量邀请文字，整体尽量清爽
+画幅：竖版 1:2
+```
+
+<!-- Case 555: Estética de alta gama para invitación de boda (by @TIGER) -->
+### Case 555: [Estética de alta gama para invitación de boda](#) (by @TIGER)
+
+<table>
+<tr><td width="50%"><a href="images/portrait_case339/output1.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case339/output1.webp" width="100%" alt="Imagen de resultado"></a></td><td width="50%"><a href="images/portrait_case339/output2.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case339/output2.webp" width="100%" alt="Imagen de resultado"></a></td></tr>
+</table>
+
+**Guías de envío：**
+
+```
+围绕具体主题内容组织清透留白的邀请视觉：画面先以大面积明亮浅色背景建立安静呼吸感，背景保持低饱和、高明度、细腻雾面与柔和漫射光，主题派生的主色只在局部人物、物件或花材上轻轻出现，深色承重区域压在一侧下方形成稳定对照，白色文字负责信息与情绪连接，整体洁净、柔软、不过度装饰。主题人物或主题对象采用近距离局部裁切，关键面部、手部、肩颈或可替代的情感动作从画面边缘进入，另一侧保留大片空场，让被截断的形体与空白共同制造亲密、含蓄、像被偷看到的瞬间；主体边缘要柔和真实，肤色或材质明度被柔光抬起，暗部克制，不做强烈戏剧阴影。中央偏上的空白处加入一组松散手写白字，笔画像随手写在空气上，粗细不匀、略带拖尾和停顿，跨过空白并靠近主体边缘，成为最先被读到的情绪标记；顶部可放极淡的小号英文或日期感文字，字距疏朗、透明度低，只作为仪式感背景声。下方沿中轴附近排列精简邀请信息，使用细净宋体或明清感衬线中文，小字号、行距宽、点状分隔，白字在深浅交界处保持可读但不过分抢眼。色彩按主题派生映射：背景取主题中最轻、最安静的雾白或浅灰角色，主体取自然肤色、材质本色或主题柔色，花材与饰物提供少量清新低饱和点缀，深色衣物、阴影或器物承担视觉重量；所有颜色保持明亮、洁净、低对比的婚礼相纸质感。避免拥挤排版、浓重滤镜、硬边拼贴和高饱和装饰，让留白、局部裁切、手写情绪字与细小礼仪信息共同完成温柔邀请感。
+
+
+——————
+主题：婚礼请柬的新人局部留白特写，保留温柔仪式感
+补充：出现 3 个相关信息点，文字少一点，保留请柬气质
+画幅：竖版 9:10
+```
+
+<!-- Case 556: Retrato natural de mujer en un tren de alta velocidad (by @TIGER) -->
+### Case 556: [Retrato natural de mujer en un tren de alta velocidad](#) (by @TIGER)
+
+| Resultado |
+| :----: |
+| <a href="images/portrait_case340/output.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case340/output.webp" width="300" alt="Imagen de resultado"></a> |
+
+**Guías de envío：**
+
+```
+Create one vertical 9:16 photoreal phone-video still inside a modern Chinese high-speed train carriage, as if a seated passenger casually recorded the aisle from chest height. The camera is partly blocked by a dark seat-back edge and a blurred passenger shoulder in the foreground; mild rolling-shutter softness, phone compression, small autofocus miss, and fine sensor noise. 
+
+Main subject: A stunning young adult East Asian woman with a Korean-style slim V-line face, long wavy black hair with blunt bangs, pale ivory skin, soft blush, tiny freckles, silver contact lenses, glossy pink-to-rose lips, sculpted nose highlight, posture confident, waist slim and body curvy in a realistic S-line. She is not posing; her expression is a quick concentrated half-smile toward the bag, face readable in three-quarter profile. 
+
+Styling: a fitted ivory tank, low-waist dark plaid mini skirt with secure shorts underneath, sheer black tights, long black knee-high boots, slim earrings, simple watch, long dark hair clipped back with a few loose strands.
+
+Train geometry must be believable: paired seats with headrest covers, window strip, overhead rack depth, aisle perspective, luggage, small ceiling lights, a few ordinary passengers out of focus, no broken train layout. Natural daylight mixed with cool carriage LEDs. Keep the image like a compressed social phone clip, not an editorial ad. Avoid underage cues, school uniform reading, voyeuristic framing, isolated body-part crop, nudity, lingerie, explicit pose, fake cabin geometry, business wear drift, long coat hiding silhouette, deformed hands, plastic AI skin, unreadable face, logos, readable text, watermark.
+
+Portrait construction: clearly establish an adult subject, mature aura, and photographic mode. Express attractiveness through garment cut, tailoring, fabric texture, fine accessories, a fleeting expression or action, motivated light, camera behavior, depth separation, and negative space rather than blunt or isolated body descriptions. Keep the styling tasteful, fully clothed, restrained, and naturally proportioned. Prompt polish guardrail: mature natural facial features, not childlike; body proportions are realistic and coordinated; hands, fingers, limbs, posture, and clothing physics are anatomically believable. Keep the visual focus on face appeal, posture, clothing texture, lighting, atmosphere, and camera realism rather than isolated body parts. Style stability: preserve real phone-photo texture, mild noise/compression, imperfect crop, natural skin texture, believable autofocus, and non-studio lighting. Avoid plastic skin, over-polished fashion editorial lighting, fake HDR, and CG-like perfection. Overall safety/stability: high-end, tasteful, restrained visual expression; no nudity, no explicit sexual pose, no isolated chest/hip/body-part close-up, no underage cues, no readable real logos, no garbled text, no watermark. Avoid CGI-like rendering, plastic skin, doll-like faces, and exaggerated anatomy unless a stylized medium is explicitly requested. Use mature aesthetic language, realistic proportions, coherent scene logic, and believable camera artifacts.
+```
+
+<!-- Case 557: Cosplay de Albedo (by @TIGER) -->
+### Case 557: [Cosplay de Albedo](#) (by @TIGER)
+
+| Resultado |
+| :----: |
+| <a href="images/portrait_case341/output.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case341/output.webp" width="300" alt="Imagen de resultado"></a> |
+
+**Guías de envío：**
+
+```
+生成一张竖屏 9:16 的近距离手机自拍感 cosplay 妆照：一位成年女性扮演雅儿贝德 Albedo，保留真实前置手机自拍的亲密距离和轻微广角压缩感。人物脸部占据画面中心偏上，头部微微倾斜，眼神柔和直视镜头，嘴唇自然微张或轻轻闭合，表情冷静、优雅、克制，带一点高贵暗黑幻想角色的魅惑感。
+
+她拥有雅儿贝德风格的超长深黑色头发，带轻微冷蓝黑光泽，中分或微偏分，长发顺直垂落，脸侧有细碎发丝贴近脸颊，发尾自然散在肩前。头发要有精致 cosplay 假发质感，但保留轻微毛躁、发丝分层和真实自拍中的不完美，不要变成紫发或蓝发。
+
+妆容是雅儿贝德 cosplay 妆造：冷白瓷感底妆，金色或琥珀色美瞳，细长深色眉毛，上扬黑色眼线，纤长浓密睫毛，下眼睑轻微阴影和卧蚕，高光集中在鼻梁、眼下和唇峰，唇色为柔和玫瑰粉或淡豆沙色。皮肤可见区域包括脸、耳侧、颈部、肩颈线、锁骨附近和少量上胸边缘；皮肤看起来细腻、柔软、微凉，像轻薄底妆覆盖后的瓷感肌，但仍保留肩颈处真实皮肤的柔软起伏，不要完全磨成塑料皮肤。
+
+服装换成雅儿贝德风格白色暗黑幻想礼服 cosplay：纯白或象牙白礼服，上半身有金色蛛网状胸饰或项链装饰，黑色与金色领口细节，材质像缎面、蕾丝和合成 cosplay 布料混合。胸前由礼服和金色装饰覆盖，保持优雅华丽的角色轮廓，不强调裸露。头顶两侧有黑色弯曲恶魔角，角面带哑光纹理；背后或画面边缘隐约出现黑色羽翼，羽毛真实但不要过度夸张。一只白色或黑色长手套的手臂轻搭在胸前或肩前，形成自然前景遮挡。
+
+摄影风格保持手机前置自拍或近距离手持妆照，略高于眼平的轻微俯拍，构图稍微偏移，不要太工整。室内自然窗光从左前方照来，冷白柔光打亮脸颊、鼻梁、肩颈和白色礼服，黑发与白色服装形成强烈明暗对比，背景略暗。背景是普通室内房间或走廊入口，米白墙、暗色门框、天花板线条和顶灯隐约可见。整体保留真实社交平台自拍感：轻微美颜、锐化、压缩、局部过曝、发丝毛躁、服装褶皱、道具边缘和普通生活空间，不要变成完美商业棚拍海报。
+
+negative prompt: purple hair, Raiden Shogun outfit, pink heart sticker, missing horns, missing wings, blue eyes, childlike face, teenage appearance, oversexualized pose, plastic skin, heavy airbrushing, studio poster lighting, bad hands, extra fingers, distorted eyes, wrong costume, low resolution, uncanny valley
+```
+
+<!-- Case 558: Fotografía de retrato onírico en un dormitorio, con enfoque suave (by @TIGER) -->
+### Case 558: [Fotografía de retrato onírico en un dormitorio, con enfoque suave](#) (by @TIGER)
+
+| Resultado |
+| :----: |
+| <a href="images/portrait_case342/output.webp" target="_blank" rel="noopener noreferrer"><img src="images/portrait_case342/output.webp" width="300" alt="Imagen de resultado"></a> |
+
+**Guías de envío：**
+
+```
+Vertical 9:16, photorealistic intimate indoor portrait, dreamy Japanese photobook aesthetic, late-1990s to early-2000s soft-focus photography, vintage compact digital camera look, hazy diffusion filter, gentle highlight bloom, subtle halation, low contrast, muted warm-gray color palette, visible fine grain, slightly imperfect candid snapshot.
+
+A clearly adult East Asian woman in her mid-20s with long slightly messy dark brown-black hair, soft loose strands framing her face, pale luminous skin, delicate oval face, soft brown almond-shaped eyes, natural straight brows, glossy pale pink lips, minimal natural makeup, subtle under-eye softness, realistic skin texture.
+
+She is sitting on a carpeted bedroom floor in a relaxed side-folded sitting pose, both legs bent and tucked loosely beside her body. Her torso faces slightly away from the camera while she turns her head back over one shoulder, looking directly into the lens. One arm extends naturally toward the floor for support. Her posture feels quiet, slightly vulnerable, sleepy and unposed.
+
+Her expression is calm, emotionally distant and faintly melancholic, with half-lidded eyes and softly parted lips.
+
+Outfit: a fitted white spaghetti-strap camisole paired with pale ivory lace boyshorts, delicate floral lace texture, soft feminine homewear styling, intimate but tasteful.
+
+Scene: a quiet cozy bedroom at night, warm bedside lamp glowing behind her, wooden bed frame, rumpled white bedding, beige curtains, muted brown carpet, softly shadowed corners, lived-in domestic atmosphere.
+
+Soft warm tungsten light mixed with dim ambient window light, diffused backlight around the hair, creamy skin tones, slightly overexposed highlights, shallow depth of field, soft edges, subtle motion softness, 50mm lens, eye-level perspective, close three-quarter body composition, authentic amateur photobook photography, natural anatomy.
+```
 
 <!-- Case 543: Cartel impactante de personaje carcelario en negro y rojo (by @0xkyne) -->
 ### Case 543: [Cartel impactante de personaje carcelario en negro y rojo](https://x.com/0xkyne/status/2062030505101713425) (by [@0xkyne](https://x.com/0xkyne))
@@ -3907,7 +4378,7 @@ A stylish woman standing still with hands in pockets, wearing a loose sage-green
 **Prompt:**
 
 ```
-Full prompt: 
+Full prompt:
 
 Ultra-wide angle, 90-degree top-down aerial studio portrait of a woman looking straight up at the camera. Strict identity preservation from reference image, do not alter face, proportions, skin texture, or expression.
 
@@ -8795,7 +9266,7 @@ human-like alien, blue-skinned humanoid, generic sci-fi city, skyscrapers, cyber
 ```
 Render a photorealistic tilt-shift miniature scene of [CITY NAME] with a [VEHICLE NAME] winding along an elevated road that rises organically from a vintage illustrated city map. The road sweeps toward the city's iconic skyline in the background, with the vehicle as the main subject up front. Seamlessly merge the real cityscape with the hand-drawn map so the road feels naturally embedded. Feature the city name in large bold lettering on the map foreground. Apply warm golden-hour light, shallow depth of field, cinematic shadows, aerial perspective, and hyper-realistic detail. Final look: a luxury travel poster crossed with a miniature diorama. Aspect ratio 1:1.
 
-Full prompt: 
+Full prompt:
 
 Create a highly detailed cinematic miniature tilt-shift travel scene of [CITY NAME] featuring a realistic [VEHICLE NAME] driving along a winding elevated road that emerges naturally from a printed vintage-style city map. The road should curve dramatically toward the background skyline and landmarks of [CITY NAME], while the vehicle remains the clear focal point in the foreground.
 
@@ -11340,7 +11811,7 @@ Vertical 9:16 aspect ratio. Create a realistic Douyin (TikTok China) live broadc
 ```
 POV shot from inside a grocery store aisle, your hands holding a vibrant mixed-fruit jam jar -- strawberry, blueberry, and orange blend. Holographic AR overlays float around it: a "Flavor Mix" panel with fruit icons, a "Nutrition Info" display, and a glowing "Freshness Meter" at 9/10. A translucent digital shopping list with checkmarks for bread and butter hovers nearby, plus recipe suggestions for toast, pancakes, and desserts. Bokeh background of store shelves and shoppers. Clean retail lighting, photorealistic, cinematic, AR glasses POV, vertical composition.
 
-Full prompt: 
+Full prompt:
 A first-person point-of-view (POV) shot inside a modern supermarket aisle. The viewer's hands are holding a mixed fruit jam jar with colorful branding, showing a blend of strawberry, blueberry, and orange flavors. Floating around the jar are sleek, semi-transparent Augmented Reality (AR) digital interfaces and holographic HUDs. The overlays display "Flavor Mix" with fruit icons, "Nutrition Info," and a glowing "Freshness Meter" reading 9/10. A digital shopping list with checkmarks for bread and butter appears beside the jar, along with small recipe suggestions like breakfast toast, pancakes, and desserts. The background shelves are slightly blurred with other products and shoppers, creating realistic depth of field. Bright, clean lighting with a futuristic retail atmosphere, ultra-realistic, cinematic look, high-tech AR glasses perspective, vertical composition.
 ```
 
@@ -13273,4 +13744,4 @@ Si tienes más casos interesantes de prompts GPT-Image-2 para compartir, no dude
 ## Historial de estrellas
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tigerowo/awesome-gpt-image-2-prompts&type=Date)](https://www.star-history.com/#tigerowo/awesome-gpt-image-2-prompts&Date)
-<!-- synced: ad_creative=542, character=541, comparison=530, ecommerce=176, portrait=546, poster=506, ui=544 -->
+<!-- synced: ad_creative=542, character=541, comparison=530, ecommerce=176, portrait=558, poster=506, ui=544 -->
