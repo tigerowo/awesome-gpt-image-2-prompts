@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: awesome-gpt-image-2-prompts
+    runtime: static
+    staticPublishPath: .
+    previews:
+      generation: automatic
+    headers:
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /images/*
+        name: Cache-Control
+        value: public, max-age=86400
