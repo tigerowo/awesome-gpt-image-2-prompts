@@ -9217,3 +9217,71 @@ The final image should feel like a premium Japanese lifestyle illustration found
 
 整体效果像一本先锋时尚杂志封面、奢侈品牌概念 campaign 或角色主题艺术企划海报。画面干净清晰，减少无必要噪点与颗粒感，粒子特效克制，手部结构自然准确，手指数量正确，比例正常，姿态合理，整体细节稳定。
 ```
+<!-- Case 423: ハイファッション・エディトリアル × サブカルチャーキャラクターのキービジュアル (by @TIGER) -->
+### Case 423: [ハイファッション・エディトリアル × サブカルチャーキャラクターのキービジュアル](#) (by @TIGER)
+
+| Output |
+| :----: |
+| <a href="../images/poster_case423/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case423/output.webp" width="300" alt="Output image"></a> |
+
+**プロンプト：**
+
+```
+高级时尚 editorial × 亚文化角色主视觉 × 独立品牌 campaign。成年女性，女仆造型，宽松黑色短上衣、深色内裤、裸腿、堆堆袜；冷淡慵懒气质。身体微后仰，腰收、骨盆前送侧倾，双腿分开、膝盖放松；单手提起衣摆，露出下腹、胯部与内裤。近距离超低机位广角仰拍，腿部强透视前景，头部相对较小，S 型身体动态。干净极简背景，杂志级摄影，少量实验排版与日英文字体。左上 T+猫 logo，右下“T”签名，T 吊牌，低调 T 纹身。画面清晰干净，人体与手部自然准确
+```
+
+<!-- Case 424: 画面から飛び出す3Dソーシャルメディア人物ポスター (by @94vanAI) -->
+### Case 424: [画面から飛び出す3Dソーシャルメディア人物ポスター](https://x.com/94vanAI/status/2068542240948097076) (by [@94vanAI](https://x.com/94vanAI))
+
+<table>
+<tr><td width="50%"><a href="../images/poster_case424/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case424/output.webp" width="100%" alt="Output image"></a></td><td width="50%"><a href="../images/poster_case424/output2.webp" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case424/output2.webp" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**プロンプト：**
+
+```
+风格：3D Pop-out Social Media Portrait 海报风格；
+
+内容：主体为来自【作品】的【角色】cosplay 写实照片人物。请根据【角色】在原作中的设定，自动还原其最具辨识度的五官气质、发型发色、瞳色、妆容、服装轮廓、标志性配色、饰品、道具与角色氛围，确保人物一眼可被识别。若提供参考图，则脸部、发型、妆容与服装细节必须严格保持与参考图一致，不改变五官、发型、妆容与衣服设计。
+
+人物坐在一个巨大的智能手机屏幕中，整体构图像日系 ins 风社交媒体个人主页界面。人物采用强烈广角透视构图，从手机画面中“突破”出来，一只手朝镜头伸出，手部有明显近大远小效果，身材傲人，腿和脚跨出手机边框，营造强烈 3D pop-out、夸张景深与冲出屏幕的视觉冲击感。
+
+手机 UI 为原创的高级社交媒体界面设计，【平台】UI界面，风格类似真实社交平台但不要直接复制任何真实平台 UI。界面包含：用户名、头像、粉丝数、Follow 按钮、帖文缩略图、点赞、评论、分享等元素。整体 UI 设计需高级、时尚、干净、精致，具有日系社交媒体个人主页氛围。
+
+背景是一个与【作品】和【角色】气质相匹配的主题房间：房间内堆满与【作品】相关的玩偶、角色周边、海报、拍立得、cosplay 照片与收藏品；墙上贴满角色写真、同人风海报、胶片照片与装饰贴纸；加入大量符合【作品】世界观的装饰元素、主题道具、花枝、漂浮花瓣、灯串、亚克力立牌、收藏柜与日式 idol 房间氛围。背景需要体现强烈粉丝房间、二次元潮流空间、梦幻收藏屋的感觉。
+
+整体色调根据【角色】的标志性配色自动匹配，并以珍珠白作为高级底色，加入角色主色、少量粉色点缀与柔和高光。整体风格融合：日系时尚、Y2K aesthetic、idol aesthetic、和风、二次元潮流感、梦幻社交媒体视觉、时尚杂志封面设计。
+
+画面要求：高级商业摄影质感、时尚杂志封面感、电影级打光、超精细皮肤质感、五官清晰、高动态范围、超高解析度、超高细节、明显景深、光影层次丰富、水晶般闪耀高光、画面通透梦幻、真实摄影棚质感、精致后期调色、photorealistic cosplay poster、masterpiece quality。
+
+镜头语言：低角度广角镜头、强烈透视、近大远小、dynamic perspective、cinematic composition，强化人物冲出手机屏幕的震撼感。人物手部、腿部、脚部与手机边框产生明显前后空间关系，手机屏幕、UI 元素、人物身体与背景房间形成多层纵深，营造极强 3D pop-out 社交媒体海报效果。
+
+避免：不要出现真实社交平台 Logo，不要直接复制真实平台 UI，不要改变【角色】核心外貌特征，不要错误服装设计，不要多余手指，不要畸形手部，不要多余肢体，不要低清晰度，不要塑料感，不要过度 AI 感，不要文字乱码，不要水印，不要字幕。
+
+【角色】：【作品】中的【角色】
+```
+
+<!-- Case 425: 二次元風の巨大タイポグラフィ＋超ローアングル＋キャラクターポスター (by @0xkyne) -->
+### Case 425: [二次元風の巨大タイポグラフィ＋超ローアングル＋キャラクターポスター](https://x.com/0xkyne/status/2097184463784742932) (by [@0xkyne](https://x.com/0xkyne))
+
+<table>
+<tr><td width="25%"><a href="../images/poster_case425/output.webp" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case425/output.webp" width="100%" alt="Output image"></a></td><td width="25%"><a href="../images/poster_case425/output2.webp" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case425/output2.webp" width="100%" alt="Output image"></a></td><td width="25%"><a href="../images/poster_case425/output3.webp" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case425/output3.webp" width="100%" alt="Output image"></a></td><td width="25%"><a href="../images/poster_case425/output4.webp" target="_blank" rel="noopener noreferrer"><img src="../images/poster_case425/output4.webp" width="100%" alt="Output image"></a></td></tr>
+</table>
+
+**プロンプト：**
+
+```
+2:3竖版，二次元艺术字体海报，现代日系平面设计感，简约、高级、醒目。人物约占画面1/3，主体艺术文字占画面1/2到2/3，画面具有强烈版式设计感与时尚海报气质。
+
+画面主体为甘雨，保留角色高度辨识度的浅蓝长发、角状发饰、冰蓝白配色、温柔安静又带一点疏离感的气质，将原本服装语言重释为高级感JK制服。服装为冰蓝与白色学院风短款外套、修身上装、精致胸饰、短裙，搭配带轻微透明感的白蓝系薄透过膝袜或大腿袜，以及精致学院风鞋履，整体轻盈、清透、优雅，带一点自然性感。人物身材高挑修长，双腿纤细笔直，腿部线条流畅，脚部精致秀气。
+
+机位采用极低机位，贴近小腿位置，从下往上仰视，形成强烈的纵深感、长腿感与角色气场。前景一条腿靠近镜头，整体透视自然，画面张力强。
+
+人物站在放学后的校园天台，身体自然站立或微微侧站，双腿自然略微向内，姿态安静、从容、轻盈，头发和裙摆被微风轻轻带起。人物视线平视远处或平视前方，神情平静柔和，带一点清冷与放空感。
+
+场景是放学后的校园天台，傍晚明亮天空，大面积留白，环境简洁，点缀少量铁丝网、栏杆、地面线条、远处教学楼轮廓，形成清爽通透的校园屋顶氛围。
+
+画面主视觉是一组超大的艺术字体，使用英文短语“BLUE HUSH”，字体夸张倾斜、窄长拉伸、轻微错位、局部切边，具有鲜明设计感。主文字大面积铺开，占据左侧到中央的大部分版面，与人物形成强烈对比和平衡。辅助小字可加入“04:37 PM”“ROOFTOP”“09.08”“AFTER SCHOOL SKY”，排版克制精致，增强杂志封面与设计海报感。
+
+整体配色采用冰蓝、雾白、淡紫蓝、少量银灰，画面明亮通透，清冷柔和，呈现安静、清爽、纯净又时尚的视觉气质。整体效果像潮流视觉海报、艺术设计作品、二次元时尚企划海报
+```
