@@ -68,6 +68,8 @@ La compatibilité avec le format d'API OpenAI standard (`/v1/images/generations`
 
 ## 📰 Actualités
 
+**14 septembre 2026 :** Ajout de 1 exemple de prompt GPT-Image-2 (1 conception de personnage), avec révision sémantique et validation des médias terminées.
+
 **12 septembre 2026 :** Ajout de 14 exemples de prompts GPT-Image-2 (3 affiches et illustrations, 10 portraits et photographies et 1 conception de personnage), avec révision sémantique et validation des médias terminées.
 
 **25 juil. 2026 :** 12 nouveaux cas de prompts GPT-Image-2 ajoutés (12 Portraits), revue sémantique et vérification multimédia terminées
@@ -10207,7 +10209,34 @@ GPT image 2 on ChatGPT 📱 Prompt: A streetwear advertisement poster. A cool te
 
 ## 🧍 Character Design Cases
 
-> **16 cas sélectionnés** — [Explorer tous les prompts de design de personnage →](cases/character.md)
+> **17 cas sélectionnés** — [Explorer tous les prompts de design de personnage →](cases/character.md)
+
+<!-- Case 573: Portrait d’expressions faciales en grille de neuf cases (by @TIGER) -->
+### Case 573: [Portrait d’expressions faciales en grille de neuf cases](#) (by @TIGER)
+
+| Resultat |
+| :----: |
+| <img src="images/character_case33/output.webp" width="300" alt="Image du resultat"> |
+
+**Prompt：**
+
+```
+基于上传参考图生成，高质量人像表情参考九宫格，严格参考图片中的人物特征，保持同一人物身份、脸型、五官比例、发型、服装、光线和整体摄影风格一致，仅改变面部表情。白色背景，正面平视镜头，胸部以上近距离肖像构图，头肩比例与参考图一致，人物面部占画面主要区域。3:4竖版比例，1536x2048，真实人像摄影，超高清细节，自然皮肤纹理，真实眼神变化
+
+生成9宫格表情变化：
+
+1.中性冷淡表情：自然闭唇，眼神平静直视镜头，轻微疏离感，淡漠高级感；
+2.温柔微笑表情：嘴角轻轻上扬，柔和浅笑，眼神温暖，甜美自然；
+3.生气不悦表情：眉头轻皱，双眼微眯，嘴唇轻抿，带有轻微愤怒感；
+4.委屈难过表情：眉毛微微下压，眼神低落，嘴角下垂，楚楚可怜；
+5.灿烂开心表情：露齿大笑，眼睛弯起，阳光明媚，充满活力；
+6.哭泣伤心表情：眼眶湿润含泪，泪光闪烁，鼻尖微红，嘴唇颤抖，强烈悲伤感；
+7.惊讶表情：眼睛睁大，瞳孔放大，嘴巴微张，震惊自然反应；
+8.皱眉生气表情：眉头紧锁，眼神锐利，鼻梁轻皱，明显不满情绪；
+9.疑惑担忧表情：眉尾上扬，眼神困惑，嘴唇微张，带一点紧张和不安。
+
+保持九张图片中的人物完全一致，仅改变面部表情和情绪状态，不改变人物外貌设定，不添加新元素，不修改五官、发型、服饰。真实摄影质感，photorealistic，ultra realistic，high detail，facial expression sheet，9 grid portrait，character consistency，emotion variations，3:4 aspect ratio，1536x2048
+```
 
 <!-- Case 561: Planche de référence de personnage en trois volets (by @johnAGI168) -->
 ### Case 561: [Planche de référence de personnage en trois volets](https://x.com/johnAGI168/status/2078089955247632740) (by [@johnAGI168](https://x.com/johnAGI168))
@@ -13848,4 +13877,4 @@ Si vous avez d'autres cas de prompts GPT-Image-2 intéressants à partager, n'h�
 ## Historique des étoiles
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tigerowo/awesome-gpt-image-2-prompts&type=Date)](https://www.star-history.com/#tigerowo/awesome-gpt-image-2-prompts&Date)
-<!-- synced: ad_creative=542, character=561, comparison=530, ecommerce=176, portrait=571, poster=572, ui=544 -->
+<!-- synced: ad_creative=542, character=573, comparison=530, ecommerce=176, portrait=571, poster=572, ui=544 -->

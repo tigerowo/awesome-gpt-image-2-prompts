@@ -9633,6 +9633,16 @@
       "case_anchor": "#case-572-二次元巨型艺术字-极低机位-角色海报-by-0xkyne",
       "image_dir": "images/poster_case425",
       "added_at": "2026-09-12T07:41:50.505Z"
+    },
+    {
+      "tweet_url": "",
+      "author_handle": "TIGER",
+      "title": "九宫格表情人像",
+      "category": "Character Design Cases",
+      "readme_file": "README.md",
+      "case_anchor": "#case-573-九宫格表情人像-by-tiger",
+      "image_dir": "images/character_case33",
+      "added_at": "2026-09-14T10:01:57.789Z"
     }
   ]
 }
